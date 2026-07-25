@@ -1,0 +1,11 @@
+# Arquivo de sessão local
+session
+
+# Obsidian: estado local da janela, não faz parte do conteúdo
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Lixo do sistema operacional
+.DS_Store
+Thumbs.db
