@@ -9,9 +9,12 @@ Requisitos:
 - `pdftotext` (pacote `poppler-utils`). Sem dependências Python.
 - Os PDFs de origem em `fontes/salmos/` e `fontes/hinos/`. Eles **não são
   versionados** (`.gitignore`) por serem binários grandes, então um clone novo
-  não os traz — sem eles, os dois scripts abaixo não rodam. O Markdown, esse
-  sim versionado, é o produto que interessa; os scripts servem para reproduzi-lo
-  e conferi-lo quando o PDF estiver à mão.
+  não os traz. O `extrair.py` depende deles. O `validar.py` não: sem o PDF ele
+  roda em modo reduzido, conferindo o texto contra o digest versionado
+  (`--sem-pdf`, abaixo).
+
+O Markdown, esse sim versionado, é a fonte editorial — é o produto que
+interessa. Os scripts servem para reproduzi-lo e conferi-lo.
 
 ## `extrair.py` — PDF → Markdown
 
@@ -51,8 +54,9 @@ um arquivo silenciosamente errado.
 ## `validar.py` — confere o Markdown contra o PDF
 
 ```bash
-python3 ferramentas/validar.py          # as duas coleções
+python3 ferramentas/validar.py            # as duas coleções, contra os PDFs
 python3 ferramentas/validar.py hinos
+python3 ferramentas/validar.py --sem-pdf  # clone sem os PDFs (CI)
 ```
 
 Sai com código != 0 se algo falhar. É o candidato natural a *status check* de
@@ -87,7 +91,52 @@ As verificações foram exercitadas com mutações deliberadas, e cada uma repro
 
 O último é o caso histórico: é o defeito que passou pelo validador antigo.
 
-## Fluxo de trabalho
+### Os dois modos: com e sem o PDF
+
+Como o PDF não é versionado, o validador roda de dois jeitos. `--sem-pdf`
+força o modo reduzido; sem a flag, ele usa o PDF se encontrar e cai no modo
+reduzido se não encontrar, dizendo qual referência está usando.
+
+| | com o PDF | `--sem-pdf` |
+| --- | :---: | :---: |
+| mesmas unidades nos dois lados | ✓ | — |
+| contagem de estrofes bate | ✓ | — |
+| sequência de versículos bate | ✓ | — |
+| estrofes `1..N` sem furo | ✓ | ✓ |
+| **integridade léxica** | contra o PDF | contra o digest |
+| invariantes de forma, números soltos | ✓ | ✓ |
+| divergências de § 8.2 presentes | ✓ | ✓ |
+| digest confere com o PDF | ✓ | — |
+
+As três que faltam são de *proveniência*: comparam estrutura com a fonte, e
+não há como fazê-las sem a fonte. Elas nunca são omitidas em silêncio — saem
+marcadas como puladas.
+
+### O digest
+
+`ferramentas/digests/{salmos,hinos}.txt` guarda o multiconjunto de palavras do
+PDF, uma linha `palavra N`, gerado por:
+
+```bash
+python3 ferramentas/validar.py --gerar-digest    # precisa dos PDFs
+```
+
+A integridade léxica já reduzia o PDF a esse `Counter` — layout, ordem e
+pontuação nunca entraram na conta. O digest só grava o que seria recalculado,
+para que a checagem continue existindo em um clone sem o PDF. A verificação é
+a mesma; muda a origem do lado direito.
+
+Ele **não é testemunha independente do PDF**, é um instantâneo: quem regenerar
+o digest junto com um Markdown corrompido passa por `--sem-pdf`. Duas coisas
+seguram isso:
+
+1. o arquivo é revisável — o diff mostra exatamente que palavras entraram ou
+   saíram (`-Senhor 147` / `+Senhor 146` é bem mais visível que a mesma perda
+   enterrada em 429 KB de Markdown);
+2. **toda rodada local confere o digest contra o PDF.** Digest desatualizado ou
+   ajustado à mão reprova na máquina de quem tem a fonte.
+
+Regenerar o digest é ato deliberado, e só se justifica quando o PDF muda.
 
 Edição normal é **no Markdown**, que é a fonte editorial. Rode `validar.py`
 antes de abrir PR.
