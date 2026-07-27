@@ -2,10 +2,33 @@
 """
 Validador dos textos cantados: confere os .md contra os PDFs de origem.
 
-    python3 ferramentas/validar.py            # tudo
-    python3 ferramentas/validar.py salmos     # so uma colecao
+    python3 ferramentas/validar.py                    # tudo
+    python3 ferramentas/validar.py salmos             # so uma colecao
+    python3 ferramentas/validar.py --sem-pdf          # clone sem os PDFs (CI)
+    python3 ferramentas/validar.py --gerar-digest     # regrava os digests
 
 Sai com codigo != 0 se algo falhar — serve como portao de CI.
+
+--------------------------------------------------------------------------
+Os dois modos
+--------------------------------------------------------------------------
+Os PDFs nao sao versionados (.gitignore), entao um clone novo nao os tem. O
+validador roda nos dois casos, com alcances diferentes:
+
+  * COM PDF (local) — tudo. E' a checagem de proveniencia: prova que o
+    Markdown e' fiel a fonte de onde saiu.
+  * SEM PDF (--sem-pdf, ou PDF ausente) — as invariantes internas do Markdown
+    mais a integridade lexica conferida contra o digest versionado em
+    ferramentas/digests/. Ficam de fora as tres checagens que comparam
+    estrutura com o PDF (unidades, contagem de estrofes, sequencia de
+    versiculos); elas sao anunciadas como puladas, nunca omitidas.
+
+O digest e' o mesmo Counter de palavras que a checagem lexica usaria, gravado
+em vez de recalculado — a verificacao nao muda, so' a origem do lado direito.
+Ele nao e' testemunha independente do PDF, e' um instantaneo: quem regenerar o
+digest junto com um Markdown corrompido passa. O que protege isso e' o digest
+ser um arquivo revisavel (o diff mostra que palavras entraram ou sairam) e ser
+conferido contra o PDF em toda rodada local.
 
 --------------------------------------------------------------------------
 Sobre a independencia deste script
@@ -39,6 +62,7 @@ import sys
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
+DIGESTS = RAIZ / "ferramentas/digests"
 ZW = "​"
 
 COLECOES = {
@@ -146,6 +170,52 @@ def palavras(s: str) -> collections.Counter:
     return collections.Counter(re.findall(r"[^\W\d_]+", s, re.UNICODE))
 
 
+def caminho_digest(colecao: str) -> Path:
+    return DIGESTS / f"{colecao}.txt"
+
+
+def gravar_digest(colecao: str, cont: collections.Counter) -> Path:
+    """Grava o multiconjunto de palavras do PDF como texto versionavel."""
+    cfg = COLECOES[colecao]
+    alvo = caminho_digest(colecao)
+    alvo.parent.mkdir(parents=True, exist_ok=True)
+    cab = (
+        f"# Digest lexico de {cfg['doc']} — o multiconjunto de palavras do PDF.\n"
+        f"#\n"
+        f"# Existe porque o PDF nao e' versionado (.gitignore, binario grande).\n"
+        f"# Com ele, `validar.py --sem-pdf` confere a integridade lexica do\n"
+        f"# Markdown num clone que nao tem o PDF — no CI, por exemplo.\n"
+        f"#\n"
+        f"# Gerado por:  python3 ferramentas/validar.py --gerar-digest {colecao}\n"
+        f"# A partir de: {cfg['pdf'].relative_to(RAIZ)}\n"
+        f"#\n"
+        f"# NAO edite a mao, e nao regenere de passagem. O diff deste arquivo\n"
+        f"# mostra exatamente que palavras entraram ou sairam do texto, e e' isso\n"
+        f"# que se revisa. Quem tem o PDF confere o digest contra ele a cada\n"
+        f"# rodada local, entao um digest desatualizado ou forjado nao passa.\n"
+        f"#\n"
+        f"# distintas: {len(cont)} | ocorrencias: {sum(cont.values())}\n"
+    )
+    alvo.write_text(cab + "".join(f"{w} {n}\n" for w, n in sorted(cont.items())),
+                    encoding="utf-8")
+    return alvo
+
+
+def ler_digest(colecao: str) -> collections.Counter | None:
+    p = caminho_digest(colecao)
+    if not p.exists():
+        return None
+    cont = collections.Counter()
+    for n, linha in enumerate(p.read_text(encoding="utf-8").splitlines(), 1):
+        if not linha.strip() or linha.startswith("#"):
+            continue
+        palavra, _, qtd = linha.rpartition(" ")
+        if not palavra or not qtd.isdigit():
+            sys.exit(f"erro: {p.relative_to(RAIZ)}:{n}: linha malformada: {linha!r}")
+        cont[palavra] = int(qtd)
+    return cont
+
+
 def aplicar_divergencias(colecao, ref):
     """Reescreve a referencia do PDF com as correcoes declaradas em § 8.2."""
     for uid, de, para in DIVERGENCIAS.get(colecao, []):
@@ -157,11 +227,9 @@ def aplicar_divergencias(colecao, ref):
     return ref
 
 
-def validar(colecao: str) -> list[str]:
+def validar(colecao: str, sem_pdf: bool = False) -> list[str]:
     cfg = COLECOES[colecao]
-    ref, corpo_pdf, capa_pdf = ler_pdf(cfg)
     md, got = ler_md(cfg)
-    ref = aplicar_divergencias(colecao, ref)
     falhas: list[str] = []
 
     def checar(cond, msg):
@@ -169,27 +237,69 @@ def validar(colecao: str) -> list[str]:
         if not cond:
             falhas.append(f"{colecao}: {msg}")
 
+    def pular(msg):
+        print(f"  -- {msg}  [pulada: exige o PDF]")
+
+    usar_pdf = not sem_pdf and cfg["pdf"].exists()
+    dig = ler_digest(colecao)
+
     print(f"\n=== {colecao} ===")
-    print(f"  unidades: PDF {len(ref)} | Markdown {len(got)}")
+    if usar_pdf:
+        ref, corpo_pdf, capa_pdf = ler_pdf(cfg)
+        ref = aplicar_divergencias(colecao, ref)
+        referencia = palavras(capa_pdf + "\n" + corpo_pdf)
+        print(f"  referencia: {cfg['pdf'].name}")
+        print(f"  unidades: PDF {len(ref)} | Markdown {len(got)}")
+    else:
+        ref, referencia = None, dig
+        porque = "--sem-pdf" if sem_pdf else f"{cfg['pdf'].name} ausente"
+        print(f"  referencia: {caminho_digest(colecao).name}  ({porque})")
+        print(f"  unidades: Markdown {len(got)}")
 
-    checar(set(ref) == set(got), "as unidades do PDF e do Markdown sao as mesmas")
+    if usar_pdf:
+        checar(set(ref) == set(got), "as unidades do PDF e do Markdown sao as mesmas")
+    else:
+        pular("as unidades do PDF e do Markdown sao as mesmas")
 
-    ruins = [u for u in ref if u in got
-             and len(got[u]["st"]) != max(len(ref[u]["st"]), 1)]
-    checar(not ruins, f"contagem de estrofes bate com o PDF  {ruins[:6]}")
+    if usar_pdf:
+        ruins = [u for u in ref if u in got
+                 and len(got[u]["st"]) != max(len(ref[u]["st"]), 1)]
+        checar(not ruins, f"contagem de estrofes bate com o PDF  {ruins[:6]}")
+    else:
+        pular("contagem de estrofes bate com o PDF")
 
     ruins = [u for u, d in got.items()
              if [int(x) for x in d["st"]] != list(range(1, len(d["st"]) + 1))]
     checar(not ruins, f"estrofes numeradas 1..N sem furo  {ruins[:6]}")
 
-    ruins = [u for u in ref if u in got and got[u]["vs"] != ref[u]["vs"]]
-    checar(not ruins, f"sequencia de versiculos bate com o PDF  {ruins[:6]}")
+    if usar_pdf:
+        ruins = [u for u in ref if u in got and got[u]["vs"] != ref[u]["vs"]]
+        checar(not ruins, f"sequencia de versiculos bate com o PDF  {ruins[:6]}")
+    else:
+        pular("sequencia de versiculos bate com o PDF")
 
-    perdidas = palavras(capa_pdf + "\n" + corpo_pdf) - palavras(md)
-    extras = palavras(md) - palavras(capa_pdf + "\n" + corpo_pdf)
-    extras.pop(cfg["doc"], None)          # o h1 do documento e' nosso
-    checar(not perdidas, f"nenhuma palavra do PDF ausente  {perdidas.most_common(5)}")
-    checar(not extras, f"nenhuma palavra inventada  {extras.most_common(5)}")
+    if referencia is None:
+        checar(False, f"digest presente em {caminho_digest(colecao).relative_to(RAIZ)} "
+                      f"(gere com: --gerar-digest {colecao})")
+    else:
+        origem = "PDF" if usar_pdf else "digest"
+        perdidas = referencia - palavras(md)
+        extras = palavras(md) - referencia
+        extras.pop(cfg["doc"], None)      # o h1 do documento e' nosso
+        checar(not perdidas, f"nenhuma palavra do {origem} ausente  {perdidas.most_common(5)}")
+        checar(not extras, f"nenhuma palavra inventada  {extras.most_common(5)}")
+
+    # O digest e' derivado do PDF, entao quem tem o PDF confere se ele continua
+    # fiel. E' o que impede um digest desatualizado — ou ajustado para acomodar
+    # uma perda de texto — de passar batido no CI, que nao tem como notar.
+    if usar_pdf:
+        if dig is None:
+            checar(False, f"digest presente em {caminho_digest(colecao).relative_to(RAIZ)} "
+                          f"(gere com: --gerar-digest {colecao})")
+        else:
+            checar(dig == referencia,
+                   f"digest confere com o PDF  faltando={(referencia - dig).most_common(3)} "
+                   f"sobrando={(dig - referencia).most_common(3)}")
 
     # --- invariantes de forma (docs/FORMATO.md § 5 e § 6) ---
     checar("```" not in md, "sem cercas de codigo residuais")
@@ -226,11 +336,31 @@ def main() -> int:
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("colecao", nargs="?", choices=sorted(COLECOES))
+    p.add_argument("--sem-pdf", action="store_true",
+                   help="nao le o PDF; confere a integridade lexica pelo digest versionado")
+    p.add_argument("--gerar-digest", action="store_true",
+                   help="regrava ferramentas/digests/*.txt a partir do PDF e sai")
     a = p.parse_args()
 
+    colecoes = [a.colecao] if a.colecao else sorted(COLECOES)
+
+    if a.gerar_digest:
+        if a.sem_pdf:
+            sys.exit("erro: --gerar-digest le o PDF; nao combina com --sem-pdf")
+        for c in colecoes:
+            cfg = COLECOES[c]
+            if not cfg["pdf"].exists():
+                sys.exit(f"erro: {cfg['pdf']} nao encontrado")
+            _, corpo, capa = ler_pdf(cfg)
+            cont = palavras(capa + "\n" + corpo)
+            alvo = gravar_digest(c, cont)
+            print(f"{alvo.relative_to(RAIZ)}: {len(cont)} distintas, "
+                  f"{sum(cont.values())} ocorrencias")
+        return 0
+
     falhas: list[str] = []
-    for c in ([a.colecao] if a.colecao else sorted(COLECOES)):
-        falhas += validar(c)
+    for c in colecoes:
+        falhas += validar(c, a.sem_pdf)
 
     print()
     if falhas:

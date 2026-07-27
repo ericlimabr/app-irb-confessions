@@ -1,0 +1,47 @@
+name: validar
+
+# Portão editorial dos textos cantados.
+#
+# O runner não tem os PDFs de origem — eles não são versionados (.gitignore).
+# Por isso `--sem-pdf`: as invariantes internas do Markdown mais a integridade
+# léxica conferida contra ferramentas/digests/. As três checagens que comparam
+# estrutura com o PDF ficam de fora, marcadas como puladas no log; elas rodam
+# na máquina de quem tem a fonte. Ver ferramentas/README.md.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+concurrency:
+  group: validar-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  textos-cantados:
+    name: textos cantados
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # Sem dependências: validar.py --sem-pdf usa só a biblioteca padrão.
+      # O pdftotext (poppler-utils) só faz falta no modo com PDF.
+      - name: validar salmos e hinos
+        run: python3 ferramentas/validar.py --sem-pdf
+
+      - name: nenhum PDF versionado
+        run: |
+          achados=$(git ls-files -- '*.pdf' '*.PDF')
+          if [ -n "$achados" ]; then
+            echo "::error::PDF versionado — os binários de origem ficam fora do repo (.gitignore):"
+            echo "$achados"
+            exit 1
+          fi
+          echo "nenhum PDF no índice."
