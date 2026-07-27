@@ -9,3 +9,7 @@ session
 # Lixo do sistema operacional
 .DS_Store
 Thumbs.db
+
+# PDFs de origem: binários grandes, ficam fora do versionamento.
+# Mantenha-os em fontes/ localmente — extrair.py e validar.py precisam deles.
+*.pdf

@@ -18,13 +18,23 @@ fontes/            textos-fonte em Markdown, por coleção
   belgic/            A Confissão Belga.md
   heidelberg/        O Catecismo de Heidelberg.md
   dort/              Os Cânones de Dort.md
+  salmos/            Salmos - letras.md   + o PDF de origem
+  hinos/             Hinos - letras.md    + o PDF de origem
 docs/              FORMATO.md (formato), CONVERSOR.md (decisões da conversão)
+ferramentas/       extrair.py (PDF → Markdown), validar.py (portão de CI)
 content/           JSON gerado pelo conversor (ainda não existe)
 ```
 
-As pastas de `fontes/` usam os identificadores de coleção do App IRB
+As pastas das três confissões usam os identificadores de coleção do App IRB
 (`belgic`, `heidelberg`, `dort`) e espelham a saída `content/{coleção}/` que o
-conversor vai gerar.
+conversor vai gerar. `salmos/` e `hinos/` ainda estão em português e **não**
+seguem essa regra — ver `docs/CONVERSOR.md` F4.
+
+Onde há PDF na pasta, ele é a **fonte de origem**: os `.md` foram extraídos
+dele e são validados contra ele. As duas pontas vivem em `ferramentas/` —
+`extrair.py` regenera o Markdown a partir do PDF, `validar.py` confere um
+contra o outro e sai com erro se divergirem. Rode `validar.py` antes de abrir
+PR.
 
 ## Os textos
 
@@ -33,6 +43,8 @@ conversor vai gerar.
 | `heidelberg` | Catecismo de Heidelberg | 129 perguntas e respostas, em 52 Dias do Senhor, sob 3 partes |
 | `belgic` | Confissão Belga (Confissão de Fé) | 37 artigos, sequência plana |
 | `dort` | Cânones de Dort | 59 artigos em 4 capítulos, com Rejeição de Erros por capítulo e Conclusão |
+| `salmos` | Salmos (saltério cantado) | 150 salmos em 283 variantes, 1.805 estrofes; Salmo 119 em 22 seções |
+| `hinos` | Hinos | 97 hinos, 333 estrofes, sob 16 seções litúrgicas; 34 com refrão |
 
 O repositório é um **vault do Obsidian** (`.obsidian/`), então pode ser aberto
 diretamente no Obsidian para leitura e edição confortáveis. Nada no fluxo
@@ -50,7 +62,7 @@ deliberadamente; não é erro de formato.
 
 Toda alteração de texto passa por **revisão editorial** antes de ser aceita.
 Correções de digitalização e desvios conhecidos ficam registrados em
-`docs/FORMATO.md` § 6 — são dívidas rastreadas, não licença para editar à vontade.
+`docs/FORMATO.md` § 8 — são dívidas rastreadas, não licença para editar à vontade.
 
 ---
 
@@ -62,10 +74,14 @@ Correções de digitalização e desvios conhecidos ficam registrados em
 2. Mantenha as convenções comuns (§ 1): um parágrafo por linha física, itálico
    com `_sublinhado_`, marcadores de nota `<sup>N</sup>`, bloco de referências
    fechando cada unidade.
-3. Respeite as diferenças por documento (§ 5) — sobretudo que os **Cânones de
+3. Respeite as diferenças por documento (§ 7) — sobretudo que os **Cânones de
    Dort** não usam marcadores `<sup>N</sup>` e trazem as referências em
    parágrafo único, não em lista numerada.
-4. Abra um PR. A revisão editorial é o portão humano de aprovação.
+4. Nos **textos cantados** (§ 5 salmos, § 6 hinos) as regras mudam: a quebra de
+   linha é conteúdo, o `<sup>N</sup>` é versículo bíblico e vem antes do trecho,
+   o `\_` marca elisão de canto — nunca o desescape — e o refrão vai em citação
+   de bloco.
+5. Abra um PR. A revisão editorial é o portão humano de aprovação.
 
 ---
 
