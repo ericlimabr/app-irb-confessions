@@ -36,6 +36,10 @@ jobs:
       - name: validar salmos e hinos
         run: python3 ferramentas/validar.py --sem-pdf
 
+      # Estrutural: nao le PDF nenhum, nem depende de decisao editorial aberta.
+      - name: validar as confissoes
+        run: python3 ferramentas/validar_confissoes.py
+
       - name: nenhum PDF versionado
         run: |
           achados=$(git ls-files -- '*.pdf' '*.PDF')

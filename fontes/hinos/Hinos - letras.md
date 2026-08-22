@@ -627,8 +627,6 @@ Perante o brilho da superna luz,
 Pois do pecado foram resgatados
 E, agora, rendem glórias a Jesus.
 
-# LOUVOR E ADORAÇÃO
-
 ## 14. SEJA LOUVADO!
 
 _Antônio Pereira de Sousa Caldas_
@@ -675,6 +673,8 @@ Atende nossas petições,
 Tu que és eterno Deus!
 Concede aos nossos corações
 Ambiente lá dos céus!
+
+# LOUVOR E ADORAÇÃO
 
 ## 16. GLÓRIA SEJA AO PAI!
 
@@ -1085,7 +1085,7 @@ Aleluia! Aleluia!
 
 ## 32. Ó DEUS, ETERNO PROTETOR
 
-_lssac Watts / Leonido Krey_
+_Isaac Watts / Leonido Krey_
 
 **1**
 Ó Deus, eterno protetor,
@@ -1257,7 +1257,7 @@ Em glória perenal.
 
 ## 37. CRER E OBSERVAR
 
-_Johnn Henry Sammis / Salomão Luiz Ginsburg_
+_John Henry Sammis / Salomão Luiz Ginsburg_
 
 **1**
 Em Jesus confiar, sua lei observar.
@@ -1288,7 +1288,7 @@ Teu querer temos gosto em cumprir.
 
 ## 38. SONDA-ME, Ó DEUS
 
-_Johnn Henry Sammis / Salomão Luiz Ginsburg_
+_John Henry Sammis / Salomão Luiz Ginsburg_
 
 **1**
 Sonda-me, ó Deus, pois vês meu coração;
@@ -2431,11 +2431,11 @@ Vive para revivermos.
 Rei, Profeta e Salvador!
 Louvem todos ao Senhor!
 Toda a terra e os altos céus
-Cantem sempre glória Deus.
+Cantem sempre glória a Deus.
 
 ## 74. QUEM É ESSE ESTRANHO INFANTE?
 
-_William Walsbam How/ João Gomes da Rocha_
+_William Walsham How/ João Gomes da Rocha_
 
 **1**
 Quem é esse estranho infante
@@ -3184,7 +3184,6 @@ Na palavra que nos dás,
 Teus ensinos, ó Jesus,
 Vem a graça, que refaz,
 E o poder da tua luz.
-Sem proposta de mudança
 
 ## 96. DESPEDE-NOS, SENHOR
 

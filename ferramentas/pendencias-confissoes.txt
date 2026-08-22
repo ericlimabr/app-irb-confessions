@@ -1,0 +1,29 @@
+# Defeitos conhecidos dos textos confessionais, um por linha:
+#
+#     documento | unidade | codigo
+#
+# 'DOCUMENTO' como unidade = achado do arquivo inteiro. Linhas com # sao
+# comentario. Gerado por:
+#
+#     python3 ferramentas/validar_confissoes.py --gravar-pendencias
+#
+# Estar aqui NAO e' absolvicao: e' o inventario do que ja' se sabe e ainda nao
+# se corrigiu, para que o portao continue acusando o que for novo. Corrigiu um
+# defeito? Regenere este arquivo — o validador reprova se uma pendencia
+# registrada deixar de ser observada, justamente para a lista nao envelhecer.
+#
+# Alguns achados sao candidatos a revisao editorial, nao erro provado. Ver a
+# nota sobre 'abreviacao-fora-da-lista' em problemas_de_referencia().
+belgic | ARTIGO 16 | chave-sem-marcador
+belgic | ARTIGO 21 | chave-sem-marcador
+belgic | ARTIGO 26 | chave-sem-marcador
+belgic | ARTIGO 30 | chave-sem-marcador
+belgic | ARTIGO 37 | chave-sem-marcador
+belgic | ARTIGO 7 | chave-sem-marcador
+belgic | ARTIGO 8 | referencia-malformada
+heidelberg | P.117 | chave-sem-marcador
+heidelberg | P.25 | chave-sem-marcador
+heidelberg | P.30 | chaves-na-mesma-linha
+heidelberg | P.30 | referencia-malformada
+heidelberg | P.47 | chave-sem-marcador
+heidelberg | P.63 | chave-sem-marcador

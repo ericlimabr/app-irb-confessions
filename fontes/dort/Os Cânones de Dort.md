@@ -54,9 +54,9 @@ At 13.48; 1Pe 2.8; Ef 1.11.
 
 ### Definição da Eleição
 
-A eleição é o propósito imutável de Deus pelo qual Ele, antes da fundação do mundo, segundo o soberano beneplácito da Sua vontade e por  pura  graça,  escolheu  para  a  salvação  em  Cristo  de  entre  toda  a raça humana, caída pela própria culpa do estado original de integridade no pecado e na perdição - um número definido de pessoas específicas, em nada melhores nem mais dignas que as outras, porém envolvidas na mesma miséria dos demais. Também desde a eternidade, Ele constituiu a Cristo como o Mediador e o Cabeça de todos os eleitos e o fundamento da salvação. Assim decretou dar a Cristo os que haveriam de ser salvos e chamá-los e trazêlos eficazmente à Sua comunhão pela Sua Palavra e Espírito. Ele decretou conceder-lhes a fé verdadeira em Cristo, os justificar, os santificar e por fim - depois de os ter preservado poderosamente na comunhão do Seu Filho - os glorificar, para a demonstração da Sua misericórdia e o louvor da riqueza da Sua graça gloriosa. Como está escrito:  Deus  nos  escolheu  em  Cristo  _"antes  da  fundação  do  mundo, para sermos santos e irrepreensíveis perante ele; e em amor nos predestinou para ele, para a adoção de filhos, por meio de Jesus Cristo, segundo o beneplácito de sua vontade, para louvor da glória de sua graça, que ele nos concedeu gratuitamente no Amado"_. E em outro lugar: _"E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou"_.
+A eleição é o propósito imutável de Deus pelo qual Ele, antes da fundação do mundo, segundo o soberano beneplácito da Sua vontade e por  pura  graça,  escolheu  para  a  salvação  em  Cristo  de  entre  toda  a raça humana, caída pela própria culpa do estado original de integridade no pecado e na perdição - um número definido de pessoas específicas, em nada melhores nem mais dignas que as outras, porém envolvidas na mesma miséria dos demais. Também desde a eternidade, Ele constituiu a Cristo como o Mediador e o Cabeça de todos os eleitos e o fundamento da salvação. Assim decretou dar a Cristo os que haveriam de ser salvos e chamá-los e trazê-los eficazmente à Sua comunhão pela Sua Palavra e Espírito. Ele decretou conceder-lhes a fé verdadeira em Cristo, os justificar, os santificar e por fim - depois de os ter preservado poderosamente na comunhão do Seu Filho - os glorificar, para a demonstração da Sua misericórdia e o louvor da riqueza da Sua graça gloriosa. Como está escrito:  Deus  nos  escolheu  em  Cristo  _"antes  da  fundação  do  mundo, para sermos santos e irrepreensíveis perante ele; e em amor nos predestinou para ele, para a adoção de filhos, por meio de Jesus Cristo, segundo o beneplácito de sua vontade, para louvor da glória de sua graça, que ele nos concedeu gratuitamente no Amado"_. E em outro lugar: _"E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou"_.
 
-Ef 1.4,11; Jo 17.2, 12, 14; Jo 6.37, 44; 1Co 1.9; Ef 1.4-6; Rm 8.30.
+Ef 1.4, 11; Jo 17.2, 12, 14; Jo 6.37, 44; 1Co 1.9; Ef 1.4-6; Rm 8.30.
 
 ## ARTIGO 8
 
@@ -78,7 +78,7 @@ Rm 8.30; Ef 1.4.
 
 ### A eleição baseia-se no beneplácito de Deus
 
-A causa dessa eleição graciosa é tão-somente o beneplácito de Deus, o qual não consiste de haver Deus escolhido de entre todas as condições possíveis umas certas qualidades ou ações dos homens como requisito para a salvação; mas consiste em que Ele, de entre a multidão dos pecadores, adotou para Sua possessão certas pessoas. Pois está escrito: _"ainda não eram os gêmeos nascidos, nem tinham praticado o bem ou o mal … e já fora dito a ela (a  Rebeca) :  O mais velho será servo do mais moço"_. E também: _"todavia, amei a Jacó, porém aborreci a Esaú"_. E ainda: _"e creram todos os que haviam sido destinados para a vida eterna"_.
+A causa dessa eleição graciosa é tão-somente o beneplácito de Deus, o qual não consiste de haver Deus escolhido de entre todas as condições possíveis umas certas qualidades ou ações dos homens como requisito para a salvação; mas consiste em que Ele, de entre a multidão dos pecadores, adotou para Sua possessão certas pessoas. Pois está escrito: _"ainda não eram os gêmeos nascidos, nem tinham praticado o bem ou o mal … e já fora dito a ela (a  Rebeca):  O mais velho será servo do mais moço"_. E também: _"todavia, amei a Jacó, porém aborreci a Esaú"_. E ainda: _"e creram todos os que haviam sido destinados para a vida eterna"_.
 
 Rm 9.11-13; Gn 25.23; Ml 1.2, 3; At 13.48.
 
@@ -110,7 +110,7 @@ A consciência e a certeza da eleição fornecem aos filhos de Deus maior  motiv
 
 ### Como se deve ensinar a eleição
 
-A doutrina da eleição divina, segundo o mui sábio conselho de Deus, foi pregada pelos profetas, pelo próprio Cristo e pelos apóstolos, tanto debaixo do Velho Testamento quanto do Novo Testamento, sendo então  registrada  por  escrito  nas  Sagradas  Escrituras.  Assim,  também hoje, essa doutrina deve ser ensinada na igreja de Deus - para qual ela  foi  particularmente  destinada  -  em  tempo  e  lugar  apropriados, com espírito criterioso, de modo reverente e santo, sem curiosa investigação nos caminhos do Altíssimo, para a glória do santíssimo nome de Deus, e para a viva consolação do Seu povo.
+A doutrina da eleição divina, segundo o mui sábio conselho de Deus, foi pregada pelos profetas, pelo próprio Cristo e pelos apóstolos, tanto debaixo do Velho Testamento quanto do Novo Testamento, sendo então  registrada  por  escrito  nas  Sagradas  Escrituras.  Assim,  também hoje, essa doutrina deve ser ensinada na igreja de Deus - para a qual ela  foi  particularmente  destinada  -  em  tempo  e  lugar  apropriados, com espírito criterioso, de modo reverente e santo, sem curiosa investigação nos caminhos do Altíssimo, para a glória do santíssimo nome de Deus, e para a viva consolação do Seu povo.
 
 At 20.27; Jó 36.23-26; Rm 11.33; 12.3; 1Co 4.6.
 
@@ -126,7 +126,7 @@ At 14.16.
 
 ### Como reagir à doutrina da reprovação
 
-Alguns ainda não discernem claramente em si mesmos uma fé viva em Cristo,  nem  confiança  firme  no  coração,  nem  boa  consciência,  nem zelo  pela  obediência  filial  e  pela  glorificação  de  Deus  por  meio  de Cristo. Apesar disso, eles usam os meios pelos quais Deus prometeu operar tais coisas em nós. Eles não devem se assustar quando se fala da reprovação, nem devem se incluir entre os reprovados. Pelo contrário, devem continuar a usar esses meios com diligência, a almejar com fervor um tempo de graça mais abundante e a esperá-lo com reverência e humildade. Há também outros que desejam se converter a Deus com seriedade, tão somente para O agradar e para serem libertos do corpo da morte, contudo não conseguem chegar até onde gostariam no caminho da piedade e da fé. Essas pessoas não deveriam ter tanto medo da doutrina da reprovação, pois Deus, que é misericordioso, prometeu que não esmagará a cana quebrada e não apagará o pavil que fumega. Há ainda outros que desprezam a Deus e ao Senhor Jesus Cristo e que se  entregam  completamente aos cuidados do mundo e às concupiscências da carne. Para esses, a doutrina da reprovação é mesmo apavorante, pois não se voltam para Deus com seriedade.
+Alguns ainda não discernem claramente em si mesmos uma fé viva em Cristo,  nem  confiança  firme  no  coração,  nem  boa  consciência,  nem zelo  pela  obediência  filial  e  pela  glorificação  de  Deus  por  meio  de Cristo. Apesar disso, eles usam os meios pelos quais Deus prometeu operar tais coisas em nós. Eles não devem se assustar quando se fala da reprovação, nem devem se incluir entre os reprovados. Pelo contrário, devem continuar a usar esses meios com diligência, a almejar com fervor um tempo de graça mais abundante e a esperá-lo com reverência e humildade. Há também outros que desejam se converter a Deus com seriedade, tão somente para O agradar e para serem libertos do corpo da morte, contudo não conseguem chegar até onde gostariam no caminho da piedade e da fé. Essas pessoas não deveriam ter tanto medo da doutrina da reprovação, pois Deus, que é misericordioso, prometeu que não esmagará a cana quebrada e não apagará o pavio que fumega. Há ainda outros que desprezam a Deus e ao Senhor Jesus Cristo e que se  entregam  completamente aos cuidados do mundo e às concupiscências da carne. Para esses, a doutrina da reprovação é mesmo apavorante, pois não se voltam para Deus com seriedade.
 
 Tg 2.26; 2Co 1.12; Rm 5.11; Fp 3.3; Rm 7.24; Is 42.3; Mt 12.20; 13.22; Hb 12.29.
 
@@ -154,7 +154,7 @@ Depois de haver explanado a verdadeira doutrina da eleição e da reprovação, 
 
 **Refutação** — Esse erro é um engano e contradiz claramente à Escritura  que  declara  não  somente  que  Deus  irá  salvar  aos  que  creem  mas também que Ele, desde a eternidade, escolheu pessoas específicas. No tempo oportuno ele concede a esses eleitos, em detrimento de outros, a fé em Cristo e a perseverança. _"Manifestei o teu nome aos homens que me deste do mundo"_ (Jo 17.6). _"E creram todos os que haviam sido destinados para a vida eterna"_ (At 13.48). _"assim como nos escolheu nele antes da fundação do mundo, para sermos santos e irrepreensíveis perante ele; e em amor"_ (Ef 1.4).
 
-**Erro 2** — Há vários tipos de eleição divina para a vida eterna. Uma é geral e indefinida, a outra é específica e definida. Esta última, por sua vez, pode ser: incompleta, revogável, duvidosa e condicional, ou então: completa, irrevogável, cabal e absoluta. Da mesma maneira que há uma eleição para a fé e, uma outra para a salvação. Assim, a eleição pode ser para a fé justificadora sem contudo ser definitiva para a salvação.
+**Erro 2** — Há vários tipos de eleição divina para a vida eterna. Uma é geral e indefinida, a outra é específica e definida. Esta última, por sua vez, pode ser: incompleta, revogável, duvidosa e condicional, ou então: completa, irrevogável, cabal e absoluta. Da mesma maneira que há uma eleição para a fé e uma outra para a salvação. Assim, a eleição pode ser para a fé justificadora sem contudo ser definitiva para a salvação.
 
 **Refutação** — Tudo isso é invenção da mente humana sem nenhuma base na Escritura. Isso corrompe a doutrina da eleição e rompe a corrente de ouro da nossa salvação: _"E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou"_ (Rm 8.30).
 
@@ -164,7 +164,7 @@ Depois de haver explanado a verdadeira doutrina da eleição e da reprovação, 
 
 **Erro 4** — A eleição para a fé depende das seguintes condições: o homem deve fazer uso da luz da natureza do modo apropriado, deve ser piedoso, humilde, manso e qualificado para a vida eterna.
 
-**Refutação** — Se  isso  fosse  verdade  a  eleição  dependeria  do  homem. Isso assemelha-se ao ensinamento de Pelágio e choca-se diretamente com ensinamento do apóstolo em Efésios 2.3-9: _"entre os quais também todos nós andamos outrora, segundo as inclinações da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos, por natureza, filhos da ira, como também os demais. Mas Deus, sendo rico em misericórdia, por causa do grande amor com que nos amou, e estando nós mortos em nossos delitos, nos deu vida juntamente com Cristo, - pela graça sois salvos, e, juntamente com ele, nos ressuscitou, e nos fez assentar nos lugares celestiais em Cristo Jesus; para mostrar, nos séculos vindouros, a suprema riqueza da sua graça, em bondade para conosco, em Cristo Jesus. Porque pela graça sois salvos, mediante a fé; e isto não vem de vós; é dom de Deus; não de obras, para que ninguém se glorie"_.
+**Refutação** — Se  isso  fosse  verdade  a  eleição  dependeria  do  homem. Isso assemelha-se ao ensinamento de Pelágio e choca-se diretamente com o ensinamento do apóstolo em Efésios 2.3-9: _"entre os quais também todos nós andamos outrora, segundo as inclinações da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos, por natureza, filhos da ira, como também os demais. Mas Deus, sendo rico em misericórdia, por causa do grande amor com que nos amou, e estando nós mortos em nossos delitos, nos deu vida juntamente com Cristo, - pela graça sois salvos, e, juntamente com ele, nos ressuscitou, e nos fez assentar nos lugares celestiais em Cristo Jesus; para mostrar, nos séculos vindouros, a suprema riqueza da sua graça, em bondade para conosco, em Cristo Jesus. Porque pela graça sois salvos, mediante a fé; e isto não vem de vós; é dom de Deus; não de obras, para que ninguém se glorie"_.
 
 **Erro 5** — A eleição incompleta e não-definitiva de pessoas específicas para a salvação dá-se com base na presciência da fé, da conversão, da santidade, da piedade que começaram ou existiram por algum tempo. A  eleição  completa  e  definitiva,  no  entanto,  ocorreu  por  causa  da presciência da perseverança na fé, da conversão, da santidade e da piedade até o fim. Esse é o mérito gracioso e evangélico pelo que o eleito é mais digno do que o não eleito. Por isso, a fé, a obediência da fé, a santidade, a piedade e a perseverança não são frutos da imutável eleição para a glória. Antes, são as condições e as causas necessárias requeridas e sabidas de antemão como concretizadas naqueles que serão eleitos integralmente.
 
@@ -232,7 +232,7 @@ Jo 3.16; 1Co 1.23; Mt 28.19; At 2.38; 16.31.
 
 ### Por que alguns não creem
 
-No entanto, muitos dos que foram chamados pelo evangelho não se arrependem nem creem em Cristo mas perecem na incredulidade. Isso não decorre por haver alguma defeito ou insuficiência no sacrifício de Cristo na cruz, mas pela própria culpa deles.
+No entanto, muitos dos que foram chamados pelo evangelho não se arrependem nem creem em Cristo mas perecem na incredulidade. Isso não decorre por haver algum defeito ou insuficiência no sacrifício de Cristo na cruz, mas pela própria culpa deles.
 
 Mt 22.14; Sl 95.11; Hb 4.6.
 
@@ -250,7 +250,7 @@ Mas aqueles que verdadeiramente creem e pela morte de Cristo são libertos e sal
 
 Pois este foi o soberano conselho de Deus o Pai que a eficácia salvadora  e  vivificante  da  preciosíssima morte do Seu Filho se estendesse a todos os eleitos. Foi da Sua graciosíssima vontade e intento conceder a  fé  justificadora  apenas  a  eles  e  assim  trazer-lhes  infalivelmente  a salvação. Isto é: Quis Deus que Cristo pelo sangue da cruz (pelo qual Ele  confirmou  a  nova  aliança)  redimisse  eficazmente  de  todo  povo, tribo, nação e língua todos aqueles - e somente aqueles - que desde a eternidade foram eleitos para a salvação e Lhe foram dados pelo Pai. Ainda quis Deus que Cristo lhes desse a fé, a qual, juntamente com outros dons salvadores do Espírito Santo, Ele lhes adquiriu pela Sua morte, para que pelo Seu sangue pudesse purificá-los de todos os seus pecados - tanto do pecado original quanto dos pecados reais cometidos antes e depois da fé - e para os guardar fielmente até o fim e finalmente os apresentar a Si mesmo em glória sem nenhuma mácula ou ruga.
 
-Jo 17.9; Ef 5.25-27; Lc 22.20; Hb 8.6; Ap 5.9; Fp 1.29; 1Jo 1.7; Jn 10.28; Ef 5.27.
+Jo 17.9; Ef 5.25-27; Lc 22.20; Hb 8.6; Ap 5.9; Fp 1.29; 1Jo 1.7; Jo 10.28; Ef 5.27.
 
 ## ARTIGO 9
 
@@ -264,21 +264,19 @@ Mt 16.18; Jo 11.52; 1Rs 19.18; Ef 5.25.
 
 Depois de haver explanado a verdadeira doutrina da morte de Cristo e da redenção do homem pela Sua morte, o Sínodo condena e rejeita os seguintes erros:
 
-**Erro 1** — Deus  Pai  ordenou  a  morte  do  Seu  Filho  na  cruz  sem  que houvesse um decreto específico e definitivo para a salvação de ninguém. Aquilo que Cristo adquiriu pela Sua morte poderia ser necessário, proveitoso e valioso, e poderia permanecer em todas as sua partes completo, perfeito e intacto, mesmo que a redenção adquirida por Ele jamais fosse aplicada a ninguém.
+**Erro 1** — Deus  Pai  ordenou  a  morte  do  Seu  Filho  na  cruz  sem  que houvesse um decreto específico e definitivo para a salvação de ninguém. Aquilo que Cristo adquiriu pela Sua morte poderia ser necessário, proveitoso e valioso, e poderia permanecer em todas as suas partes completo, perfeito e intacto, mesmo que a redenção adquirida por Ele jamais fosse aplicada a ninguém.
 
-**Refutação** — Tal doutrina ofende a sabedoria de Deus e aos méritos de Jesus Cristo e é contrária à Escritura. Pois o nosso Salvador diz: _"dou a minha vida pelas ovelhas ... eu as conheço"_ (Jo 10.15, 27). E o profeta
-
-Isaías, referindo-se ao Salvador, diz: _"quando der ele a sua alma como oferta pelo pecado, verá a sua posteridade e prolongará os seus dias; e a vontade do Senhor prosperará nas suas mãos"_ (Is 53.10). Por fim, esse erro contradiz o artigo de fé que se refere à igreja cristã universal.
+**Refutação** — Tal doutrina ofende a sabedoria de Deus e aos méritos de Jesus Cristo e é contrária à Escritura. Pois o nosso Salvador diz: _"dou a minha vida pelas ovelhas ... eu as conheço"_ (Jo 10.15, 27). E o profeta Isaías, referindo-se ao Salvador, diz: _"quando der ele a sua alma como oferta pelo pecado, verá a sua posteridade e prolongará os seus dias; e a vontade do Senhor prosperará nas suas mãos"_ (Is 53.10). Por fim, esse erro contradiz o artigo de fé que se refere à igreja cristã universal.
 
 **Erro 2** — O propósito da morte de Cristo não foi que Ele confirmasse o novo pacto de graça pelo Seu sangue, mas tão-somente que adquirisse para o Pai o mero direito de estabelecer uma vez mais com o homem a aliança que Lhe agradasse, fosse ela de graça ou de obras.
 
-**Refutação** — Isso  milita  contra  a  Escritura  que  ensina  que  Cristo  se tornou o Fiador e o Mediador de uma superior aliança, isso é, de uma nova aliança; ensina também que um testamento só passa a vigorar com a morte (Hb 7.22, 9:15, 17).
+**Refutação** — Isso  milita  contra  a  Escritura  que  ensina  que  Cristo  se tornou o Fiador e o Mediador de uma superior aliança, isso é, de uma nova aliança; ensina também que um testamento só passa a vigorar com a morte (Hb 7.22; 9.15, 17).
 
 **Erro 3** — Cristo, por meio da Sua satisfação, na verdade não mereceu para ninguém nem a salvação mesma nem a fé pela qual é possível se apropriar eficazmente dessa satisfação de Cristo para a salvação. Ele conquistou para o Pai apenas a autoridade ou a vontade perfeita de tratar novamente com o homem e de prescrever novas condições conforme a Sua vontade. Depende entretanto do livre arbítrio do homem para preencher estas condições. Seria possível, portanto, que ou nenhum ou todos os homens preenchessem tais condições.
 
 **Refutação** — Aqueles  que  ensinam  esse  erro  desprezam  a  morte  de Cristo, não reconhecem de maneira nenhuma o mais importante fruto ou benefício dela, e trazem novamente do inferno o erro pelagiano.
 
-**Erro 4** — A nova aliança da graça que Deus o Pai fez com homem, pela mediação da morte de Cristo, não consiste em que somos justificados diante de Deus e salvos pela fé, visto que aceita o mérito de Cristo. Mas consiste no fato de que Deus revogou a exigência da perfeita obediência à lei e que considera a própria fé e a obediência da fé, embora imperfeitas, como a perfeita obediência à lei; e Ele, graciosamente, as considera dignas da recompensa da vida eterna.
+**Erro 4** — A nova aliança da graça que Deus o Pai fez com o homem, pela mediação da morte de Cristo, não consiste em que somos justificados diante de Deus e salvos pela fé, visto que aceita o mérito de Cristo. Mas consiste no fato de que Deus revogou a exigência da perfeita obediência à lei e que considera a própria fé e a obediência da fé, embora imperfeitas, como a perfeita obediência à lei; e Ele, graciosamente, as considera dignas da recompensa da vida eterna.
 
 **Refutação** — Essa  doutrina  contradiz  a  Escritura:  _"sendo  justificados gratuitamente, por sua graça, mediante a redenção que há em Cristo Jesus, a quem Deus propôs, no seu sangue, como propiciação, mediante a fé"_ (Rm 3.24, 25). Aqueles que ensinam esse erro proclamam, como fizera o ímpio Socinus, uma nova e estranha justificação do homem diante de Deus, contrário ao consenso de toda a igreja.
 
@@ -334,13 +332,13 @@ Rm 1.19, 20; 2.14, 15; 1.18, 20.
 
 Aquilo que se afirma da luz da natureza também é válido para os Dez Mandamentos dados por Deus através de Moisés, particularmente aos judeus. Embora a lei revele a grandeza do pecado e convença cada vez mais o homem da sua culpa, ainda assim não lhe aponta a cura nem lhe dá poder para se erguer e sair das suas misérias. Antes, enfraquecida  pela  carne,  a  lei  deixa  o  transgressor  debaixo  de  maldição.  Por essa causa, o homem não pode obter a graça salvadora através da lei.
 
-Rm 3.19, 20; 7:10.13; 8.3; 2Co 3.6, 7.
+Rm 3.19, 20; 7.10-13; 8.3; 2Co 3.6, 7.
 
 ## ARTIGO 6
 
 ### A necessidade do evangelho
 
-Portanto, aquilo que nem a luz da natureza nem a lei pode fazer, Deus realiza pelo poder do Espírito Santo através da palavra ou ministério da reconciliação: o evangelho do Messias, pelo qual agradou a Deus salvar aos que creem tanto na antiga quanto da nova dispensação.
+Portanto, aquilo que nem a luz da natureza nem a lei pode fazer, Deus realiza pelo poder do Espírito Santo através da palavra ou ministério da reconciliação: o evangelho do Messias, pelo qual agradou a Deus salvar aos que creem tanto na antiga quanto na nova dispensação.
 
 2Co 5.18, 19; 1Co 1.21.
 
@@ -350,7 +348,7 @@ Portanto, aquilo que nem a luz da natureza nem a lei pode fazer, Deus realiza pe
 
 Na velha dispensação Deus revelou a uns poucos esse mistério da Sua vontade. Na nova dispensação, no entanto, Ele não considerou os povos de modo diferente e o revelou a um número muito maior de pessoas. Não se deve atribuir a causa dessa distribuição do evangelho ao mérito de um povo sobre o outro, nem ao melhor uso da luz da natureza, mas ao beneplácito soberano e ao amor imerecido de Deus. Por essa causa, nós, a quem se concedeu uma tão grande graça, superior e contrária a tudo o que merecemos, devemos reconhecê-la de coração humilde e grato. Mas, quanto àqueles a quem tal graça não é dada, devemos adorar com o apóstolo a severidade e a justiça dos juízos  de Deus, sem de modo algum investigá-los inquisitiva e curiosamente.
 
-Ef 1.9; 2:14; Cl 3.11; Rm 2.11; Mt 11.26; Rm 11.22, 23; Ap 16.7; Dt 29.29.
+Ef 1.9; 2.14; Cl 3.11; Rm 2.11; Mt 11.26; Rm 11.22, 23; Ap 16.7; Dt 29.29.
 
 ## ARTIGO 8
 
@@ -366,7 +364,7 @@ Is 55.1; Mt 22.4; Ap 22.17; Jo 6.37; Mt 11.28, 29.
 
 Não é culpa do Evangelho - nem do Cristo oferecido pelo Evangelho, nem de Deus, que os chama pelo Evangelho e quem até mesmo lhes concede vários dons - que muitos dos que são chamados pelo ministério do Evangelho não vêm nem são convertidos. A culpa está neles mesmos. Alguns deles não se importam com a palavra da vida nem a aceitam. Outros de fato a recebem, mas não a aceitam em seus corações,  e  logo  retrocedem  depois  que  desaparece  a  alegria  de  uma  fé temporária. Há ainda daqueles que sufocam a semente da Palavra com os espinhos dos cuidados e dos prazeres desse mundo e que não produzem nenhum fruto. É esse o ensino do nosso Salvador na parábola da semeadura em Mateus 13.
 
-Mt 11.20-24; 22:1-8; 23:37.
+Mt 11.20-24; 22.1-8; 23.37.
 
 ## ARTIGO 10
 
@@ -390,7 +388,7 @@ Hb 6.4, 5; 1Co 2.10-14; Hb 4.12; At 16.14; Dt 30.6; Ez 11.19; 36.26; Mt 7.18.
 
 Esta conversão é aquela regeneração, nova criação, ressurgir dos mortos, vivificação, tão exaltada nas Escrituras, a qual Deus opera em nós a despeito de nós. Essa regeneração, contudo, não se realiza de modo algum pelo ensino exterior, pela persuasão moral ou por um modo tal de operação que, após ter Deus feito a Sua parte, fica a critério do homem o regenerar-se ou não, o converter-se ou não. É, portanto, claramente uma obra sobrenatural,  poderosíssima,  e  ao  mesmo  tempo  a mais deleitosa, maravilhosa, misteriosa e indizível. Segundo a Escritura, inspirada pelo Autor dessa obra, a regeneração não é inferior em poder  à  criação  ou  à  ressurreição  dos  mortos.  Por  essa  razão  todos aqueles  em  cujos  corações  Deus  opera  desse  modo  maravilhoso  são com certeza, infalível e eficazmente regenerados e creem de fato. A vontade assim restaurada não é apenas alvo da ação e da restauração de  Deus,  mas,  sob  o  agir  de  Deus,  ela  também  age.  Assim,  por  essa causa, diz-se com justiça que o homem crê e se arrepende mediante a graça que recebeu.
 
-Jo 3.3; 2Co 4.6; 5:17; Ef 5.14; Jo 5.25; Rm 4.17; Fp 2.13.
+Jo 3.3; 2Co 4.6; 5.17; Ef 5.14; Jo 5.25; Rm 4.17; Fp 2.13.
 
 ## ARTIGO 13
 
@@ -412,9 +410,9 @@ Ef 2.8; Fp 3.13.
 
 ### A atitude correta quanto à graça imerecida de Deus
 
-Deus não deve tal graça a ninguém. O que poderia Deus dever ao homem? Quem foi que primeiro deu a Ele, para ser por Ele ressarcido? Que poderia Deus dever a quem nada tem, a não ser pecado e falsidade? Portanto, aquele que recebe essa graça deve e rende eternamente ação de graças somente a Deus. Mas quem não recebe essa graça, não tem  o  menor  interesse  por  essas  coisas  espirituais  e  está  satisfeito com o que possui, ou ufana-se com falsa segurança de ter aquilo que não possui. Além disso, quanto aos que professam externamente a sua fé e corrigem as suas vidas devemos julgar e falar da forma mais favorável, segundo o exemplo dos apóstolos, pois não conhecemos o íntimo recôndito do coração; quanto aos que ainda não foram chamados, devemos  orar  a  Deus  em  favor  deles  -  pois  Deus  é  quem  chama  à existência às coisas que não existem; quanto a nós, não devemos jamais nos vangloriar, como se nos colocássemos acima dos outros.
+Deus não deve tal graça a ninguém. O que poderia Deus dever ao homem? Quem foi que primeiro deu a Ele, para ser por Ele ressarcido? Que poderia Deus dever a quem nada tem, a não ser pecado e falsidade? Portanto, aquele que recebe essa graça deve e rende eternamente ação de graças somente a Deus. Mas quem não recebe essa graça, não tem  o  menor  interesse  por  essas  coisas  espirituais  e  está  satisfeito com o que possui, ou ufana-se com falsa segurança de ter aquilo que não possui. Além disso, quanto aos que professam externamente a sua fé e corrigem as suas vidas devemos julgar e falar da forma mais favorável, segundo o exemplo dos apóstolos, pois não conhecemos o íntimo recôndito do coração; quanto aos que ainda não foram chamados, devemos  orar  a  Deus  em  favor  deles  -  pois  Deus  é  quem  chama  à existência as coisas que não existem; quanto a nós, não devemos jamais nos vangloriar, como se nos colocássemos acima dos outros.
 
-Rm 11.35; Am 6.1; Jr 7.4; Rm 14.10; 4:17; 1Co 4.7.
+Rm 11.35; Am 6.1; Jr 7.4; Rm 14.10; 4.17; 1Co 4.7.
 
 ## ARTIGO 16
 
@@ -450,7 +448,7 @@ Depois de haver explanado a verdadeira doutrina da corrupção do homem e a sua 
 
 **Erro 4** — O homem não-regenerado não está realmente nem completamente morto em pecados, nem privado de toda capacidade para realizar o bem espiritual. Ele ainda é capaz de sentir fome e sede de justiça e de vida, e de oferecer o sacrifício de um espírito contrito e quebrantado que agrada a Deus.
 
-**Refutação** — Essas declarações conflitam com o claro testemunho da Escritura: _"Ele vos deu vida, estando vós mortos nos vossos delitos e pecados"_ (Ef 2.1, 5). E: _"era continuamente mau todo desígnio do coração do homem"_ (Gn 6.5 e 8.21). Além disso, somente os regenerados e os bem-aventurados é que têm fome e sede de libertação da miséria e da vida, e oferecem a Deus o sacrifício de um espírito quebrantado (Sl 51.19 e Mt 5.6).
+**Refutação** — Essas declarações conflitam com o claro testemunho da Escritura: _"Ele vos deu vida, estando vós mortos nos vossos delitos e pecados"_ (Ef 2.1, 5). E: _"era continuamente mau todo desígnio do coração do homem"_ (Gn 6.5; 8.21). Além disso, somente os regenerados e os bem-aventurados é que têm fome e sede de libertação da miséria e da vida, e oferecem a Deus o sacrifício de um espírito quebrantado (Sl 51.19; Mt 5.6).
 
 **Erro 5** — O homem corrompido e natural bem pode usar da graça comum (que para os Arminianos é a luz da natureza) ou dos dons ainda remanescentes nele depois da queda, e pode conquistar gradualmente pelo bom uso que faz deles uma graça maior, isto é, a graça evangélica ou salvadora, e a salvação em si mesma. Deste modo, Deus, por Sua vez, mostra-se pronto a revelar Cristo a todo homem, porque a todos Ele  administra,  suficiente  e  eficazmente,  os  meios  necessários  para que conheçam a Cristo, pela fé e arrependimento.
 
@@ -458,13 +456,11 @@ Depois de haver explanado a verdadeira doutrina da corrupção do homem e a sua 
 
 **Erro 6** — Na verdadeira conversão do homem, Deus não pode lhe infundir na vontade nenhuma nova natureza, capacidade ou dom. Por causa disso a fé, pela qual somos convertidos a princípio e por que somos chamados de crentes, não é uma qualidade nem um dom concedido por Deus, mas apenas um ato do homem. Não pode ser chamada de dom, exceto se for quanto à capacidade de se alcançar essa fé.
 
-**Refutação** — Esse ensino contradiz as Sagradas Escrituras que declaram que Deus infunde as novas naturezas da fé, da obediência e da consciência do Seu amor em nossos corações: _"Na mente, lhes imprimirei as minhas leis, também no coração lhas inscreverei"_ (Jr 31.33). E: _"derramarei  água  sobre  o  sedento  e  torrentes,  sobre  a  terra  seca"_  (Is 44.3). E: _"o amor de Deus é derramado em nosso coração pelo Espírito Santo,  que  nos  foi  outorgado"_  (Rm  5.5).  Isso  também  conflita  com  a prática permanente da igreja, que ora pela boca do profeta: _"converteme, e serei convertido"_ (Jr 31.18).
+**Refutação** — Esse ensino contradiz as Sagradas Escrituras que declaram que Deus infunde as novas naturezas da fé, da obediência e da consciência do Seu amor em nossos corações: _"Na mente, lhes imprimirei as minhas leis, também no coração lhas inscreverei"_ (Jr 31.33). E: _"derramarei  água  sobre  o  sedento  e  torrentes,  sobre  a  terra  seca"_  (Is 44.3). E: _"o amor de Deus é derramado em nosso coração pelo Espírito Santo,  que  nos  foi  outorgado"_  (Rm  5.5).  Isso  também  conflita  com  a prática permanente da igreja, que ora pela boca do profeta: _"converte-me, e serei convertido"_ (Jr 31.18).
 
 **Erro 7** — A graça pela qual somos convertidos a Deus não passa de um aviso gentil. Esse modo de avisar é o mais nobre modo do homem se converter e está em máxima harmonia com a sua natureza. Não há razão para que tal graça persuasiva não seja suficiente para tornar espiritual o homem natural. Na verdade, Deus não opera o consentimento da vontade senão mediante essa persuasão moral. O poder da operação divina é superior à operação de Satanás, pois Deus promete bens eternos, e Satanás apenas bens temporais.
 
-**Refutação** — Isso é pelagianismo puro e contrário a toda a Escritura, a qual ensina, além dessa persuasão moral, um outro modo mais poderoso  e  divino  de  ação  do  Espírito  Santo  na  conversão  do  homem:
-
-_"Dar-vos-ei coração novo e porei dentro de vós espírito novo; tirarei de vós o coração de pedra e vos darei coração de carne"_ (Ez 36.26).
+**Refutação** — Isso é pelagianismo puro e contrário a toda a Escritura, a qual ensina, além dessa persuasão moral, um outro modo mais poderoso  e  divino  de  ação  do  Espírito  Santo  na  conversão  do  homem: _"Dar-vos-ei coração novo e porei dentro de vós espírito novo; tirarei de vós o coração de pedra e vos darei coração de carne"_ (Ez 36.26).
 
 **Erro 8** — Na regeneração do homem Deus não faz uso dos poderes da Sua onipotência para, de modo forçoso e infalível, submeter a vontade humana  à  fé  e  à  conversão.  Ainda  que  sejam  consumadas  todas  as obras da graça que Deus emprega para converter o homem, ainda que Deus tenha a intenção e a vontade de regenerar o homem, mesmo assim, ele ainda poderá resistir a Deus e ao Espírito Santo - e de fato assim o faz geralmente - de modo a impedir completamente a sua regeneração. Portanto, ainda está no poder do homem ser ou não regenerado.
 
@@ -512,7 +508,7 @@ Ef 1.19; Mt 26.41; 1Ts 5.6, 17; 2Sm 11; Mt 26.
 
 ### As consequências desses graves pecados
 
-Eles,  no  entanto,  por  causa  desses  pecados grosseiros ofendem profundamente a Deus, tornam-se culpados de morte, entristecem o Espírito Santo, suspendem o exercício da fé, ferem gravamente as suas consciências, e algumas vezes perdem o senso do favor de Deus - até que voltem ao reto caminho sinceramente arrependidos e a face paternal de Deus volte a brilhar sobre eles.
+Eles,  no  entanto,  por  causa  desses  pecados grosseiros ofendem profundamente a Deus, tornam-se culpados de morte, entristecem o Espírito Santo, suspendem o exercício da fé, ferem gravemente as suas consciências, e algumas vezes perdem o senso do favor de Deus - até que voltem ao reto caminho sinceramente arrependidos e a face paternal de Deus volte a brilhar sobre eles.
 
 2Sm 12; Ef 4.30; Sl 32.3-5; Nm 6.25.
 
@@ -520,7 +516,7 @@ Eles,  no  entanto,  por  causa  desses  pecados grosseiros ofendem profundament
 
 ### Deus não permitirá que os Seus eleitos se percam
 
-Pois Deus, que é rico em misericórdia, segundo o Seu propósito imutável de eleição, não retira completamente o Seu Espírito Santo dos que lhe pertencem, mesmo na sua deplorável queda. Tampouco permite que se afundem tanto a ponto de caírem da graça da adoção e do estado de justificação ou, que cometam o pecado para a morte - isto é, o pecado contra o Espírito Santo - e que, totalmente abandonados por Ele, se lancem na ruína eterna.
+Pois Deus, que é rico em misericórdia, segundo o Seu propósito imutável de eleição, não retira completamente o Seu Espírito Santo dos que lhe pertencem, mesmo na sua deplorável queda. Tampouco permite que se afundem tanto a ponto de caírem da graça da adoção e do estado de justificação ou que cometam o pecado para a morte - isto é, o pecado contra o Espírito Santo - e que, totalmente abandonados por Ele, se lancem na ruína eterna.
 
 Ef 1.11; 2.4; Sl 51.13; Gl 4.5; 1Jo 5.16-18; Mt 12.31, 32.
 
@@ -568,7 +564,7 @@ A Escritura, no entanto, testifica que os crentes enquanto nessa vida têm que l
 
 ### Esta certeza é um estímulo à piedade
 
-Esta certeza de perseverança, longe de tornar os crentes verdadeiros em orgulhosos e acomodados, é antes a verdadeira raiz da humildade, da reverência filial, da piedade genuína, da resistência em todo combate, das orações fervorosas, da perseverança no sofrimento e na confissão da verdade, e da duradoura alegria em Deus. Além disso, a reflexão sobre esses benefício é para eles um incentivo à séria e constante prática da gratidão e das boas-obras, como evidencia o testemunho da Escritura e os exemplos dos santos.
+Esta certeza de perseverança, longe de tornar os crentes verdadeiros em orgulhosos e acomodados, é antes a verdadeira raiz da humildade, da reverência filial, da piedade genuína, da resistência em todo combate, das orações fervorosas, da perseverança no sofrimento e na confissão da verdade, e da duradoura alegria em Deus. Além disso, a reflexão sobre esses benefícios é para eles um incentivo à séria e constante prática da gratidão e das boas-obras, como evidencia o testemunho da Escritura e os exemplos dos santos.
 
 Rm 12.1; Sl 56.12, 13; 116.12; Tt 2.11-14; 1Jo 3.3.
 
@@ -602,9 +598,7 @@ Depois de haver explanado a verdadeira doutrina da perseverança dos santos, o S
 
 **Erro 1** — A perseverança dos verdadeiros crentes não é fruto da eleição  nem  um  dom  de  Deus  obtido  pela  morte  de  Cristo,  mas  é  uma condição da nova aliança que o homem tem a obrigação de cumprir pelo seu livre-arbítrio antes da sua assim chamada eleição e justificação decisivas.
 
-
-
-**Refutação** — A Sagrada Escritura testifica que a perseverança segue-se à eleição e é concedida ao eleito pela virtude da morte, ressurreição e intercessão de Cristo: _"mas a eleição o alcançou; e os mais foram endurecidos"_ (Rm 11.7). E também: _"Aquele que não poupou o seu próprio Filho, antes, por todos nós o entregou, porventura, não nos dará graciosamente com ele todas as coisas? Quem intentará acusação contra os elietos de Deus? É Deus quem os justifica. Quem os condenará? É Cristo Jesus  quem  morreu  ou,  antes,  quem  ressuscitou,  o  qual  está  à  direita  de Deus e também intercede por nós. Quem nos separará do amor de Cristo?"_ (Rm 8.32-35).
+**Refutação** — A Sagrada Escritura testifica que a perseverança segue-se à eleição e é concedida ao eleito pela virtude da morte, ressurreição e intercessão de Cristo: _"mas a eleição o alcançou; e os mais foram endurecidos"_ (Rm 11.7). E também: _"Aquele que não poupou o seu próprio Filho, antes, por todos nós o entregou, porventura, não nos dará graciosamente com ele todas as coisas? Quem intentará acusação contra os eleitos de Deus? É Deus quem os justifica. Quem os condenará? É Cristo Jesus  quem  morreu  ou,  antes,  quem  ressuscitou,  o  qual  está  à  direita  de Deus e também intercede por nós. Quem nos separará do amor de Cristo?"_ (Rm 8.32-35).
 
 **Erro 2** — Deus  verdadeiramente  supre  o  crente  de  força  suficiente para  perseverar,  e  está  pronto  para  preservá-la  nele  se  ele  cumprir suas obrigações. Mas mesmo estando prontas todas aquelas coisas necessárias à perseverança na fé, e que Deus usará para preservar a fé, ainda  assim  sempre  depende  do  arbítrio  do  homem  perseverar,  ou não, na fé.
 
@@ -616,7 +610,7 @@ Depois de haver explanado a verdadeira doutrina da perseverança dos santos, o S
 
 **Erro 4** — Crentes verdadeiramente regenerados podem cometer o pecado que leva à morte, isto é, o pecado contra o Espírito Santo.
 
-**Refutação** — O mesmo apóstolo João, depois de haver falado daqueles que cometem o pecado que leva à morte e de proibir que se ore por eles  (1Jo  5.16-17),  acrescenta  imediatamente  (v.18):  _"Sabemos  que todo aquele que é nascido de Deus não vive em pecado (isto é, neste tipo específico de pecado) ;  antes, Aquele que nasceu de Deus o guarda, e o Maligno não lhe toca"_.
+**Refutação** — O mesmo apóstolo João, depois de haver falado daqueles que cometem o pecado que leva à morte e de proibir que se ore por eles  (1Jo  5.16-17),  acrescenta  imediatamente  (v.18):  _"Sabemos  que todo aquele que é nascido de Deus não vive em pecado (isto é, neste tipo específico de pecado);  antes, Aquele que nasceu de Deus o guarda, e o Maligno não lhe toca"_.
 
 **Erro 5** — Sem uma revelação especial, jamais podemos ter nesta vida a certeza da perseverança futura.
 
@@ -632,17 +626,15 @@ Depois de haver explanado a verdadeira doutrina da perseverança dos santos, o S
 
 **Erro 8** — Não é absurdo que alguém, tendo perdido a sua primeira regeneração, seja novamente e até frequentemente nascido de novo.
 
-
-
 **Refutação** — Essa  doutrina  nega  que  a  semente  de  Deus,  pela  qual nascemos  de  novo,  seja  imperecível,  e  contraria  o  testemunho  do apóstolo  Pedro:  _"pois  fostes  regenerados  não  de  semente  corruptível, mas de incorruptível"_ (1Pe 1.23).
 
 **Erro 9** — Cristo jamais orou em nenhuma parte para que os crentes perseverassem infalivelmente na fé.
 
-**Refutação** — Isso  contradiz  o  próprio  Cristo,  que  disse:  _"Eu,  porém, roguei por ti (Simão) , para que a tua fé não desfaleça"_ (Lc 22.32). Também contraria o apóstolo João o qual declara que Cristo não orou penas  pelos  apóstolos,  mas  também  por  todos  aqueles  que  viessem  a crer pela palavra deles: _"Pai santo, guarda-os em teu nome"_,  e:  _"Não peço que os tires do mundo, e sim que os guardes do mal"_ (Jo 17.11, 15, 20).
+**Refutação** — Isso  contradiz  o  próprio  Cristo,  que  disse:  _"Eu,  porém, roguei por ti (Simão), para que a tua fé não desfaleça"_ (Lc 22.32). Também contraria o apóstolo João o qual declara que Cristo não orou apenas  pelos  apóstolos,  mas  também  por  todos  aqueles  que  viessem  a crer pela palavra deles: _"Pai santo, guarda-os em teu nome"_,  e:  _"Não peço que os tires do mundo, e sim que os guardes do mal"_ (Jo 17.11, 15, 20).
 
 # CONCLUSÃO
 
-Esta  é  a  declaração  clara,  simples  e  sincera  da  doutrina  ortodoxa quanto aos Cinco Artigos de Fé disputados nos Paises Baixos; e esta é a rejeição dos erros pelos quais as igrejas foram perturbadas, por algum tempo. O Sínodo julga que as presentes declarações e rejeições estão de acordo com a Palavra de Deus e com as confissões das Igrejas Reformadas.  Tornando-se,  por  isso,  evidente  que  alguns  agiram  de modo demasiado imprópria e contrário a toda a verdade, equidade e amor, desejando persuadir o povo do seguinte:
+Esta  é  a  declaração  clara,  simples  e  sincera  da  doutrina  ortodoxa quanto aos Cinco Artigos de Fé disputados nos Países Baixos; e esta é a rejeição dos erros pelos quais as igrejas foram perturbadas, por algum tempo. O Sínodo julga que as presentes declarações e rejeições estão de acordo com a Palavra de Deus e com as confissões das Igrejas Reformadas.  Tornando-se,  por  isso,  evidente  que  alguns  agiram  de modo demasiado impróprio e contrário a toda a verdade, equidade e amor, desejando persuadir o povo do seguinte:
 
 1. Que a doutrina das Igrejas Reformadas no tocante à predestinação e aos demais pontos relacionados a ela, por seu caráter e tendência, desvia os corações dos homens de toda a piedade e religião;
 2. Que ela é um ópio para a carne, ministrado pelo diabo, bem como uma fortaleza para Satanás onde, à espreita de todos, fere multidões e atinge mortalmente a muitos com os dardos tanto do desespero quanto da falsa segurança;
@@ -650,6 +642,6 @@ Esta  é  a  declaração  clara,  simples  e  sincera  da  doutrina  ortodoxa q
 4. Que leva à negligência espiritual ao fazer as pessoas crerem que nada pode impedir a salvação dos eleitos, não importando como vivam, e que, por essa causa, eles podem cometer em segurança os crimes mais atrozes. Por outro lado, ela nada pode fazer em favor da salvação dos reprovados, nem mesmo que eles tivessem realizado todas as obras dos santos;
 5. Que a mesma doutrina ensina que Deus predestinou e criou a maior parte da humanidade para a condenação eterna, por um mero ato arbitrário da sua vontade, sem levar em consideração nenhum pecado;
 6. Que da mesma maneira por que a eleição é a fonte e a causa da fé e das boas obras, a reprovação é a causa da incredulidade e da impiedade;
-7. Que muitos filhos inocentes de pais crentes são arrancados do seio de suas mães e lançados de modo tirânico no inferno, de tal sorte que nem o sangue de Cristo, nem o batismo, nem as orações da igreja no ato do batismo lhes podem ser de qualquer proveito
+7. Que muitos filhos inocentes de pais crentes são arrancados do seio de suas mães e lançados de modo tirânico no inferno, de tal sorte que nem o sangue de Cristo, nem o batismo, nem as orações da igreja no ato do batismo lhes podem ser de qualquer proveito.
 
 E ainda há muitos outros ensinamentos desse tipo que as Igrejas Reformadas não apenas não confessam mas que até mesmo detestam de todo o coração. Este Sínodo de Dort, portanto, conclama em nome do Senhor a todos quantos  piedosamente  invocam  o  nosso  Salvador  Jesus  Cristo,  que não julguem a fé das Igrejas Reformadas a partir de calúnias ajuntadas daqui  e  dali;  nem  tampouco  pelas  declarações  pessoais  de  alguns mestres, modernos ou antigos, muitas vezes citados em má-fé, ou tirados do contexto e explicados de modo contrário ao seu verdadeiro sentido.  Mas  deve-se  julgar  a  fé  das  Igrejas  Reformadas  pelas  Confissões públicas dessas igrejas e pela presente explanação da doutrina ortodoxa, confirmada pelo consenso unânime e individual dos membros de todo o Sínodo. Além disso, o Sínodo adverte aos próprios caluniadores que considerem quão severo é o julgamento de Deus que aguarda aos que dão falso testemunho contra tantas igrejas e suas Confissões, que conturbam a consciência dos fracos e que tentam colocar sob suspeita, aos olhos de muitos, a comunidade dos verdadeiros crentes. Finalmente, este Sínodo exorta a todos os co-ministros do evangelho de Cristo a se conduzirem em santo temor e reverência diante de Deus quando lidarem com esta doutrina em escolas e igrejas. Que ao ensiná-la, tanto pela palavra falada quanto escrita, devem procurar a glória  do  nome  de  Deus,  a  santidade  de  vida  e  a  consolação  das  almas aflitas. Seus pensamentos e palavras sobre a doutrina devem estar em concordância com a Escritura, segundo a analogia da fé. E devem se abster de usar todas aquelas expressões que ultrapassam os limites do verdadeiro sentido das Escrituras Sagradas para não dar aos frívolos sofistas uma boa oportunidade de caluniar ou zombar da doutrina das Igrejas Reformadas. Que o Senhor Jesus Cristo, o Filho de Deus, que está assentado à destra do Pai e concede os seus dons aos homens, nos santifique na verdade; que Ele traga à verdade os que dela se desviaram; que silencie os caluniadores da sã doutrina e supra os fiéis ministros da Sua Palavra com o Espírito de sabedoria e discernimento, para que tudo aquilo que falarem seja para a glória de Deus e a edificação dos seus ouvintes. Amém.

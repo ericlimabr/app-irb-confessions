@@ -81,6 +81,18 @@ Palavras ou expressões apenas destacadas (não citadas) levam somente itálico:
 
 ### 1.4 Forma das referências bíblicas
 
+A sigla canônica é **a da edição impressa** (decisão de 2026-07-27). O
+inventário atestado — as 49 siglas que o PDF de origem usa duas vezes ou mais —
+está em `LIVROS_ATESTADAS`, em `ferramentas/validar_confissoes.py`, junto das 17
+inferidas para livros que nenhum dos três documentos cita.
+
+Duas consequências que valem registrar, porque contrariam a intuição:
+
+- **`Êx`, com circunflexo.** É assim que o impresso escreve, 19 vezes, e nunca
+  `Ex`. A Confissão Belga segue; o Catecismo de Heidelberg usa `Ex` e por isso
+  é acusado pelo validador.
+- **`Fp` para Filipenses**, não `Fl`. O impresso traz `Fp` 37 vezes.
+
 - Nome do livro abreviado, sem ponto: `Gn`, `Sl`, `Mt`, `1Co`, `2Tm`, `Ap`.
 - Capítulo e versículo separados por ponto: `Rm 8.28`.
 - Versículos avulsos do mesmo capítulo separados por vírgula: `Rm 8.15, 16`.
@@ -638,15 +650,21 @@ Santo, Santo,
 Pontos em que os arquivos ainda não seguem esta especificação. São dívidas
 registradas, não alternativas aceitáveis.
 
+> **O inventário executável vive em `ferramentas/pendencias-confissoes.txt`.**
+> Esta seção descreve as classes de desvio e o que já se sabe sobre cada uma;
+> o arquivo lista as 13 ocorrências, uma por linha, e o
+> `ferramentas/validar_confissoes.py` reprova qualquer desvio **novo**. Prosa e
+> registro podem divergir — o registro é que é verificado.
+
 ### 8.1 Formato
 
 - **Salmos, 79A:** a linha `\- Quão grandioso\_és tu! \-` traz o hífen inicial
   escapado para não virar item de lista. É o único caso; se aparecerem outros,
   a convenção precisa entrar em § 1.1.
-- **Heidelberg:** as perguntas 68, 74 e 124 usam `##` em vez de `###`. A maioria
-  dos títulos de pergunta traz dois espaços após `###` (`###  P.1.`) em vez de
-  um; é indiferente para a renderização, mas não é uniforme.
-- **Heidelberg:** o `DIA DO SENHOR 26` tem espaço extra após `##`.
+- **Heidelberg:** a maioria dos títulos de pergunta traz dois espaços após
+  `###` (`###  P.1.`) em vez de um; é indiferente para a renderização, mas não
+  é uniforme. As perguntas 68, 74 e 124 usavam `##` em vez de `###` e o
+  `DIA DO SENHOR 26` tinha espaço extra: **corrigidos** em 2026-08-02.
 - **Heidelberg, P.23:** o bloco do Credo mistura numeração romana solta
   (`I .`, `II .`) com a lista ordenada de 12 itens; precisa de uma decisão de
   forma.
@@ -666,11 +684,125 @@ PDF reintroduz o erro — reaplique-as.
   (*"E não cobice"*) é Êx 20.17. **Já corrigido no arquivo** para `15, 16, 17`.
 - **Confissão Belga:** marcador ausente no corpo, embora a referência exista no
   bloco — art. 7 (nota 5), 16 (6), 21 (9), 26 (1 e 5), 30 (5), 37 (3 e 14).
-- **Confissão Belga:** trechos com colunas entrelaçadas na extração do PDF,
-  ainda sem sentido corrido — art. 23 (`…confiados em nós mes(Sl 143.2)`) e
-  art. 26.
-- **Confissão Belga:** referências com erro de digitalização — `Jo 5.1726`
-  (art. 8, provavelmente `5.17-26`), `Jd .8`, `2Jo .9`, `Ap 22:18` (dois-pontos
-  em vez de ponto).
+- **Confissão Belga, art. 23: CORRIGIDO** (2026-07-27). A quebra de página 36
+  do PDF transpôs um bloco para o fim do artigo, partindo `mesmos` em `mes` e
+  `mos` e deixando `(Sl 143.2)` colado à metade errada. O bloco foi devolvido
+  ao lugar e a palavra recolada; nenhuma outra palavra mudou, e o arquivo tem
+  exatamente o mesmo número de caracteres. A leitura foi conferida contra o PDF
+  e é corroborada pelo aparato: a nota 8 (Lc 16.15; Fp 3.4-9) trata da
+  autoconfiança e por isso fecha a frase de `nós mesmos`, não a citação de Davi.
+- **Confissão Belga, art. 26:** § 8.2 registrava colunas entrelaçadas também
+  aqui. Uma varredura de todo o documento contra o PDF — alinhamento palavra a
+  palavra, procurando blocos de prosa presentes num lado e ausentes no outro —
+  **não achou nada** no art. 26 nem em nenhum outro. O art. 23 era o único.
+  O que resta no art. 26 é marcador de nota ausente, já listado acima.
+- **Confissão Belga, art. 8:** `Jo 5.1726` — versículo improvável, dígitos
+  colados. A leitura provável é `5.17-26` (mesmo livro em continuação, como
+  `Jo 1.14; 5.17-26`), mas por tocar em *quais* versículos são citados fica
+  **pendente de confirmação editorial**, não aplicada. As demais referências
+  malformadas da Belga (`Jd .8`, `2Jo .8`, `2Jo .9`, `Jd .15`) foram
+  **corrigidas** em 2026-08-22 — ver § 8.3.
 - **Heidelberg:** `SE NHOR` e `SENHOR` alternam no mesmo documento (P.92 e
   seguintes).
+
+### 8.3 Aparato de referências (levantado pelo validador)
+
+Classes encontradas por `ferramentas/validar_confissoes.py` — desvios de
+**forma** em relação a § 1.4 e § 1.6, não afirmações sobre o conteúdo. As
+ocorrências estão em `ferramentas/pendencias-confissoes.txt`.
+
+Em 2026-08-22 um lote de forma fechou a maior parte destas classes, todas de
+correção segura (não tocam em prosa nem em quais versículos são citados):
+
+- **Dois-pontos no lugar do ponto** (`Ap 22:18` etc.) — **resolvido.**
+- **Entrada sem ponto final** — **resolvido**, junto das quebras abaixo.
+- **Espaço antes do versículo em livro de capítulo único** (`Jd .8`, `2Jo .9`)
+  — **resolvido** para `Jd 8`, `2Jo 9`; é a forma do próprio corpus (`Jd 20`,
+  `Jd 24`).
+- **Sigla colada ao capítulo** (`Rm1.16`, `Jo17.24`, `Rm10.10`) — **resolvido.**
+- **Espaço dentro da sigla** (`2 Sm`, `2 Tm`, `1 Jo`) — **resolvido**; § 1.4
+  escreve `1Co`, e a lista canônica traz `2Sm`, `2Tm`, `1Jo`.
+- **Duas chaves na mesma linha** — o caso mais grave, porque a segunda chave
+  some do aparato. As oito ocorrências foram quebradas em uma chave por linha,
+  **exceto P.30** (adiante). Separá-las expôs chaves antes escondidas: a maioria
+  casou com o marcador do corpo (resolvendo `marcador-sem-chave`); o P.117
+  revelou uma chave sem marcador — abaixo.
+- **Sigla divergente do corpus** — o Heidelberg escrevia `Ex` (13×) e `Fl` (9×)
+  onde o impresso escreve `Êx` e `Fp`. **Normalizado** para `Êx`/`Fp`. Não era
+  decisão em aberto: § 1.4 registrou em 2026-07-27 a convenção da edição
+  impressa, e `Êx` é forma **atestada** 19× no PDF, nunca `Ex`; a Belga e Dort já
+  seguiam, o Heidelberg era o único que destoava. O `1Cor` isolado da Belga
+  (art. 11) já fora corrigido antes.
+
+Restam duas classes, que **não** são de correção automática — dependem de
+conferência contra o impresso, não de normalização:
+
+- **Chave sem marcador no corpo** (10) — a referência existe no bloco, mas falta
+  o `<sup>N</sup>` no texto: Belga art. 7, 16, 21, 26, 30, 37 (detalhe das notas
+  em § 8.2); Heidelberg P.25, P.47, P.63, P.117. Exige localizar **onde** o
+  marcador entra — revisão de conteúdo.
+- **Heidelberg P.30, bloco embaralhado** — `1. 1Co 1.12, 13; Gl 5.4 2. Cl 1.19,
+  20;` com o rótulo `2.` repetido na linha seguinte. A leitura provável é
+  `2. Cl 1.19, 20; 2.10; 1Jo 1.7.` (o `2.10` continua Colossenses), mas fundir e
+  descartar o rótulo repetido é decisão de estrutura, não quebra mecânica.
+
+### 8.4 Resíduo de diagramação
+
+- **Linha em branco dupla** (2 em Dort, 1 no Heidelberg) e **espaço no fim de
+  linha** (1 no Heidelberg): **corrigidos** em 2026-08-02.
+- **Espaços múltiplos internos** — 927 na Belga, 977 em Dort, 569 no
+  Heidelberg. **Não são desvio**: § 1.1 manda preservá-los. Ficam registrados
+  aqui só para que o conversor decida explicitamente o que fazer com eles ao
+  emitir JSON, em vez de decidir por omissão.
+
+### 8.6 Correções de digitalização declaradas
+
+Em 2026-08-02, a leitura linha a linha dos cinco textos (`docs/ACHADOS.md`)
+fechou 193 defeitos mecânicos. Os que tocam os textos **cantados** fazem o
+Markdown divergir do impresso, e por isso são declarados no `validar.py`, não
+absorvidos por uma regeneração do digest:
+
+- `DIVERGENCIAS` — numeração de versículo. Além do 145A já registrado em § 8.2,
+  entraram `36A` (o impresso traz `10` duas vezes; a primeira é o v. 9) e `96A`
+  (traz `3` duas vezes; a primeira é o v. 2).
+- `CORRECOES_LEXICAS` — palavras. `Juda`→`Judá`, `tiro`→`Tiro`, `Cão`→`Cam`,
+  `Ihes`→`lhes`, `Prostou`→`Prostrou`, `opróbio`→`opróbrio` e mais 15 pares,
+  além da anotação editorial `Sem proposta de mudança` que o hino 95 carregava
+  como se fosse letra.
+
+O digest continua sendo retrato fiel do PDF: a correção é somada aos dois lados
+da comparação. Reverter qualquer uma delas no Markdown **quebra** o validador —
+é assim que a divergência se mantém honesta em vez de virar dívida silenciosa.
+
+Nos textos **confessionais** não há PDF versionado nem digest, então as
+correções aparecem só no diff. O registro em
+`ferramentas/pendencias-confissoes.txt` caiu de 71 para 51 ocorrências, e Dort
+zerou.
+
+### 8.5 O PDF não é a fonte de verdade destes arquivos
+
+O `fontes/As Tres Formas de Unidade - Nova Edicao 2018.pdf` (não versionado)
+**não** está para as confissões como os PDFs dos salmos e hinos estão para os
+textos cantados. Alinhando a Confissão Belga inteira, palavra por palavra:
+
+| | |
+| --- | --- |
+| PDF | 9.642 palavras |
+| Markdown | 8.629 palavras |
+| sem correspondência | ~5% |
+
+A diferença não é ruído de extração; é revisão editorial deliberada e
+sistemática — `Antigo Testamento` → `Velho Testamento`, singular → plural
+(`nossa consciência` → `nossas consciências`), `Essa` → `Esta`, e a
+capitalização reverencial (`nele` → `nEle`).
+
+Consequências práticas:
+
+- o PDF **serve** para arbitrar uma passagem específica, e foi assim que a
+  transposição do art. 23 se resolveu sem ambiguidade;
+- o PDF **não serve** como corretor mecânico nem como lado direito de uma
+  checagem de integridade léxica ao estilo de `ferramentas/validar.py`. Um
+  digest dele acusaria centenas de divergências, quase todas propositais.
+
+Por isso `validar_confissoes.py` confere estrutura e não texto — a decisão
+é essa, não uma limitação a superar.
