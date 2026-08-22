@@ -343,12 +343,16 @@ def coletar(doc: str) -> tuple[list[tuple[str, str, str]], list[str]]:
             achar("texto-truncado", f"…{m.group(1)}({m.group(2)} … — coluna entrelacada?")
 
     # Residuo de extracao e desvios de forma do arquivo inteiro.
+    # 'espaco_fim' e' precomputado fora da f-string: backslash dentro de {} so'
+    # e' valido no Python >= 3.12 (PEP 701), e o CI roda 3.11 (o mesmo motivo do
+    # 'chr(10)' usado adiante na deteccao de linha-em-branco-dupla).
+    espaco_fim = re.findall(r"[ \t]+$", texto, re.M)
     for codigo, achado, detalhe in [
         ("zwsp", ZWSP in texto, f"{texto.count(ZWSP)} ocorrencia(s)"),
         ("nbsp", NBSP in texto, f"{texto.count(NBSP)} ocorrencia(s)"),
         ("cerca-de-codigo", "```" in texto, ""),
-        ("espaco-no-fim-da-linha", bool(re.search(r"[ \t]+$", texto, re.M)),
-         f"{len(re.findall(r'[ \t]+$', texto, re.M))} linha(s)"),
+        ("espaco-no-fim-da-linha", bool(espaco_fim),
+         f"{len(espaco_fim)} linha(s)"),
         ("linha-em-branco-dupla", bool(re.search(r"\n{3,}", texto)),
          f"{len(re.findall(chr(10) + '{3,}', texto))} ocorrencia(s)"),
         ("lista-com-asterisco", bool(re.search(r"^\* ", texto, re.M)),
