@@ -1,8 +1,12 @@
 # Ferramentas
 
-Pipeline dos **textos cantados** (`fontes/salmos/`, `fontes/hinos/`). Os três
-textos confessionais não passam por aqui: foram formatados à mão, sem PDF de
-origem.
+Duas frentes independentes:
+
+| | textos cantados | textos confessionais |
+| --- | --- | --- |
+| coleções | `fontes/salmos/`, `fontes/hinos/` | `fontes/belgic/`, `heidelberg/`, `dort/` |
+| origem | extraídos de PDF por `extrair.py` | formatados à mão |
+| validação | `validar.py` — contra o PDF ou o digest | `validar_confissoes.py` — só estrutura |
 
 Requisitos:
 
@@ -138,8 +142,65 @@ seguram isso:
 
 Regenerar o digest é ato deliberado, e só se justifica quando o PDF muda.
 
-Edição normal é **no Markdown**, que é a fonte editorial. Rode `validar.py`
-antes de abrir PR.
+## `validar_confissoes.py` — confere a estrutura das três confissões
+
+```bash
+python3 ferramentas/validar_confissoes.py                     # os três
+python3 ferramentas/validar_confissoes.py belgic
+python3 ferramentas/validar_confissoes.py --gravar-pendencias
+```
+
+Não lê PDF e não depende de nenhuma decisão em aberto — roda em qualquer
+clone, e por isso está no CI junto do outro.
+
+Confere **forma**, não texto: hierarquia de títulos, contagem e numeração das
+unidades (37 artigos, 129 perguntas, 59 artigos reiniciados por capítulo),
+marcadores `<sup>N</sup>` contra o bloco de referências de § 1.6, gramática
+das citações de § 1.4 e resíduo de extração.
+
+Conferir a **prosa** contra a edição impressa continua fora do alcance: exige
+resolver antes a capitalização reverencial (`Ele`/`ele`, `Sua`/`sua`), que é
+decisão editorial pendente. Este validador garante a estrutura em volta do
+texto, não o texto.
+
+### Pendências
+
+`ferramentas/pendencias-confissoes.txt` lista os defeitos já conhecidos, um
+por linha (`documento | unidade | código`). Eles **não** derrubam o portão —
+se derrubassem, o CI nasceria vermelho e ninguém olharia mais para ele. O
+registro é fechado nos dois sentidos:
+
+- achado que não está no arquivo reprova (é regressão);
+- pendência que deixou de ser observada reprova — ou foi corrigida e o
+  registro ficou para trás, ou o parser parou de enxergá-la.
+
+Corrigiu algo? Regenere com `--gravar-pendencias` em vez de editar à mão.
+
+A chave é (documento, unidade, código), sem o detalhe: duas referências
+malformadas no mesmo artigo ocupam uma linha só, e a pendência só cai quando
+a última sai. É de propósito — guardar o detalhe faria o arquivo mudar a cada
+reformulação de mensagem. O preço é não medir progresso parcial dentro de uma
+unidade.
+
+Uma ressalva sobre o código `abreviacao-fora-da-lista`: § 1.4 dá seis exemplos
+de sigla e não enumera os 66 livros. A lista do script é deduzida daquele
+padrão, não é a letra da spec. O que ela acusa são **candidatos a revisão** —
+tipicamente o mesmo livro abreviado de dois jeitos no corpus (`Ex`/`Êx`,
+`Fp`/`Fl`) — não erro provado.
+
+### Testado contra defeito real
+
+| Mutação | O que acusa |
+| --- | --- |
+| ponto → dois-pontos numa referência limpa | `referencia-malformada` como achado novo |
+| apagar um `<sup>N</sup>` do corpo | `chave-sem-marcador` |
+| quebrar o título de uma pergunta | contagem de unidades + numeração `1..N` |
+| corrigir todas as pendências de uma unidade | pendência obsoleta no registro |
+
+## Fluxo de trabalho
+
+Edição normal é **no Markdown**, que é a fonte editorial. Rode `validar.py` e
+`validar_confissoes.py` antes de abrir PR.
 
 `extrair.py` só se justifica quando o PDF for substituído por uma edição nova.
 Nesse caso ele **sobrescreve** o Markdown: confira o diff antes de aceitar, e

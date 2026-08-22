@@ -85,10 +85,57 @@ COLECOES = {
 }
 
 # docs/FORMATO.md § 8.2 — o Markdown diverge do PDF de proposito.
-# (unidade, o que o PDF traz, o que o Markdown tem de ter)
+# (unidade, o que o PDF traz, o que o Markdown tem de ter[, qual ocorrencia])
+# A ocorrencia e' "ultima" por padrao; "primeira" quando o impresso repete um
+# numero e e' a primeira das duas que esta' errada.
 DIVERGENCIAS = {
-    "salmos": [("145A", "12", "21")],
+    "salmos": [
+        ("145A", "12", "21"),               # ultimo versiculo, digitos trocados
+        ("36A", "10", "9", "primeira"),     # impresso traz 10 duas vezes
+        ("96A", "3", "2", "primeira"),      # impresso traz 3 duas vezes
+    ],
     "hinos":  [("1", "15", "16"), ("1", "16", "17")],
+}
+
+# docs/FORMATO.md § 8.6 — correcoes de digitalizacao ja revisadas, no nivel da
+# palavra. O delta e' Markdown menos PDF: positivo, a palavra so' existe no
+# Markdown; negativo, so' no impresso. Aplicado dos dois lados (PDF e digest),
+# entao o digest continua sendo retrato fiel do PDF.
+#
+# Reverter uma correcao no Markdown quebra o validador, que e' o ponto: a
+# divergencia so' vale enquanto declarada aqui.
+CORRECOES_LEXICAS = {
+    "salmos": {
+        "Juda": -2, "Judá": +2,             # 60A e 108A
+        "tiro": -1, "Tiro": +1,             # 83A
+        "Cão": -1,  "Cam": +1,              # 78B
+        "Prostou": -1, "Prostrou": +1,      # 78A
+        "Ihes": -1, "lhes": +1,             # 147B
+        "destrui": -1, "destruí": +1,       # 74A
+        "opróbio": -1, "opróbrio": +1,      # 89B
+        "serei": -1, "sereis": +1,          # 94A
+        "Do": -1,   "De": +1,               # 72B
+        "reside": -1, "resides": +1,        # 82B
+        "gloriem": -1, "glorieis": +1,      # 62A
+        "Ao": -1,   "Aos": +1,              # 42B
+        "à": -1,    "a": +1,                # 44A
+        "prescruta": -1, "perscruta": +1,   # 44A
+        "tem": -1,  "têm": +1,              # 49A
+        "Tê": -1,   "Tem": +1,              # 27A
+        "levantais": -3, "levantai": +3,    # 24B
+        "Last": -1, "Lasst": +1,            # 117B, nome da melodia
+        "erfreunen": -1, "erfreuen": +1,    # 117B, nome da melodia
+        "não": -1, "informado": -1, "desconhecido": +1,   # 79B, rotulo de autoria
+        "se": -1,                           # 69A, "se se move"
+    },
+    "hinos": {
+        "lssac": -1, "Isaac": +1,           # hino 32
+        "Johnn": -2, "John": +2,            # hinos 37 e 38
+        "Walsbam": -1, "Walsham": +1,       # hino 74
+        "a": +1,                            # hino 73, "glória a Deus"
+        # hino 95: anotacao editorial do impresso que nao e' letra
+        "Sem": -1, "proposta": -1, "de": -1, "mudança": -1,
+    },
 }
 
 isnum = lambda l: re.fullmatch(r"\s*\d{1,3}(-\d{1,3})?\s*", l.replace(ZW, "")) is not None
@@ -216,11 +263,29 @@ def ler_digest(colecao: str) -> collections.Counter | None:
     return cont
 
 
+def aplicar_correcoes_lexicas(colecao, cont):
+    """Soma as correcoes declaradas ao multiconjunto de palavras do impresso."""
+    delta = CORRECOES_LEXICAS.get(colecao)
+    if not delta or cont is None:
+        return cont
+    out = collections.Counter(cont)
+    for palavra, n in delta.items():
+        out[palavra] += n
+        if out[palavra] < 0:
+            sys.exit(f"erro: correcao lexica de {colecao} deixaria "
+                     f"{palavra!r} com contagem negativa")
+        if out[palavra] == 0:
+            del out[palavra]
+    return out
+
+
 def aplicar_divergencias(colecao, ref):
     """Reescreve a referencia do PDF com as correcoes declaradas em § 8.2."""
-    for uid, de, para in DIVERGENCIAS.get(colecao, []):
+    for uid, de, para, *resto in DIVERGENCIAS.get(colecao, []):
         vs = ref[uid]["vs"]
-        for k in range(len(vs) - 1, -1, -1):     # a ultima ocorrencia
+        ordem = range(len(vs)) if resto and resto[0] == "primeira" \
+            else range(len(vs) - 1, -1, -1)
+        for k in ordem:
             if vs[k] == de:
                 vs[k] = para
                 break
@@ -247,11 +312,13 @@ def validar(colecao: str, sem_pdf: bool = False) -> list[str]:
     if usar_pdf:
         ref, corpo_pdf, capa_pdf = ler_pdf(cfg)
         ref = aplicar_divergencias(colecao, ref)
-        referencia = palavras(capa_pdf + "\n" + corpo_pdf)
+        bruto = palavras(capa_pdf + "\n" + corpo_pdf)
+        referencia = aplicar_correcoes_lexicas(colecao, bruto)
         print(f"  referencia: {cfg['pdf'].name}")
         print(f"  unidades: PDF {len(ref)} | Markdown {len(got)}")
     else:
-        ref, referencia = None, dig
+        ref, bruto = None, None
+        referencia = aplicar_correcoes_lexicas(colecao, dig)
         porque = "--sem-pdf" if sem_pdf else f"{cfg['pdf'].name} ausente"
         print(f"  referencia: {caminho_digest(colecao).name}  ({porque})")
         print(f"  unidades: Markdown {len(got)}")
@@ -297,9 +364,9 @@ def validar(colecao: str, sem_pdf: bool = False) -> list[str]:
             checar(False, f"digest presente em {caminho_digest(colecao).relative_to(RAIZ)} "
                           f"(gere com: --gerar-digest {colecao})")
         else:
-            checar(dig == referencia,
-                   f"digest confere com o PDF  faltando={(referencia - dig).most_common(3)} "
-                   f"sobrando={(dig - referencia).most_common(3)}")
+            checar(dig == bruto,
+                   f"digest confere com o PDF  faltando={(bruto - dig).most_common(3)} "
+                   f"sobrando={(dig - bruto).most_common(3)}")
 
     # --- invariantes de forma (docs/FORMATO.md § 5 e § 6) ---
     checar("```" not in md, "sem cercas de codigo residuais")
@@ -325,7 +392,7 @@ def validar(colecao: str, sem_pdf: bool = False) -> list[str]:
             soltos += [(uid, n.group()) for n in re.finditer(r"\d+", corpo)]
     checar(not soltos, f"nenhum numero solto na letra  {soltos[:6]}")
 
-    for uid, de, para in DIVERGENCIAS.get(colecao, []):
+    for uid, de, para, *_ in DIVERGENCIAS.get(colecao, []):
         checar(uid in got and para in got[uid]["vs"],
                f"divergencia declarada de § 8.2 presente: {uid} {de}->{para}")
 

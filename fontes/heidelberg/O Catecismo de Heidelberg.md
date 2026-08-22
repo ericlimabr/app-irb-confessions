@@ -16,20 +16,20 @@ Ele também me guarda de tal maneira <sup>6</sup> que sem a vontade do meu Pai c
 4. 1Pe 1.18, 19; 1Jo 1.7; 2.2.
 5. Jo 8.34-36; Hb 2.14, 15; 1Jo 3.8.
 6. Jo 6.39, 40; 10.27-30; 2Ts 3.3; 1Pe 1.5.
-7. Mt 10.29-31; Lc 21:16-18.
+7. Mt 10.29-31; Lc 21.16-18.
 8. Rm 8.28.
 9. Rm 8.15, 16; 2Co 1.21, 22; 5.5; Ef 1.13, 14.
-10. Rm 8:14
+10. Rm 8.14.
 
 ###  P.2. O que é que você precisa saber para viver e morrer nessa consolação?
 
-R. _Primeiro_ , como são grandes meus pecados e miséria; <sup>1</sup>
+R. _Primeiro_, como são grandes meus pecados e miséria; <sup>1</sup>
 
 _segundo_, de  que modo sou liberto de todos os meus pecados e miséria; <sup>2</sup>
 
 _terceiro_, de que modo devo ser grato a Deus por uma tal libertação. <sup>3</sup>
 
-1. Rm 3.9, 10; 1Jo 1:10.
+1. Rm 3.9, 10; 1Jo 1.10.
 2. Jo 17.3; At 4.12; 10.43.
 3. Mt 5.16; Rm 6.13; Ef 5.8-10; 1Pe 2.9, 10.
 
@@ -66,7 +66,7 @@ R. Não, pelo contrário, Deus criou o homem bom <sup>1</sup> e  à  Sua imagem,
 1. Gn 1.31.
 2. Gn 1.26, 27.
 3. Ef 4.24.
-4. Cl 3.10
+4. Cl 3.10.
 5. Sl 8.
 
 ###  P.7. De onde veio, então, a natureza corrompida do homem?
@@ -103,7 +103,7 @@ R. Certamente que não, pois tanto o nosso pecado original quanto os nossos peca
 
 Por isso Ele os castigará com justo juízo agora e eternamente, <sup>1</sup> conforme declarou: <sup>2</sup> _"Maldito todo aquele que não permanece em todas as coisas escritas no Livro da lei, para praticá-las"_ (Gl 3.10).
 
-1. Gn 2.17; Ex 34.7; Sl 5.4-6; 7.11; Na 1.2; Rm 1.18; 5.12; Ef 5.6 Hb 9.27.
+1. Gn 2.17; Êx 34.7; Sl 5.4-6; 7.11; Na 1.2; Rm 1.18; 5.12; Ef 5.6; Hb 9.27.
 2. Dt 27.26.
 
 ### P.11. Mas Deus não é também misericordioso?
@@ -112,11 +112,11 @@ R. Deus é verdadeiramente misericordioso, <sup>1</sup> mas também é justo. <s
 
 A Sua justiça requer que o pecado cometido contra a Sua suprema majestade  seja  castigado  também  com  a  pena  mais  severa,  quer  dizer, com o eterno castigo do corpo e da alma. <sup>3</sup>
 
-1. Ex 20.6; 34.6, 7; Sl 103.8, 9.
-2. Ex 20.5; 34.7; Dt 7.9-11; Sl 5.4-6; Hb 10.30, 31.
+1. Êx 20.6; 34.6, 7; Sl 103.8, 9.
+2. Êx 20.5; 34.7; Dt 7.9-11; Sl 5.4-6; Hb 10.30, 31.
 3. Mt 25.45, 46.
 
-# ~ PARTE II ~ Nossa Salvaçao
+# ~ PARTE II ~ Nossa Salvação
 
 ## DIA DO SENHOR 5
 
@@ -124,7 +124,7 @@ A Sua justiça requer que o pecado cometido contra a Sua suprema majestade  seja
 
 R. Deus requer que a Sua justiça seja satisfeita. <sup>1</sup> Por isso, nós mesmos devemos satisfazer essa justiça completamente, ou um outro por nós. <sup>2</sup>
 
-1. Ex 20.5; 23.7; Rm 2:1-11.
+1. Êx 20.5; 23.7; Rm 2.1-11.
 2. Is 53.11; Rm 8.3, 4.
 
 ###  P.13. Podemos, nós mesmos, satisfazer essa justiça?
@@ -139,7 +139,7 @@ R. Não.
 
 Em primeiro lugar, Deus não vai castigar uma outra criatura pelo pecado que o homem cometeu. <sup>1</sup>
 
-Além disso, não há criatura que possa suportar o peso da ira eterna de cado que o homem cometeu. Deus contra o pecado, nem libertar outros dessa ira. <sup>2</sup>
+Além disso, não há criatura que possa suportar o peso da ira eterna de Deus contra o pecado, nem libertar outros dessa ira. <sup>2</sup>
 
 1. Ez 18.4, 20; Hb 2.14-18.
 2. Sl 130.3; Na 1.6.
@@ -187,7 +187,7 @@ Fazendo-o, por fim, ser cumprido por meio do Seu único Filho. <sup>5</sup>
 
 1. Gn 3.15.
 2. Gn 12.3; 22.18; 49.10.
-3. Is 53; Jr 23.5, 6; Mc 7.18-20; At 10.43; Hb 1.1
+3. Is 53; Jr 23.5, 6; Mc 7.18-20; At 10.43; Hb 1.1.
 4. Lv 1-7; Jo 5.46; Hb 10.1-10.
 5. Rm 10.4; Gl 4.4, 5; Cl 2.17.
 
@@ -199,8 +199,8 @@ R. Não. <sup>1</sup>
 
 Só estão salvos os que, pela verdadeira fé, foram enxertados em Cristo e aceitaram todos os Seus benefícios. <sup>2</sup>
 
-1. Mt 7 .14; Jo 1.12; 3.16, 18, 36; Rm 11.16-21.
-2. Ef 2:8-9.
+1. Mt 7.14; Jo 1.12; 3.16, 18, 36; Rm 11.16-21.
+2. Ef 2.8-9.
 
 ###  P.21. O que é a verdadeira fé?
 
@@ -212,9 +212,10 @@ O Espírito Santo realiza essa fé em meu coração por meio do evangelho. <sup>
 
 1. Jo 17.3, 17; Hb 11.1-3; Tg 2.19.
 2. Rm 4.18-21; 5.1; 10.10; Hb 4.16.
-3. Gl 2.20
+3. Gl 2.20.
 4. Rm 1.17; Hb 10.10.
-5. Rm 3.20-26; Gl 2.16; Ef 2.8-10. 6. At 16.14; Rm1.16; 10.17; 1Co 1.21.
+5. Rm 3.20-26; Gl 2.16; Ef 2.8-10.
+6. At 16.14; Rm 1.16; 10.17; 1Co 1.21.
 
 ###  P.22. Então, no que o cristão tem de acreditar?
 
@@ -255,7 +256,7 @@ R. Em três partes.
 R. Porque o próprio Deus se revelou de tal maneira em Sua Palavra <sup>2</sup> que essas três Pessoas distintas são o único, verdadeiro e eterno Deus.
 
 1. Dt 6.4; Is 44.6; 45.5; 1Co 8.4, 6.
-2. Gn 1.2, 3; Is 61.1; 63.8-10; Mt 3.16, 17; 28.18,19; Lc 4.18; Jo 14.26; 15.26; 2Co 13.14; Gl 4.6; Tt 3.5, 6.
+2. Gn 1.2, 3; Is 61.1; 63.8-10; Mt 3.16, 17; 28.18, 19; Lc 4.18; Jo 14.26; 15.26; 2Co 13.14; Gl 4.6; Tt 3.5, 6.
 
 # Deus Pai e a Nossa Criação
 
@@ -269,7 +270,7 @@ Creio nEle tão completamente que não tenho nenhuma dúvida de que Ele me supri
 
 Ele assim pode fazer porque é Deus Todo-Poderoso, <sup>6</sup> mas o quer fazer, porque é Pai Fiel. <sup>7</sup>
 
-1. Gn 1; 2; Ex 20.11; Jó 38; 39; Sl 33.6; Is 44.24; At 4.24; 14.15.
+1. Gn 1; 2; Êx 20.11; Jó 38; 39; Sl 33.6; Is 44.24; At 4.24; 14.15.
 2. Sl 104.27-30; Mt 6.30; 10.29; Ef 1.11.
 3. Jo 1.12, 13; Rm 8.15, 16; Gl 4.4-7; Ef 1.5.
 4. Sl 55.22; Mt 6.25, 26; Lc 12.22-31.
@@ -284,7 +285,7 @@ Ele assim pode fazer porque é Deus Todo-Poderoso, <sup>6</sup> mas o quer fazer
 R. A providência de Deus é o Seu onipotente e onipresente poder, <sup>1</sup> por meio do qual, com as Sua mãos, Ele sustenta continuamente o céu e a terra  e  todas  as  criaturas, <sup>2</sup> governando-os  de  tal  modo  que  ervas  e plantas, chuva e seca, abundância e escassez, comida e bebida, saúde e doença, riqueza e pobreza, <sup>3</sup> todas as coisas na verdade, não nos vêm por acaso <sup>4</sup> mas procedem da Sua mãe paternal. <sup>5</sup>
 
 1. Jr 23.23, 24; At 17.24-28.
-2. Hb 1.3
+2. Hb 1.3.
 3. Jr 5.24; At 14.15-17; Jo 9.3; Pv 22.2.
 4. Pv 16.33.
 5. Mt 10.29.
@@ -293,7 +294,7 @@ R. A providência de Deus é o Seu onipotente e onipresente poder, <sup>1</sup> 
 
 R. Podemos ser pacientes na adversidade, <sup>1</sup> agradecidos na prosperidade <sup>2</sup> e podemos, quanto ao futuro, confiar firmemente em nosso Deus e Pai fiel, porque criatura alguma poderá nos separar do Seu amor; <sup>3</sup> pois todas elas estão de tal modo em Sua mão que sem a Sua vontade, elas não podem nem mesmo se mover. <sup>4</sup>
 
-1. Jó 1.21, 22; Sl 39.10; Tg 1.3
+1. Jó 1.21, 22; Sl 39.10; Tg 1.3.
 2. Dt 8.10; 1Ts 5.18.
 3. Sl 55.22; Rm 5.3-5; 8.38, 39.
 4. Jó 1.12; 2.6; Pv 21.1; At 17.24-28.
@@ -329,13 +330,13 @@ nosso único Sumo Sacerdote <sup>4</sup> o  qual  por  um  único  sacrifício  
 e nosso Rei eterno, <sup>7</sup> que nos governa pela Sua Palavra e por Seu Espírito, e que nos defende e preserva na redenção que para nós conquistou. <sup>8</sup>
 
 1. Sl 45.7 (Hb 1.9); Is 61.1 (Lc 4.18); Lc 3.21, 22.
-2. Dt 18.15 (At 3.22)
+2. Dt 18.15 (At 3.22).
 3. Jo 1.18; 15.15.
 4. Sl 110.4 (Hb 7.17).
 5. Hb 9.12; 10.11-14.
 6. Rm 8.34; Hb 9.24; 1Jo 2.1.
 7. Zc 9.9 (Mt 21.5); Lc 1.33.
-8. Mt 28.18-20; Jo 10.28. Ap 12.10, 11.
+8. Mt 28.18-20; Jo 10.28; Ap 12.10, 11.
 
 ###  P.32. Por que é que você é chamado de cristão?
 
@@ -348,7 +349,6 @@ R. Porque, pela fé, sou membro de Cristo <sup>1</sup> e por isso partilho da Su
 5. Gl 5.16, 17; Ef 6.11; 1Tm 1.18, 19.
 6. Mt 25.34; 2Tm 2.12.
 
-
 ## DIA DO SENHOR 13
 
 ###  P.33. Por que é Ele chamado de 'Filho unigênito' de Deus, se nós também somos filhos de Deus?
@@ -360,7 +360,7 @@ Nós, contudo, somos filhos de Deus por adoção, pela graça, por causa de Cris
 1. Jo 1.1-3, 14, 18; 3.16; Rm 8.32; Hb 1; 1Jo 4.9.
 2. Jo 1.12; Rm 8.14-17; Gl 4.6; Ef 1.5, 6.
 
-###  P.34. Por você O chama de 'nosso Senhor'?
+###  P.34. Por que você O chama de 'nosso Senhor'?
 
 R. Porque Ele nos comprou e nos resgatou, o corpo e a alma, <sup>1</sup> de todos os nossos pecados - não com ouro nem prata, mas com o Seu precioso sangue <sup>2</sup> e nos libertou de todo o domínio do diabo para nos tornar Sua possessão. <sup>3</sup>
 
@@ -378,9 +378,9 @@ Por isso, Ele é também a verdadeira semente de Davi, <sup>4</sup> semelhante a
 
 1. Jo 1.1; 10.30-36; Rm 1.3; 9.5; Cl 1.15-17; 1Jo 5.20.
 2. Mt 1.18-23; Jo 1.14; Gl 4.4; Hb 2.14.
-3. Lc 1.35
-4. 2 Sm 7.12-16; Sl 132.11; Mt 1.1; Lc 1.32; Rm 1.3.
-5. Fl 2.7; Hb 2.17.
+3. Lc 1.35.
+4. 2Sm 7.12-16; Sl 132.11; Mt 1.1; Lc 1.32; Rm 1.3.
+5. Fp 2.7; Hb 2.17.
 6. Hb 4.15; 7.26, 27.
 
 ###  P.36. Que benefício você recebe de Cristo ter sido concebido e nascido sem pecado?
@@ -420,10 +420,10 @@ R. Sim.  Por  causa  disso  tenho  a  certeza  de  que  Ele  levou  sobre  Si  a
 
 ###  P.40. Por que foi necessário que Cristo se humilhasse até à morte?
 
-R. Por causa da justiça e da verdade de Deus <sup>1</sup> a satisfação pelos nossos pecados não poderia ocorrer de outra forma senão pela morte do Filho de Deus. 2
+R. Por causa da justiça e da verdade de Deus <sup>1</sup> a satisfação pelos nossos pecados não poderia ocorrer de outra forma senão pela morte do Filho de Deus. <sup>2</sup>
 
 1. Gn 2.17.
-2. Rm 8.3; Fl 2.8; Hb 2.9, 14, 15.
+2. Rm 8.3; Fp 2.8; Hb 2.9, 14, 15.
 
 ###  P.41. Por que foi Ele 'sepultado'?
 
@@ -435,7 +435,7 @@ R. O Seu sepultamento testifica que Ele realmente morreu. <sup>1</sup>
 
 R. A nossa morte não é o pagamento pelos nossos pecados, <sup>1</sup> mas ela põe fim aos nossos pecados e é a entrada para a vida eterna. <sup>2</sup>
 
-1. Mc 8.37;
+1. Mc 8.37.
 2. Jo 5.24; Rm 7.24, 25; Fp 1.23.
 
 ###  P.43. Que outros benefícios recebemos do sacrifício e morte de Cristo na cruz?
@@ -465,7 +465,7 @@ Terceiro: a ressurreição de Cristo é, para nós, a garantia da nossa ressurre
 
 1. Rm 4.25; 1Co 15.16-20; 1Pe 1.3-5.
 2. Rm 6.5-11; Ef 2.4-6; Cl 3.1-4.
-3. Rm 8.11; 1Co 15.12-23; Fl 3.20, 21.
+3. Rm 8.11; 1Co 15.12-23; Fp 3.20, 21.
 
 ## DIA DO SENHOR 18
 
@@ -479,7 +479,7 @@ R. Que Cristo, à vista dos Seus discípulos, foi levado da terra ao céu, <sup>
 
 ###  P.47. Quer dizer, então, que Cristo não está conosco até a consumação dos séculos, conforme Ele nos havia prometido? <sup>1</sup>
 
-R. Cristo é verdadeiro homem e verdadeiro Deus. Segundo Sua natureza humana, Ele não está mais na terra, <sup>2</sup> mas segundo a Sua natureza divindade, majestade, graça e Espírito, Ele jamais se ausentou de nós. <sup>3</sup>
+R. Cristo é verdadeiro homem e verdadeiro Deus. Segundo Sua natureza humana, Ele não está mais na terra, <sup>2</sup> mas segundo a Sua divindade, majestade, graça e Espírito, Ele jamais se ausentou de nós. <sup>3</sup>
 
 1. Mt 28.20.
 2. Mt 26.11; Jo 16.28; 17.11; At 3.19-21; Hb 8.4.
@@ -498,11 +498,12 @@ R. Primeiro: Ele é o nosso Advogado no céu diante do Pai. <sup>1</sup>
 
 Segundo: temos a nossa carne no céu como a garantia segura de que Ele, o nosso Cabeça, também nos levará para Si, como membros Seus. <sup>2</sup>
 
-Terceiro: Ele nos enviou o Seu Espírito como garantia, <sup>3</sup> pelo poder do qual buscamos as coisas do alto - onde Cristo está assentado à direita de Deus - e não as que são da terra. 4
+Terceiro: Ele nos enviou o Seu Espírito como garantia, <sup>3</sup> pelo poder do qual buscamos as coisas do alto - onde Cristo está assentado à direita de Deus - e não as que são da terra. <sup>4</sup>
 
 1. Rm 8.34; 1Jo 2.1.
 2. Jo 14.2; 17.24; Ef 2.4-6.
-3. Jo 14.16; At 2.33; 2Co 1.21, 22; 5.5; Ef 1.13,14 4. Cl 3.1-4.
+3. Jo 14.16; At 2.33; 2Co 1.21, 22; 5.5; Ef 1.13, 14.
+4. Cl 3.1-4.
 
 ## DIA DO SENHOR 19
 
@@ -526,9 +527,9 @@ Segundo: pelo Seu poder Ele nos defende e preserva de todos os inimigos. <sup>2<
 
 R. Que em todas as minhas aflições e perseguições eu de cabeça erguida e cheio de ânimo espero vir do céu, como juiz, Aquele mesmo que antes se submeteu ao juízo de Deus por minha causa, e removeu de sobre mim toda a maldição. <sup>1</sup>
 
-Ela lançará todos os Seus e meus inimigos na condenação eterna, mas levará para Si mesmo, para o gozo e glória celestiais, a mim e a todos os Seus escolhidos. <sup>2</sup>
+Ele lançará todos os Seus e meus inimigos na condenação eterna, mas levará para Si mesmo, para o gozo e glória celestiais, a mim e a todos os Seus escolhidos. <sup>2</sup>
 
-1. Lc 21.28; Rm 8.22-25; Fl 3.20, 21; Tt 2.13, 14.
+1. Lc 21.28; Rm 8.22-25; Fp 3.20, 21; Tt 2.13, 14.
 2. Mt 25.31-46; 1Ts 4.16, 17; 2Ts 1.6-10.
 
 # Deus Espírito Santo e a Nossa Santificação
@@ -567,10 +568,10 @@ R. Creio que o Filho de Deus, <sup>1</sup> desde o começo até o fim do mundo, 
 
 R. Primeiro: creio que todos os crentes, juntos e cada um em particular, como membros de Cristo, têm comunhão com Ele e participam de todos os Seus tesouros e dons. <sup>1</sup>
 
-Segundo: creio que cada um têm o dever de usar os seus dons com disposição e alegria para o benefício e o bem-estar dos outros membros. <sup>2</sup>
+Segundo: creio que cada um tem o dever de usar os seus dons com disposição e alegria para o benefício e o bem-estar dos outros membros. <sup>2</sup>
 
-1. Rm 8.32; 1Co 6.17; 12.4-7, 12, 13; 1Jo 1.3
-2. Rm 12.4-8; 1Co 12.20-27; 13.1-7; Fl 2.4-8.
+1. Rm 8.32; 1Co 6.17; 12.4-7, 12, 13; 1Jo 1.3.
+2. Rm 12.4-8; 1Co 12.20-27; 13.1-7; Fp 2.4-8.
 
 ###  P.56. O que você crê sobre a "remissão dos pecados"?
 
@@ -586,15 +587,15 @@ R. Creio que Deus, por causa da satisfação que Cristo realizou, não se lembra
 
 R. Que depois dessa vida, não apenas a minha alma será levada imediatamente para Cristo, meu Cabeça, <sup>1</sup> mas que também essa minha carne, ressuscitada pelo poder de Cristo, será reunida à minha alma e feita à semelhança do corpo glorioso de Cristo. <sup>2</sup>
 
-1. Lc 16.22; 23.43; Fl 1.21-23.
-2. Jó 19.25, 26; 1Co 15.20, 42-46, 54; Fl 3.21; 1Jo 3.2.
+1. Lc 16.22; 23.43; Fp 1.21-23.
+2. Jó 19.25, 26; 1Co 15.20, 42-46, 54; Fp 3.21; 1Jo 3.2.
 
 ###  P.58. Que consolação lhe traz o artigo sobre a "vida eterna"?
 
 R. Já agora sinto em meu coração o princípio do gozo eterno, <sup>1</sup> pois depois dessa vida obterei a perfeita bem-aventurança que o olho jamais viu, nem o ouvido ouviu, nem o coração humano pode conceber. Uma bem-aventurança para se louvar a Deus eternamente. <sup>2</sup>
 
 1. Jo 17.3; Rm 14.17; 2Co 5.2, 3.
-2. Jo17.24; 1Co 2.9.
+2. Jo 17.24; 1Co 2.9.
 
 # A Nossa Justificação
 
@@ -614,7 +615,7 @@ Embora a minha consciência me acuse de haver pecado gravemente contra os mandam
 
 Se  tão-somente  aceitar  esse  dom  crendo  fielmente  com  o  coração, <sup>7</sup> Ele me concede isso como se eu jamais tivesse tido ou cometido nenhum pecado, e como se eu mesmo tivesse cumprido toda a obediência que Cristo cumpriu por mim. <sup>8</sup>
 
-1. Rm 3.21-28; Gl 2.16; Ef 2.8, 9; Fl 3.8-11.
+1. Rm 3.21-28; Gl 2.16; Ef 2.8, 9; Fp 3.8-11.
 2. Rm 3.9, 10.
 3. Rm 7.23.
 4. Dt 9.6; Ez 36.22; Tt 3.4, 5.
@@ -623,12 +624,12 @@ Se  tão-somente  aceitar  esse  dom  crendo  fielmente  com  o  coração, <sup
 7. Jo 3.18; At 16.30, 31; Rm 3.22.
 8. Rm 4.24, 25; 2Co 5.21.
 
-###  P.61. Por quê você diz que é justo somente pela fé?
+###  P.61. Por que você diz que é justo somente pela fé?
 
 R. Eu o digo não porque sou agradável a Deus graças ao valor da minha fé, pois somente a satisfação, a justiça e santidade de Cristo é a minha justiça diante de Deus. <sup>1</sup> É somente pela fé que posso receber e fazer dessa justiça a minha própria justiça. <sup>2</sup>
 
 1. 1Co 1.30, 31; 2.2.
-2. Rm10.10; 1Jo 5.10-12.
+2. Rm 10.10; 1Jo 5.10-12.
 
 ## DIA DO SENHOR 24
 
@@ -644,7 +645,7 @@ R. Porque a justiça que pode subsistir diante do juízo de Deus deve ser absolu
 R. Essa recompensa não é por mérito, mas é um dom de graça. <sup>2</sup>
 
 1. Mt 5.12; Hb 11.6.
-2. Lc 17.10; 2 Tm 4.7, 8.
+2. Lc 17.10; 2Tm 4.7, 8.
 
 ###  P.64. Esse ensinamento não torna as pessoas descuidadas e ímpias?
 
@@ -660,14 +661,15 @@ R. Não. É impossível que os que são enxertados em Cristo pela verdadeira fé
 
 R. Vem do Espírito Santo, <sup>1</sup> que a opera em nossos corações pela pregação do evangelho, <sup>2</sup> e a fortalece pelo uso dos sacramentos. <sup>3</sup>
 
-1. Jo 3.5; 1Co 2.10-14; Ef 2.8; Fl 1.29.
-2. Rm 10.17; 1Pe 1.23-25. 3. Mt 28.19, 20; 1Co 10.16.
+1. Jo 3.5; 1Co 2.10-14; Ef 2.8; Fp 1.29.
+2. Rm 10.17; 1Pe 1.23-25.
+3. Mt 28.19, 20; 1Co 10.16.
 
 ###  P.66. O que são sacramentos?
 
 R. Os sacramentos são sinais e selos santos e visíveis. Foram  instituídos  por  Deus  para  que  pelo  uso  deles  Ele  pudesse,  o mais claramente possível, nos declarar e selar a promessa do evangelho. <sup>1</sup>
 
-E esta é a promessa: que Deus nos concede graciosamente perdão de pecados e vida eterna por causa dos sacrifícios de Cristo ofertado na cruz. <sup>2</sup>
+E esta é a promessa: que Deus nos concede graciosamente perdão de pecados e vida eterna por causa do sacrifício de Cristo ofertado na cruz. <sup>2</sup>
 
 1. Gn 17.11; Dt 30.6; Rm 4.11.
 2. Mt 26.27, 28; At 2.38; Hb 10.10.
@@ -680,7 +682,7 @@ O Espírito Santo nos ensina no Evangelho e nos garante pelos sacramentos  que  
 
 1. Rm 6.3; 1Co 11.26; Gl 3.27.
 
-## P.68. Quantos sacramentos Cristo instituiu na nova aliança?
+### P.68. Quantos sacramentos Cristo instituiu na nova aliança?
 
 R. Dois: O santo batismo e a santa ceia. <sup>1</sup>
 
@@ -688,7 +690,7 @@ R. Dois: O santo batismo e a santa ceia. <sup>1</sup>
 
 # O Santo Batismo
 
-##  DIA DO SENHOR 26
+## DIA DO SENHOR 26
 
 ###  P.69. Como o santo batismo lhe faz saber e lhe assegura que o único sacrifício de Cristo na cruz lhe beneficia?
 
@@ -710,7 +712,7 @@ Ser  lavado  com  o  Seu  Espírito  significa  ser  renovado  pelo  Espírito S
 
 ###  P.71. Onde Cristo prometeu que nos lavaria com o Seu sangue e Espírito tão certo quanto somos lavados com a água do batismo?
 
-R . Na instituição do batismo, onde Ele afirma: 
+R. Na instituição do batismo, onde Ele afirma:
 
 _"Ide,  portanto,  fazei  discípulos  de  todas  as nações,  batizando-os  em nome do Pai, e do Filho, e do Espírito Santo"_ (Mt 28.19).
 
@@ -724,7 +726,7 @@ Essa promessa se repete onde a Escritura chama o batismo de lavar regenerador e 
 
 R. Não, somente o sangue de Jesus Cristo e o Espírito Santo nos purificam de todo o pecado. <sup>1</sup>
 
-1. Mt 3.11; 1Pe 3.21; 1 Jo 1.7.
+1. Mt 3.11; 1Pe 3.21; 1Jo 1.7.
 
 ###  P.73. Então, por que o Espírito Santo chama o batismo de "lavar regenerador" e de "purificação de pecados"?
 
@@ -734,10 +736,10 @@ Ele nos quer ensinar que o sangue e o Espírito de Cristo removem os nossos peca
 
 Porém, ainda mais importante, Ele nos quer assegurar por meio dessa garantia  e  sinal  divinos  que  somos  tão  verdadeiramente  purificados espiritualmente dos nossos pecados, assim como somos fisicamente lavados com a água. <sup>2</sup>
 
-1. 1Co 6.11; Ap 1.5; 7-14.
+1. 1Co 6.11; Ap 1.5; 7.14.
 2. Mt 16.16; At 2.38; Rm 6.3, 4; Gl 3.27.
 
-## P.74. As crianças pequenas devem ser batizadas?
+### P.74. As crianças pequenas devem ser batizadas?
 
 R. Sim.
 
@@ -808,7 +810,7 @@ Do mesmo modo que a água do batismo não se transforma no sangue de Cristo nem 
 1. Ef 5.26; Tt 3.5.
 2. Mt 26.26-29.
 3. 1Co 10.16, 17; 11.26-28.
-4. Gn 17.10, 11; Ex 12.11, 13; 1Co 10.3, 4; 1Pe 3.21.
+4. Gn 17.10, 11; Êx 12.11, 13; 1Co 10.3, 4; 1Pe 3.21.
 
 ###  P.79. Por que, então, Cristo chama o pão de "Seu corpo" e o cálice de "Seu sangue", ou de a "nova aliança no Seu sangue", e por que Paulo fala da comunhão do corpo e do sangue de Cristo?
 
@@ -826,11 +828,11 @@ E, ainda mais, Ele nos quer assegurar por esse sinal e garantia visíveis, prime
 
 ###  P.80. Qual é a diferença entre a Ceia do Senhor e a missa do papa?
 
-R. A Ceia do Senhor nos testifica, primeiramente, que temos o perdão completo  de  todos  os  nossos  pecados  pelo  único  sacrifício  de  Jesus Cristo, que Ele mesmo realizou na cruz de uma vez por todas; <sup>1</sup> em segundo lugar,que pelo Espírito Santo somos enxertados em Cristo, <sup>2</sup> o qual está agora no céu em Seu corpo verdadeiro à mão direita do Pai, <sup>3</sup> e é onde Ele quer ser adorado. <sup>4</sup>
+R. A Ceia do Senhor nos testifica, primeiramente, que temos o perdão completo  de  todos  os  nossos  pecados  pelo  único  sacrifício  de  Jesus Cristo, que Ele mesmo realizou na cruz de uma vez por todas; <sup>1</sup> em segundo lugar, que pelo Espírito Santo somos enxertados em Cristo, <sup>2</sup> o qual está agora no céu em Seu corpo verdadeiro à mão direita do Pai, <sup>3</sup> e é onde Ele quer ser adorado. <sup>4</sup>
 
 A missa, no entanto, ensina primeiro que nem os vivos nem os mortos têm o perdão de pecados por meio do sofrimento de Cristo se Ele não for  ainda  sacrificado  diariamente  em favor  deles  pelos  sacerdotes;  e em segundo lugar, que Cristo está presente corporalmente na forma do pão e do vinho, e neles deve ser adorado. A missa, portanto, é basicamente nada mais que a negação do único sacrifício e sofrimento de Jesus Cristo, e é uma idolatria maldita.
 
-1. Mt 26.28; Jo 10.30; Hb 7.27; 9.12, 25, 26; 10..10-18.
+1. Mt 26.28; Jo 10.30; Hb 7.27; 9.12, 25, 26; 10.10-18.
 2. 1Co 6.17; 10.16, 17.
 3. Jo 20.17; At 7.55, 56; Hb 1.3; 8.1.
 4. Jo 4.21-24; Fp 3.20; Cl 3.1; 1Ts 1.10.
@@ -859,13 +861,13 @@ R. A pregação do santo evangelho e a disciplina eclesiástica.
 
 É por esses dois meios que o reino do céu se abre para os que creem, e se fecha para os incrédulos. <sup>1</sup>
 
-1. Mt 16.19; Jo 20. 21-23.
+1. Mt 16.19; Jo 20.21-23.
 
 ###  P.84. Como se abre e se fecha o reino do céu pela pregação do evangelho?
 
 R. De  acordo  com  o  mandamento  de  Cristo,  o  reino  do  céu  se  abre quando se proclama e se testifica de público a todo o crente - individual ou coletivamente - que Deus perdoou de fato a todos os seus pecados por causa dos méritos de Cristo, sempre que aceitam a promessa do evangelho com fé verdadeira.
 
-O reino do céu se fecha quando se proclama e se testifica a todo os incrédulos  e  hipócritas  que,  enquanto  não  se  arrependerem,  a  ira  de Deus e a condenação eterna repousam sobre eles.
+O reino do céu se fecha quando se proclama e se testifica a todos os incrédulos  e  hipócritas  que,  enquanto  não  se  arrependerem,  a  ira  de Deus e a condenação eterna repousam sobre eles.
 
 Segundo esse testemunho do evangelho, Deus os julgará tanto nessa quanto na vida porvir. <sup>1</sup>
 
@@ -873,15 +875,15 @@ Segundo esse testemunho do evangelho, Deus os julgará tanto nessa quanto na vid
 
 ###  P.85. Como se fecha e se abre o reino do céu pela disciplina eclesiástica?
 
-R. De acordo com o mandamento de Cristo, aqueles que se chamam de cristãos mas que se mostram não-cristãos na doutrina ou na vida devem ser, em primeiro lugar e de modo fraternal, admoestado mais de uma vez.
+R. De acordo com o mandamento de Cristo, aqueles que se chamam de cristãos mas que se mostram não-cristãos na doutrina ou na vida devem ser, em primeiro lugar e de modo fraternal, admoestados mais de uma vez.
 
-Se não abandonarem a seus erros nem à sua impiedade, devem ser de- nunciados à igreja, isto é aos presbíteros.
+Se não abandonarem a seus erros nem à sua impiedade, devem ser denunciados à igreja, isto é aos presbíteros.
 
 Se também não derem ouvidos às admoestações deles, serão proibidos presbíteros e do reino de Cristo pelo próprio Deus. <sup>1</sup>
 
 Serão novamente recebidos como membros de Cristo e da igreja quande participar dos sacramentos e excluídos da congregação cristã pelos do prometerem e demonstrarem arrependimento real. <sup>2</sup>
 
-1. Mt 18.15-20; 1Co 5.3-5; 11-13; 2Ts 3.14, 15.
+1. Mt 18.15-20; 1Co 5.3-5; 5.11-13; 2Ts 3.14, 15.
 2. Lc 15.20-24; 2Co 2.6-11.
 
 # ~ PARTE III ~ A Nossa Gratidão
@@ -890,7 +892,7 @@ Serão novamente recebidos como membros de Cristo e da igreja quande participar 
 
 ###  P.86. Se fomos libertados da nossa miséria somente pela graça através de Cristo, sem nenhum mérito nosso, por que então devemos praticar boas obras?
 
-R. Por que Cristo, tendo nos remido pelo Seu sangue, também nos renova por Seu Espírito Santo à Sua imagem para que, com toda a nossa vida, mostremo-nos gratos a Deus por Seus benefícios <sup>1</sup> e para que Ele seja louvado por nós. <sup>2</sup>
+R. Porque Cristo, tendo nos remido pelo Seu sangue, também nos renova por Seu Espírito Santo à Sua imagem para que, com toda a nossa vida, mostremo-nos gratos a Deus por Seus benefícios <sup>1</sup> e para que Ele seja louvado por nós. <sup>2</sup>
 
 Além disso, para que tenhamos a certeza da nossa fé por causa dos seus frutos, <sup>3</sup> e que pelo novo viver piedoso possamos ganhar os nossos próximos para Cristo. <sup>4</sup>
 
@@ -901,7 +903,7 @@ Além disso, para que tenhamos a certeza da nossa fé por causa dos seus frutos,
 
 ###  P.87. Podem ser salvos aqueles que não abandonam o modo de viver ingrato e impenitente e não se convertem a Deus?
 
-R. Não, de modo nenhum. do céu.
+R. Não, de modo nenhum.
 
 A Escritura diz que nenhum impuro, idólatra, adúltero, ladrão, avarento, bêbado, maldizente, assaltante ou semelhante herdará o reino do céu. <sup>1</sup>
 
@@ -958,7 +960,7 @@ _Eu sou o SE NHOR, teu Deus, que te tirei da terra do Egito, da casa da servidã
 9. _Não dirás falso testemunho contra o teu próximo._
 10. _Não cobiçarás a casa do teu próximo. Não cobiçarás a mulher do teu próximo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento, nem coisa alguma que pertença ao teu próximo"._ <sup>1</sup>
 
-1. Ex 20.1-17; Dt 5.6-21.
+1. Êx 20.1-17; Dt 5.6-21.
 
 ###  P.93. Como estão divididos estes mandamentos?
 
@@ -968,7 +970,7 @@ R. Em duas partes. A primeira nos ensina como viver com relação a Deus; a segu
 
 ###  P.94. Que exige o SENHOR no primeiro mandamento?
 
-R. Que, por amor a minha salvação, devo evitar e fugir de toda idolatria, <sup>1</sup> feitiçaria, superstição <sup>2</sup> e  invocação a santos ou a outras criaturas. <sup>3</sup>
+R. Que, por amor à minha salvação, devo evitar e fugir de toda idolatria, <sup>1</sup> feitiçaria, superstição <sup>2</sup> e  invocação a santos ou a outras criaturas. <sup>3</sup>
 
 E  que  devo  reconhecer  corretamente  ao  único  e  verdadeiro  Deus, <sup>4</sup> confiar somente nEle, <sup>5</sup> submeter-me a Ele em toda humildade <sup>6</sup> e paciência, <sup>7</sup> só  dEle  esperar  todo  o  bem, <sup>8</sup> e  que  devo  O  amar, <sup>9</sup> temer <sup>10</sup> e honrar <sup>11</sup> com todo o meu coração.
 
@@ -1006,20 +1008,20 @@ R. Que não façamos a imagem de Deus em hipótese alguma, <sup>1</sup> nem O ad
 
 R. Deus não pode nem deve ser visivelmente representado de nenhuma maneira. As criaturas podem ser representadas, mas Deus nos proíbe fazer ou ter imagens delas para adorá-las ou para servir a Deus por meio delas. <sup>1</sup>
 
-1. Ex 34.13, 14, 17; Nm 33.52; 2Rs 18.4, 5; Is 40.25.
+1. Êx 34.13, 14, 17; Nm 33.52; 2Rs 18.4, 5; Is 40.25.
 
 ###  P.98. Quer dizer que não se pode tolerar as imagens nas igrejas como "livros para os leigos"?
 
 R.  Não.  Pois  não  devemos  querer  ser  mais  sábios  do  que  o  próprio Deus. Ele quer que o Seu povo seja ensinado não por meio de ídolos mudos <sup>1</sup> mas pela pregação viva da Sua Palavra. <sup>2</sup>
 
-1. Rm 10.14, 15, 17; 2 Tm 3.16, 17; 2Pe 1.19.
+1. Rm 10.14, 15, 17; 2Tm 3.16, 17; 2Pe 1.19.
 2. Jr 10.8; Hc 2.18-20.
 
 ## DIA DO SENHOR 36
 
 ###  P.99. O que se exige no terceiro mandamento?
 
-R. Que não blasfememos nem façamos mau uso o Nome de Deus por maldição, <sup>1</sup> perjúrio <sup>2</sup> ou  votos  desnecessários, <sup>3</sup> e  que  não  participemos, por omissão silenciosa, desses terríveis pecados. <sup>4</sup>
+R. Que não blasfememos nem façamos mau uso do Nome de Deus por maldição, <sup>1</sup> perjúrio <sup>2</sup> ou  votos  desnecessários, <sup>3</sup> e  que  não  participemos, por omissão silenciosa, desses terríveis pecados. <sup>4</sup>
 
 Antes devemos usar o santo nome de Deus somente com temor e reverência, <sup>5</sup> para que possamos confessá-lO corretamente, <sup>6</sup> invocá-lO, <sup>7</sup> e O glorificar com todas as nossas palavras e obras. <sup>8</sup>
 
@@ -1029,7 +1031,7 @@ Antes devemos usar o santo nome de Deus somente com temor e reverência, <sup>5<
 4. Lv 5.1; Pv 29.24.
 5. Sl 99.1-5; Is 45.23; Jr 4.2.
 6. Mt 10.32, 33; Rm 10.9, 10.
-7. Sl 50.14, 15. 1Tm 2.8.
+7. Sl 50.14, 15; 1Tm 2.8.
 8. Rm 2.24; Cl 3.17; 1Tm 6.1.
 
 ###  P.100. Será que blasfemar o Nome de Deus por juramentos e maldições é um pecado tão grande que Deus se ira também contra aqueles que não impedem nem proíbem isso o tanto quanto podem?
@@ -1050,7 +1052,7 @@ R. Sim, quando o governo o exige de seus súditos, ou quando a necessidade o exi
 Esse tipo de juramento tem por base a Palavra de Deus <sup>1</sup> e  foi  assim utilizado da maneira correta pelos santos do Velho e do Novo Testamentos. <sup>2</sup>
 
 1. Dt 6.13; 10.20; Jr 4.1, 2; Hb 6.16.
-2. Gn 21.24; 31-53; Js 9.15; 1Sm 24.22; 1Rs 1.29, 30; Rm 1.9; 2Co 1.23.
+2. Gn 21.24; 31.53; Js 9.15; 1Sm 24.22; 1Rs 1.29, 30; Rm 1.9; 2Co 1.23.
 
 ###  P.102. Podemos também jurar pelos santos ou por outras criaturas?
 
@@ -1065,7 +1067,7 @@ Nenhuma criatura é digna de uma tal honra. <sup>2</sup>
 
 ###  P.103. O que exige Deus no quarto mandamento?
 
-R. _Primeiro_,  que o ministério do evangelho e as escolas cristãs sejam mantidas <sup>1</sup> e que eu, especialmente no dia de descanso, seja diligente em ir à igreja de Deus <sup>2</sup> para ouvir à Palavra de Deus, <sup>3</sup> participar dos sacramentos, <sup>4</sup> para invocar publicamente ao Senhor <sup>5</sup> e para praticar a caridade cristã para com os necessitados. <sup>6</sup>
+R. _Primeiro_,  que o ministério do evangelho e as escolas cristãs sejam mantidas <sup>1</sup> e que eu, especialmente no dia de descanso, seja diligente em ir à igreja de Deus <sup>2</sup> para ouvir a Palavra de Deus, <sup>3</sup> participar dos sacramentos, <sup>4</sup> para invocar publicamente ao Senhor <sup>5</sup> e para praticar a caridade cristã para com os necessitados. <sup>6</sup>
 
 _Segundo_, para que em todos os dias da minha vida eu cesse as minhas más obras, deixe o Senhor operar em mim por Seu Espírito Santo, e assim começar nesta vida o descanso eterno. <sup>7</sup>
 
@@ -1081,9 +1083,11 @@ _Segundo_, para que em todos os dias da minha vida eu cesse as minhas más obras
 
 ###  P.104. O que exige Deus no quinto mandamento?
 
-R. Que eu demonstre toda honra, amor e fidelidade a meu pai e à minha mãe, e a todos os meus superiores; que eu me submeta devidamente às suas boas instrução e disciplina 1 e que também seja paciente com as suas fraquezas e defeitos, 2 pois é a vontade de Deus nos governar pelas mãos deles. 3
+R. Que eu demonstre toda honra, amor e fidelidade a meu pai e à minha mãe, e a todos os meus superiores; que eu me submeta devidamente às suas boas instrução e disciplina <sup>1</sup> e que também seja paciente com as suas fraquezas e defeitos, <sup>2</sup> pois é a vontade de Deus nos governar pelas mãos deles. <sup>3</sup>
 
-1. Ex 21.17; Pv 1.8; 4.1; Rm 13.1, 2; Ef 5.21, 22; 6.1-9; Cl 3.18-4.1. 2. Pv 20.20; 23.22; 1Pe 2.18. 3. Mt 22.21, Rm 13.1-8; Ef 6.1-9; Cl 3.18-21.
+1. Êx 21.17; Pv 1.8; 4.1; Rm 13.1, 2; Ef 5.21, 22; 6.1-9; Cl 3.18-4.1.
+2. Pv 20.20; 23.22; 1Pe 2.18.
+3. Mt 22.21; Rm 13.1-8; Ef 6.1-9; Cl 3.18-21.
 
 ## DIA DO SENHOR 40
 
@@ -1098,7 +1102,7 @@ Por isso também o governo empunha a espada para impedir homicídios. <sup>4</su
 1. Gn 9.6; Lv 19.17, 18; Mt 5.21, 22; 26.52.
 2. Pv 25.21, 22; Mt 18.35; Rm 12.19; Ef 4.26.
 3. Mt 4.7; 26.52; Rm 13.11-14.
-4. Gn 9.6; Ex 21.14; Rm 13.4.
+4. Gn 9.6; Êx 21.14; Rm 13.4.
 
 ###  P.106. Mas, esse mandamento fala somente de matar?
 
@@ -1115,7 +1119,7 @@ Deus ao condenar a inveja, o ódio, a ira e o desejo de vingança nos ordena a a
 
 1. Mt 7.12; 22.39; Rm 12.10.
 2. Mt 5.5; Lc 6.36; Rm 12.10, 18; Gl 6.1, 2; Ef 4.2; Cl 3.12; 1Pe 3.8.
-3. Ex 23.4, 5; Mt 5.44, 45; Rm 12.20.
+3. Êx 23.4, 5; Mt 5.44, 45; Rm 12.20.
 
 ## DIA DO SENHOR 41
 
@@ -1129,7 +1133,7 @@ R. Que toda a impureza sexual é amaldiçoada por Deus. <sup>1</sup> Por isso de
 
 ###  P.109. Neste mandamento, Deus só proíbe o adultério e pecados vergonhosos semelhantes?
 
-R . Desde que somos, corpo e alma, templos do Espírito Santo, é a vontade de Deus que nos conservemos puros e santos. Por isso Ele proíbe todas as ações impuras, gesticulações, palavras, pensamentos, desejos, <sup>1</sup> e tudo aquilo que possa nos induzir à impureza. <sup>2</sup>
+R. Desde que somos, corpo e alma, templos do Espírito Santo, é a vontade de Deus que nos conservemos puros e santos. Por isso Ele proíbe todas as ações impuras, gesticulações, palavras, pensamentos, desejos, <sup>1</sup> e tudo aquilo que possa nos induzir à impureza. <sup>2</sup>
 
 1. Mt 5.27-29; 1Co 6.18-20; Ef 5.3, 4.
 2. 1Co 15.33; Ef 5.18.
@@ -1142,7 +1146,7 @@ R. Deus não apenas proíbe o roubo e o furto que as autoridades punem <sup>1</s
 
 Além disso Deus proíbe toda a avareza <sup>4</sup> e todo o abuso e desperdício de Suas dádivas. <sup>5</sup>
 
-1. Ex 22.1; 1Co 5.9, 10; 6.9, 10.
+1. Êx 22.1; 1Co 5.9, 10; 6.9, 10.
 2. Dt 25.13-16; Sl 15.5; Pv 11.1; 12.22; Ez 45.9-12; Lc 6.35.
 3. Mq 6.9-11; Lc 3.14; Tg 5.1-6.
 4. Lc 12.15; Ef 5.5.
@@ -1171,9 +1175,9 @@ Antes devo repudiar toda mentira e engano, obras próprias do diabo, para não t
 
 ###  P.113. O que exige de nós o décimo mandamento?
 
-R. Que nem o mais leve pensamento ou desejo contrário a quaisquer mandamentos de Deus jamais deveriam se levantar em nosso coração.
+R. Que nem o mais leve pensamento ou desejo contrário a quaisquer mandamentos de Deus jamais deveria se levantar em nosso coração.
 
-Antes, devemos sempre detestar de todo coração a todo o pecado e, nos deleitar em toda a justiça. <sup>1</sup>
+Antes, devemos sempre detestar de todo coração a todo o pecado e nos deleitar em toda a justiça. <sup>1</sup>
 
 1. Sl 19.7-14; 139.23, 24; Rm 7.7, 8.
 
@@ -1181,9 +1185,9 @@ Antes, devemos sempre detestar de todo coração a todo o pecado e, nos deleitar
 
 R. Não.
 
-Pois  até  mesmo  os  mais  santos  nessa  vida  só  têm  um  leve  começo dessa obediência. <sup>1</sup> Mesmo assim, eles começam a viver - com sincero fervor  e  propósito  -não  apenas  segundo  alguns  mandamentos  de Deus, mas conforme todos eles. <sup>2</sup>
+Pois  até  mesmo  os  mais  santos  nessa  vida  só  têm  um  leve  começo dessa obediência. <sup>1</sup> Mesmo assim, eles começam a viver - com sincero fervor  e  propósito  - não  apenas  segundo  alguns  mandamentos  de Deus, mas conforme todos eles. <sup>2</sup>
 
-1. Ec 7.20; Rm 7.14, 15; 1Co 13.9; 1Jo 1.8
+1. Ec 7.20; Rm 7.14, 15; 1Co 13.9; 1Jo 1.8.
 2. Sl 1.1, 2; Rm 7.22-25; Fp 3.12-16.
 
 ###  P.115. Se nessa vida ninguém consegue obedecer perfeitamente os Dez Mandamentos, por que Deus manda que sejam pregados com tanto rigor?
@@ -1216,8 +1220,9 @@ _Segundo_, devemos ter plena consciência da nossa necessidade e miséria, para 
 
 _Terceiro_, devemos descansar no fundamento inabalável - do qual não somos merecedores - de que Deus com certeza ouvirá às nossas orações por causa de Cristo, nosso Senhor, conforme Ele nos prometeu na Sua Palavra.
 
-1. Sl 145.18-20; Jo 4.22-24; Rm 8.26, 27; Tg 1.5; 1Jo 5.14, 15 ; Ap 19.10.
-2. 2Cr 7.14; 20.12; Sl 2.11; 34.18; 62.8; Is 66.2; Ap 4. 3. Dn 9.17-19; Mt 7.8; Jo 14.13, 14; 16.23; Rm 10.13; Tg 1.6.
+1. Sl 145.18-20; Jo 4.22-24; Rm 8.26, 27; Tg 1.5; 1Jo 5.14, 15; Ap 19.10.
+2. 2Cr 7.14; 20.12; Sl 2.11; 34.18; 62.8; Is 66.2; Ap 4.
+3. Dn 9.17-19; Mt 7.8; Jo 14.13, 14; 16.23; Rm 10.13; Tg 1.6.
 
 ###  P.118. O que foi que Deus ordenou que Lhe pedíssemos?
 
@@ -1252,7 +1257,7 @@ Deus, por meio de Cristo, tornou-se o nosso Pai, e se os nossos pais não  nos  
 
 1. Mt 7.9-11; Lc 11.11-13.
 
-###  P.121. Por que se acrescentou 'que estás nos céu'?
+###  P.121. Por que se acrescentou 'que estás nos céus'?
 
 R. Essas palavras nos ensinam a não pensar na majestade de Deus de modo terreno, <sup>1</sup> e a esperar do Seu poder infinito tudo aquilo que necessitamos para os nossos corpos e almas. <sup>2</sup>
 
@@ -1272,7 +1277,7 @@ Que nos concedas, antes de mais nada, que possamos Te conhecer da maneira corret
 Também que nos concedas que dirijamos toda a nossa vida - ou pensamentos, palavras e ações - de tal maneira que o Teu nome não seja blasfemado por nossa causa, mas que seja sempre honrado e glorificado. <sup>3</sup>
 
 1. Jr 9.23, 24; 31.33, 34; Mt 16.17; Jo 17.3.
-2. Ex 34.5-8; Sl 145; Jr 32.16-20; Lc 1.46-55, 68-75; Rm 11.33-36.
+2. Êx 34.5-8; Sl 145; Jr 32.16-20; Lc 1.46-55, 68-75; Rm 11.33-36.
 3. Sl 115.1; Mt 5.16.
 
 ## DIA DO SENHOR 48
@@ -1298,7 +1303,7 @@ Que faças todas essas coisas até que venha a plenitude do Teu reino, em que se
 
 ## DIA DO SENHOR 49
 
-## P.124. Qual é a terceira petição?
+### P.124. Qual é a terceira petição?
 
 R. _"Faça-se a tua vontade, assim na terra como no céu"_.
 
@@ -1361,7 +1366,7 @@ Queiras, portanto, sustentar-nos e fortalecer-nos pelo poder do Teu Espírito Sa
 5. Mt 10.19, 20; 26.41; Mc 13.33; Rm 5.3-5.
 6. 1Co 10.13; 1Ts 3.13; 5.23.
 
-###  P.128. Com é que você conclui a sua oração?
+###  P.128. Como é que você conclui a sua oração?
 
 R. _"Pois teu é o reino, o poder e a glória para sempre"_.
 
@@ -1376,4 +1381,4 @@ Tudo isso Te pedimos porque, como nosso Rei com poder sobre todas as coisas, tan
 
 R. _Amém_ significa: é verdadeiro e certo. Pois é mais certo e verdadeiro que Deus ouviu a minha oração, do que o sentimento que tenho em meu coração de desejar isso dEle. <sup>1</sup>
 
-1. Is 65.24; 2Co 1.20; 2Tm 2.13
+1. Is 65.24; 2Co 1.20; 2Tm 2.13.

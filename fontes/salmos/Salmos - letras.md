@@ -2183,7 +2183,7 @@ No meio dos louvores, louvores de Israel.
 <sup>6</sup> Sou verme, não sou homem; opróbrio de\_homens sou,
 Do povo desprezado; <sup>7</sup> zombado dos que me veem.
 Meneiam a cabeça e\_os lábios a mover:
-<sup>8</sup> Em Deus confiou! Que\_o livre, pois nele tem prazer.!
+<sup>8</sup> Em Deus confiou! Que\_o livre, pois nele tem prazer.
 
 **4**
 <sup>9</sup> Porém, tu és aquele que\_a mim fizeste nascer;
@@ -2393,19 +2393,19 @@ Que buscam a face do Deus de Jacó.
 
 **4**
 <sup>7</sup> Erguei já, ó portas, as vossas cabeças;
-Portais eternais, levantais-vos ao Rei.
+Portais eternais, levantai-vos ao Rei.
 A fim de que entre ali o Rei da Glória,
-Portais eternais, levantais-vos ao Rei.
+Portais eternais, levantai-vos ao Rei.
 
 **5**
 <sup>8</sup> Quem é\_o Rei da Glória,\_este Rei tão glorioso?
 Senhor das batalhas, que\_é forte em poder.
 <sup>9</sup> Erguei já, ó portas, as vossas cabeças;
-Portais eternais, levantais-vos ao Rei.
+Portais eternais, levantai-vos ao Rei.
 
 **6**
 A fim de que entre ali o Rei da Glória,
-Portais eternais levantai-vos ao Rei.
+Portais eternais, levantai-vos ao Rei.
 <sup>10</sup> Quem é\_o Rei da Glória,\_este Rei tão glorioso?
 Ele\_é\_o Rei da Glória, das hostes Senhor!
 
@@ -2659,7 +2659,7 @@ E falsas testemunhas vêm falar.
 <sup>13</sup> Eu creio que verei a tua bondade,
 Sim, na terra dos que viventes são.
 <sup>14</sup> Espera, pois, com fé pelo Senhor Deus;
-Tê valência\_e coragem no viver.
+Tem valência\_e coragem no viver.
 E o Senhor te fortalecerá,
 Sim, ao teu coração vigor dará.
 Espera sempre, pois, pelo Senhor.
@@ -3535,7 +3535,7 @@ Sim, eles buscam se\_acolher,
 <sup>8</sup> Farta a tua casa\_está
 Com abundância, e\_a beber,
 Beber tuas delícias,
-<sup>10</sup> Porque está em ti, Senhor,
+<sup>9</sup> Porque está em ti, Senhor,
 Da vida o manancial.
 Em ti a luz nós vemos.
 
@@ -4367,7 +4367,7 @@ Sob a sua opressão?”
 
 **9**
 <sup>10</sup> Esmigalham-se\_os meus ossos
-Ao insultos receber,
+Aos insultos receber,
 Quando meus opositores
 Vêm dizer perante mim:
 “Onde está, onde se\_encontra
@@ -4530,7 +4530,7 @@ E nem à tua aliança.
 Não desviamos nossos passos.
 E nem o nosso coração
 Veio a se tornar atrás.
-<sup>19</sup> E,\_agora, esmagaste\_à nós
+<sup>19</sup> E,\_agora, esmagaste\_a nós
 Lá onde os chacais habitam
 E com as sombras mais mortais
 Tu envolveste nossas vidas.
@@ -4542,7 +4542,7 @@ Nossas mãos a\_um estranho deus,
 <sup>21</sup> Acaso o Senhor Javé
 Não nos teria feito bem?
 Teria\_agido com acerto
-O que prescruta\_o coração
+O que perscruta\_o coração
 E sabe de todo segredo.
 
 **10**
@@ -4916,7 +4916,7 @@ Seu próprio nome vão à terra dar.
 Morre; qual animal, eis que perece.
 
 **4**
-<sup>13</sup> São néscios, mas tem seguidores maus;
+<sup>13</sup> São néscios, mas têm seguidores maus;
 Sua palavra\_aplaudem com ardor.
 <sup>14</sup> São como\_ovelha, postos a jazer.
 A morte\_é seu pastor; e descerão
@@ -5875,7 +5875,7 @@ Que\_é de Sucote eu medirei.
 
 **4**
 <sup>7</sup> Gileade\_e Manassés são meus;
-Juda é meu legislador.
+Judá é meu legislador.
 A minha força\_é Efraim,
 Sim, da cabeça minha é.
 <sup>8</sup> Eis que Moabe é pra mim
@@ -6028,7 +6028,7 @@ Mais leves do que\_a vaidade.
 **7**
 <sup>10</sup> Não ponhais vossa confiança
 Naquilo que vós extorquis
-Nem na rapina vos gloriem.
+Nem na rapina vos glorieis.
 Se as riquezas aumentam,
 Não coloqueis o coração
 Em vosso enriquecimento.
@@ -6861,7 +6861,7 @@ Aos prisioneiros Ele não despreza.
 
 **14**
 <sup>34</sup> Os céus e\_a terra louvem ao Senhor,
-Mares e tudo\_aquilo que se se move;
+Mares e tudo\_aquilo que se move;
 <sup>35</sup> Pois vai salvar Sião, sua cidade,
 E\_edificar cidades de Judá,
 Pra que\_a possuam e habitem lá.
@@ -7227,7 +7227,7 @@ Gloriosa saudação.
 
 **7**
 <sup>18-19</sup> Seu nome\_excelso nós cantemos,
-Do Israel seu rei.
+De Israel seu rei.
 Os seus milagres exaltemos;
 A fama\_anunciarei.
 Louve\_ao Senhor, porque descerra
@@ -7474,7 +7474,7 @@ Machados e martelos a quebrar.
 **5**
 <sup>7</sup> E deitam fogo\_ao santuário teu,
 Profanam e arrasam tua morada.
-<sup>8</sup> Disseram: “vamos destrui-los logo.”
+<sup>8</sup> Disseram: “vamos destruí-los logo.”
 Queimaram teus lugares divinais.
 
 **6**
@@ -7498,7 +7498,7 @@ Monstros do mar calcaste-os nas águas.
 **9**
 <sup>15</sup> Abriste\_as fontes e ribeiros, sim;
 Impetuosos rios tu secaste.
-<sup>16</sup> Teu é o dia, tua é a noite ;
+<sup>16</sup> Teu é o dia, tua é a noite;
 A luz e\_o sol formaste-os, Senhor.
 
 **10**
@@ -7625,7 +7625,7 @@ Ao vosso Deus, que é o Senhor.
 Fazei votos e os pagai,
 Trazei presentes ao Senhor,
 Todos vós que o rodeais,
-Àquele que deveis temer .
+Àquele que deveis temer.
 <sup>12</sup> Aos reis Deus quebra a soberba;
 Tremendo\_aos reis da terra\_Ele é.
 
@@ -7827,7 +7827,7 @@ Não dominaram o\_apetite seu.
 Quando\_ainda estavam mastigando,
 <sup>31</sup> Foi que se levantou a ira de Deus.
 Entre\_os mais fortes, semeou a morte;
-Prostou também de Israel seus jovens.
+Prostrou também de Israel seus jovens.
 <sup>32</sup> Porém, continuaram a pecar;
 Não creram nos tremendos feitos seus.
 
@@ -8079,7 +8079,7 @@ E\_os anjos em legião com males a cumprir.
 <sup>50</sup> Deu livre curso\_à ira, não poupou ninguém da morte,
 Mas à pestilência Deus a todos eles entregou.
 <sup>51</sup> Feriu de morte\_os filhos, primogênitos do Egito;
-De Cão, nas tendas, as primícias do poder viril.
+De Cam, nas tendas, as primícias do poder viril.
 <sup>52</sup> Seu povo, como\_ovelhas, Deus fez que saísse
 E, como\_um rebanho, no ermo Deus guiou.
 <sup>53</sup> Levou-o\_em segurança e, sem temor, seguiram,
@@ -8201,7 +8201,7 @@ Proclama\_os teus louvores!
 
 ## SALMO 79B
 
-_autor não informado - Saltério de Genebra_
+_autor desconhecido - Saltério de Genebra_
 
 **1**
 <sup>1</sup> Ó Deus, nações vizinhas invadiram,
@@ -8600,7 +8600,7 @@ Pleiteie\_as causas e destino.
 Contra\_o perverso o guardai.
 
 **2**
-<sup>5</sup> Tu que reside nas alturas,
+<sup>5</sup> Tu que resides nas alturas,
 Vesgo\_e de consciência dura.
 Ó poderosos, teu dever
 Não sabes; não há entender.
@@ -8643,7 +8643,7 @@ Contra ti firmam aliança.
 <sup>6</sup> Ismaelitas e\_os de\_Edom,
 Os de Hagar e Moabe,
 <sup>7</sup> Gebal, Amom e Amaleque,
-Como\_os de tiro, a Filístia;
+Como\_os de Tiro, a Filístia;
 <sup>8</sup> Também a\_Assíria\_está com eles,
 Aos filhos de Ló aliados.
 
@@ -9306,7 +9306,7 @@ Qual é\_o mortal que\_escapa desta triste sorte?
 E jure fieldade\_à nossa geração.
 Benignidade tua onde escondeste?
 Que,\_outrora,\_à casa de Davi, teu servo, deste?
-<sup>50</sup> Lembre de nós, do\_opróbio feito\_a teus amados,
+<sup>50</sup> Lembre de nós, do\_opróbrio feito\_a teus amados,
 A\_injúria,\_e fomos pelos povos insultados.
 
 **18**
@@ -9409,7 +9409,7 @@ Qual breve pensamento são.
 <sup>10</sup> Setenta anos é\_o nosso viver;
 Se há vigor, oitenta serão.
 Porém, não passam de canseira\_e dor.
-Depressa vão, e voamos nós .
+Depressa vão, e voamos nós.
 <sup>11</sup> Quem é capaz de conhecer
 A tua ira,\_o teu furor?
 
@@ -9643,7 +9643,7 @@ E assassinam o\_estrangeiro.
 <sup>7</sup> E dizem: “O Deus de Jacó,
 Ele não vê nem caso faz”.
 <sup>8</sup> Ó insensatos, atendei!
-Quando prudentes vós serei?
+Quando prudentes vós sereis?
 
 **4**
 <sup>9</sup> Acaso, quem fez o ouvido
@@ -9888,7 +9888,7 @@ _Vítor Olivier - Saltério de Genebra_
 **1**
 <sup>1</sup> Cantai a Deus um novo canto,
 Cantai a Deus as terras todas.
-<sup>3</sup> O nome dele bendizei
+<sup>2</sup> O nome dele bendizei
 E proclamai sua salvação;
 Dia\_após dia, proclamai-a.
 
@@ -10194,7 +10194,7 @@ _CBS - Old Hundredth_
 <sup>1</sup> Todos os povos celebrai,
 Sim, jubilosos ao Senhor!
 <sup>2</sup> Alegres, ao Senhor servi
-E ͜ apresentai-vos com louvor.
+E\_apresentai-vos com louvor.
 
 **2**
 <sup>3</sup> Sabei que o Senhor é Deus;
@@ -10209,7 +10209,7 @@ Nos átrios, hinos entoai.
 Seu nome todos bendizei.
 
 **4**
-<sup>5</sup> Porque ͜ o Senhor bondoso é;
+<sup>5</sup> Porque\_o Senhor bondoso é;
 Sua graça sempre durará.
 De geração em geração,
 O Senhor sempre é fiel.
@@ -11502,7 +11502,7 @@ Colheram a fartar.
 Também vinhas plantaram,
 Colheram a fartar.
 <sup>38</sup> Deus os abençoou
-E se multiplicaram;;
+E se multiplicaram;
 E o seu gado não
 Veio\_a ser reduzido
 
@@ -11572,7 +11572,7 @@ Que\_é de Sucote eu medirei.
 
 **4**
 <sup>8</sup> Gileade\_e Manassés são meus;
-Juda é meu legislador;
+Judá é meu legislador;
 A minha força\_é Efraim,
 Sim, da cabeça minha é.
 <sup>9</sup> Eis que Moabe\_é, para mim,
@@ -12356,7 +12356,7 @@ Louvai a Deus! Aleluia!
 
 ## SALMO 117B
 
-_CBS - Last uns erfreunen_
+_CBS - Lasst uns erfreuen_
 
 **1**
 <sup>1</sup> Ao Senhor Deus rendei louvor!
@@ -13475,7 +13475,7 @@ _CBS - CWM Rhondda_
 
 **1**
 <sup>1</sup> Alegrei-me quando me disseram:
-“Vamos à Casa de Deus.”.
+“Vamos à Casa de Deus.”
 <sup>2</sup> Nossos pés pararam junto\_às portas,
 Teus portais, Jerusalém,
 <sup>3</sup> Construída bem compacta,
@@ -14459,7 +14459,7 @@ Para sempre, durará.
 <sup>8</sup> E também o sol criou
 Para\_o dia presidir.
 Sim, a sua compaixão,
-Para sempre, durará
+Para sempre, durará.
 
 **9**
 <sup>9</sup> Lua,\_estrelas fez também,
@@ -14543,7 +14543,7 @@ Para sempre, durará.
 <sup>24</sup> E também nos libertou
 Da nossa oposição,
 Pois a sua compaixão,
-Para sempre, durará
+Para sempre, durará.
 
 **23**
 <sup>25</sup> Alimento\_a todos dá,
@@ -15190,7 +15190,7 @@ E com ela suplico, clamando\_ao Senhor.
 A minha\_angústia ao meu Senhor exponho,
 Exponho, sim, à sua presença.
 <sup>3</sup> E, quando\_em mim meu espírito\_esmorece,
-Conheces a minha vereda .
+Conheces a minha vereda.
 
 **2**
 E, no caminho\_em que\_andando estou,
@@ -15694,7 +15694,7 @@ De nome chama todas elas.
 <sup>5</sup> Grande\_é\_o Senhor; é poderoso;
 Não há limite\_ao Majestoso.
 <sup>6</sup> Pois aos humildes Ele\_ampara,
-Os suprimentos Ihes prepara.
+Os suprimentos lhes prepara.
 Rebaixa\_os ímpios para\_a terra,
 Que, orgulhosos, lá prosperam.
 

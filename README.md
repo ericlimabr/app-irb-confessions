@@ -20,7 +20,9 @@ fontes/            textos-fonte em Markdown, por coleção
   dort/              Os Cânones de Dort.md
   salmos/            Salmos - letras.md   + o PDF de origem
   hinos/             Hinos - letras.md    + o PDF de origem
-docs/              FORMATO.md (formato), CONVERSOR.md (decisões da conversão)
+docs/              FORMATO.md (formato), CONVERSOR.md (decisões da conversão),
+                   ACHADOS.md (revisão linha a linha + decisões de convenção),
+                   LEITURAS.md (trechos que precisam de decisão editorial)
 ferramentas/       extrair.py (PDF → Markdown), validar.py (portão de CI)
 content/           JSON gerado pelo conversor (ainda não existe)
 ```
@@ -63,6 +65,12 @@ deliberadamente; não é erro de formato.
 Toda alteração de texto passa por **revisão editorial** antes de ser aceita.
 Correções de digitalização e desvios conhecidos ficam registrados em
 `docs/FORMATO.md` § 8 — são dívidas rastreadas, não licença para editar à vontade.
+
+`docs/ACHADOS.md` é o inventário da leitura linha a linha dos cinco textos: o
+que foi encontrado, onde, e em que nível (grave, forma, revisar). Abre com as
+**decisões de convenção** pendentes (D0-D16) em caixas de seleção; marcar uma
+opção destrava o lote correspondente. `docs/LEITURAS.md` traz as decisões que
+não são convenção, e sim leitura de um trecho (B1-B35).
 
 ---
 
