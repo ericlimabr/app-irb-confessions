@@ -102,7 +102,7 @@ Dt 29.29; 1Co 2.10, 11; 2Co 13.5; 7.10; Mt 5.6.
 
 ### O valor desta certeza
 
-A consciência e a certeza da eleição fornecem aos filhos de Deus maior  motivo para se humilharem diariamente diante dEle, para adorarem a profundidade das Suas misericórdias, para se purificarem e para amarem fervorosamente Àquele que os amou primeiro de modo tão grandioso. Contudo absolutamente não é verdade que a doutrina da eleição e o meditar nela os façam relaxar na observação dos mandamentos de Deus ou os rendam falsamente seguros. No justo juízo de Deus isso normalmente ocorre aos que supõem atrevidamente ter a graça  da  eleição,  ou  que  dela  falam  de  modo  leviano  e  jactancioso, mas que se recusam a andar nos caminhos dos eleitos.
+A consciência e a certeza da eleição fornecem aos filhos de Deus maior  motivo para se humilharem diariamente diante dEle, para adorarem a profundidade das Suas misericórdias, para se purificarem e para amarem fervorosamente Aquele que os amou primeiro de modo tão grandioso. Contudo absolutamente não é verdade que a doutrina da eleição e o meditar nela os façam relaxar na observação dos mandamentos de Deus ou os rendam falsamente seguros. No justo juízo de Deus isso normalmente ocorre aos que supõem atrevidamente ter a graça  da  eleição,  ou  que  dela  falam  de  modo  leviano  e  jactancioso, mas que se recusam a andar nos caminhos dos eleitos.
 
 1Jo 3.3; 4.19.
 
@@ -152,7 +152,7 @@ Depois de haver explanado a verdadeira doutrina da eleição e da reprovação, 
 
 **Erro 1** — O  completo  e  total  decreto  da  eleição  para  a  salvação  é  a vontade de Deus de salvar aos que irão crer e perseverar na fé e na obediência.  Quanto  a  esse  decreto,  nada  mais  que  isso  foi  revelado pela Palavra de Deus.
 
-**Refutação** — Esse erro é um engano e contradiz claramente à Escritura  que  declara  não  somente  que  Deus  irá  salvar  aos  que  creem  mas também que Ele, desde a eternidade, escolheu pessoas específicas. No tempo oportuno ele concede a esses eleitos, em detrimento de outros, a fé em Cristo e a perseverança. _"Manifestei o teu nome aos homens que me deste do mundo"_ (Jo 17.6). _"E creram todos os que haviam sido destinados para a vida eterna"_ (At 13.48). _"assim como nos escolheu nele antes da fundação do mundo, para sermos santos e irrepreensíveis perante ele; e em amor"_ (Ef 1.4).
+**Refutação** — Esse erro é um engano e contradiz claramente a Escritura  que  declara  não  somente  que  Deus  irá  salvar  aos  que  creem  mas também que Ele, desde a eternidade, escolheu pessoas específicas. No tempo oportuno ele concede a esses eleitos, em detrimento de outros, a fé em Cristo e a perseverança. _"Manifestei o teu nome aos homens que me deste do mundo"_ (Jo 17.6). _"E creram todos os que haviam sido destinados para a vida eterna"_ (At 13.48). _"assim como nos escolheu nele antes da fundação do mundo, para sermos santos e irrepreensíveis perante ele; e em amor"_ (Ef 1.4).
 
 **Erro 2** — Há vários tipos de eleição divina para a vida eterna. Uma é geral e indefinida, a outra é específica e definida. Esta última, por sua vez, pode ser: incompleta, revogável, duvidosa e condicional, ou então: completa, irrevogável, cabal e absoluta. Da mesma maneira que há uma eleição para a fé e uma outra para a salvação. Assim, a eleição pode ser para a fé justificadora sem contudo ser definitiva para a salvação.
 
@@ -444,7 +444,7 @@ Depois de haver explanado a verdadeira doutrina da corrupção do homem e a sua 
 
 **Erro 3** — Na morte espiritual os dons espirituais não se separam da vontade do homem, porque a vontade em si jamais se corrompeu, estando apenas impedida pela escuridão da mente e o descontrole das paixões. Se esses obstáculos forem removidos a vontade poderá exercitar toda a sua capacidade inata. A vontade é em si mesma capaz de querer e de escolher, ou não, todo tipo de bem que lhe for apresentado.
 
-**Refutação** — Isso é uma inovação e um erro que tende a exaltar a capacidade do livre-arbítrio, contrário àquilo que o profeta Jeremias declara no capítulo 17.9: _"Enganoso é o coração, mais do que todas as coisas, e desesperadamente corrupto"_. E contrário ao que Paulo escreveu em : _"entre os quais (os filhos da ira) também todos nós andamos outrora, segundo as inclinações da nossa carne, fazendo a vontade da carne e dos pensamentos"_ (Ef 2.3).
+**Refutação** — Isso é uma inovação e um erro que tende a exaltar a capacidade do livre-arbítrio, contrário àquilo que o profeta Jeremias declara no capítulo 17.9: _"Enganoso é o coração, mais do que todas as coisas, e desesperadamente corrupto"_. E contrário ao que Paulo escreveu em Efésios 2.3: _"entre os quais (os filhos da ira) também todos nós andamos outrora, segundo as inclinações da nossa carne, fazendo a vontade da carne e dos pensamentos"_ (Ef 2.3).
 
 **Erro 4** — O homem não-regenerado não está realmente nem completamente morto em pecados, nem privado de toda capacidade para realizar o bem espiritual. Ele ainda é capaz de sentir fome e sede de justiça e de vida, e de oferecer o sacrifício de um espírito contrito e quebrantado que agrada a Deus.
 

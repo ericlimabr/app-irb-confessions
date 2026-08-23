@@ -312,12 +312,10 @@ R. Porque Ele nos salva de todos os nossos pecados, <sup>1</sup> e porque em nin
 
 ###  P.30. Aqueles que buscam com fervor a sua salvação ou bem-estar nos santos, em si mesmos ou em outra coisa qualquer, também creem no único Salvador Jesus?
 
-R. Não. Embora gloriem-se nEle com palavras, eles na verdade negam a Jesus como o único Salvador. <sup>1</sup>
+R. Não. Embora gloriem-se nEle com palavras, eles na verdade negam a Jesus como o único Salvador. <sup>1</sup> Ou Jesus não é um salvador perfeito, ou aqueles que na verdadeira fé aceitam esse salvador têm nele tudo o que precisam para sua salvação. <sup>2</sup>
 
-\[Ou Jesus não é um salvador perfeito, ou aqueles que na verdadeira fé aceitam esse salvador têm nele tudo o que precisam para sua salvação.\] <sup>2</sup>
-
-1. 1Co 1.12, 13; Gl 5.4 2. Cl 1.19, 20;
-2. 2.10; 1Jo 1.7.
+1. 1Co 1.12, 13; Gl 5.4 2.
+2. Cl 1.19, 20; 2.10; 1Jo 1.7.
 
 ## DIA DO SENHOR 12
 
@@ -403,7 +401,7 @@ Assim, por Seu sofrimento, como o único sacrifício de expiação, <sup>2</sup>
 3. Rm 8.1-4; Gl 3.13; Cl 1.13; Hb 9.12; 1Pe 1.18, 19.
 4. Jo 3.16; Rm 3.24-26; 2Co 5.21; Hb 9.15.
 
-###  P.38. Por que Ele 'padeceu sob' o julgamento de 'Pôncio Pilatos?'
+###  P.38. Por que Ele 'padeceu sob' o julgamento de 'Pôncio Pilatos'?
 
 R. Embora inocente, Cristo foi condenado por um juiz terreno, <sup>1</sup> e assim Ele nos livrou do severo juízo de Deus que haveria de cair sobre nós. <sup>2</sup>
 
@@ -783,7 +781,7 @@ _Segundo_: ser unido cada vez mais ao santo corpo de Cristo pelo Espírito Santo
 
 Portanto, embora Cristo esteja no céu <sup>3</sup> e  nós estejamos na terra, somos carne da Sua carne e osso dos Seus ossos <sup>4</sup> e vivemos eternamente e somos governados por um único Espírito, assim como os membros do nosso corpo o são por uma única alma. <sup>5</sup>
 
-1. Jo 6.35, 40, 40-54.
+1. Jo 6.35, 40, 50-54.
 2. Jo 6.55, 56; 1Co 12.13.
 3. At 1.9-11; 3.21; 1Co 11.26; Cl 3.1.
 4. 1Co 6.15, 17; Ef 5.29, 30; 1Jo 4.13.
@@ -879,9 +877,9 @@ R. De acordo com o mandamento de Cristo, aqueles que se chamam de cristãos mas 
 
 Se não abandonarem a seus erros nem à sua impiedade, devem ser denunciados à igreja, isto é aos presbíteros.
 
-Se também não derem ouvidos às admoestações deles, serão proibidos presbíteros e do reino de Cristo pelo próprio Deus. <sup>1</sup>
+Se também não derem ouvidos às admoestações deles, serão proibidos pelos presbíteros de participar dos sacramentos e excluídos da congregação cristã, e do reino de Cristo pelo próprio Deus. <sup>1</sup>
 
-Serão novamente recebidos como membros de Cristo e da igreja quande participar dos sacramentos e excluídos da congregação cristã pelos do prometerem e demonstrarem arrependimento real. <sup>2</sup>
+Serão novamente recebidos como membros de Cristo e da igreja quando prometerem e demonstrarem arrependimento real. <sup>2</sup>
 
 1. Mt 18.15-20; 1Co 5.3-5; 5.11-13; 2Ts 3.14, 15.
 2. Lc 15.20-24; 2Co 2.6-11.
@@ -907,7 +905,7 @@ R. Não, de modo nenhum.
 
 A Escritura diz que nenhum impuro, idólatra, adúltero, ladrão, avarento, bêbado, maldizente, assaltante ou semelhante herdará o reino do céu. <sup>1</sup>
 
-1. 1Co 6.9, 10; Gl 5.19-21; Ef 5.5, 6; Jo 3.14.
+1. 1Co 6.9, 10; Gl 5.19-21; Ef 5.5, 6; 1Jo 3.14.
 
 ## DIA DO SENHOR 33
 
@@ -935,7 +933,7 @@ R. É a alegria sincera em Deus por Cristo, <sup>1</sup> e o amor e o deleite de
 R. Somente  as  que  são  feitas  pela  verdadeira  fé, <sup>1</sup> em  conformidade com a lei de Deus <sup>2</sup> e para a Sua glória, <sup>3</sup> e não aquelas que se baseiam na nossa própria opinião ou em preceitos de homens. <sup>4</sup>
 
 1. Jo 15.5; Rm 14.23; Hb 11.6.
-2. Lv 18.4; 1Sm 15.22; Ef 11.6.
+2. Lv 18.4; 1Sm 15.22; Hb 11.6.
 3. 1Co 10.31.
 4. Dt 12.32; Is 29.13; Ez 10.18, 19; Mt 15.7-9.
 
@@ -945,7 +943,7 @@ R. Somente  as  que  são  feitas  pela  verdadeira  fé, <sup>1</sup> em  confo
 
 ###  P.92. O que diz a lei de Deus?
 
-R. _"Então, falou Deus todas estas palavras:
+R. _"Então, falou Deus todas estas palavras:_
 
 _Eu sou o SE NHOR, teu Deus, que te tirei da terra do Egito, da casa da servidão._
 
@@ -1209,7 +1207,7 @@ R. Porque a oração é a parte mais importante da gratidão que Deus exige de n
 
 Além disso, Deus só concederá a Sua graça e o Espírito Santo àqueles que, constante e sinceramente, Lhe pedem esses dons e O agradecem por eles. <sup>2</sup>
 
-1. Sl 50.14, 15; 116.12-19; 1Ts 6.16-18.
+1. Sl 50.14, 15; 116.12-19; 1Ts 5.16-18.
 2. Mt 7.7, 8; Lc 11.9-13.
 
 ###  P.117. O que é preciso para que nossa oração agrade a Deus e por Ele seja ouvida?
@@ -1218,7 +1216,7 @@ R. _Primeiro_, devemos invocar de coração apenas o único e verdadeiro Deus - 
 
 _Segundo_, devemos ter plena consciência da nossa necessidade e miséria, para que possamos nos humilhar diante de Deus. <sup>2</sup>
 
-_Terceiro_, devemos descansar no fundamento inabalável - do qual não somos merecedores - de que Deus com certeza ouvirá às nossas orações por causa de Cristo, nosso Senhor, conforme Ele nos prometeu na Sua Palavra.
+_Terceiro_, devemos descansar no fundamento inabalável - do qual não somos merecedores - de que Deus com certeza ouvirá às nossas orações por causa de Cristo, nosso Senhor, conforme Ele nos prometeu na Sua Palavra. <sup>3</sup>
 
 1. Sl 145.18-20; Jo 4.22-24; Rm 8.26, 27; Tg 1.5; 1Jo 5.14, 15; Ap 19.10.
 2. 2Cr 7.14; 20.12; Sl 2.11; 34.18; 62.8; Is 66.2; Ap 4.
@@ -1241,9 +1239,9 @@ R. _"Pai nosso, que estás nos céus,_
    e perdoa-nos as nossas dívidas, assim como nós temos perdoado aos nossos devedores;
    e não nos deixes cair em tentação;
    mas livra-nos do mal
-    pois teu é o reino,
-    o poder
-    e a glória para sempre. Amém!"_ <sup>1</sup>
+   pois teu é o reino,
+   o poder
+   e a glória para sempre. Amém!"_ <sup>1</sup>
 
 1. Mt 6.9-13; Lc 11.2-4.
 

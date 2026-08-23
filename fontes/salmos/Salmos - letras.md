@@ -4367,7 +4367,7 @@ Sob a sua opressão?”
 
 **9**
 <sup>10</sup> Esmigalham-se\_os meus ossos
-Aos insultos receber,
+Ao insultos receber,
 Quando meus opositores
 Vêm dizer perante mim:
 “Onde está, onde se\_encontra
@@ -6028,7 +6028,7 @@ Mais leves do que\_a vaidade.
 **7**
 <sup>10</sup> Não ponhais vossa confiança
 Naquilo que vós extorquis
-Nem na rapina vos glorieis.
+Nem na rapina vos gloriem.
 Se as riquezas aumentam,
 Não coloqueis o coração
 Em vosso enriquecimento.
@@ -7227,7 +7227,7 @@ Gloriosa saudação.
 
 **7**
 <sup>18-19</sup> Seu nome\_excelso nós cantemos,
-De Israel seu rei.
+Do Israel seu rei.
 Os seus milagres exaltemos;
 A fama\_anunciarei.
 Louve\_ao Senhor, porque descerra
@@ -8600,7 +8600,7 @@ Pleiteie\_as causas e destino.
 Contra\_o perverso o guardai.
 
 **2**
-<sup>5</sup> Tu que resides nas alturas,
+<sup>5</sup> Tu que reside nas alturas,
 Vesgo\_e de consciência dura.
 Ó poderosos, teu dever
 Não sabes; não há entender.

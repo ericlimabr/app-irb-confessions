@@ -114,10 +114,6 @@ CORRECOES_LEXICAS = {
         "destrui": -1, "destruí": +1,       # 74A
         "opróbio": -1, "opróbrio": +1,      # 89B
         "serei": -1, "sereis": +1,          # 94A
-        "Do": -1,   "De": +1,               # 72B
-        "reside": -1, "resides": +1,        # 82B
-        "gloriem": -1, "glorieis": +1,      # 62A
-        "Ao": -1,   "Aos": +1,              # 42B
         "à": -1,    "a": +1,                # 44A
         "prescruta": -1, "perscruta": +1,   # 44A
         "tem": -1,  "têm": +1,              # 49A
@@ -130,9 +126,12 @@ CORRECOES_LEXICAS = {
     },
     "hinos": {
         "lssac": -1, "Isaac": +1,           # hino 32
-        "Johnn": -2, "John": +2,            # hinos 37 e 38
+        "Johnn": -2, "John": +1,            # hinos 37 e 38 (o 38 virou J. Edwin Orr)
+        "Henry": -1, "Sammis": -1,          # hino 38, autor trocado (B30a)
+        "J": +1, "Edwin": +1, "Orr": +1,    # hino 38, J. Edwin Orr (B30a)
+        "Luiz": -2, "Luís": +2,             # hinos 37 e 38, Salomão Luís Ginsburg (B29b)
         "Walsbam": -1, "Walsham": +1,       # hino 74
-        "a": +1,                            # hino 73, "glória a Deus"
+        # hino 73 "glória Deus": revertido ao impresso, sem divergencia
         # hino 95: anotacao editorial do impresso que nao e' letra
         "Sem": -1, "proposta": -1, "de": -1, "mudança": -1,
     },

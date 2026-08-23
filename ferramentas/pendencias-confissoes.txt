@@ -20,10 +20,6 @@ belgic | ARTIGO 26 | chave-sem-marcador
 belgic | ARTIGO 30 | chave-sem-marcador
 belgic | ARTIGO 37 | chave-sem-marcador
 belgic | ARTIGO 7 | chave-sem-marcador
-belgic | ARTIGO 8 | referencia-malformada
-heidelberg | P.117 | chave-sem-marcador
 heidelberg | P.25 | chave-sem-marcador
-heidelberg | P.30 | chaves-na-mesma-linha
-heidelberg | P.30 | referencia-malformada
 heidelberg | P.47 | chave-sem-marcador
 heidelberg | P.63 | chave-sem-marcador

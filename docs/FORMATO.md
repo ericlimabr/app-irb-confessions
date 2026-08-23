@@ -124,10 +124,14 @@ tanto na vida quanto na morte, <sup>2</sup> ao meu fiel Salvador Jesus Cristo. <
 
 ### 1.6 Bloco de referências
 
-Fecha cada unidade de conteúdo, como último bloco, precedido de linha em branco.
+Fecha a unidade de conteúdo **quando ela tem notas numeradas** (`<sup>N</sup>`),
+como último bloco, precedido de linha em branco. Nem toda unidade o tem: há
+perguntas sem referência e há perguntas cujas referências aparecem no corpo da
+resposta, entre parênteses (§ 1.3) — nesses casos não há bloco.
 
-Nos documentos com notas numeradas (Heidelberg e Confissão Belga), é uma lista
-ordenada com **uma chave por linha**, terminada em ponto:
+Nos documentos com notas numeradas (Heidelberg e Confissão Belga), quando o
+bloco existe, é uma lista ordenada com **uma chave por linha**, terminada em
+ponto:
 
 ```markdown
 1. 1Co 6.19, 20.
