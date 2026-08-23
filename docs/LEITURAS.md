@@ -41,7 +41,7 @@ prometerem e demonstrarem arrependimento real.
 Confere com o Catecismo original (Dia do Senhor 31, P.85), que distingue as
 duas exclusões: a da igreja, pelos presbíteros; a do reino, por Deus.
 
-- [ ] **B1a** Aplicar a reconstrução acima
+- [x] **B1a** Aplicar a reconstrução acima
 - [ ] **B1b** Aplicar com ajustes que eu escrevo abaixo
 - [ ] **B1c** Deixar como está e registrar em § 8.2
 - [ ] **B1z** Minha leitura: ______________________
@@ -53,12 +53,14 @@ duas exclusões: a da igreja, pelos presbíteros; a do reino, por Deus.
 Sumiu o nome do livro. A citação é Ef 2.3, e a Refutação 4 do capítulo I cita a
 mesma passagem como `Efésios 2.3-9`.
 
-- [ ] **B2a** `escreveu em Efésios 2.3:`
+- [x] **B2a** `escreveu em Efésios 2.3:`
 - [ ] **B2b** `escreveu em Ef 2.3:` (forma abreviada do § 1.4)
 - [ ] **B2c** Só remover o espaço antes dos dois-pontos, deixando a lacuna visível
 - [ ] **B2z** Minha leitura: ______________________
 
 ### B3 · Salmo 105B — palavra partida entre duas linhas
+
+> **Métrica:** AFETA — é uma decisão métrica (palavra cantada partida entre duas linhas; juntar muda a estrofe).
 
 **Linhas 11074-11075.**
 
@@ -83,7 +85,7 @@ o seu texto está colado no fim do mesmo parágrafo. Não cabe no aparato
 numerado, porque não é referência bíblica: é glosa editorial.
 
 - [ ] **B4a** Converter em nota de rodapé Markdown (`[^1]`), fora do bloco de referências
-- [ ] **B4b** Manter o `*` e separar o texto da nota em parágrafo próprio
+- [x] **B4b** Manter o `*` e separar o texto da nota em parágrafo próprio
 - [ ] **B4c** Mover a glosa para o `FORMATO.md` § 8 e deixar só o texto confessional
 - [ ] **B4z** Minha leitura: ______________________
 
@@ -99,7 +101,7 @@ referência não corresponde ao texto citado.
 _"provai os espíritos se procedem de Deus"_ é **1Jo 4.1**. O 4.21 diz outra
 coisa ("quem ama a Deus ame também a seu irmão").
 
-- [ ] **B5a** Corrigir para `1Jo 4.1`
+- [x] **B5a** Corrigir para `1Jo 4.1`
 - [ ] **B5b** Manter: o impresso traz assim
 - [ ] **B5z** ______________________
 
@@ -107,7 +109,7 @@ coisa ("quem ama a Deus ame também a seu irmão").
 
 _"Vem, Senhor Jesus!"_ é **Ap 22.20**.
 
-- [ ] **B6a** Corrigir para `Ap 22.20`
+- [x] **B6a** Corrigir para `Ap 22.20`
 - [ ] **B6b** Manter
 - [ ] **B6z** ______________________
 
@@ -116,7 +118,7 @@ _"Vem, Senhor Jesus!"_ é **Ap 22.20**.
 `(Mt 10.32) e dos anjos eleitos (Mt 10.32)`. A segunda deveria apontar para o
 paralelo em Lucas, provavelmente `Lc 12.8`.
 
-- [ ] **B7a** Corrigir a segunda para `Lc 12.8`
+- [x] **B7a** Corrigir a segunda para `Lc 12.8`
 - [ ] **B7b** Remover a segunda
 - [ ] **B7c** Manter
 - [ ] **B7z** ______________________
@@ -125,7 +127,7 @@ paralelo em Lucas, provavelmente `Lc 12.8`.
 
 _"não coma e beba juízo sobre si mesmo"_ é **1Co 11.28, 29**.
 
-- [ ] **B8a** Corrigir para `1Co 11.28, 29`
+- [x] **B8a** Corrigir para `1Co 11.28, 29`
 - [ ] **B8b** Manter
 - [ ] **B8z** ______________________
 
@@ -134,7 +136,7 @@ _"não coma e beba juízo sobre si mesmo"_ é **1Co 11.28, 29**.
 Hífen perdido, como o `Mt 18.1517` que já corrigi. O § 8.2 registra como
 "provavelmente `5.17-26`" — por isso não mexi.
 
-- [ ] **B9a** Corrigir para `Jo 5.17-26` (fecha a mesma classe do `Mt 18.15-17`)
+- [x] **B9a** Corrigir para `Jo 5.17-26` (fecha a mesma classe do `Mt 18.15-17`) — aplicado 2026-08-22
 - [ ] **B9b** Manter até conferir contra o impresso
 - [ ] **B9z** ______________________
 
@@ -145,7 +147,7 @@ Hífen perdido, como o `Mt 18.1517` que já corrigi. O § 8.2 registra como
 - P.87: `Jo 3.14` — pelo contexto (obras da carne), provável `1Jo 3.14`.
 - P.76: `Jo 6.35, 40, 40-54` — o `40` repete; provável `40, 50-54`.
 
-- [ ] **B10a** Aplicar as quatro leituras prováveis acima
+- [x] **B10a** Aplicar as quatro leituras prováveis acima
 - [ ] **B10b** Aplicar só as que eu marcar, uma a uma, abaixo
 - [ ] **B10c** Manter todas até conferir contra o impresso
 - [ ] **B10z** ______________________
@@ -154,7 +156,7 @@ Hífen perdido, como o `Mt 18.1517` que já corrigi. O § 8.2 registra como
 
 Ordem invertida no corpo do texto.
 
-- [ ] **B11a** Corrigir para `Gênesis 1.26 e 27`
+- [x] **B11a** Corrigir para `Gênesis 1.26 e 27`
 - [ ] **B11b** Manter: pode ser ênfase deliberada do autor
 - [ ] **B11z** ______________________
 
@@ -163,7 +165,7 @@ Ordem invertida no corpo do texto.
 `2Jo .8`, `2Jo .9`, `Jd .8`, `Jd .15` na Belga. Os dois livros têm um capítulo
 só, então o ponto solto é ruído — mas o § 1.4 não diz como escrever esse caso.
 
-- [ ] **B12a** `2Jo 8`, `Jd 8` — sem capítulo, e acrescentar a regra ao § 1.4
+- [x] **B12a** `2Jo 8`, `Jd 8` — sem capítulo, e acrescentar a regra ao § 1.4
 - [ ] **B12b** `2Jo 1.8`, `Jd 1.8` — com capítulo explícito
 - [ ] **B12c** Manter
 - [ ] **B12z** ______________________
@@ -184,7 +186,7 @@ por consequência e eu aplico sem perguntar de novo.
 - Dort I.13: `amarem fervorosamente Àquele que os amou` → `Aquele`
 - Dort I, Ref. 1: `contradiz claramente à Escritura` → `a Escritura`
 
-- [ ] **B13a** Corrigir as seis
+- [x] **B13a** Corrigir as seis
 - [ ] **B13b** Corrigir só as que eu marcar
 - [ ] **B13c** Manter todas
 - [ ] **B13z** ______________________
@@ -197,6 +199,8 @@ Trechos em que a frase não se sustenta em português. Proponho leitura onde
 consigo; onde não consigo, digo.
 
 ### B14 · Salmo 102B — a paráfrase inteira
+
+> **Métrica:** AFETA — reescrever a paráfrase inteira mexe na contagem de cada verso.
 
 **Linhas 10395-10523.** Não é um verso solto: a variante toda está áspera.
 
@@ -220,6 +224,8 @@ Não proponho reconstrução: seriam dezenas de decisões poéticas seguidas.
 
 ### B15 · Salmos 140B, 141B, 147A, 147B, 148B — versos isolados
 
+> **Métrica:** AFETA — reescrita de versos; no 148B, "Que da qual" → "Da qual" tira uma sílaba.
+
 Mesma coisa em escala menor, um ou dois versos por salmo:
 
 | Salmo | Linha | Verso |
@@ -242,6 +248,8 @@ Para o 148B tenho leitura: o 148A traz `A qual não há de passar nunca`, então
 
 ### B16 · Quatro versos com leitura provável
 
+> **Métrica:** MISTO — 110B (reescrita) AFETA; 54A (só vírgula) e 72B ("protegê-los", mesma contagem) NÃO afetam.
+
 | Onde | Está | Proponho |
 | --- | --- | --- |
 | Salmo 110B, l. 11842 | `Durante a migra, bebe de torrentes` | o 110A traz `Pelo caminho, bebe na torrente` — não sei o que `migra` seria |
@@ -260,24 +268,30 @@ Para o 148B tenho leitura: o 148A traz `A qual não há de passar nunca`, então
 
 ### B17 · Salmo 12B sem numeração
 
+> **Métrica:** não afeta — marcador de versículo, não texto cantado.
+
 A variante não tem nenhum `<sup>N</sup>`, embora o § 7.3 diga que todos os
 salmos têm. O 12A tem, e as duas cobrem o mesmo salmo.
 
 - [ ] **B17a** Copiar a numeração do 12A, ajustando às quebras de linha do 12B
-- [ ] **B17b** Abrir exceção em § 5.4 para variantes sem numeração
+- [x] **B17b** Abrir exceção em § 5.4 para variantes sem numeração
 - [ ] **B17z** ______________________
 
 ### B18 · Marcadores ausentes
+
+> **Métrica:** não afeta — marcador de versículo.
 
 Salmo 50A (falta o 17), 26A (falta o 3), 78A (falta o 6). Em cada caso sei em
 que linha o versículo começa, mas a posição exata dentro da linha é julgamento.
 
 - [ ] **B18a** Inserir no início da linha em que o versículo começa
 - [ ] **B18b** Você indica a posição
-- [ ] **B18c** Deixar
+- [x] **B18c** Deixar
 - [ ] **B18z** ______________________
 
 ### B19 · Salmo 143A com `<sup>11</sup>` duas vezes
+
+> **Métrica:** não afeta — marcador de versículo.
 
 Linhas 15266 e 15269. As duas linhas são mesmo do v. 11 (`Vivifica-me, ó
 SENHOR, por amor do teu nome`), então uma das marcas sobra — mas não sei se a
@@ -285,17 +299,19 @@ primeira pertence ao fim do v. 10.
 
 - [ ] **B19a** Remover a segunda marca
 - [ ] **B19b** Trocar a primeira por `<sup>10</sup>`
-- [ ] **B19c** Deixar
+- [x] **B19c** Deixar
 - [ ] **B19z** ______________________
 
 ### B20 · Marcadores que se sobrepõem
+
+> **Métrica:** não afeta — marcador de versículo.
 
 Salmo 90A (`4`, `4-5`, `5`), 105A (`14`, `14-15`), 132B (`13-15`, `15`). Um
 intervalo que engloba um número já marcado.
 
 - [ ] **B20a** Remover a marca simples, mantendo o intervalo
 - [ ] **B20b** Remover o intervalo, mantendo as simples
-- [ ] **B20c** Deixar: o impresso pode marcar assim de propósito
+- [x] **B20c** Deixar: o impresso pode marcar assim de propósito
 - [ ] **B20z** ______________________
 
 ---
@@ -310,14 +326,14 @@ de 12 itens, e um `R. :` sozinho numa linha. Já em § 8.1.
 - [ ] **B21a** Romanos como subtítulo das três partes, itens 1-12 corridos
 - [ ] **B21b** Só a lista de 12, sem os romanos
 - [ ] **B21c** Três listas separadas, uma por parte
-- [ ] **B21z** ______________________
+- [x] **B21z** Só está meio mal formatado (para visualização no markdown), mas o conteúdo está correto. Os algarismo romanos separam as três partes do Credo. Os números os doze artigos do Credo
 
 ### B22 · Heidelberg — `<sup>1</sup>` dentro do título da pergunta
 
 P.25, P.47 e P.63 trazem o marcador no `###`, não no corpo.
 
 - [ ] **B22a** Mover para o fim da primeira frase da resposta
-- [ ] **B22b** Deixar: a nota cobre mesmo a pergunta
+- [x] **B22b** Deixar: a nota cobre mesmo a pergunta
 - [ ] **B22z** ______________________
 
 ### B23 · Heidelberg — perguntas sem bloco de referências
@@ -327,7 +343,7 @@ referências estão no corpo, entre parênteses.
 
 - [ ] **B23a** Extrair as referências do corpo para um bloco
 - [ ] **B23b** Abrir exceção em § 1.6 para unidades sem aparato
-- [ ] **B23z** ______________________
+- [x] **B23z** Alucinou meu filho. Essas perguntas eu nem tem referências ou elas foram criadas com as referências dentro da resposta mesmo. Corrija § 1.6 em conformidade.
 
 ### B24 · Heidelberg P.92 e P.119 — itálico e indentação
 
@@ -335,7 +351,7 @@ Em P.92 o `R. _"Então, falou Deus…` abre itálico e aspas e não fecha na lin
 Em P.119 a Oração do Senhor usa 3 espaços de indentação nas sete primeiras
 linhas e 4 nas três últimas.
 
-- [ ] **B24a** Fechar o itálico por linha em P.92; uniformizar P.119 em 3 espaços
+- [x] **B24a** Fechar o itálico por linha em P.92; uniformizar P.119 em 3 espaços
 - [ ] **B24b** Itálico contínuo em todo o bloco, como o § 2.3 descreve
 - [ ] **B24z** ______________________
 
@@ -344,7 +360,7 @@ linhas e 4 nas três últimas.
 `'padeceu sob' o julgamento de 'Pôncio Pilatos?'`
 
 - [ ] **B25a** `'padeceu sob o julgamento de Pôncio Pilatos'?`
-- [ ] **B25b** `'padeceu sob' o julgamento de 'Pôncio Pilatos'?`
+- [x] **B25b** `'padeceu sob' o julgamento de 'Pôncio Pilatos'?`
 - [ ] **B25z** ______________________
 
 ### B26 · Heidelberg P.30 — colchetes escapados
@@ -352,42 +368,50 @@ linhas e 4 nas três últimas.
 `\\[Ou Jesus não é um salvador perfeito…\\]` — construção única no corpus. Nas
 edições, esse período costuma vir como parte da resposta, sem colchetes.
 
-- [ ] **B26a** Remover os colchetes, incorporando à resposta
+- [x] **B26a** Remover os colchetes, incorporando à resposta
 - [ ] **B26b** Converter em citação em bloco
 - [ ] **B26c** Deixar
 - [ ] **B26z** ______________________
 
 ### B27 · Hino 97 sem atribuição
 
+> **Métrica:** não afeta — linha de atribuição, não é cantada.
+
 É o único dos 97 sem linha de autoria. O "Amém tríplice" é tradicional.
 
 - [ ] **B27a** `_Autoria tradicional_`
 - [ ] **B27b** `_autor desconhecido_`, como os demais
-- [ ] **B27c** Deixar sem
+- [x] **B27c** Deixar sem
 - [ ] **B27z** ______________________
 
 ### B28 · Salmo 115A — `LFG`
 
+> **Métrica:** não afeta — atribuição.
+
 Iniciais não expandidas; todos os outros vêm por extenso.
 
 - [ ] **B28a** Expandir para o nome completo: ______________________
-- [ ] **B28b** Deixar as iniciais
+- [x] **B28b** Deixar as iniciais
 - [ ] **B28z** ______________________
 
 ### B29 · `Salomão Luiz` ou `Salomão Luís` Ginsburg
 
+> **Métrica:** não afeta — atribuição.
+
 Hinos 37 e 38 trazem `Luiz`; o 52 traz `Luís`. Mesma pessoa.
 
 - [ ] **B29a** `Luiz` nos três
-- [ ] **B29b** `Luís` nos três
+- [x] **B29b** `Luís` nos três
 - [ ] **B29z** ______________________
 
 ### B30 · Hinos 37 e 38 com a mesma atribuição
 
+> **Métrica:** não afeta — atribuição.
+
 Os dois creditam `John Henry Sammis / Salomão Luiz Ginsburg`. O 38
 ("Sonda-me, ó Deus") costuma ser atribuído a J. Edwin Orr.
 
-- [ ] **B30a** Corrigir o 38 para `J. Edwin Orr`
+- [x] **B30a** Corrigir o 38 para `J. Edwin Orr`
 - [ ] **B30b** Conferir contra o hinário antes de mexer
 - [ ] **B30c** Deixar
 - [ ] **B30z** ______________________
@@ -398,6 +422,8 @@ Os dois creditam `John Henry Sammis / Salomão Luiz Ginsburg`. O 38
 
 ### B31 · Hino 5 — numeração de versículo adiantada
 
+> **Métrica:** não afeta — marcador de versículo.
+
 Os marcadores `<sup>12</sup>` e `<sup>13</sup>` parecem uma linha à frente:
 _"As nossas faltas, perdoar"_ é Mt 6.12 e não leva marcador; o `12` está em
 _"E não nos deixes… cair"_, que é 6.13. Mesma classe do erro do hino 1, já
@@ -405,42 +431,50 @@ corrigido em § 8.2.
 
 - [ ] **B31a** Recuar os dois marcadores uma linha
 - [ ] **B31b** Conferir contra o impresso antes
-- [ ] **B31z** ______________________
+- [x] **B31z** ______________________
 
 ### B32 · Hino 20 — refrão fundido na estrofe
+
+> **Métrica:** não afeta — estrutura (marca de refrão); as palavras cantadas não mudam.
 
 A estrofe 1 tem 8 linhas e as demais 4; as quatro últimas repetem como refrão,
 mas não estão marcadas com `>`. O hino não consta da lista de refrões do § 6.3.
 
 - [ ] **B32a** Separar as 4 linhas como refrão e acrescentar o 20 ao § 6.3
-- [ ] **B32b** Deixar: o impresso não marca refrão aqui
-- [ ] **B32z** ______________________
+- [x] **B32b** Deixar: o impresso não marca refrão aqui
+- [ ] **B32z** Deixar
 
 ### B33 · Hino 23 — `(2x)`
+
+> **Métrica:** não afeta — notação de repetição; cada linha mantém a contagem.
 
 Marca de repetição em 3 linhas, construção única no corpus e não prevista no
 § 5.3.
 
-- [ ] **B33a** Admitir `(2x)` na spec
+- [x] **B33a** Admitir `(2x)` na spec
 - [ ] **B33b** Escrever as linhas repetidas por extenso
 - [ ] **B33c** Remover a marca
 - [ ] **B33z** ______________________
 
 ### B34 · Títulos do índice sem o `!` do corpo
 
+> **Métrica:** não afeta — formatação de índice.
+
 Hinos 9, 13, 16, 26, 27, 31, 62 e 66: o corpo acrescenta `!` que o índice não
 tem. Divergência sistemática, não descuido isolado.
 
 - [ ] **B34a** Alinhar o índice ao corpo (acrescentar o `!`)
 - [ ] **B34b** Alinhar o corpo ao índice (remover o `!`)
-- [ ] **B34c** Deixar: o índice reproduz o sumário do impresso
+- [x] **B34c** Deixar: o índice reproduz o sumário do impresso
 - [ ] **B34z** ______________________
 
 ### B35 · Índice dos hinos em `##`
 
+> **Métrica:** não afeta — formatação de índice.
+
 As 16 seções litúrgicas aparecem como `##` no índice e `#` no corpo, o que
 faz o índice colidir com o nível dos hinos.
 
-- [ ] **B35a** Uniformizar o índice em `#`
+- [x] **B35a** Uniformizar o índice em `#`
 - [ ] **B35b** Deixar: o índice é transcrição do impresso (§ 5.1)
 - [ ] **B35z** ______________________

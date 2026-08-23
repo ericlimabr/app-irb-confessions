@@ -2,7 +2,7 @@
 
 # CLASSIFICAÇÃO LITÚRGICA DOS HINOS
 
-## CÂNTICOS DE TEXTOS BÍBLICOS
+# CÂNTICOS DE TEXTOS BÍBLICOS
 
 1. Os dez mandamentos
 2. O cântico de Simeão
@@ -11,12 +11,12 @@
 5. A oração do Senhor
 6. Buscai primeiro o reino de Deus
 
-## CONFISSÃO DE FÉ
+# CONFISSÃO DE FÉ
 
 7. Credo apostólico
 8. Meu único consolo
 
-## CHAMADO À ADORAÇÃO
+# CHAMADO À ADORAÇÃO
 
 9. Vamos nós louvar a Deus
 10. No santo Dia do Senhor
@@ -26,7 +26,7 @@
 14. Seja louvado!
 15. Teu culto agora, aqui, Senhor
 
-## LOUVOR E ADORAÇÃO
+# LOUVOR E ADORAÇÃO
 
 16. Glória seja ao Pai
 17. Ao Deus de Abraão louvai
@@ -50,19 +50,19 @@
 35. Cristo divino
 36. Dai graças todos vós
 
-## LEI, CONFISSÃO E PERDÃO
+# LEI, CONFISSÃO E PERDÃO
 
 37. Crer e observar
 38. Sonda-me, ó Deus
 39. Se a ti tristeza eu causei, Senhor
 40. Jesus, Senhor, me achego a ti
 
-## LEITURA E PREGAÇÃO DA PALAVRA
+# LEITURA E PREGAÇÃO DA PALAVRA
 
 41. Fonte da celeste vida
 42. Eterno Pai, teu povo congregado
 
-## ORAÇÃO E SÚPLICA
+# ORAÇÃO E SÚPLICA
 
 43. Mestre, o mar se revolta
 44. Oh vem, oh vem, Emanuel
@@ -72,14 +72,14 @@
 48. Ó Senhor que a tudo excedes
 49. Grande Deus, o teu louvor
 
-## OFERTAS E GRATIDÃO
+# OFERTAS E GRATIDÃO
 
 50. Graças te dou por tudo
 51. Graças dou por esta vida
 52. Tudo a ti, Senhor, consagro
 53. Ofertas
 
-## EVANGELHO
+# EVANGELHO
 
 54. Nada mereço
 55. Castelo forte é Nosso Deus
@@ -97,7 +97,7 @@
 67. Em Jesus amigo temos
 68. Graça de Deus, infinito amor
 
-## ATOS REDENTIVOS: NASCIMENTO
+# ATOS REDENTIVOS: NASCIMENTO
 
 69. Vinde, cantai
 70. Surgem anjos proclamando
@@ -106,7 +106,7 @@
 73. Eis dos anjos a harmonia
 74. Quem é esse estranho infante?
 
-## ATOS REDENTIVOS: MORTE
+# ATOS REDENTIVOS: MORTE
 
 75. Jardim das Oliveiras
 76. Rude cruz se erigiu
@@ -115,24 +115,24 @@
 79. O varão de grande dor
 80. Pendurado no madeiro
 
-## ATOS REDENTIVOS: RESSURREIÇÃO
+# ATOS REDENTIVOS: RESSURREIÇÃO
 
 81. Cantai! Exultai!
 82. Cristo já ressuscitou
 83. Foi morto o Salvador
 84. Ressurgiu o Cristo vivo
 
-## ATOS REDENTIVOS: ASCENSÃO
+# ATOS REDENTIVOS: ASCENSÃO
 
 85. Subindo aos céus, disseste
 86. Subiste ao céu, triunfador!
 
-## ATOS REDENTIVOS: RETORNO DE CRISTO
+# ATOS REDENTIVOS: RETORNO DE CRISTO
 
 87. Quando lá do céu descendo
 88. Cristo vem me buscar
 
-## IGREJA E SACRAMENTOS
+# IGREJA E SACRAMENTOS
 
 89. Da igreja o fundamento
 90. Fortalece a tua igreja
@@ -140,7 +140,7 @@
 92. Disposta a mesa, ó Salvador
 93. Ó Cristo, Pão da Vida
 
-## ENCERRAMENTO E DESPEDIDA
+# ENCERRAMENTO E DESPEDIDA
 
 94. Deus vos guarde
 95. Outra vez, o teu louvor
@@ -1257,7 +1257,7 @@ Em glória perenal.
 
 ## 37. CRER E OBSERVAR
 
-_John Henry Sammis / Salomão Luiz Ginsburg_
+_John Henry Sammis / Salomão Luís Ginsburg_
 
 **1**
 Em Jesus confiar, sua lei observar.
@@ -1288,7 +1288,7 @@ Teu querer temos gosto em cumprir.
 
 ## 38. SONDA-ME, Ó DEUS
 
-_John Henry Sammis / Salomão Luiz Ginsburg_
+_J. Edwin Orr / Salomão Luís Ginsburg_
 
 **1**
 Sonda-me, ó Deus, pois vês meu coração;
@@ -2431,7 +2431,7 @@ Vive para revivermos.
 Rei, Profeta e Salvador!
 Louvem todos ao Senhor!
 Toda a terra e os altos céus
-Cantem sempre glória a Deus.
+Cantem sempre glória Deus.
 
 ## 74. QUEM É ESSE ESTRANHO INFANTE?
 
