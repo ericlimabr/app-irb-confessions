@@ -784,6 +784,45 @@ Cada uma pede uma linha no `FORMATO.md` antes de virar regra de validador.
 
 ---
 
+## 8.1 · Marcadores de nota ausentes na fonte — **a corrigir no futuro**
+
+Nove unidades confessionais têm uma **chave de referência sem o marcador
+`<sup>N</sup>` correspondente no corpo**: a lista numerada de referências traz o
+item _N_, mas o superscrito _N_ não aparece no texto. Enquanto o conversor
+achatava os marcadores (decisão D1, revogada pelo R1 em 2026-08-24), o defeito
+ficava invisível; ao **preservar os marcadores** no corpo (para casarem por
+posição com as referências), ele aflorou na exibição.
+
+**Não corrigido agora** — é texto confessional e depende de conferência contra o
+impresso pela autoridade editorial. Fica registrado para correção futura **na
+fonte** (`fontes/belgic/A Confissão Belga.md` e
+`fontes/heidelberg/O Catecismo de Heidelberg.md`): inserir o `<sup>N</sup>`
+ausente no ponto certo do texto.
+
+Já inventariado em `ferramentas/pendencias-confissoes.txt` como
+`chave-sem-marcador` e vigiado por `ferramentas/validar_confissoes.py` (o portão
+reprova se um caso NOVO surgir). A tabela abaixo diz **qual número** falta:
+
+| Documento | Unidade | Nº de refs | Marcador(es) ausente(s) no corpo |
+| --- | --- | --- | --- |
+| Belga | art. 7 | 6 | **5** |
+| Belga | art. 16 | 6 | **6** |
+| Belga | art. 21 | 11 | **9** |
+| Belga | art. 26 | 14 | **1, 5** |
+| Belga | art. 30 | 8 | **5** |
+| Belga | art. 37 | 18 | **3, 14** |
+| Heidelberg | P. 25 | 2 | **1** |
+| Heidelberg | P. 47 | 3 | **1** |
+| Heidelberg | P. 63 | 2 | **1** |
+
+A numeração das referências na exibição continua **completa e correta** (1…N por
+posição); o que falta é só o superscrito no meio do texto. Corrigido um caso na
+fonte, regenere o inventário
+(`python3 ferramentas/validar_confissoes.py --gravar-pendencias`) e rode
+`npm run convert` para propagar ao `content/`.
+
+---
+
 ## 9. O que passou
 
 Vale registrar o que a leitura **confirmou**, para que ninguém volte a conferir.

@@ -97,6 +97,12 @@ aside{grid-area:side;border-right:1px solid var(--hair);background:var(--surface
   border-radius:4px;padding:0 4px;margin-left:auto}
 .grouphdr{font-family:var(--sans);font-size:10.5px;font-weight:700;letter-spacing:.12em;
   text-transform:uppercase;color:var(--faint);padding:14px 16px 5px}
+.subitem{display:flex;gap:8px;align-items:baseline;padding:4px 16px 4px 34px;cursor:pointer;
+  border-left:3px solid transparent}
+.subitem:hover{background:var(--sel)}
+.subitem .snum{font-family:var(--mono);font-size:10.5px;color:var(--accent-soft);min-width:44px;
+  font-variant-numeric:tabular-nums}
+.subitem .sttl{font-size:12.5px;line-height:1.3;color:var(--faint)}
 
 /* ── reader ── */
 main{grid-area:main;overflow-y:auto;min-height:0}
@@ -137,7 +143,12 @@ em{font-style:italic}
 .refs .rk{color:var(--accent-soft);font-weight:500;margin-right:8px;text-transform:uppercase;
   letter-spacing:.08em;font-size:10.5px}
 .refs .r{margin-right:2px}
-.refs .r:not(:last-child)::after{content:' · ';color:var(--hair-strong)}
+.refs:not(.numbered) .r:not(:last-child)::after{content:' · ';color:var(--hair-strong)}
+.refs.numbered{display:grid;grid-template-columns:auto 1fr;gap:2px 8px;align-items:baseline}
+.refs.numbered .rk{grid-column:1 / -1}
+.refs.numbered .r{display:contents}
+.refs.numbered .rn{grid-column:1;color:var(--accent-soft);font-weight:600;text-align:right;
+  font-variant-numeric:tabular-nums}
 
 .empty{color:var(--faint);text-align:center;padding:80px 20px;font-style:italic}
 .legend{max-width:44rem;margin:0 auto;padding:0 40px 60px;color:var(--faint);
@@ -199,7 +210,7 @@ function inline(s){
   return t;
 }
 
-function renderUnit(u){
+function renderUnit(u, kind){
   const role = u.attrs && u.attrs.role;
   const refs = u.attrs && u.attrs.refs;
   const heading = u.attrs && u.attrs.heading;
@@ -208,15 +219,23 @@ function renderUnit(u){
   if (u.kind === 'section') return '<div class="unit full section"><div class="body">'+inline(u.body)+'</div></div>';
   if (u.kind === 'heading') return '<p class="uheading">'+inline(u.body)+'</p>';
 
+  // Confessionais numerados (belgic/heidelberg): a referência de índice i casa com
+  // o marcador <sup>i+1</sup> no corpo. Dort (canons) traz a ref como parágrafo
+  // único não-chaveado (D4) → sem numeração.
+  const numbered = kind === 'confession' || kind === 'catechism';
   const lbl = u.label ? '<div class="lbl">'+esc(u.label)+'</div>' : '<div class="lbl"></div>';
   let refsHtml = '';
   if (refs && refs.length){
-    refsHtml = '<div class="refs"><span class="rk">ref</span>'+
-      refs.map(r=>'<span class="r">'+esc(r)+'</span>').join('')+'</div>';
+    const items = numbered
+      ? refs.map((r,idx)=>'<span class="r"><b class="rn">'+(idx+1)+'</b> '+esc(r)+'</span>').join('')
+      : refs.map(r=>'<span class="r">'+esc(r)+'</span>').join('');
+    refsHtml = '<div class="refs'+(numbered?' numbered':'')+'"><span class="rk">ref</span>'+items+'</div>';
   }
   const head = heading ? '<p class="uheading">'+inline(heading)+'</p>' : '';
-  return '<div class="unit '+u.kind+'">'+lbl+'<div><div>'+head+'<span class="body">'+inline(u.body)+'</span></div>'+refsHtml+'</div></div>';
+  return '<div class="unit '+u.kind+'" id="u-'+esc(u.id)+'">'+lbl+'<div><div>'+head+'<span class="body">'+inline(u.body)+'</span></div>'+refsHtml+'</div></div>';
 }
+
+function renderUnits(coll, doc){ return doc.units.map(u=>renderUnit(u, coll.kind)).join(''); }
 
 function renderDoc(coll, doc){
   const kl = KIND_LABEL[coll.kind] || '';
@@ -235,11 +254,12 @@ function renderDoc(coll, doc){
   const title = doc.title ? '<h1 class="doctitle">'+inline(doc.title)+'</h1>' : '';
   const sub = doc.subtitle ? '<div class="docsub">'+inline(doc.subtitle)+'</div>' : '';
   const metaHtml = meta.length ? '<div class="meta">'+meta.join('')+'</div>' : '';
-  const units = doc.units.map(renderUnit).join('');
+  const units = renderUnits(coll, doc);
   return '<div class="doc"><div class="dochead">'+eyebrow+title+sub+metaHtml+'</div>'+units+'</div>'+
     '<div class="legend">Renderização fiel ao JSON gerado. '+
     '<code>‿</code> = elisão de canto (fonte <code>\\\\_</code>) · '+
-    '<sup>n</sup> = número de versículo · <em>itálico</em> = ênfase/citação da fonte · '+
+    '<sup>n</sup> = marcador de nota nas confissões (casa com a ref n) / número de versículo nos cantados · '+
+    '<em>itálico</em> = ênfase/citação da fonte · '+
     'rótulos e referências como no impresso. Documento <code>'+esc(doc.id)+'</code>.</div>';
 }
 
@@ -267,9 +287,33 @@ function buildList(filter){
     html+='<div class="item" data-i="'+i+'" aria-current="'+(i===cur.doc)+'">'+
       '<span class="num">'+num+'</span><span class="ttl">'+inline(d.title||d.numberLabel||d.id)+'</span>'+
       (v?'<span class="var">'+v+'</span>':'')+'</div>';
+    // Dort: subdividir o capítulo em artigos (+ Rejeição de Erros) no menu.
+    if (coll.kind==='canons'){
+      d.units.forEach(u=>{
+        if (u.kind==='article'){
+          html+='<div class="subitem" data-i="'+i+'" data-anchor="u-'+esc(u.id)+'">'+
+            '<span class="snum">'+esc(u.label||'')+'</span><span class="sttl">Artigo</span></div>';
+        }
+      });
+      const rej=d.units.find(u=>u.kind==='rejection');
+      if (rej){
+        html+='<div class="subitem" data-i="'+i+'" data-anchor="u-'+esc(rej.id)+'">'+
+          '<span class="snum">Rej.</span><span class="sttl">Rejeição de Erros</span></div>';
+      }
+    }
   });
   list.innerHTML = html || '<div class="empty">Nada encontrado.</div>';
-  list.querySelectorAll('.item').forEach(el=>el.onclick=()=>{cur.doc=+el.dataset.i;render();document.body.classList.remove('nav-open');document.getElementById('main').scrollTop=0;});
+  const go=(idx,anchor)=>{
+    const changed = idx!==cur.doc;
+    cur.doc=idx;
+    if (changed) render();
+    document.body.classList.remove('nav-open');
+    const main=document.getElementById('main');
+    if (anchor){ const t=document.getElementById(anchor); if(t){ t.scrollIntoView({block:'start',behavior:changed?'auto':'smooth'}); return; } }
+    main.scrollTop=0;
+  };
+  list.querySelectorAll('.item').forEach(el=>el.onclick=()=>go(+el.dataset.i));
+  list.querySelectorAll('.subitem').forEach(el=>el.onclick=()=>go(+el.dataset.i, el.dataset.anchor));
 }
 
 function render(){

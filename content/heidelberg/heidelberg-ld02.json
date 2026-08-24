@@ -26,7 +26,7 @@
       "id": "heidelberg-q003-a",
       "kind": "answer",
       "label": "R. 3",
-      "body": "Pela lei de Deus.",
+      "body": "Pela lei de Deus. <sup>1</sup>",
       "attrs": {
         "questionNumber": 3,
         "refs": [
@@ -49,7 +49,7 @@
       "id": "heidelberg-q004-a",
       "kind": "answer",
       "label": "R. 4",
-      "body": "É isso o que Cristo nos ensina resumidamente em Mateus 22.37-40: _\"Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de todo o teu entendimento._ _Este é o grande e primeiro mandamento. O segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo._ _Destes dois mandamentos dependem toda a Lei e os Profetas\"_.",
+      "body": "É isso o que Cristo nos ensina resumidamente em Mateus 22.37-40: _\"Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de todo o teu entendimento._ <sup>1</sup> _Este é o grande e primeiro mandamento. O segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo._ <sup>2</sup> _Destes dois mandamentos dependem toda a Lei e os Profetas\"_.",
       "attrs": {
         "questionNumber": 4,
         "refs": [
@@ -73,7 +73,7 @@
       "id": "heidelberg-q005-a",
       "kind": "answer",
       "label": "R. 5",
-      "body": "Não. Sou, por natureza, inclinado a odiar a Deus e ao meu próximo.",
+      "body": "Não. <sup>1</sup> Sou, por natureza, inclinado a odiar a Deus e ao meu próximo. <sup>2</sup>",
       "attrs": {
         "questionNumber": 5,
         "refs": [
