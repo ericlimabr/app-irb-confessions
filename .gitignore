@@ -19,3 +19,6 @@ __pycache__/
 
 # Node — ferramental do pacote @irb/content (validador, schemas)
 node_modules/
+
+# Prova editorial — HTML gerado localmente para conferência (não versionado)
+prova-editorial.html

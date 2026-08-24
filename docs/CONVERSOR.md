@@ -470,3 +470,31 @@ coleção do App IRB; ID sai do número impresso; um parser por coleção.
 - **Bíblia** (`bible-ara/arc/acf`): milhares de documentos, quase certamente não
   vem de Markdown à mão. Importador próprio quando sua parte chegar; a forma do
   conversor de confissões **não** deve ditar a da Bíblia.
+
+## Revisões pendentes — Três Formas de Unidade
+
+Levantadas pelo responsável no **sign-off editorial (2026-08-24)**. Ele
+concordou que fazem sentido; sem objeção da minha parte. Entram numa branch nova
+(o conversor já foi mergeado). Reabrem a decisão **D1** (achatamento de `<sup>`).
+
+- **R1 — Belga + Heidelberg: reverter o achatamento de `<sup>` (revoga D1).**
+  - **Problema.** O conversor removia `<sup>N</sup>` do corpo (via `stripSup`) e
+    guardava as referências como array plano, perdendo a correspondência
+    **marcador ↔ referência**. O impresso tem os **dois**: o superscrito no texto
+    *e* a lista numerada ao fim.
+  - **Fazer.** Parar de achatar: **manter `<sup>N</sup>` no corpo** de `belgic` e
+    `heidelberg` (remover a chamada `stripSup` nesses parsers) e exibir as
+    **referências numeradas** (`1.`, `2.`, …) casando por posição com os
+    marcadores. É mudança de **dados** (regenera `content/belgic` e
+    `content/heidelberg`; o texto não muda — só volta o `sup` e as refs ganham
+    número) **+** exibição na prova.
+  - **Caso `<sup>9 10</sup>`** (dois marcadores numa só tag): a numeração `1..N`
+    das refs bate por posição.
+  - **Dort não entra.** Não tem marcadores `<sup>`; as refs são parágrafo único
+    não-chaveado (D4) → fica como está.
+
+- **R2 — Dort: subdividir artigos no menu lateral da prova.**
+  - Só **exibição** (`ferramentas/prova/gerar.mjs` → `prova-editorial.html`). Os
+    artigos já são unidades dentro do doc do capítulo; expandir cada capítulo
+    (`dort-h1`/`h2`/`h3-4`/`h5`) em sub-itens (Art. 1..N + Rejeição) com
+    âncora/rolagem até a unidade. **Conteúdo intacto.**
