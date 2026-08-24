@@ -21,6 +21,7 @@
   "scripts": {
     "convert": "node ./scripts/convert.mjs",
     "convert:check": "node ./scripts/convert.mjs --check",
+    "prova": "node ./ferramentas/prova/gerar.mjs",
     "validate:content": "node ./scripts/validate-content.mjs",
     "check:version-bump": "node ./scripts/check-version-bump.mjs"
   },
