@@ -1,0 +1,48 @@
+{
+  "id": "psalm-008-har",
+  "collection": "psalms",
+  "number": 8,
+  "numberLabel": "Salmo 8",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-008",
+  "attrs": {
+    "attribution": "CBS - Amsterdam"
+  },
+  "sortOrder": 16,
+  "units": [
+    {
+      "id": "psalm-008-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor nosso,\\_em toda\\_a terra, teu nome grande é,\nPois a tua majestade\\_expuseste,\\_ó Deus, nos céus.\n<sup>2</sup> Suscitas força dos bebês por causa dos opositores teus\nPra calar, emudecer o\\_inimigo\\_e o vingador.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-008-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Quando vejo\\_os céus que foram criados por tuas mãos\nE a lua e\\_as estrelas que tu firmaste ali,\n<sup>4</sup> Que é o homem, afinal, para que dele venhas te lembrar?\nE o filho do\\_homem para que venhas o visitar?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-008-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Que é\\_o homem para que dele venhas te lembrar?\nE o filho do\\_homem para que venhas visitar?\n<sup>5</sup> Por pouco, fizeste-o menor, do que os anjos fizeste-o menor\nE de glória\\_e honra,\\_ó Deus, tu vieste o coroar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-008-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Tu lhe deste o domínio das obras das tuas mãos,\nSim, a criação puseste debaixo dos seus pés:\n<sup>7</sup> Ovelhas, bois, feras também, <sup>8</sup> aves e peixes, tudo\\_o que\\_há no mar.\n<sup>9</sup> Senhor nosso, em toda\\_a terra quão grande\\_é o nome teu!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

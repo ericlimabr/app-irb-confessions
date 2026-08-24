@@ -1,0 +1,48 @@
+{
+  "id": "psalm-127-gen",
+  "collection": "psalms",
+  "number": 127,
+  "numberLabel": "Salmo 127",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-127",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 238,
+  "units": [
+    {
+      "id": "psalm-127-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Se\\_a casa Deus não construir,\nEm vão trabalha\\_o construtor.\nOh! Se\\_a cidade o Senhor\nNão proteger e não guardar,\nA sentinela\\_em vão será,\nSerá inútil vigiar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-127-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Será inútil madrugar\nE muito tarde repousar\nOu, com penoso granjear,\nO vosso pão assim comer.\nAos seus amados Ele\\_o dá;\nEnquanto dormem, Deus lhes dá.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-127-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Os filhos são o galardão,\nSão a herança do Senhor,\nFruto do ventre, galardão.\n<sup>4</sup> Quais flechas do guerreiro à mão,\nFilhos da mocidade são,\nSim, flechas do guerreiro\\_à mão.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-127-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Feliz o homem que encheu,\nDe filhos sua\\_aljava\\_encheu.\nEnvergonhado não será\nQuando à porta pleitear\nContra os inimigos seus,\nEnvergonhado não será.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

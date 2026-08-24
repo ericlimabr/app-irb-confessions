@@ -1,0 +1,91 @@
+{
+  "id": "heidelberg-ld04",
+  "collection": "heidelberg",
+  "number": 4,
+  "numberLabel": "Domingo 4",
+  "title": null,
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossos Pecados e Miséria"
+  },
+  "sortOrder": 4,
+  "units": [
+    {
+      "id": "heidelberg-q009-q",
+      "kind": "question",
+      "label": "P. 9",
+      "body": "Mas, Deus não age injustamente com o homem ao exigir em Sua lei aquilo que o homem não consegue cumprir?",
+      "attrs": {
+        "questionNumber": 9
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q009-a",
+      "kind": "answer",
+      "label": "R. 9",
+      "body": "Não, pois Deus criou o homem de tal forma que ele era capaz de a cumprir.\n\nMas o homem, sob a instigação do diabo, em desobediência deliberada, privou a si mesmo e a todos os seus descendentes destes dons.",
+      "attrs": {
+        "questionNumber": 9,
+        "refs": [
+          "Gn 1.31.",
+          "Gn 3.13; Jo 8.44; 1Tm 2.13, 14.",
+          "Gn 3.6.",
+          "Rm 5.12, 28, 19."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q010-q",
+      "kind": "question",
+      "label": "P. 10",
+      "body": "Permitiria Deus que uma tal desobediência e apostasia ficasse sem castigo?",
+      "attrs": {
+        "questionNumber": 10
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q010-a",
+      "kind": "answer",
+      "label": "R. 10",
+      "body": "Certamente que não, pois tanto o nosso pecado original quanto os nossos pecados presentes O deixam terrivelmente irado.\n\nPor isso Ele os castigará com justo juízo agora e eternamente, conforme declarou: _\"Maldito todo aquele que não permanece em todas as coisas escritas no Livro da lei, para praticá-las\"_ (Gl 3.10).",
+      "attrs": {
+        "questionNumber": 10,
+        "refs": [
+          "Gn 2.17; Êx 34.7; Sl 5.4-6; 7.11; Na 1.2; Rm 1.18; 5.12; Ef 5.6; Hb 9.27.",
+          "Dt 27.26."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q011-q",
+      "kind": "question",
+      "label": "P. 11",
+      "body": "Mas Deus não é também misericordioso?",
+      "attrs": {
+        "questionNumber": 11
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q011-a",
+      "kind": "answer",
+      "label": "R. 11",
+      "body": "Deus é verdadeiramente misericordioso, mas também é justo.\n\nA Sua justiça requer que o pecado cometido contra a Sua suprema majestade  seja  castigado  também  com  a  pena  mais  severa,  quer  dizer, com o eterno castigo do corpo e da alma.",
+      "attrs": {
+        "questionNumber": 11,
+        "refs": [
+          "Êx 20.6; 34.6, 7; Sl 103.8, 9.",
+          "Êx 20.5; 34.7; Dt 7.9-11; Sl 5.4-6; Hb 10.30, 31.",
+          "Mt 25.45, 46."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "heidelberg-ld51",
+  "collection": "heidelberg",
+  "number": 51,
+  "numberLabel": "Domingo 51",
+  "title": null,
+  "subtitle": "A Oração",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 51,
+  "units": [
+    {
+      "id": "heidelberg-q126-q",
+      "kind": "question",
+      "label": "P. 126",
+      "body": "Qual é a quinta petição?",
+      "attrs": {
+        "questionNumber": 126
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q126-a",
+      "kind": "answer",
+      "label": "R. 126",
+      "body": "_\"E perdoa-nos as nossas dívidas, assim como nós temos perdoado aos nossos devedores\"_.\n\nIsto é:\n\nQue, por causa do sangue de Cristo, não nos imputes, pecadores desgraçados  que  somos,  nenhuma  das  nossas  transgressões  nem  o  mal que ainda persiste em nós, e  que também encontremos em nós essa evidência  da  Tua  graça:  que  estamos  plenamente  determinados  de todo o coração a perdoar nosso próximo.",
+      "attrs": {
+        "questionNumber": 126,
+        "refs": [
+          "Sl 51.1-7; 143.2; Rm 8.1; 1Jo 2.1, 2.",
+          "Mt 6.14, 15; 18.21-35."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

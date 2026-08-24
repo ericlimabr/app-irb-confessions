@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-145-152-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.145-152",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-145-152",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 219,
+  "units": [
+    {
+      "id": "psalm-119-145-152-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>145</sup> De todo\\_o coração, te invoquei.\nOuve-me,\\_ó Deus, observo teus decretos.\n<sup>146</sup> Eu clamo\\_a ti. Senhor, vem me salvar.\nE guardarei, então, teus testemunhos.\n<sup>147</sup> Antes do\\_amanhecer, eu clamo\\_a ti.\nEm tua palavra,\\_espero confiante.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-145-152-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>148</sup> E\\_anteciparam-se os olhos meus,\nA fim de meditar na tua palavra,\nAnteciparam-se\\_ao anoitecer.\n<sup>149</sup> Ouve-me\\_a voz, conforme tua bondade.\nÓ meu Senhor, vem me vivificar,\nSim, meu Senhor, segundo teus juízos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-145-152-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>150</sup> E aproximam-se de mim os maus,\nOs quais da tua lei, Senhor, se\\_afastam.\n<sup>151</sup> Tu estás perto, ó Senhor meu Deus.\nTodos teus mandamentos são verdade.\n<sup>152</sup> Quanto às tuas prescrições, bem sei\nQue, para sempre,\\_as estabeleceste.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "psalm-114-har",
+  "collection": "psalms",
+  "number": 114,
+  "numberLabel": "Salmo 114",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-114",
+  "attrs": {
+    "attribution": "CBS - Germany"
+  },
+  "sortOrder": 189,
+  "units": [
+    {
+      "id": "psalm-114-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Quando\\_Israel do\\_Egito saiu,\nDe\\_um povo com estranho falar,\n<sup>2</sup> Em santuário Judá tornou-se,\nEm seu domínio se fez Israel.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-114-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> E, vendo isso,\\_o mar recuou,\nE para trás o Jordão tornou.\n<sup>4</sup> Saltaram montes tais quais carneiros;\nE, quais cordeiros, colinas também.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-114-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Que tens, ó mar, que\\_estás a fugir?\nE tu, Jordão, a voltar atrás?\n<sup>6</sup> Por que saltais montes quais carneiros\nE, quais cordeiros, colinas também?",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-114-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Ó terra, treme diante de Deus,\nAnte\\_o Senhor, o Deus de Jacó,\n<sup>8</sup> Que fez da rocha lençol de água,\nTornou o seixo em manancial.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "psalm-092-gen",
+  "collection": "psalms",
+  "number": 92,
+  "numberLabel": "Salmo 92",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-092",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 150,
+  "units": [
+    {
+      "id": "psalm-092-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Bom é dar graças ao nosso Deus e o louvar,\nCantar louvores ao teu nome, ó Senhor meu,\n<sup>2</sup> A tua compaixão de manhã anunciar,\nTua fidelidade proclamar de noite.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-092-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Com a solenidade da harpa vou louvar,\nCom o saltério e\\_instrumentos de dez cordas.\n<sup>4</sup> Porque me alegraste, Senhor, com teu poder,\nExultarei, Senhor, em todas as tuas obras.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-092-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Quão grandes são as obras, Senhor, das tuas mãos!\nE como são profundos os teus pensamentos!\n<sup>6</sup> O néscio não consegue compreender a ti;\nE não percebe isto\\_aquele que\\_é estulto:",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-092-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Mesmo que\\_os ímpios venham, qual erva, germinar;\nE venham florescer os que são mui maldosos;\nContudo, destruídos pra sempre hão de ser;\n<sup>8</sup> Porém, Senhor, tu és o\\_Altíssimo pra sempre.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-092-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Eis que\\_os teus inimigos, Senhor, perecerão;\nSerão dispersos todos os que são iníquos.\n<sup>10</sup> Porém, exaltas o meu poder como\\_o do boi\nE sobre mim derramas o teu óleo fresco.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-092-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Meus olhos se alegram ao ver o meu rival;\nE meus ouvidos, em ouvir dos malfeitores.\n<sup>12</sup> O justo, qual palmeira, virá a florescer.\nQual cedro que\\_é do Líbano,\\_ele há de crescer",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-092-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Florescerá o justo na casa do Senhor.\n<sup>14</sup> Darão ainda doces frutos na velhice,\n<sup>15</sup> Para anunciar que mui reto\\_é o Senhor.\nÉ minha rocha,\\_e nele não há injustiça.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

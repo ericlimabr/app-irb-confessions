@@ -1,0 +1,32 @@
+{
+  "id": "psalm-123-gen",
+  "collection": "psalms",
+  "number": 123,
+  "numberLabel": "Salmo 123",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-123",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 230,
+  "units": [
+    {
+      "id": "psalm-123-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A ti que\\_habitas nos mais altos céus\nElevo\\_os olhos meus.\n<sup>2</sup> Tal como\\_os servos têm os olhos fitos\nNas mãos dos senhores seus\nE como\\_a serva tem seus olhos fitos\nNas mãos da sua senhora,\nAté que tenha compaixão de nós,\nOlhamos ao Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-123-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Misericórdia tem de nós, Senhor,\nMisericórdia tem,\nPois nós estamos fartos de desprezo,\nSim, fartos estamos nós.\n<sup>4</sup> A nossa alma\\_está mui saturada\nDo\\_escárnio dos soberbos,\nDos que se\\_encontram ao seu bel prazer,\nE do desprezo seu.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "psalm-090-har",
+  "collection": "psalms",
+  "number": 90,
+  "numberLabel": "Salmo 90",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-090",
+  "attrs": {
+    "attribution": "CBS - St. Catherine"
+  },
+  "sortOrder": 148,
+  "units": [
+    {
+      "id": "psalm-090-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, tens sido refúgio pra nós\nDurante todas as gerações.\n<sup>2</sup> Antes que\\_os montes viessem a ser,\nAntes da terra\\_e\\_o mundo\\_existir,\nDeus eternal, tu és Senhor.\nSempre e sempre, tu és Deus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-090-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Fazes o homem voltar a ser pó\nE depois dizes “volvei daí”.\n<sup>4</sup> Como um dia, mil anos se vão\nE como ontem eles serão,\nPois aos teus olhos são assim:\nComo\\_a vigília que se foi.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-090-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Todo\\_esse tempo qual torrentes são;\nTu as arrastas como\\_o dormir.\nSão como\\_a relva que cedo\\_abre\\_a flor\n<sup>6</sup> E\\_enche a manhã de\\_enfeite\\_e verdor;\nMas, quando\\_a tarde chega\\_ao fim,\nMurcha e seca se tornou.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-090-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Pois consumidos estamos, ó Deus,\nE conturbados por teu furor.\n<sup>8</sup> Em tua presença, está nosso mal;\nNosso pecado\\_oculto também.\n<sup>9</sup> Na tua ira,\\_os dias vão;\nQual breve pensamento são.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-090-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Setenta anos é\\_o nosso viver;\nSe há vigor, oitenta serão.\nPorém, não passam de canseira\\_e dor.\nDepressa vão, e voamos nós.\n<sup>11</sup> Quem é capaz de conhecer\nA tua ira,\\_o teu furor?",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-090-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Ensina-nos nossos dias contar,\nPara que sábio seja\\_o viver.\n<sup>13</sup> Volta e tenha de nós compaixão,\n<sup>14</sup> Dá-nos tua graça pela manhã.\nE, sempre alegres, teu louvor\nEntoaremos com fervor.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-090-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>15</sup> Por muitos dias, alegra-nos, pois\nTua\\_aflição nos veio atingir.\nPor muitos anos, concede\\_o favor;\nPois suportamos o teu furor.\n<sup>16</sup> Que nós vejamos teu agir;\nE\\_os nossos filhos, teu fulgor.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-090-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>17</sup> Seja tua graça, ó Deus, sobre nós,\nSim, tua graça,\\_ó nosso Senhor.\nAs obras das nossas mãos, nosso Deus,\nVem confirmar, Senhor, sobre nós.\nDas nossas mãos as obras, sim,\nConfirma sobre nós, Senhor.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

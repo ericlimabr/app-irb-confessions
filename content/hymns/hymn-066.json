@@ -1,0 +1,49 @@
+{
+  "id": "hymn-066",
+  "collection": "hymns",
+  "number": 66,
+  "numberLabel": "Hino 66",
+  "title": "SAUDAI O NOME DE JESUS!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Edward Perronet / Justus Henry Nelson"
+  },
+  "sortOrder": 66,
+  "units": [
+    {
+      "id": "hymn-066-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Saudai o nome de Jesus!\nVós anjos, adorai!\nVós anjos, adorai!\nAo Rei que se humilhou na cruz\nCom glória, glória, glória,\nGlória, com glória adorai!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-066-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Ó escolhida geração\nDe Deus, o Eterno Pai!\nDe Deus, o Eterno Pai!\nAo grande autor da Salvação\nCom glória, glória, glória,\nGlória, com glória adorai!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-066-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Remidos todos, com fervor,\nHosanas entoai!\nHosanas entoai!\nAo Verbo feito Redentor\nCom glória, glória, glória,\nGlória, com glória adorai!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-066-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Ó raças, povos e nações,\nAo Rei Divino honrai!\nAo Rei Divino honrai!\nA quem quebrou os vis grilhões\nCom glória, glória, glória,\nGlória, com glória adorai!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

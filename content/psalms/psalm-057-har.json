@@ -1,0 +1,72 @@
+{
+  "id": "psalm-057-har",
+  "collection": "psalms",
+  "number": 57,
+  "numberLabel": "Salmo 57",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-057",
+  "attrs": {
+    "attribution": "CBS - St. Christopher"
+  },
+  "sortOrder": 97,
+  "units": [
+    {
+      "id": "psalm-057-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Deus, misericórdia!\nTem compaixão de mim!\nMinha\\_alma tem refúgio\nEm ti, ó meu Senhor.\nÀ sombra de tuas asas,\nEu venho me\\_abrigar,\nAté que passe todo\nO mal que sobrevém.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-057-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Altíssimo Senhor Deus,\nA ti eu clamarei.\nPor mim tudo\\_executas.\n<sup>3</sup> Dos céus, auxílio vem.\nMe livras e\\_envergonhas\nQuem tem ferido\\_a mim.\nFidelidade\\_e graça\nEnvias tu a mim",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-057-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Encontra-se\\_a minha\\_alma\nNo meio de leões,\nQue, ávidos, desejam\nOs homens devorar.\nQuais lanças e quais flechas\nSeus dentes são assim.\nQual afiada\\_espada\nSua língua também é.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-057-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Sê exaltado\\_acima\nDos céus, ó Deus Senhor.\nEm toda\\_a terra,\\_esplenda\nA tua glória,\\_ó Deus.\n<sup>6</sup> Armaram-me a rede,\nVisando\\_os passos meus.\nMinha\\_alma abatida,\nOh, abatida\\_está.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-057-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "E cova\\_à minha frente\nAbriram para mim,\nMas eles mesmos foram\nOs que caíram lá.\n<sup>7</sup> Meu coração é firme;\nÓ Deus, sim, firme\\_está!\nEntoarei louvores,\nLouvores cantarei.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-057-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>8</sup> Desperta, ó minha\\_alma!\nÓ lira, despertai!\nQuero\\_acordar a alva!\nÓ harpa, despertai!\n<sup>9</sup> E graças entre\\_os povos\nRender-te-ei, ó Deus!\nEntre\\_as nações louvores\nCantar-te-ei, Senhor!",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-057-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>10</sup> Porque a tua graça\nSe\\_eleva\\_até aos céus.\nAté às nuvens, tua\nFidelidade vai.\n<sup>11</sup> Sê exaltado\\_acima\nDos céus, ó Deus Senhor!\nEm toda\\_a terra\\_esplenda\nA tua glória,\\_ó Deus!",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

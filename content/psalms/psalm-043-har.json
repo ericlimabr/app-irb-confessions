@@ -1,0 +1,56 @@
+{
+  "id": "psalm-043-har",
+  "collection": "psalms",
+  "number": 43,
+  "numberLabel": "Salmo 43",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-043",
+  "attrs": {
+    "attribution": "CBS - St. Agnes"
+  },
+  "sortOrder": 74,
+  "units": [
+    {
+      "id": "psalm-043-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Julga-me,\\_ó Deus, contra\\_a nação\nQue vive\\_a contender\nE do injusto,\\_enganador\nVem me livrar, Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-043-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Por que tens rejeitado\\_a mim,\nSe fortaleza és?\nE por que lamentando\\_estou\nSob a\\_opressão dos maus?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-043-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Envia, para me guiar,\nTua verdade\\_e luz\nE\\_ao santo monte me levar,\nÀ tua casa,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-043-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>4</sup> Ao teu altar, então, irei,\nQue\\_é\\_o regozijo meu.\nAo som da harpa, louvarei\nA ti, Senhor, meu Deus.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-043-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>5</sup> Por que\\_abatida,\\_ó alma,\\_estás,\nAflita dentro\\_em mim?\nEspera\\_em Deus, auxílio meu,\nPois inda\\_o louvarei.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

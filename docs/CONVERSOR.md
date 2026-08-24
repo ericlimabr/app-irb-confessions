@@ -10,12 +10,10 @@ JSON que o App IRB consome.
   pela `SPEC-CONVENCAO-DE-IDS.md` (todos no repo do app; migram para cá pela
   `SPEC-REPOSITORIO-DE-CONTEUDO.md`).
 
-> **Estado deste documento.** O corpo normativo (§§ 1–5) descreve o conversor a
-> construir; ele ainda **não existe**. As decisões de §6 continuam abrindo
-> escolhas que o conversor **não** deve fixar silenciosamente — ao decidir uma,
-> troque o status para **DECIDIDO** e anote a escolha. §5 assume o resultado dos
-> *padrões propostos* de §6; onde uma decisão de §6 ainda pende, o mapeamento de
-> §5 aponta para ela.
+> **Estado deste documento.** O conversor está **implementado** (`scripts/convert.mjs`
+> + `scripts/convert/*.mjs`) e gera as 5 coleções — ver a **Resolução (§6.1)** com
+> todas as decisões efetivadas. §§ 1–5 descrevem o desenho; §6 preserva o registro
+> das escolhas que estavam em aberto (agora DECIDIDAS).
 
 ---
 
@@ -347,7 +345,55 @@ Notação: `§X` remete a `FORMATO.md`. Larguras de ID e sufixos vêm de
   Erro e Refutação em duas unidades.
 - **Inclinação:** uma unidade por par (label "Erro N"), que casa com a
   numeração reiniciada por capítulo (§4.4).
-- **Status:** ABERTA.
+- **Status:** DECIDIDO (2026-08-24) — uma unidade por par, `label "Erro N"`.
+
+---
+
+## 6.1 Resolução (2026-08-24) — conversor implementado
+
+O conversor (`scripts/convert.mjs` + `scripts/convert/*.mjs`) está escrito e gera
+as 5 coleções (474 documentos, 2600 unidades; CI verde). Decisões efetivadas:
+
+- **D1 — achatar `<sup>` de nota:** feito. Removo a tag + um espaço à esquerda
+  (sem criar espaço duplo); `attrs.refs` guarda o bloco na ordem.
+- **D2 — forma da referência:** preservada verbatim da fonte (inclusive o ponto
+  final: `"Rm 10.10."`). Não copiei o espaçamento dos fixtures do app.
+- **D3 — `numberLabel`:** config/parser por coleção — "Art. N" (Belga), "Domingo N"
+  (Heidelberg), "Capítulo I/…/Capítulos III e IV" (Dort), "Salmo N"/"Salmo 119.a-b",
+  "Hino N".
+- **D4 — refs não-chaveadas de Dort:** `attrs.refs` de um elemento; a fronteira é
+  detectada por "parágrafo só de citações" (cada trecho `;`-separado começa com
+  sigla + cap.versículo).
+- **D5 — Belga:** (a) uma unidade `article` por parágrafo; bloco de referências na
+  **última** unidade do artigo.
+- **D6 — Heidelberg:** `title: null` + seção temática como `subtitle`.
+- **D-Dort:** uma unidade `rejection` por par Erro/Refutação; só a marcação de
+  **negrito** é removida (palavras "Erro N"/"Refutação", travessões e citações
+  inline preservados).
+- **`# CONCLUSÃO` de Dort:** documento próprio **`dort-conclusion`**
+  (`collection: "dort"`, `attrs.role: "conclusion"`, por último no `sortOrder`);
+  `kind: "section"`; os **7 itens NÃO são fragmentados** (ficam na prosa que os
+  rejeita).
+- **`_Amém._` dos hinos:** `kind: "verse"` + `attrs.role: "amen"`; aceita
+  `_Amém._`, `_Amém_` e `_Amém!_` como linha isolada (12 hinos).
+
+Decisões novas (mecânicas, texto intacto), tomadas ao ver o texto real:
+
+- **Dort — 3º e 4º capítulos COMBINADOS.** O impresso traz "Terceiro e Quarto
+  Capítulos" num só bloco → um só documento **`dort-h3-4`** (não há `dort-h3`/`dort-h4`
+  separados). São 4 documentos de capítulo + a Conclusão. O padrão de doc-id de
+  `dort` no validador aceita `dort-(h[1-5]|h3-4|conclusion)`.
+- **Belga art. 4** (listas dos livros canônicos): cada `####` (VT/NT) → unidade
+  `heading`; cada lista → unidade `article` (marcador `- ` removido, um livro por
+  linha via `\n`).
+- **Fronteira de referências (confissões):** réplica de `validar_confissoes.py` —
+  a corrida numerada que fecha a unidade só é referência se a **maioria** das
+  entradas "parece referência" (tem sigla bíblica conhecida). Isso mantém como
+  CONTEÚDO o Credo (P.23), os Dez Mandamentos (P.92) e os 7 itens da Conclusão de
+  Dort, que são listas numeradas mas não são citações.
+- **Indentação/erros da fonte preservados:** a Oração (P.119) mantém a indentação
+  de 3 espaços das linhas; grafias do impresso como "SE NHOR" (P.92) **não** são
+  "corrigidas" (projeção, não autoria — §2).
 
 ---
 

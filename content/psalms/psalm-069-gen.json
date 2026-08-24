@@ -1,0 +1,128 @@
+{
+  "id": "psalm-069-gen",
+  "collection": "psalms",
+  "number": 69,
+  "numberLabel": "Salmo 69",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-069",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 114,
+  "units": [
+    {
+      "id": "psalm-069-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Vem me salvar, Senhor, vem me salvar,\nPorque até minha\\_alma\\_as águas sobem.\n<sup>2</sup> Me atolei num lamaçal profundo;\nJá não consigo mais ficar de pé.\nNas águas bem profundas, eu estou\nE sou levado pela correnteza.\n<sup>3</sup> Estou cansado de tanto clamar;\nMinha garganta já se\\_encontra seca.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-069-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Meus olhos desfalecem de\\_esperar\nPelo Senhor, de esperar por meu Deus.\n<sup>4</sup> Aqueles que me\\_odeiam sem motivo\nSão mais do que os meus cabelos já.\nE\\_os que procuram destruir a mim\nInjustamente são meus inimigos;\nSão poderosos, e, por isso, eu\nRestituí até o que não furtei.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-069-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Sabes, Senhor, da minha\\_estupidez;\nOs meus pecados não te são ocultos.\n<sup>6</sup> Oh! Que não seja, pois, envergonhado\nPor minha causa quem espera\\_em ti.\nÓ Deus das Hostes, que é o Senhor,\nOh, que não venham a sofrer vexame\nOs que te buscam, Deus de Israel,\nPor minha causa não sofram vexame.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-069-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Pois, por amor de ti, Senhor meu Deus,\nÉ que eu tenho suportado\\_afrontas;\nMeu rosto se encobre de vexame.\n<sup>8</sup> Tornei-me\\_estranho\\_até aos meus irmãos;\nDesconhecido sou por meus irmãos.\n<sup>9</sup> O zelo da tua casa consumiu-me,\nE as afrontas que caem sobre mim\nSão as afrontas dos que te afrontam.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-069-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Chorei e pus a alma em jejum,\nE isso mesmo me gerou afrontas.\n<sup>11</sup> Pano de saco pus por vestimenta,\nE,\\_então, passaram a zombar de mim.\n<sup>12</sup> Os que à porta\\_estão a se\\_assentar\nVivem tagarelando\\_a meu respeito;\nE, até mesmo para\\_os beberrões,\nVirei motivo das suas cantigas.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-069-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>13</sup> Mas, quanto\\_a mim, Senhor, eu faço\\_a ti\nMinha\\_oração em tempo favorável.\nResponde\\_à minha oração; eu clamo;\nPois muito grande é o teu favor.\nPor tua fidelidade\\_em socorrer,\n<sup>14</sup> Vem me livrar pra que eu não afunde.\nDos que me\\_odeiam vem salvar a mim.\nDas profundezas vem, Senhor, livrar-me!",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-069-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>15</sup> Não venha\\_a correnteza me\\_arrastar\nNem seja eu tragado por voragem.\nE nem se feche\\_a boca do abismo,\nA boca do abismo sobre mim.\n<sup>16</sup> Deus, me responde; compassivo és;\nSim, tua graça\\_é muito compassiva.\nOh, que te voltes para mim, Senhor,\nSegundo\\_é rica\\_a tua misericórdia.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-069-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>17</sup> Não me escondas, ó Senhor meu Deus,\nA tua face, pois eu sou teu servo;\nPorque atribulado eu me\\_encontro.\nOh! Dá-te pressa em me responder!\n<sup>18</sup> Chegue bem perto da minha\\_alma,\\_ó Deus,\nE me redime, salva\\_a minha alma,\nPor causa,\\_ó Deus, do meu opositor.\n<sup>19</sup> Conheces, ó Senhor, a minha\\_afronta.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-069-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Sabes o quão envergonhado\\_eu sou.\nÀ tua vista,\\_estão meus adversários.\n<sup>20</sup> Eu me desfaleci completamente;\nO\\_opróbrio me partiu o coração.\nConsoladores eu não encontrei;\nDebalde,\\_eu esperei por piedade.\n<sup>21</sup> Me deram fel pra eu me\\_alimentar;\nNa minha sede, deram-me vinagre.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-069-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>22</sup> Torne\\_o seu prosperar em um ardil;\nQue sua mesa torne-se\\_em um laço.\n<sup>23</sup> Sejam os olhos seus obscurecidos,\nPara que não consigam enxergar.\nFaze o torso deles vacilar;\n<sup>24</sup> Derrama sobre eles tua ira.\nSenhor, derrama\\_a tua\\_indignação!\nQue\\_o teu furor ardente os alcance!",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-069-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>25</sup> Fique deserta\\_a sua\\_habitação.\nNão haja quem habite\\_em suas tendas.\n<sup>26</sup> Porque perseguem a quem tu feriste,\nA quem golpeaste acrescentam dor.\n<sup>27</sup> A sua\\_iniquidade vem somar;\nPor ti não venham a ser perdoados.\n<sup>28</sup> Do Livro dos Viventes risca-os;\nNão venham ter registro entre\\_os justos.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-069-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>29</sup> Mas, quanto\\_a mim, amargurado\\_estou.\nDá-me socorro,\\_ó Deus, dá-me refúgio.\n<sup>30</sup> Teu nome,\\_ó Deus, eu louvarei com canto,\nAções de graças pra te exaltar.\n<sup>31</sup> Porque fazer assim te\\_agradará\nMais do que\\_oferecer boi e novilho;\nMais agradável do que\\_um boi será\nOu um novilho com unhas e chifres.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-069-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>32</sup> Que os aflitos venham se\\_alegrar;\nQue se alegrem quando virem isso;\nE que o vosso coração reviva\nA todos vós que ao Senhor buscais.\n<sup>33</sup> Pois o Senhor responde ao clamor,\nSim, Deus responde aos necessitados.\nAos prisioneiros não desprezará;\nAos prisioneiros Ele não despreza.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-069-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>34</sup> Os céus e\\_a terra louvem ao Senhor,\nMares e tudo\\_aquilo que se move;\n<sup>35</sup> Pois vai salvar Sião, sua cidade,\nE\\_edificar cidades de Judá,\nPra que\\_a possuam e habitem lá.\n<sup>36</sup> E toda\\_a descendência dos seus servos,\nTodo que ama\\_o nome do Senhor\nTambém habitará em meio dela.",
+      "attrs": {},
+      "sortOrder": 14
+    }
+  ]
+}

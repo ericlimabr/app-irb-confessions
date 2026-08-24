@@ -1,0 +1,24 @@
+{
+  "id": "psalm-117-gen",
+  "collection": "psalms",
+  "number": 117,
+  "numberLabel": "Salmo 117",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-117",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 193,
+  "units": [
+    {
+      "id": "psalm-117-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Vós todas as nações, louvai!\nÓ povos, ao Senhor cantai!\n<sup>2</sup> Mui grande\\_é seu favor a nós.\nFidelidade do Senhor,\nPra sempre, há de subsistir.\nLouvai a Deus! Aleluia!",
+      "attrs": {},
+      "sortOrder": 1
+    }
+  ]
+}

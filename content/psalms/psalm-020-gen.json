@@ -1,0 +1,48 @@
+{
+  "id": "psalm-020-gen",
+  "collection": "psalms",
+  "number": 20,
+  "numberLabel": "Salmo 20",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-020",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 37,
+  "units": [
+    {
+      "id": "psalm-020-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Conceda-te resposta\\_o Senhor\nNo dia da\\_aflição.\nQue do Deus de Jacó o nome\nConceda proteção.\n<sup>2</sup> Que Deus envie seu socorro\nLá do seu santuário.\nQue o Senhor a ti sustenha\nDesde Sião, seu monte.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-020-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Dos teus manjares a\\_oferecer\nDeus venha se lembrar\nE que aceite\\_os holocaustos\nQue vens oferecer.\n<sup>4</sup> Conceda\\_o que teu ser deseja,\nCumprindo\\_os teus desígnios.\n<sup>5</sup> Por causa da tua vitória,\nNós nos alegraremos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-020-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Pendões iremos nós hastear\nEm nome do Senhor.\nE que a todos os teus votos\nDeus venha conceder.\n<sup>6</sup> Agora,\\_eu sei que\\_o Senhor salva,\nSalva o seu ungido.\nDo santo céu, Deus lhe responde\nCom sua forte destra.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-020-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Em carros e cavalos alguns\nA confiança têm,\nMas nossa glória\\_está somente\nNo nome do Senhor.\n<sup>8</sup> Os tais se\\_encurvam e tropeçam,\nMas nós de pé ficamos.\n<sup>9</sup> Vitória,\\_ó Deus, ao rei concede!\nResponde ao clamarmos!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

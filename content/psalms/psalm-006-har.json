@@ -1,0 +1,48 @@
+{
+  "id": "psalm-006-har",
+  "collection": "psalms",
+  "number": 6,
+  "numberLabel": "Salmo 6",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-006",
+  "attrs": {
+    "attribution": "CBS - Melita"
+  },
+  "sortOrder": 12,
+  "units": [
+    {
+      "id": "psalm-006-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Não me reproves, ó Senhor,\nNem me castigues no furor.\n<sup>2</sup> Tem compaixão de mim, Senhor,\nPorque enfraquecido\\_estou;\nVem me sarar, Senhor, porque\nBem fracos\\_os ossos meus estão.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-006-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Também a minha alma\\_está\nProfundamente em terror;\nMas tu, Senhor, quando\\_agirás?\n<sup>4</sup> Volta, Senhor, e livra-me.\nPor teu favor, vem me salvar.\n<sup>5</sup> Nem tumba\\_e morte dão louvor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-006-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Estou cansado de gemer.\nÀs noites, faço alagar;\nDe lágrimas meu leito\\_encher.\n<sup>7</sup> Meus olhos tristes mágoas têm.\nAmortecidos, fracos são\nDe tantos inimigos meus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-006-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> De mim distantes estejais,\nVós todos que fazeis o mal,\nPois Deus o meu lamento\\_ouviu\n<sup>9</sup> E acolheu minha\\_oração.\n<sup>10</sup> Envergonhados, fugirão\nOs inimigos de\\_uma vez.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

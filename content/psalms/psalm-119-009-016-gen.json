@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-009-016-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.9-16",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-009-016",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 198,
+  "units": [
+    {
+      "id": "psalm-119-009-016-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>9</sup> De que maneira\\_o jovem poderá\nSempre guardar bem puro\\_o seu caminho?\nObservando-o sob a tua lei.\n<sup>10</sup> A ti busquei de coração inteiro.\nPeço que não me deixes desviar\nNem me\\_afastar dos teus bons mandamentos.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-009-016-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>11</sup> A fim de que não peque contra ti,\nGuardo no coração tuas palavras.\n<sup>12</sup> Bendito\\_és tu, Senhor, bendito\\_és tu.\nVem me\\_ensinar os teus preceitos santos.\n<sup>13</sup> Meus lábios têm narrado, ó Senhor,\nTodos os bons juízos da tua boca.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-009-016-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>14</sup> Nem as riquezas me alegram mais\nQue o caminho dos teus testemunhos.\n<sup>15</sup> Nos teus preceitos eu meditarei\nE\\_aos teus caminhos eu terei respeito.\n<sup>16</sup> Nos teus decretos eu terei prazer.\nNão hei de me\\_esquecer de tua palavra.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

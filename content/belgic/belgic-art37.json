@@ -1,0 +1,59 @@
+{
+  "id": "belgic-art37",
+  "collection": "belgic",
+  "number": 37,
+  "numberLabel": "Art. 37",
+  "title": "O juízo final",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 37,
+  "units": [
+    {
+      "id": "belgic-art37-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Por fim, cremos, conforme a Palavra de Deus, que ao chegar o tempo ordenado pelo Senhor - mas desconhecido por todas as criaturas - e se completar o número dos eleitos, o nosso Senhor Jesus Cristo voltará do céu de maneira visível e corporal assim como Ele ascendeu (At 1.11), com grande glória e majestade. Ele instalará a si mesmo como o juiz dos vivos e dos mortos e  porá este antigo mundo em chamas para o purificar. E então, todas as pessoas - homens, mulheres e crianças - que existiram no mundo, desde o seu princípio até o seu final,  aparecerão  pessoalmente  diante  deste  Grande  Juiz, intimados pela voz do arcanjo e pela trombeta de Deus (1Ts 4.16).",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "belgic-art37-p2",
+      "kind": "article",
+      "label": null,
+      "body": "Todos os que morreram antes deste dia ressurgirão da terra, quando os seus espíritos se reunirem aos corpos com que viviam. Os que estiverem vivos não morrerão como os outros, mas serão transformados de corrupção em incorrupção num piscar de olhos. Então, se abrirão os livros e os mortos serão julgados (Ap 20.12) segundo o que fizeram, de bom ou de mal, neste mundo (2Co 5.10). Na verdade, todos neste dia prestarão contas de toda palavra frívola que proferiram (Mt 12.36), as  quais  o  mundo considera apenas como zombaria e diversão. E os segredos  e  as  hipocrisias  dos  homens  serão  revelados  publicamente diante dos olhos de todos. Por isso, pensar neste juízo é coisa terrível e  apavorante  para  os  ímpios  e  malfeitores, mas  é  grande  gozo  e conforto para o justo e eleito. Para eles completar-se-á a plena redenção e receberão os frutos de seus labores e das angústias que sofreram. A todos será manifesta a sua inocência e contemplarão a terrível vingança que Deus trará sobre os ímpios que os perseguiram, oprimiram e atormentaram neste mundo.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "belgic-art37-p3",
+      "kind": "article",
+      "label": null,
+      "body": "Os ímpios serão condenados pelo testemunho das suas próprias consciências e tornar-se-ão imortais tão-somente para serem atormentados no _\"fogo eterno, preparado para o diabo e seus anjos\"_ (Mt 25.41), mas os fiéis e eleitos serão coroados de glória e de honra. O Filho de Deus confessará os seus nomes diante de Deus Seu Pai (Mt 10.32) e dos anjos eleitos (Lc 12.8). Deus _\"lhes enxugará dos olhos toda lágrima\"_  (Ap 21.4), e  a  causa  deles  -  no  presente,  condenada  como herética e maligna por tantos juízes e autoridades civis - será reconhecida como a causa do Filho de Deus. O Senhor, por graciosa recompensa, lhes fará  possuir  uma  tal  glória,  que  é  impossível  de  ser concebida pelo coração do homem. Por  isso  ansiamos  com  grande expectativa  por  aquele  grande  dia  para  gozarmos  da  plenitude  das promessas de Deus em Jesus Cristo nosso Senhor. Amém! Vem, Senhor Jesus! (Ap 22.20).",
+      "attrs": {
+        "refs": [
+          "Mt 24.36; Mt 25.13; 1Ts 5.1, 2.",
+          "Hb 11.39, 40; Ap 6.11.",
+          "Ap 1.7.",
+          "Mt 24.30; Mt 25.31.",
+          "Mt 25.31-46; 2Tm 4.1; 1Pe 4.5.",
+          "2Pe 3.10-13.",
+          "Dt 7.9-11; Ap 20.12, 13.",
+          "Dn 12.2; Jo 5.28, 29.",
+          "1Co 15.51, 52; Fp 3.20, 21.",
+          "Hb 9.27; Ap 22.12.",
+          "Mt 11.22; Mt 23.33; Rm 2.5, 6; Hb 10.27; 2Pe 2.9; Jd 15; Ap 14.7a.",
+          "Lc 14.14; 2Ts 1.3-10; 1Jo 4.17.",
+          "Ap 15.4; Ap 18.20.",
+          "Mt 13.41, 42; Mc 9.48; Lc 16.23-28; Ap 21.8.",
+          "Ap 20.10.",
+          "Ap 3.5.",
+          "Is 25.8; Ap 7.17.",
+          "Dn 12.3; Mt 5.12; Mt 13.43; 1Co 2.9; Ap 21.9-22.5."
+        ]
+      },
+      "sortOrder": 3
+    }
+  ]
+}

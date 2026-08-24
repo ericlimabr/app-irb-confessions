@@ -1,0 +1,41 @@
+{
+  "id": "hymn-014",
+  "collection": "hymns",
+  "number": 14,
+  "numberLabel": "Hino 14",
+  "title": "SEJA LOUVADO!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CHAMADO À ADORAÇÃO",
+    "author": "Antônio Pereira de Sousa Caldas"
+  },
+  "sortOrder": 14,
+  "units": [
+    {
+      "id": "hymn-014-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Seja louvado o Deus supremo,\nDeus revelado em Emanuel!\nQue, onipotente, prodígios, obra,\nSempre clemente, sempre fiel.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-014-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Seja louvado o Deus supremo,\nDeus revelado em Emanuel!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-014-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Só Deus merece culto perene.\nVinde, não cesse o seu louvor!\nDe todos seja sempre exaltado,\nE cante a igreja com terno amor.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

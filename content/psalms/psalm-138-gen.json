@@ -1,0 +1,48 @@
+{
+  "id": "psalm-138-gen",
+  "collection": "psalms",
+  "number": 138,
+  "numberLabel": "Salmo 138",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-138",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 259,
+  "units": [
+    {
+      "id": "psalm-138-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Eu renderei graças, Senhor,\nA ti, de todo\\_o coração meu.\nDiante dos que têm poder,\nA ti eu cantarei louvores.\n<sup>2</sup> Para\\_o teu santo templo eu\nProstrado, louvarei teu nome,\nPor causa da tua mercê,\nPor causa da verdade tua.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-138-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Engrandeceste sobre\\_o mais\nTeu nome e tua palavra.\n<sup>3</sup> No dia em que eu clamei,\nSocorro deste,\\_alento\\_à alma.\n<sup>4</sup> Graças te renderão, Senhor,\nOs reis da terra, ao ouvirem\nTuas palavras, ó Senhor,\n<sup>5</sup> E cantarão os teus caminhos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-138-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Excelso é\\_o Senhor, porém\nAtenta para os humildes.\nDos presunçosos longe\\_está;\nEle\\_os conhece só de longe.\n<sup>7</sup> Se ando em tribulação,\nA minha vida tu refazes.\nContra\\_o irar do opressor,\nEstendes tua mão, que salva.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-138-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Contra\\_o irar do opressor,\nA tua destra\\_é salvadora.\n<sup>8</sup> Javé aperfeiçoará\nAquilo que a mim concerne.\nA tua boa compaixão\nPerdurará pra todo\\_o sempre.\nAs obras, feitos das tuas mãos\nNão desampares, ó Senhor Deus.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

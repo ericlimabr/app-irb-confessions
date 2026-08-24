@@ -1,0 +1,64 @@
+{
+  "id": "psalm-060-gen",
+  "collection": "psalms",
+  "number": 60,
+  "numberLabel": "Salmo 60",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-060",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 100,
+  "units": [
+    {
+      "id": "psalm-060-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, tu rejeitaste\\_a nós;\nNos dispersaste, ó Senhor,\nPois indignado tu estás.\nRestabelece-nos, ó Deus!\n<sup>2</sup> A terra abalaste, sim;\nTambém fendeste-a, Senhor.\nRepara, pois, as suas brechas,\nPois ela ameaça ruir.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-060-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Fizeste\\_o povo teu provar\nTempos difíceis, ó Senhor.\nTambém nos deste pra beber\nDo vinho atordoador.\n<sup>4</sup> E aos que temem ao Senhor\nDeste um estandarte,\\_ó Deus,\nPara, no alto,\\_o arvorarem\nE pra diante do\\_arco fugir.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-060-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Salva com tua destra,\\_ó Deus.\nVem, ó Senhor, nos responder,\nA fim de que\\_os amados teus\nSejam libertos, ó Senhor.\n<sup>6</sup> Em sua santidade, Deus\nDisse: Me regozijarei\nDividirei Siquém e\\_o vale\nQue\\_é de Sucote eu medirei.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-060-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Gileade\\_e Manassés são meus;\nJudá é meu legislador.\nA minha força\\_é Efraim,\nSim, da cabeça minha é.\n<sup>8</sup> Eis que Moabe é pra mim\nMinha bacia de lavar.\nE sobre\\_Edom eu hei de lançar,\nMinha sandália\\_eu hei de lançar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-060-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "E sobre a Filístia,\\_então,\nSobre\\_ela\\_eu hei de jubilar.\n<sup>9</sup> Quem há de conduzir a mim,\nÀ fortaleza me levar?\nQuem vai guiar-me\\_até Edom?\n<sup>10</sup> Não rejeitaste\\_a nós, Senhor,\nTu que não sais com nossas tropas?\nNão sais com nossas tropas, Senhor.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-060-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Na\\_angústia, vem nos ajudar;\nSê nosso\\_auxílio, Deus Senhor,\nPois o socorro que provém\nDo próprio homem sempre\\_é vão.\n<sup>12</sup> Proezas vamos nós fazer\nEm nome do Senhor Javé,\nPois Ele mesmo é quem calca\nAos pés do nosso opositor.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

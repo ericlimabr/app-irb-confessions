@@ -1,0 +1,136 @@
+{
+  "id": "psalm-038-har",
+  "collection": "psalms",
+  "number": 38,
+  "numberLabel": "Salmo 38",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-038",
+  "attrs": {
+    "attribution": "CBS - Charlestown"
+  },
+  "sortOrder": 66,
+  "units": [
+    {
+      "id": "psalm-038-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Senhor, não me repreendas,\nNa tua ira, no furor.\n<sup>2</sup> Cravam-se\\_em mim as tuas setas,\nE tua mão cai sobre mim.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-038-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Minha carne está ferida,\nPois tua ira me\\_atingiu\nNão há saúde nos meus ossos\nEm razão do meu pecar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-038-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Pois, além da minha cabeça\nOs meus pecados já estão\nE, como fardos bem pesados,\nExcedendo meu vigor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-038-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Minhas chagas estão infectas,\nPois como louco procedi.\n<sup>6</sup> Estou curvado\\_e abatido,\nE de luto\\_é meu andar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-038-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Os meus lombos estão ardendo,\nE minha carne não é sã.\n<sup>8</sup> Estou aflito\\_e quebrantado;\nDou gemidos, falta paz.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-038-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Ó Senhor, em tua presença,\nOs meus desejos já estão;\nE toda\\_a minha\\_ansiedade\nEscondida\\_a ti não é.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-038-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>10</sup> E meu peito bate\\_alterado;\nFaltam-me\\_as forças; fraco\\_estou.\nE dos meus olhos o seu brilho\nJá não mais comigo\\_está.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-038-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>11</sup> E\\_afastados da minha praga\nMeus companheiros já estão;\nE\\_os meus parentes ficam longe,\nBem distantes eles vão.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-038-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>12</sup> E\\_armam contra mim ciladas,\nQuerem matar-me\\_e fazer mal;\nE dizem coisas perniciosas,\nPensam sempre\\_em enganar.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-038-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>13</sup> Como surdo, eu não escuto\nE, como mudo, me calei.\n<sup>14</sup> Sou como surdo\\_em cujos lábios\nNão existe\\_o replicar.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-038-har-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>15</sup> Pois em ti, Senhor, espero;\nE, ó meu Deus, me atenderás,\n<sup>16</sup> Pois eu dizia: não suceda\nQue se\\_alegrem sobre mim.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-038-har-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "Contra mim não se\\_engrandeçam\nQuando me resvalar o pé,\n<sup>17</sup> Pois estou quase tropeçando;\nMeu sofrer comigo\\_está.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-038-har-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>18</sup> E confesso\\_a iniquidade;\nSuporto dor por meu pecar.\n<sup>19</sup> São vigorosos e bem fortes\nOs adversários meus.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-038-har-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "E são muitos os que, sem causa,\nÓdio expressam contra mim.\n<sup>20</sup> Da mesma sorte,\\_os que me pagam\nMal por todo\\_o bem que fiz.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-038-har-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>21</sup> Ó Senhor, não me desampares;\nNão te ausentes, Deus, de mim.\n<sup>22</sup> Vem e te\\_apressa\\_em socorrer-me,\nSenhor, minha salvação.",
+      "attrs": {},
+      "sortOrder": 15
+    }
+  ]
+}

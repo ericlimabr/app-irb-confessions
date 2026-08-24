@@ -1,0 +1,65 @@
+{
+  "id": "hymn-084",
+  "collection": "hymns",
+  "number": 84,
+  "numberLabel": "Hino 84",
+  "title": "RESSURGIU O CRISTO VIVO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: RESSURREIÇÃO",
+    "author": "Autor desconhecido"
+  },
+  "sortOrder": 84,
+  "units": [
+    {
+      "id": "hymn-084-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Ressurgiu o Cristo vivo.\nEle a Satanás venceu.\nDeu-nos vida e alegria.\nHoje, a morte se perdeu.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-084-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Aleluia! Aleluia!\nSó a Deus a glória!\nAleluia! Aleluia!\nSó a Deus a glória!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-084-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Cantaremos gratos hinos\nAo Senhor, que nos salvou.\nNós herdamos sem pagarmos\nA justiça que ganhou.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-084-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Nossa vida seja grata\nPelo dom que vem de Deus.\nDê-lhe culto, adorando\nJesus Cristo, grande Deus.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-084-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Cristo, em glória e vitória,\nReina sobre nós do céu.\nCéus e terra e o que encerram,\nTudo Deus a Cristo deu.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "hymn-084-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Algum dia, que alegria,\nCristo voltará do céu.\nDeus descendo, nós subindo,\nEncontramo-nos no céu.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "belgic-art10",
+  "collection": "belgic",
+  "number": 10,
+  "numberLabel": "Art. 10",
+  "title": "Jesus Cristo: eterno e verdadeiro Deus",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 10,
+  "units": [
+    {
+      "id": "belgic-art10-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos  que  Jesus  Cristo  é,  segundo  a  Sua  natureza  Divina,  o  Filho Unigênito de Deus, gerado desde a eternidade, não feito nem criado - senão seria uma criatura - mas é da mesma substância e co-eterno com o Pai, _\"é o resplendor da glória e a expressão exata do seu Ser\"_ (Hb 1.3) e em tudo igual a Ele. Ele é o Filho de Deus não somente desde que assumiu a nossa natureza, mas desde a eternidade, conforme nos ensina a comparação dos seguintes testemunhos: Moisés afirma que Deus  criou  o  mundo; o  apóstolo  João  diz  que  tudo  foi  criado  pelo Verbo, ao qual chama Deus. A Carta aos Hebreus diz que Deus criou o mundo por meio do Seu Filho; igualmente o apóstolo Paulo afirma que  Deus  criou  todas  as  coisas  por  meio  de  Jesus  Cristo. Portanto, conclui-se necessariamente que Aquele a quem chamam de Deus, de Verbo, de Filho e de Jesus Cristo, existia de fato já no tempo em que todas as coisas foram criadas por Ele. Por isso é que Ele pôde dizer: _\"Em  verdade,  em  verdade  eu  vos  digo:  antes  que  Abraão  existisse, EU SOU\"_ (Jo 8.58), e pôde orar: _\"glorifica-me, ó Pai, contigo mesmo, com a glória que eu tive junto de ti, antes que houvesse mundo\"_ (Jo 17.5). Logo, Ele é o Deus Verdadeiro e Eterno, o Onipotente a quem invocamos, adoramos e servimos.",
+      "attrs": {
+        "refs": [
+          "Mt 17.5; Jo 1.14, 18; Jo 3.16; Jo 14.1-14; Jo 20.17, 31; Rm 1.4; Gl 4.4; Hb 1.2; 1Jo 5.5, 9-12.",
+          "Jo 5.18, 23; Jo 10.30; Jo 14.9; Jo 20.28; Rm 9.5; Fp 2.6; Cl 1.15; Tt 2.13; Hb 1.3; Ap 5.13.",
+          "Jo 8.58; Jo 17.5; Hb 13.8.",
+          "Gn 1.1.",
+          "Jo 1.1-3.",
+          "Hb 1.2.",
+          "1Co 8.6; Cl 1.16."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "psalm-089-har",
+  "collection": "psalms",
+  "number": 89,
+  "numberLabel": "Salmo 89",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-089",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 146,
+  "units": [
+    {
+      "id": "psalm-089-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Em toda\\_a minha vida, canto ao Senhor.\nAs obras louvo, pois benigno\\_é\\_o seu favor.\nMeus lábios contarão às gerações que\\_emergem\n<sup>2</sup> Como\\_a bondade deste\\_a servos que te\\_esperam.\nAssentarás nos céus tua fidelidade,\nFirmada sempre\\_está tua benignidade.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-089-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Meu servo escolhido,\\_assim fala\\_o Senhor:\nDavi, me obedece;\\_a\\_aliança\\_é\\_em seu favor.\nJurei à sua casa\\_e toda descendência:\n<sup>4</sup> \"Às tuas gerações dou longa existência.\nTeus filhos guiarei por séculos que venham,\nTeu trono\\_apoiarei até que\\_os tempos findem.\"",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-089-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Os anjos cantam-te, Senhor, o teu poder,\nTua fieldade fez o céu se\\_enaltecer.\n<sup>6</sup> Senhor, há ser nenhum tão grande\\_e elevado,\nMesmo\\_entre\\_os celestiais, te seja comparado.\n<sup>7</sup> És sobremodo bom que\\_a todo ser celeste\nRespeito e temor ao trono impuseste.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-089-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> De tudo que viver que é a ti igual?\nGrandioso\\_é\\_o reino teu, fieldade tem aval.\n<sup>9</sup> Impetuoso mar e ondas dominaste,\nRebeldes vendavais com ordens amainaste.\n<sup>10</sup> Raabe,\\_o\\_horrendo ser, a ti se elevando,\nTeu braço lhe bateu, o forte esmagando.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-089-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>11-12</sup> A terra e o céu é tudo\\_a teu dispor,\nO mundo\\_e\\_a plenitude\\_é tua\\_e sua flor.\nÓ Criador do norte\\_e\\_o sul, que nomeaste,\nTe louva o Tabor, o Hermon alegraste.\nO mundo todo\\_é teu, as estações e\\_o tempo,\nE tudo que criaste\\_em ti se\\_alegra sempre.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-089-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>13</sup> Louvamos, ó Senhor, tua\\_elevada mão;\nTeu braço se\\_estendeu, tua obra\\_em proteção.\n<sup>14</sup> Fundaste\\_o trono teu; justiça\\_é\\_o fundamento,\nDireito\\_é\\_o seu primor; e\\_é firme\\_o seu sustento.\nArautos te precedem, teus caminhos todos.\nVerdade\\_e graça\\_e paz é,\\_ó Rei, nosso consolo.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-089-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>15</sup> É bem-aventurado\\_o povo que\\_exultar,\nQue,\\_em júbilo e vivas, glória te\\_entoar.\nA tua face\\_excelsa sempre\\_os é de guia,\n<sup>16</sup> Teu nome\\_alegra\\_os teus durante\\_o dia\\_a dia.\nPerante\\_os olhos teus, em plena paz, prosseguem.\nTua justiça\\_eleva\\_os teus, que,\\_assim, se\\_alegrem.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-089-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>17</sup> O brilho és da nossa força, ó Senhor,\nDo povo\\_avulta\\_o bem e\\_eleva\\_o esplendor.\nPor teu favor, fazemos feitos arrojados\nE, de cabeça\\_erguida, de\\_honra coroados.\n<sup>18</sup> Ó Santo de\\_Israel, por bem nos escolheste\nUm rei de teu agrado,\\_escudo que nos deste.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-089-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>19</sup> Outrora, revelaste\\_os planos teus, Senhor.\nMensagens confiaste\\_aos homens, teu favor:\nDe força lhe cingi, de graça transbordado,\nDo povo separei herói real e\\_amado.\n<sup>20</sup> Davi, o meu fiel, meu servo escolhido,\nDe óleo\\_ungi, lhe fica\\_o reino\\_atribuído.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-089-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>21</sup> Lhe firma\\_a minha mão, meu braço\\_é\\_o seu poder,\n<sup>22</sup> E inimigo\\_algum capaz de\\_o surpreender.\n<sup>23</sup> Diante dele,\\_esmagarei seus adversários,\n<sup>24</sup> Bondade minha o\\_acompanha\\_o\\_itinerário.\nMeu nome, que confessa,\\_aumenta\\_o seu prestígio.\n<sup>25</sup> Porei sua mão no mar, sua força sobre\\_os rios.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-089-har-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>26</sup> Por graça,\\_invocará meu nome\\_e\\_a\\_aclamação:\nMeu Pai, Deus meu, e rocha\\_e minha salvação.\n<sup>27</sup> Respondo-lhe: meu filho,\\_os reis são abalados\nPor ti, meu primogênito tão elevado,\n<sup>28</sup> E sempre\\_a minha graça\\_o segue\\_e\\_é abundante.\nDei minha aliança,\\_e\\_o\\_assento lhe\\_é constante.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-089-har-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>29</sup> Seus descendentes todos vida concedi,\nSeu trono como\\_o firmamento estendi.\n<sup>30-32</sup> Se\\_os filhos seus a minha lei desobservarem,\nCastigarei se\\_em meus juízos não andarem.\n<sup>33</sup> Jamais retirarei-lhes toda\\_esta bondade,\n<sup>34</sup> Palavra manterei e\\_o\\_pacto\\_inalterado.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-089-har-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>35</sup> O que\\_a Davi jurei jamais vou desmentir,\nPois minha santidade vai lhe garantir.\nVerdade\\_eu mesmo sou. Será que mentiria?\n<sup>36-37</sup> Seus filhos viverão, e\\_o trono\\_é lhe\\_alegria,\nAté ao fim dos tempos, firme assentado,\nE\\_enquanto\\_o sol completa\\_a sua caminhada.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-089-har-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>38</sup> E, mesmo assim, repudiaste\\_o servo teu.\nO rei, o\\_ungido\\_a tua rejeição sofreu.\n<sup>39</sup> A tua ira\\_o\\_atinge, dele te\\_apartaste.\nÉ profanado\\_o trono,\\_a força lhe tiraste.\n<sup>40</sup> Nem muro nem as fortificações protegem,\nContra\\_as nações vizinhas, que nos escarnecem.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-089-har-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>41-43</sup> Seu inimigo alegraste, se\\_elevou.\nO\\_exército fugiu, a\\_espada se\\_embotou.\n<sup>44</sup> Seu brilho apagaste, que\\_alto fulgurava.\nSeu trono derrubaste, donde governava.\n<sup>45</sup> A sua mocidade\\_alegre\\_abreviaste;\nCom próprias mãos destrua que edificaste.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-089-har-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "<sup>46</sup> Por que Senhor, meu Deus, te\\_escondes para mim,\nPor que a tua ira arde forte\\_assim?\n<sup>47</sup> É passageira\\_e frágil esta nossa vida,\nQue\\_aos homens, tua criação, tens concedida.\n<sup>48</sup> Na terra, quem não sentirá\\_a amarga morte?\nQual é\\_o mortal que\\_escapa desta triste sorte?",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "psalm-089-har-v17",
+      "kind": "verse",
+      "label": "17",
+      "body": "<sup>49</sup> Não deixe-nos, Senhor, cair da tua mão,\nE jure fieldade\\_à nossa geração.\nBenignidade tua onde escondeste?\nQue,\\_outrora,\\_à casa de Davi, teu servo, deste?\n<sup>50</sup> Lembre de nós, do\\_opróbrio feito\\_a teus amados,\nA\\_injúria,\\_e fomos pelos povos insultados.",
+      "attrs": {},
+      "sortOrder": 17
+    },
+    {
+      "id": "psalm-089-har-v18",
+      "kind": "verse",
+      "label": "18",
+      "body": "<sup>51</sup> Teus inimigos, Deus, teus inimigos vão\nE\\_insultam a teu servo. Tenha compaixão!\nOs passos apagaram do teu rei, do\\_ungido.\nRestaura\\_a glória desta terra prometida.\nQue\\_o filho de Davi lhe\\_impõe vergonha\\_e\\_inveja.\n<sup>52</sup> Bendito é\\_o Senhor pra sempre,\\_amém, que seja!",
+      "attrs": {},
+      "sortOrder": 18
+    }
+  ]
+}

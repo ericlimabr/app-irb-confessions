@@ -1,0 +1,49 @@
+{
+  "id": "hymn-031",
+  "collection": "hymns",
+  "number": 31,
+  "numberLabel": "Hino 31",
+  "title": "A TI, Ó DEUS, ALTÍSSIMO SENHOR!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Henry Maxwell Wright"
+  },
+  "sortOrder": 31,
+  "units": [
+    {
+      "id": "hymn-031-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "A ti, ó Deus, Altíssimo Senhor,\nEterno Pai, Supremo Benfeitor,\nTeus filhos vêm, alegres, dar louvor.\nAleluia! Aleluia!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-031-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "A ti, Deus Filho, Salvador Jesus,\nDa graça a fonte, da verdade a luz,\nPor teu amor mostrado sobre a cruz,\nAleluia! Aleluia!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-031-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "A ti, ó Deus, Espírito de amor,\nDe nossas almas santificador,\nMestre divino, bom consolador,\nAleluia! Aleluia!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-031-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Ó Deus Triúno, vem-nos conceder\nA plenitude do real poder\nE as nossas almas vem, aqui, reger.\nAleluia! Aleluia!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

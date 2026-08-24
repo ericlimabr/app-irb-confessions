@@ -1,0 +1,48 @@
+{
+  "id": "psalm-011-har",
+  "collection": "psalms",
+  "number": 11,
+  "numberLabel": "Salmo 11",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-011",
+  "attrs": {
+    "attribution": "CBS - Terra Beata"
+  },
+  "sortOrder": 22,
+  "units": [
+    {
+      "id": "psalm-011-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Meu refúgio\\_está em Deus.\nComo podes me dizer:\n“Qual ave foge ao monte seu,\nAssim fujas também”?\n<sup>2</sup> Pois eis que\\_os ímpios vão,\nTêm já pronto\\_o arco\\_à mão\nPara,\\_às ocultas, disparar\nNos justos de coração.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-011-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Quando há destruição,\nFundamentos já não são,\nQue pode\\_o justo fazer, então,\nSe nesta vil condição?\n<sup>4</sup> No templo,\\_está\\_o Senhor;\nTem nos céus o trono seu.\nSeus olhos sondam com atenção;\nOs filhos dos homens vê.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-011-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> E ao justo\\_aprova Deus,\nMas odeia\\_o homem mau;\nE\\_aquele que violência faz\nDeus o abomina já.\n<sup>6</sup> Javé fará chover\nFogo,\\_enxofre sobre\\_os maus,\nE vento\\_abrasador será\nA taça que lhes dará.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-011-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Pois justo é\\_o Senhor;\nEle ama\\_a retidão.\nE cada um que justo for\nA face lhe verá.\nPois justo é\\_o Senhor;\nEle ama\\_a retidão.\nE cada um que justo for\nA face lhe verá.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

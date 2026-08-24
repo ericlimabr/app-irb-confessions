@@ -1,0 +1,64 @@
+{
+  "id": "psalm-005-har",
+  "collection": "psalms",
+  "number": 5,
+  "numberLabel": "Salmo 5",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-005",
+  "attrs": {
+    "attribution": "CBS - Aberystwith"
+  },
+  "sortOrder": 10,
+  "units": [
+    {
+      "id": "psalm-005-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Dá-me\\_ouvidos, ó Senhor.\nMeu gemido\\_acode,\\_ó Deus.\n<sup>2</sup> Ouve,\\_ó meu Deus e meu rei,\nMinha voz, que clama\\_a ti,\nPois a ti venho\\_implorar.\n<sup>3</sup> Ouves minha voz, Senhor.\nLevo\\_a ti minha\\_oração,\nDe manhã, e\\_espero\\_em ti.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-005-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Pois, Senhor, tu não és Deus\nQue se\\_agrade do pecar,\nE contigo, meu Senhor,\nO mal não subsistirá.\n<sup>5</sup> À tua vista, não irão\nArrogantes perdurar.\nTodo que pratica\\_o mal\nAborreces, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-005-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Mentirosos tu destróis;\nFraudulentos e cruéis\nAbominas, ó Senhor.\n<sup>7</sup> Mas, no templo,\\_eu entrarei;\nEm tua casa, entrarei,\nPois gracioso\\_és tu, Senhor,\nE,\\_em temor, me prostrarei\nAnte\\_o santo templo teu.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-005-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Na justiça tua, vem\nOs meus passos dirigir\nPelos inimigos meus\nE me\\_apruma\\_o caminhar.\n<sup>9</sup> São fingidos no falar,\nCrimes têm no coração.\nCova\\_aberta\\_é\\_o\\_seu falar,\nTêm a língua\\_a bajular.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-005-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Ó Senhor, vem declarar\nSua culpa, transgressão.\nCaiam por seu próprio\\_ardil.\nVem a eles rejeitar\nPor suas muitas transgressões.\nSão rebeldes contra ti.\n<sup>11</sup> Mas quem confiar em Deus\nVenha se regozijar.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-005-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Venha gloriar-se\\_em ti\nQuem amar o nome teu.\nQue se\\_alegre sempre\\_em ti,\nPois defesa tu lhe dás.\n<sup>12</sup> Porque tu ao justo dás\nTua bênção, ó Senhor.\nComo\\_escudo cercarás\nCom bondade\\_ao justo,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

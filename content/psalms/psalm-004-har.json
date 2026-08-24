@@ -1,0 +1,56 @@
+{
+  "id": "psalm-004-har",
+  "collection": "psalms",
+  "number": 4,
+  "numberLabel": "Salmo 4",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-004",
+  "attrs": {
+    "attribution": "CBS - Penitence"
+  },
+  "sortOrder": 8,
+  "units": [
+    {
+      "id": "psalm-004-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus, justiça minha, ouve,\\_eu clamo\\_a ti.\nTens me\\_aliviado na angústia\\_e dor.\nTem misericórdia de mim quando clamo!\nOuve\\_a minha prece, minha oração!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-004-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Homens, até quando vós transformareis\nEm vexame\\_a minha glória e\\_esplendor?\nHomens, até quando amareis vaidades?\nAté quando\\_a vil mentira buscareis?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-004-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Mas sabei que Deus distingue seus fiéis.\nO Senhor me ouve quando eu clamar.\n<sup>4</sup> Irai-vos, e não pequeis; e no travesseiro\nConsultai o coração e sossegai.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-004-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Sacrifícios de justiça\\_oferecei.\nNo Senhor esteja vosso confiar.\n<sup>6</sup> Muitos dizem: Quem a nós o bem nos fará saber?\nA luz do teu rosto ergue sobre nós.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-004-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Pões mais alegria no meu coração\nDo que quando\\_a eles sobram vinho e pão.\n<sup>8</sup> E em paz me deito. Sem demora,\\_o sono vem,\nPois só Deus me faz seguro repousar.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

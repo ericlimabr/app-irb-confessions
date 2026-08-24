@@ -1,0 +1,80 @@
+{
+  "id": "psalm-096-gen",
+  "collection": "psalms",
+  "number": 96,
+  "numberLabel": "Salmo 96",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-096",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 157,
+  "units": [
+    {
+      "id": "psalm-096-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Cantai a Deus um novo canto,\nCantai a Deus as terras todas.\n<sup>2</sup> O nome dele bendizei\nE proclamai sua salvação;\nDia\\_após dia, proclamai-a.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-096-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Anunciai a sua glória;\nEntre\\_as nações as maravilhas;\n<sup>4</sup> Porque mui grande é\\_o Senhor\nE muito digno de louvor:\nTemível mais que\\_os deuses todos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-096-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Os deuses que\\_as nações adoram\nNão passam de idolatria,\nMas o Senhor criou os céus;\n<sup>6</sup> Glória e majestade tem;\nForça\\_e beleza em seu templo.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-096-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Todos os povos, tributai-lhe,\nGlória e força tributai-lhe,\n<sup>8</sup> Glória devida\\_ao nome seu,\nTrazei ofertas ao Senhor\nE adentrai-vos em seus átrios.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-096-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Em sua bela santidade,\nAo Senhor Deus, vinde\\_e\\_adorai-o.\nTodas as terras, oh, tremei,\nTremei diante do Senhor.\n<sup>10</sup> Entre\\_as nações, dizei que reina.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-096-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Firmou o mundo de tal forma\nQue não irá ser abalado.\nCom equidade, o Senhor\nJulga os povos, as nações,\nSim, julga\\_os povos com justiça.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-096-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>11</sup> Exultem os céus e a terra;\nRuja o mar, sua plenitude;\n<sup>12</sup> Folgue o campo\\_e\\_o que contém;\nTodas as árvores também\n<sup>13</sup> Diante do Senhor, que é Deus.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-096-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "Pois Deus virá trazer juízo,\nSim, Deus virá julgar a terra.\nAo mundo todo, o Senhor\nCom a justiça julgará;\nCom a verdade,\\_os povos todos.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

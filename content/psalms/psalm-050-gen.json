@@ -1,0 +1,88 @@
+{
+  "id": "psalm-050-gen",
+  "collection": "psalms",
+  "number": 50,
+  "numberLabel": "Salmo 50",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-050",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 84,
+  "units": [
+    {
+      "id": "psalm-050-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> O Poderoso fala,\\_o Senhor Deus,\nDesde\\_o levante,\\_a terra\\_a convocar\nAté\\_o poente! <sup>2</sup> Sim, desde Sião,\nFormoso monte, resplandece Deus.\n<sup>3</sup> Vem nosso Deus: eis que não faz silêncio,\nCom fogo\\_irado, brava tempestade.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-050-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> De cima,\\_intima\\_a terra\\_e todo\\_o céu\nPara julgar o povo que é seu:\n<sup>5</sup> “Meus santos da\\_aliança congregai;\nSeu sacrifício\\_um pacto nos selou”.\n<sup>6</sup> Agora,\\_os céus declaram a justiça,\nPois é o próprio Deus que traz juízo.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-050-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> “Escuta,\\_ó povo meu, pois falarei;\nContra\\_Israel eu testemunharei.\nEis que sou Deus, oh, sim, eu sou teu Deus.\n<sup>8</sup> Não é por sacrifício\\_a repreensão\nNem pelos teus contínuos holocaustos;\nNão é por isso tudo que\\_eu te julgo.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-050-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> De tua casa não aceitarei\nNovilho\\_ou bode, que no\\_aprisco tens.\n<sup>10</sup> Todo\\_animal que há no bosque\\_é meu;\nMilhares de\\_animais nos montes há;\n<sup>11</sup> São todos meus; e\\_as aves da montanha,\nTambém os animais que\\_ao campo pulam.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-050-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Eis que o mundo\\_é meu e\\_o que contém.\nSe eu ficar com fome, não direi?\n<sup>13</sup> Acaso,\\_eu como bife de\\_animal?\nSangue de bodes gosto de beber?\n<sup>14</sup> A Deus vem dar teu sacrifício\\_em graças;\nTeus votos ao mais Alto Deus aplica.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-050-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> Clama por mim no dia de\\_apreensão;\nLivrar-te-ei, glorificar-me-ás.\n<sup>16</sup> Mas ao iníquo Deus vai declarar:\n“De que te serve\\_a minha lei dizer,\nE repetir palavras da\\_aliança,\nPois aborreces meu juízo\\_e verbo?”",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-050-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>18</sup> Vês um ladrão e queres te\\_alegrar;\nCom os impuros, te associar.\n<sup>19</sup> Soltas a boca para maldizer,\nSim, tua língua trama enganar.\n<sup>20</sup> Difamador, denigre teu vizinho;\nSentado, contra\\_o teu irmão fofocas.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-050-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>21</sup> Tens feito estas coisas; me calei.\nPensavas que\\_eu sou, pois, o teu igual,\nMas te\\_arguirei: vou tudo revelar.\n<sup>22</sup> Considerai, pois, nisto, vós que não\nQuereis lembrar de Deus, o Soberano:\nVai trucidá-los, sem haver escape.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-050-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>23</sup> “Todos que\\_ofertam, para me\\_adorar,\nAções de graças, ao sacrificar,\nSão estes que me glorificarão.\nA todo\\_aquele que lhes preparar\nO seu caminho, dar-lhe-ei que veja\nA salvação de Deus, que o redime”.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

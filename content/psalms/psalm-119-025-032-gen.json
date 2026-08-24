@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-025-032-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.25-32",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-025-032",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 201,
+  "units": [
+    {
+      "id": "psalm-119-025-032-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>25</sup> A minha alma\\_está\\_apegada\\_ao pó;\nVem, vivifica-me com tua palavra.\n<sup>26</sup> Os meus caminhos eu te\\_apresentei.\nTu me valeste,\\_ensina-me\\_os decretos.\n<sup>27</sup> Faz-me\\_atinar à senda da tua lei.\nMeditarei nas tuas maravilhas.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-025-032-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>28</sup> Minha\\_alma\\_está tão triste a chorar.\nOh! Dá-me força por tua palavra!\n<sup>29</sup> De mim afasta\\_o falso caminhar.\nCom tua lei, a mim me favoreces,\n<sup>30</sup> Pois o fiel caminho escolhi\nE decidi-me pelos teus juízos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-025-032-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>31</sup> Eu me apego\\_aos testemunhos teus;\nSenhor, te peço que tu não permitas,\nNão me permitas me envergonhar.\n<sup>32</sup> Percorrerei, Senhor, o teu caminho,\nPrescrito pelos mandamentos teus\nQuando meu coração tu alegrares.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "psalm-072-gen",
+  "collection": "psalms",
+  "number": 72,
+  "numberLabel": "Salmo 72",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-072",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 118,
+  "units": [
+    {
+      "id": "psalm-072-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Concede\\_ao rei os teus juízos,\nJustiça\\_ao filho seu,\n<sup>2</sup> Para que julgue com justiça\nTeu povo, ó Senhor.\nQue ele julgue teus aflitos\nCom equidade,\\_ó Deus.\n<sup>3</sup> Ao povo\\_os montes e colinas\nTrarão justiça\\_e paz.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-072-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Julgue\\_os aflitos dentre\\_o povo,\nTrazendo salvação\nAos filhos dos necessitados,\nE\\_esmague\\_o opressor.\n<sup>5</sup> Ó Senhor Deus, hão de temer-te\nEnquanto\\_o sol durar\nE\\_enquanto existir a lua,\nDurante\\_as gerações.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-072-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Seja o rei igual à chuva\nQue cai em profusão\nSobre\\_a campina\\_após a ceifa,\nA terra\\_a irrigar.\n<sup>7</sup> Florescerá, então, o justo,\nDurante\\_os dias seus.\nAté que cesse de\\_haver lua,\nHaja\\_abundante paz.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-072-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Que\\_o seu domínio se estenda\nDe mar a outro mar;\nDo rio até\\_os confins da terra,\nVenha a governar.\n<sup>9</sup> Os habitantes do deserto\nVenham a se curvar.\nE todos os seus inimigos\nHão de lamber o pó.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-072-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Os reis de Társis e das ilhas\nPaguem tributo\\_ao rei;\nE lhe\\_ofereçam seus presentes\nReis de Sabá\\_e Sebá.\n<sup>11</sup> Todos os reis perante ele\nVenham a se prostrar;\nE seja ele,\\_assim, servido\nPor todas as nações.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-072-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Ao pobre\\_acode quando clama\nE\\_ao que aflito\\_está.\n<sup>13</sup> Do fraco\\_e do necessitado\nTambém tem compaixão.\nDos indigentes salva\\_a alma\n<sup>14</sup> Do mal e da\\_opressão,\nPois precioso\\_é\\_o sangue dele\nPerante\\_os olhos seus.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-072-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>15</sup> E viverá o nosso rei, sim,\nE\\_eis que receberá\nDo ouro que a ele\\_é dado,\nDo ouro de Sabá.\nE oração, continuamente,\nEm seu favor farão.\nE\\_o nome seu, diariamente,\nA ele bendirão.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-072-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>16</sup> Haja fartura\\_em sua terra\nQue chegue\\_a ondular\nAté o cume das montanhas\nDe tantos cereais.\nSeja qual Líbano sua messe;\nE venham florescer\nOs habitantes da cidade\nQual relva sobre\\_o chão.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-072-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>17</sup> Eternamente,\\_o nome dele\nHá de permanecer.\nAssim, prospere, pois, seu nome\nEnquanto\\_o sol brilhar.\nQue sejam nele\\_abençoados\nTodos os homens, sim;\nSeja chamado de bendito\nPor todas as nações.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-072-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>18</sup> O Senhor Deus seja bendito,\nO Deus de Israel;\nPois é só Ele que opera,\nSim, os prodígios seus.\n<sup>19</sup> E que seu nome glorioso\nBendigam sempre, sim.\nDa sua glória seja cheia\nA terra toda!\\_Amém!",
+      "attrs": {},
+      "sortOrder": 10
+    }
+  ]
+}

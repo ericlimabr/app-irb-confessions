@@ -1,0 +1,80 @@
+{
+  "id": "psalm-017-gen",
+  "collection": "psalms",
+  "number": 17,
+  "numberLabel": "Salmo 17",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-017",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 33,
+  "units": [
+    {
+      "id": "psalm-017-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A justa causa ouve,\\_ó Deus.\nAo meu clamor, Senhor, atende;\nÀ minha oração escuta;\nDe lábio\\_enganador não vem.\n<sup>2</sup> O julgamento a meu respeito\nDa tua presença baixe,\\_ó Deus.\nEis que os olhos teus, Senhor,\nEnxergam com a equidade.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-017-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Sondas-me\\_o coração, Senhor,\nE me visitas pela noite.\nProvas no fogo\\_e não encontras\nEm minha boca transgressão.\n<sup>4</sup> E, quanto às ações dos homens,\nPelo que sua boca diz,\nTenho guardado-me, Senhor,\nDa senda do\\_homem violento.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-017-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Se\\_acostumaram os meus pés\nA caminhar em teus caminhos.\nOs passos meus não resvalaram,\nNão resvalaram os meus pés.\n<sup>6</sup> Ó meu Senhor, eu te invoco,\nPorque respondes-me, ó Deus.\nInclina os ouvidos teus,\nAcode às palavras minhas.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-017-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Maravilhosa é, Senhor,\nTua bondade, que revelas\nE salvas quem à tua destra\nBusca refúgio protetor\nDe todos os que se levantam.\n<sup>8</sup> Vem, ó Senhor, me esconder\nÀ sombra das tuas asas, sim,\nMe guarda como a pupila.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-017-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Vem, ó Senhor, me proteger,\nDos ímpios que a mim oprimem.\nVem proteger-me de\\_inimigos\nQue ameaçam me matar.\n<sup>10</sup> Com lábios insolentes, falam\nE fecham o seu coração.\n<sup>11</sup> Andam cercando\\_o nosso\\_andar\nCom olhos fixos pra matar-nos.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-017-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> São semelhantes ao leão,\nO qual deseja sua presa,\nOu semelhante\\_ao leãozinho\nNa emboscada\\_a espreitar.\n<sup>13</sup> Levanta,\\_ó Deus, e os defronta\nE os arrasa, ó Senhor.\nCom tua\\_espada, vem livrar\nDo homem ímpio minha alma.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-017-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>14</sup> Livra minha\\_alma com tua mão\nDos homens que são deste mundo,\nCujo quinhão é desta vida,\nE\\_o ventre cheio\\_está de bens,\nOs quais também estão bem fartos\nDe muitos filhos que\\_eles têm,\nE da riqueza\\_a sobejar\nDestinam aos seus pequeninos.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-017-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>15</sup> Mas, quanto\\_a mim, Senhor meu Deus,\nContemplarei a tua face.\nSim, tua face na justiça\nEu hei de contemplar, Senhor.\nE com a tua semelhança\nEu satisfeito estarei\nQuando vier a acordar,\nSim, estarei mui satisfeito.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

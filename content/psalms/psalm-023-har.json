@@ -1,0 +1,64 @@
+{
+  "id": "psalm-023-har",
+  "collection": "psalms",
+  "number": 23,
+  "numberLabel": "Salmo 23",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-023",
+  "attrs": {
+    "attribution": "CBS - Crimond"
+  },
+  "sortOrder": 44,
+  "units": [
+    {
+      "id": "psalm-023-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> O meu pastor é\\_o Senhor, meu Deus,\nE nada me faltará.\n<sup>2</sup> Em pastos verdes, faz-me deitar;\nÀs fontes de paz conduz.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-023-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Meu Deus minha\\_alma vem restaurar\nE guia meu caminhar.\nPor sendas justas, faz-me andar\nPor causa do nome seu.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-023-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Se pelo vale da morte andar,\nNa sombra da\\_escuridão,\nNão temerei nenhum mal, ó Deus,\nPorque tu comigo estás.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-023-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "O teu cajado e\\_o teu bordão\nConsolam a mim, Senhor.\n<sup>5</sup> Preparas mesa,\\_ó Deus, para mim\nPerante\\_inimigos meus.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-023-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Com óleo,\\_a fronte vens me ungir,\nMeu cálice\\_a transbordar.\n<sup>6</sup> Bondade tua e compaixão\nDeveras me seguirão.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-023-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Sim, certamente me seguirão\nEm todos os dias meus;\nE,\\_eternamente,\\_eu habitarei\nNa casa do meu Senhor.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

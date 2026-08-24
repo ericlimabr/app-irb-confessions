@@ -1,0 +1,96 @@
+{
+  "id": "psalm-025-gen",
+  "collection": "psalms",
+  "number": 25,
+  "numberLabel": "Salmo 25",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-025",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 47,
+  "units": [
+    {
+      "id": "psalm-025-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A ti elevo\\_a minha\\_alma.\n<sup>2</sup> Meu Senhor, confio\\_em ti.\nQue\\_os ímpios não me\\_envergonhem\nNem exultem sobre mim.\n<sup>3</sup> Todo que espera\\_em ti,\nNão será envergonhado,\nMas quem sem motivo trai,\nEste sofrerá vexame.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-025-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Concede\\_a mim que conheça\nTeus caminhos, ó Senhor.\nTuas veredas me\\_ensina,\nSim, me\\_ensina, ó Deus meu.\n<sup>5</sup> Vem guiar-me e\\_ensinar\nNa verdade tua, Senhor.\nDeus da minha salvação,\nTodo\\_o dia,\\_em ti espero.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-025-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Das tuas misericórdias\nE bondades vem lembrar,\nQue são dos tempos eternos.\nLembra delas, ó Deus meu.\n<sup>7</sup> Mas não lembres, ó Senhor,\nMeu pecar da mocidade.\nDe mim lembra com favor,\nPois, Senhor, tu és bondoso.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-025-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> É\\_o nosso Deus bom e reto\nE, por isso,\\_apontará\nAo pecador o caminho.\n<sup>9</sup> Na justiça, guiará,\nOs humildes guiará;\nMostra\\_aos mansos seu caminho.\nOs humildes guiará;\nMostra\\_aos mansos seu caminho.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-025-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Misericórdia\\_e verdade\nSão as sendas do Senhor\nPara quem guarda\\_a\\_aliança\nE seus testemunhos, sim.\n<sup>11</sup> Minha\\_iniquidade vem\nPerdoar, pois é imensa.\nPor teu nome, meu Senhor,\nOh, perdoa\\_o meu pecado.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-025-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Ao homem que\\_ao Senhor teme\nInstrução Deus lhe dará;\nComo\\_escolher o caminho\nDeus a ele\\_ensinará.\n<sup>13</sup> Ele há de repousar\nNa riqueza\\_a sua alma;\nSua descendência vai\nTer a terra como\\_herança.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-025-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>14</sup> De Deus a intimidade\nÉ pra quem lhe tem temor\nAos quais a sua\\_aliança\nEle dá a conhecer.\n<sup>15</sup> E, continuamente,\\_a Deus\nOs meus olhos eu elevo,\nPorque Deus há de tirar,\nSim, tirar meus pés do laço.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-025-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>16</sup> Tem compaixão do teu servo\nE te volta para mim,\nPois estou só e aflito.\n<sup>17</sup> Dá-me\\_alívio\\_ao coração\nDas tribulações, ó Deus.\nVem tirar-me das angústias.\n<sup>18</sup> Leva\\_em conta\\_o meu sofrer\nE perdoa\\_os meus pecados.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-025-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>19</sup> Atenta\\_aos meus inimigos,\nPois são muitos, ó meu Deus.\nÓdio cruel manifestam,\nAbominam-me, Senhor.\n<sup>20</sup> Guarda\\_a minha alma,\\_ó Deus\nMeu Senhor, oh, vem livrar-me.\nQue\\_eu não sofra\\_humilhação,\nPois tu és o meu refúgio.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-025-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>21</sup> Que preservado eu seja\nPela retidão, Senhor,\nE pela sinceridade,\nPois em ti esperarei.\n<sup>22</sup> Oh, redime\\_a Israel\nDas tribulações, sim, todas;\nDelas, livra, ó Senhor.\nSalva Israel, teu povo.",
+      "attrs": {},
+      "sortOrder": 10
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hymn-038",
+  "collection": "hymns",
+  "number": 38,
+  "numberLabel": "Hino 38",
+  "title": "SONDA-ME, Ó DEUS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LEI, CONFISSÃO E PERDÃO",
+    "author": "J. Edwin Orr / Salomão Luís Ginsburg"
+  },
+  "sortOrder": 38,
+  "units": [
+    {
+      "id": "hymn-038-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Sonda-me, ó Deus, pois vês meu coração;\nProva-me, ó Pai, te peço em oração.\nDe todo o mal liberta-me, Senhor,\nAté da transgressão que oculta for.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-038-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Vem me lavar dos vis pecados meus,\nConforme prometeste, meu bom Deus.\nFaze-me arder e consumir de amor,\nPois quero te magnificar, Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-038-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Todo o meu ser não considero meu;\nQuero usá-lo no serviço teu.\nMinhas paixões tu podes dominar,\nPois tu, Senhor, vieste em mim morar.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "psalm-099-har",
+  "collection": "psalms",
+  "number": 99,
+  "numberLabel": "Salmo 99",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-099",
+  "attrs": {
+    "attribution": "CBS - Joyful Song"
+  },
+  "sortOrder": 162,
+  "units": [
+    {
+      "id": "psalm-099-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Reina\\_o Senhor! Tremam, pois, todos os povos!\nNo trono está, acima Deus está\nDos querubins; e, então, a terra se\\_abale!\n<sup>2</sup> Em Sião, é mui grande\\_o nosso Deus.\nBem mais alto do que os povos todos\nÉ\\_o nosso Deus. <sup>3</sup> Celebrem as nações,\nCelebrem, pois, teu nome grande\\_e tremendo,\nPois é santo\\_o teu nome, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-099-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> És forte rei, um rei que ama\\_a justiça,\nE\\_a retidão tu firmas, ó Senhor,\nEm Israel, executando\\_a justiça\nE\\_o juízo vindo\\_estabelecer.\n<sup>5</sup> Ante\\_o\\_estrado sob os seus pés, prostrai-vos\nE\\_o exaltai, pois santo\\_é\\_o nosso Deus.\n<sup>6</sup> Moisés; Arão e Samuel, sacerdotes,\nInvocavam; e Deus a escutar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-099-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Deus lhes falou, pois, da coluna de nuvem;\nE\\_as suas leis eles guardavam, sim.\n<sup>8</sup> E tu, Senhor, lhes respondeste, perdoando,\nMesmo te vingando dos feitos seus.\n<sup>9</sup> Exaltai-o, ao Senhor nosso Deus, sim.\nOh, exaltai ao Senhor nosso Deus!\nProstrai-vos, pois, perante\\_o seu santo monte,\nPorque santo é\\_o Senhor nosso Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

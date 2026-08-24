@@ -1,0 +1,48 @@
+{
+  "id": "psalm-131-gen",
+  "collection": "psalms",
+  "number": 131,
+  "numberLabel": "Salmo 131",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-131",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 246,
+  "units": [
+    {
+      "id": "psalm-131-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, meu próprio coração\nNão tem soberba, presunção.\nDa mesma forma, meu olhar\nNão é altivo, meu Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-131-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Também não ando\\_a procurar\nCoisas que grandes são pra mim,\nMaravilhosas por demais:\nEssas não ando\\_a procurar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-131-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>2</sup> Minha\\_alma eu fiz sossegar\nAssim tal como um bebê\nQue se\\_aquieta\\_ao desmamar\nEm meio\\_aos braços da sua mãe.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-131-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>3</sup> Espera,\\_ó povo de\\_Israel,\nOh, sim, espera no Senhor!\nFaz isso desde\\_agora,\\_assim,\nE para todo\\_o sempre,\\_enfim!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

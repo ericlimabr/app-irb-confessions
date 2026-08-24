@@ -1,0 +1,32 @@
+{
+  "id": "psalm-126-gen",
+  "collection": "psalms",
+  "number": 126,
+  "numberLabel": "Salmo 126",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-126",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 236,
+  "units": [
+    {
+      "id": "psalm-126-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Quando Deus restaurou Sião,\nFicamos como que\\_a sonhar.\n<sup>2</sup> Sorrindo\\_em canto de louvor,\nEntre\\_as nações, se proclamou:\n“Por eles o Senhor tem feito\nGrandiosas coisas, maravilhas!”\n<sup>3</sup> De fato, grandes coisas fez.\nSomos felizes no Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-126-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Restaura\\_a nossa sorte,\\_ó Deus,\nComo\\_as torrentes do Neguev.\n<sup>5</sup> Quem com seu pranto semeou\nHá de ceifar com júbilo.\n<sup>6</sup> Os que com lágrimas semeiam,\nEis, ceifarão com alegria:\nSeus feixes hão de carregar,\nRetornarão com júbilo.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

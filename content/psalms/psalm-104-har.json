@@ -1,0 +1,96 @@
+{
+  "id": "psalm-104-har",
+  "collection": "psalms",
+  "number": 104,
+  "numberLabel": "Salmo 104",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-104",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 172,
+  "units": [
+    {
+      "id": "psalm-104-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Minha\\_alma, oh, bendize ao Senhor.\nVestiu-se\\_em majestade\\_e esplendor.\n<sup>2</sup> De luz igual um manto se reveste;\nO céu igual cortina estendeste.\n<sup>3</sup> As nuvens como carro seu dispõe;\nSeus aposentos sobre\\_as águas põe.\n<sup>4</sup> Do vento fazes mensageiro\\_alado;\nDe fogo\\_e tempestade\\_és circundado.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-104-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Fundaste\\_o universo e\\_o mantém;\nInabalável obra se retém.\n<sup>6</sup> Marés com suas ondas encobriram\nAltas montanhas, que se submergiram.\n<sup>7</sup> Fugiram ante\\_a voz do teu trovão\nOs vales e\\_as montanhas; convulsão.\n<sup>8</sup> Os deslocou, e\\_abismos se formaram;\nUlteriores águas se\\_espalharam.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-104-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>9</sup> Tuas fontes lançam-se no ribeirão;\nNo vale, formam queda\\_em turbilhão.\n<sup>10</sup> Reúnem-se em córregos bem largos;\n<sup>11</sup> Os animais ajuntam-se às margens.\nDo mato chegam, hesitantes são;\nJumentos matam sua sede,\\_então.\n<sup>12</sup> E, junto deles, têm seu pouso\\_as aves;\nDesferem o seu canto nas ramagens.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-104-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>13</sup> Montanhas regas do teu alto céu;\nA farta terra é trabalho teu.\n<sup>14-15</sup> Em prados verdes, pastoreia\\_o gado;\nE colhe-se seara\\_abençoada,\nO vinho bom e nutritivo pão.\nÉs generoso\\_a toda a nação.\n<sup>16</sup> No Líbano, as árvores sustenta;\nEle\\_os plantou; também os alimenta.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-104-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>17</sup> Aninham aves em sua proteção,\nCipreste\\_é à cegonha\\_habitação.\n<sup>18</sup> Cabras monteses no\\_alto se\\_alimentam.\nNa rocha,\\_os arganazes se sustentam.\n<sup>19</sup> O tempo marca\\_em noites de luar;\nO sol conhece\\_a hora de deitar.\n<sup>20</sup> Na selva,\\_os animais, então, se\\_empenham;\nRuidosos, entre\\_o mato se embrenham.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-104-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>21</sup> Rugido soa na escuridão;\nProcura presa o jovem leão.\nDo próprio Deus espera\\_o alimento.\n<sup>22</sup> Um novo dia nasce,\\_e\\_o sol se\\_esquenta.\nRetorna, lânguido\\_e lento,\\_o leão.\nNo seu covil, dorme,\\_em satisfação.\n<sup>23</sup> Então, o homem sai a seus deveres;\nFielmente,\\_executa\\_os afazeres.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-104-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>24</sup> Senhor, quanto saber, quanta visão\nÉ tua obra, toda\\_a criação!\nA terra\\_é cheia de tuas maravilhas,\n<sup>25</sup> O vasto mar com todas suas ilhas.\nPululam nele seres sem contar,\n<sup>26</sup> Navios dos confins vêm navegar.\nNo seio dele,\\_o monstro vil trancaras.\nO Leviatã com tuas mãos formaras.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-104-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>27</sup> E tudo nesta\\_imensa criação\nEspera,\\_ó Deus, tua\\_alimentação.\n<sup>28</sup> Que tua mão lhes dá eles recolhem,\nAs fartas dádivas que lhes escolhes.\n<sup>29</sup> E, quando tua face se\\_ocultar,\nAmeaça\\_a morte,\\_e\\_ao pó irão voltar.\n<sup>30</sup> Mas teu Espírito recria\\_a vida,\nE\\_a terra fica reconstituída.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-104-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>31</sup> Pra sempre, seja\\_a glória do Senhor!\nA criação reflete\\_o seu fulgor!\nQue tudo que criou e deu a vida\nO louve\\_em alegria desmedida!\nGrandeza adorável do Senhor!\n<sup>32</sup> Somente\\_o seu olhar causa terror.\nE\\_a terra treme,\\_os montes se deslocam\nSe\\_a sua mão ligeiramente\\_os toca.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-104-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>33</sup> Canto\\_ao Senhor enquanto eu viver;\nLouvores canto para\\_agradecer.\n<sup>34</sup> Que seja-lhe\\_agradável minha mente!\nSempre me\\_alegrarei no Deus potente.\n<sup>35</sup> Vão pecadores desaparecer,\nPerversos não persistem no viver.\nÓ minha alma, ao Senhor bendiga,\nQue, triunfante, tudo realiza.",
+      "attrs": {},
+      "sortOrder": 10
+    }
+  ]
+}

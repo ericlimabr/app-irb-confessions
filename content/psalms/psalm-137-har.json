@@ -1,0 +1,32 @@
+{
+  "id": "psalm-137-har",
+  "collection": "psalms",
+  "number": 137,
+  "numberLabel": "Salmo 137",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-137",
+  "attrs": {
+    "attribution": "CBS - A La Nanita Nana"
+  },
+  "sortOrder": 258,
+  "units": [
+    {
+      "id": "psalm-137-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Nas margens lá dos rios da Babilônia, nos assentamos.\nLembrando de Sião, nós choramos, nós choramos.\n<sup>2</sup> Lá nos salgueiros, nós penduramos todas as nossas harpas;\n<sup>3</sup> Pois nossos opressores a nós pediam canções alegres\nDe Sião, pois queriam ouvir os cantos;\n<sup>4</sup> Mas, em terra de\\_estranhos, era\\_impossível.\n<sup>5</sup> Que minha mão direita resseque toda\nSe de Jerusalém eu vier esquecer,\nSe de Jerusalém eu vier esquecer!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-137-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>6</sup> Se\\_eu não lembrar de ti, que minha língua\\_ao meu paladar se\\_apegue,\nSe\\_eu a Jerusalém não preferir ao regozijo!\n<sup>7</sup> Dos filhos de Edom lembra-te, Senhor, para seres contra;\nPois de Sião diziam: “Até as bases arrasai-a!”\n<sup>8</sup> Hás de ser, Babilônia, aniquilada!\nQuem te der, pois, o pago será bendito!\nDo mal que nos fizeste, sim, grande mal!\n<sup>9</sup> Feliz quem aos teus filhos pegar, prendê-los,\nPara esmagá-los todos contra\\_os rochedos!",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

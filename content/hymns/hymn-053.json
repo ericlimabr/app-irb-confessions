@@ -1,0 +1,49 @@
+{
+  "id": "hymn-053",
+  "collection": "hymns",
+  "number": 53,
+  "numberLabel": "Hino 53",
+  "title": "OFERTAS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "OFERTAS E GRATIDÃO",
+    "author": "Jerônimo Gueiros"
+  },
+  "sortOrder": 53,
+  "units": [
+    {
+      "id": "hymn-053-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "A minha vida, com seus bens,\nProvém de ti, Senhor.\nSaúde, veste, abrigo e pão\nSão dons do teu amor!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-053-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Oh! Não permitas, Pai de Amor,\nQue aquilo que me dás\nEu ouse, incauto, desviar\nEm causas vãs ou más!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-053-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Não deixes que meu coração\nSe afogue no prazer,\nE, no fruir de muitos dons,\nEu venha te esquecer.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-053-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Mordomo teu, eu quero dar\nÀ igreja, em proporção,\nA quantas bênçãos recebi\nDe tua própria mão!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

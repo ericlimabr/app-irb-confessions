@@ -1,0 +1,51 @@
+{
+  "id": "hymn-042",
+  "collection": "hymns",
+  "number": 42,
+  "numberLabel": "Hino 42",
+  "title": "ETERNO PAI, TEU POVO CONGREGADO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LEITURA E PREGAÇÃO DA PALAVRA",
+    "author": "Sarah Poulton Kalley"
+  },
+  "sortOrder": 42,
+  "units": [
+    {
+      "id": "hymn-042-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Eterno Pai, teu povo congregado,\nHumilde, implora a tua graça aqui!\nNo dia para o culto reservado,\nCom esperança olhamos para ti.\nTeu santo livro, ó grande Deus, cercamos,\nCom fé singela e reverente amor;\nE, como atentos filhos, procuramos,\nCiência na Palavra do Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-042-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Jesus, aos teus benditos pés sentados,\nQueremos teu conselho receber!\nE, sendo por ti mesmo doutrinados,\nDe mais em mais na santa fé crescer.\nDo mundo e seus encargos retirados,\nQueremos descansar em ti, Senhor,\nMirando os ricos bens entesourados,\nNa plenitude do teu vasto amor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-042-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Ensina aos teus, Espírito divino,\nDesfaze a dor dos pobres corações!\nE, com a luz do teu celeste ensino,\nVem aclarar as santas instruções.\nAviva em nós as forças da memória,\nO entendimento a fim de conhecer\nO Rei dos reis, o Cristo, cuja glória\nEnleva os santos anjos de prazer.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-042-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 4
+    }
+  ]
+}

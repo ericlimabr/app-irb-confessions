@@ -1,0 +1,49 @@
+{
+  "id": "hymn-013",
+  "collection": "hymns",
+  "number": 13,
+  "numberLabel": "Hino 13",
+  "title": "Ó REI SUBLIME EM MAJESTADE E GLÓRIA!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CHAMADO À ADORAÇÃO",
+    "author": "Sarah Poulton Kalley"
+  },
+  "sortOrder": 13,
+  "units": [
+    {
+      "id": "hymn-013-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Ó Rei sublime em majestade e glória,\nSobre as milícias do celeste além,\nOuve o louvor, os hinos de vitória\nDos que de ti recebem todo o bem!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-013-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Vinde, ó remidos, filhos de Deus!\nCantai louvores que alcancem os céus!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-013-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Nos altos céus louvor a Deus ressoa\nDe gratidão ao soberano amor!\nOs redimidos, com fervor, entoam\nO nome excelso do seu Benfeitor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-013-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Eterno Deus, teus filhos vês prostrados\nPerante o brilho da superna luz,\nPois do pecado foram resgatados\nE, agora, rendem glórias a Jesus.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

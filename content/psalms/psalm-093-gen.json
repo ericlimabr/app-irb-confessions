@@ -1,0 +1,48 @@
+{
+  "id": "psalm-093-gen",
+  "collection": "psalms",
+  "number": 93,
+  "numberLabel": "Salmo 93",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-093",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 151,
+  "units": [
+    {
+      "id": "psalm-093-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Reina\\_o Senhor! Sim, o Senhor é Rei.\nDe majestade revestido\\_está.\nE de poder cingido Ele\\_está.\nFirmou o mundo; não vacilará.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-093-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Desde\\_a antiguidade, firme\\_está\nTeu trono,\\_ó Deus, sim, ele firme\\_está.\nDesde\\_a eternidade, Deus, tu és,\nDesde\\_a antiguidade, ó Senhor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-093-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Os rios levantam o bramido seu.\nÓ Deus, os rios levantam seu fragor;\n<sup>4</sup> Mas, nas alturas, poderoso és\nMais que os grandes vagalhões do mar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-093-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Ó Deus, teus testemunhos são fiéis;\nSão fidelíssimos, sim, ó Senhor.\nÀ tua casa, ó Senhor, convém\nA santidade para sempre,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

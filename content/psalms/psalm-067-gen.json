@@ -1,0 +1,32 @@
+{
+  "id": "psalm-067-gen",
+  "collection": "psalms",
+  "number": 67,
+  "numberLabel": "Salmo 67",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-067",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 111,
+  "units": [
+    {
+      "id": "psalm-067-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Que Deus nos seja gracioso,\nQue venha nos abençoar;\nQue o seu rosto resplandeça,\nSim, resplandeça sobre nós;\n<sup>2</sup> Pra que toda\\_a terra\nSaiba\\_o teu caminho\nE tua salvação,\nEntre\\_os povos todos.\n<sup>3</sup> A Deus todos louvem,\nTodos os povos!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-067-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Aos povos julgas com justiça,\nExultem todos os gentios.\nNa terra,\\_os povos são guiados.\n<sup>5</sup> Ó Deus, te louvem as nações!\n<sup>6</sup> Deu seu fruto\\_a terra;\nDeus nos abençoa.\nDeus, ó nosso Deus,\nNos conceda\\_a bênção;\n<sup>7</sup> E\\_os confins da terra\nHão de temê-lo.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "psalm-121-har",
+  "collection": "psalms",
+  "number": 121,
+  "numberLabel": "Salmo 121",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-121",
+  "attrs": {
+    "attribution": "CBS - Come near me, o my savior"
+  },
+  "sortOrder": 227,
+  "units": [
+    {
+      "id": "psalm-121-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Os olhos meus elevo,\nElevo para\\_os montes.\nDe onde me virá, então,\nSocorro para mim?\n<sup>2</sup> De Deus vem meu socorro,\nQue terra\\_e céu criou,\n<sup>3</sup> E não permitirá teus pés\nQue venham vacilar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-121-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "É certo que não dorme\nAquele que te guarda.\n<sup>4</sup> É certo que não dormirá\nO guarda de\\_Israel.\n<sup>5</sup> Qual sombra\\_à tua destra,\nTe guardará\\_o Senhor.\n<sup>6</sup> O sol e\\_a lua sobre ti\nNão te molestarão.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-121-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> De todo mal te guarda,\nO Senhor Deus te guarda.\nA tua alma guardará\nDe todo\\_e qualquer mal.\n<sup>8</sup> Desde\\_a saída\\_e\\_entrada\nTe guardará\\_o Senhor.\nE desde\\_agora\\_e sempre,\\_assim,\nO Senhor guardará.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "heidelberg-ld44",
+  "collection": "heidelberg",
+  "number": 44,
+  "numberLabel": "Domingo 44",
+  "title": null,
+  "subtitle": "Os Dez Mandamentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 44,
+  "units": [
+    {
+      "id": "heidelberg-q113-q",
+      "kind": "question",
+      "label": "P. 113",
+      "body": "O que exige de nós o décimo mandamento?",
+      "attrs": {
+        "questionNumber": 113
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q113-a",
+      "kind": "answer",
+      "label": "R. 113",
+      "body": "Que nem o mais leve pensamento ou desejo contrário a quaisquer mandamentos de Deus jamais deveria se levantar em nosso coração.\n\nAntes, devemos sempre detestar de todo coração a todo o pecado e nos deleitar em toda a justiça.",
+      "attrs": {
+        "questionNumber": 113,
+        "refs": [
+          "Sl 19.7-14; 139.23, 24; Rm 7.7, 8."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q114-q",
+      "kind": "question",
+      "label": "P. 114",
+      "body": "Mas os que se converteram a Deus são capazes de guardar esses mandamentos perfeitamente?",
+      "attrs": {
+        "questionNumber": 114
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q114-a",
+      "kind": "answer",
+      "label": "R. 114",
+      "body": "Não.\n\nPois  até  mesmo  os  mais  santos  nessa  vida  só  têm  um  leve  começo dessa obediência. Mesmo assim, eles começam a viver - com sincero fervor  e  propósito  - não  apenas  segundo  alguns  mandamentos  de Deus, mas conforme todos eles.",
+      "attrs": {
+        "questionNumber": 114,
+        "refs": [
+          "Ec 7.20; Rm 7.14, 15; 1Co 13.9; 1Jo 1.8.",
+          "Sl 1.1, 2; Rm 7.22-25; Fp 3.12-16."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q115-q",
+      "kind": "question",
+      "label": "P. 115",
+      "body": "Se nessa vida ninguém consegue obedecer perfeitamente os Dez Mandamentos, por que Deus manda que sejam pregados com tanto rigor?",
+      "attrs": {
+        "questionNumber": 115
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q115-a",
+      "kind": "answer",
+      "label": "R. 115",
+      "body": "_Primeiro_,  para  que  ao  longo  das  nossas  vidas  possamos  cada  vez mais estar conscientes da nossa natureza pecaminosa, e assim buscarmos com mais fervor o perdão dos pecados e a justiça de Cristo.\n\n_Segundo_, para que, ao orarmos a Deus pela graça do Espírito Santo, jamais  deixemos  de  batalhar  para  sermos  cada  vez  mais  renovados  à imagem de Deus, até que após esta vida alcancemos o alvo da perfeição.",
+      "attrs": {
+        "questionNumber": 115,
+        "refs": [
+          "Sl 32.5; Rm 3.19-26; 7.7, 24, 25; 1Jo 1.9.",
+          "1Co 9.24; Fp 3.12-14; 1Jo 3.1-3."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

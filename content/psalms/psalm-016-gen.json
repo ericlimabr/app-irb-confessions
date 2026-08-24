@@ -1,0 +1,64 @@
+{
+  "id": "psalm-016-gen",
+  "collection": "psalms",
+  "number": 16,
+  "numberLabel": "Salmo 16",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-016",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 31,
+  "units": [
+    {
+      "id": "psalm-016-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Guarda-me,\\_ó Deus, porque confio\\_em ti.\n<sup>2</sup> Senhor, eu digo: tu és o Senhor meu;\nNada eu valorizo mais que\\_a ti.\n<sup>3</sup> Os santos teus que\\_estão aqui na terra,\nOs nobres que a ti mostram respeito,\nNa companhia deles, tenho prazer.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-016-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Aumenta sofrimento aos que vão\nAtrás de outro deus e o adoram.\nNunca derramarei as libações\nDe sangue que a eles oferecem.\nJamais meus lábios hão de invocá-los.\nOs nomes deles eu jamais louvarei.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-016-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Porção da minha\\_herança é\\_o Senhor.\nÉs minha taça, ó Senhor Eterno.\nA minha sorte tu a tens nas mãos.\n<sup>6</sup> A linha que demarca minha\\_herança\nCaiu em um lugar bastante\\_ameno,\nCaiu em agradável habitação.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-016-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Bendigo\\_ao meu Senhor, que sempre dá\nConselho bom a mim até de noite,\nDando ensino ao meu coração.\n<sup>8</sup> Tenho\\_o Senhor perante mim pra sempre.\nCom o Senhor meu Deus à minha destra,\nSei que jamais eu abalado serei.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-016-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Por isso,\\_alegre\\_está\\_o meu coração;\nBem exultante\\_está a minha alma;\nMeu corpo vai seguro repousar.\n<sup>10</sup> Na morte tu não deixarás minha\\_alma\nNem deixarás que o teu santo veja,\nNão deixarás teu santo ver corrupção.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-016-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Os teus caminhos tu me fazes ver;\nEm teus caminhos, eu encontro vida.\nEm tua presença,\\_a alegria\\_está;\nEm tua presença,\\_há alegria plena.\nEm tua destra,\\_está o meu deleite;\nNa tua destra,\\_encontro pleno prazer.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

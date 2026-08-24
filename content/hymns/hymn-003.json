@@ -1,0 +1,58 @@
+{
+  "id": "hymn-003",
+  "collection": "hymns",
+  "number": 3,
+  "numberLabel": "Hino 3",
+  "title": "O CÂNTICO DE MARIA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CÂNTICOS DE TEXTOS BÍBLICOS",
+    "bibleRef": "Lucas 1.46-55",
+    "author": "Lucas Freire"
+  },
+  "sortOrder": 3,
+  "units": [
+    {
+      "id": "hymn-003-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>46</sup> Minh’alma engrandeceu\nA Deus, meu Salvador.\n<sup>47</sup> Meu ser se alegra nele.\n<sup>48</sup> Pois Deus já contemplou,\nA sua serva olhou:\nPra sua humildade.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-003-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Pois toda geração\nMe considerará\nMui bem-aventurada!\n<sup>49</sup> Pois Deus, em seu poder,\nProezas fez a mim.\nSantíssimo é seu nome!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-003-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>50</sup> Mercê que vem de Deus\nPercorre gerações\nPor sobre quem o teme.\n<sup>51</sup> Com braço forte agiu,\nSoberbos excluiu:\nQuem tem orgulho interno.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-003-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>52</sup> Do trono derrubou\nOs que detêm poder,\nErguendo os humildes.\n<sup>53</sup> Famintos saciou\nDe bens e despediu\nVazio quem é rico.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-003-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>54</sup> Ao servo Israel\nAmparo concedeu:\nDa sua mercê memória:\n<sup>55</sup> Favor a Abraão\nE a cada geração;\nAos pais já prometera!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

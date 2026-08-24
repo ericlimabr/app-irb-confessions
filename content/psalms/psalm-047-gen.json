@@ -1,0 +1,40 @@
+{
+  "id": "psalm-047-gen",
+  "collection": "psalms",
+  "number": 47,
+  "numberLabel": "Salmo 47",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-047",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 79,
+  "units": [
+    {
+      "id": "psalm-047-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó povos, batei palmas ao Senhor!\nCom voz jubilante, oh, celebrai.\n<sup>2</sup> Temido\\_é\\_o Senhor, o Altíssimo!\nDa terra inteira\\_Ele\\_é Grande Rei.\n<sup>3</sup> Nações colocou sob os nossos pés;\nTodas as nações Deus nos submeteu.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-047-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> A herança Deus escolheu pra nós,\nGlória de Jacó, a quem Deus amou.\n<sup>5</sup> Subiu Deus por entre\\_as aclamações;\nAo som da trombeta,\\_o Senhor subiu!\n<sup>6</sup> Cantai-lhe louvor e salmodiai;\nSim, cantai louvor, pois, ao nosso rei.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-047-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Na terra\\_inteira, reina o Senhor!\nCom sabedoria, salmodiai.\n<sup>8</sup> Do seu santo trono, governa Deus.\n<sup>9</sup> Ajuntam-se reis de muitas nações,\nPovo do Senhor, Deus de Abraão.\nBrasões lhe pertencem. Glorioso é!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

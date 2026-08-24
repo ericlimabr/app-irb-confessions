@@ -1,0 +1,31 @@
+{
+  "id": "belgic-art08",
+  "collection": "belgic",
+  "number": 8,
+  "numberLabel": "Art. 8",
+  "title": "Trindade - Deus é um em essência, contudo distinto em três pessoas",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 8,
+  "units": [
+    {
+      "id": "belgic-art08-p1",
+      "kind": "article",
+      "label": null,
+      "body": "De acordo com essa verdade e a Palavra de Deus, cremos em um só Deus, uno na essência, em quem há três pessoas distintas - de modo real, verdadeiro e eterno - conforme os Seus atributos incomunicáveis: o Pai, o Filho e o Espírito Santo. O Pai é a causa, a origem e o princípio de todas as coisas visíveis e invisíveis. O Filho é a Palavra, a sabedoria, e a imagem do Pai. O  Espírito  Santo  é  a  força  e  o  poder eternos que procedem do Pai e do Filho. Deus, contudo, não está dividido em três, pois as Sagradas Escrituras nos ensinam que o Pai, o Filho  e  o  Espírito  Santo  cada  um  tem  Sua  própria  pessoa  diferençada por Seus atributos, mas de tal modo que as três pessoas são apenas um único Deus. É evidente, então, que o Pai não é o Filho e que o Filho não é o Pai; e também que o Espírito Santo não é o Pai nem o Filho. Todavia essas pessoas distintas não estão divididas, nem misturadas entre si; pois o Pai não assumiu a nossa carne e sangue, nem também o Espírito Santo, mas somente o Filho. O Pai jamais existiu sem Seu Filho ou sem Seu Espírito Santo, pois os três, em uma única e mesma essência, são iguais em eternidade. Não há primeiro nem último, pois todos os três são um em verdade, poder, bondade e misericórdia.",
+      "attrs": {
+        "refs": [
+          "1Co 8.4-6.",
+          "Mc 3.16, 17; Mt 28.19.",
+          "Ef 3.14, 15.",
+          "Pv 8.22-31; Jo 1.14; 5.17-26; 1Co 1.24; Cl 1.15-20; Hb 1.3; Ap 19.13.",
+          "Jo 15.26.",
+          "Mq 5.2; Jo 1.1, 2."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

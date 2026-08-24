@@ -1,0 +1,32 @@
+{
+  "id": "psalm-150-gen",
+  "collection": "psalms",
+  "number": 150,
+  "numberLabel": "Salmo 150",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-150",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 282,
+  "units": [
+    {
+      "id": "psalm-150-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Louve\\_a Deus de coração;\nEm seu templo,\\_o aclamai.\nLouve-o no mais alto céu.\nLouvai pelo seu poder.\n<sup>2</sup> Aleluia, aleluia!\nOs seus feitos adorai,\nSua grandeza exaltai.\nAleluia, aleluia!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-150-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3-4</sup> Com trombetas, oh, louvai;\nHarpa\\_e flauta ressoai.\nCom saltério e tambor,\nToque\\_e dance ao Senhor.\nAleluia, aleluia!\n<sup>5</sup> Tocai címbalos de som,\n<sup>6</sup> Todo ser louve\\_ao Senhor!\nAleluia, aleluia!",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

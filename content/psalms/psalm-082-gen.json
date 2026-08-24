@@ -1,0 +1,32 @@
+{
+  "id": "psalm-082-gen",
+  "collection": "psalms",
+  "number": 82,
+  "numberLabel": "Salmo 82",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-082",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 134,
+  "units": [
+    {
+      "id": "psalm-082-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus, na congregação divina,\nEm meio\\_aos deuses, faz juízo.\n<sup>2</sup> Té quando julgareis assim,\nFavorecendo\\_os homens maus?\n<sup>3</sup> Fazei justiça\\_a quem é fraco,\nAo órfão e desamparado.\n<sup>4</sup> Ao pobre vinde socorrer;\nLivrai-o, pois, das ímpias mãos!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-082-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Nas trevas, não se sabe nada;\nAs bases desta terra tremem.\n<sup>6</sup> “Sois deuses, filhos do Senhor”.\n<sup>7</sup> Mas, como homens, morrereis.\nTal como todo governante,\nSucumbireis eventualmente.\n<sup>8</sup> Vem, pois, julgar a terra,\\_ó Deus,\nPois herdas todas as nações.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

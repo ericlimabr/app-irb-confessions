@@ -1,0 +1,84 @@
+{
+  "id": "heidelberg-ld26",
+  "collection": "heidelberg",
+  "number": 26,
+  "numberLabel": "Domingo 26",
+  "title": null,
+  "subtitle": "O Santo Batismo",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 26,
+  "units": [
+    {
+      "id": "heidelberg-q069-q",
+      "kind": "question",
+      "label": "P. 69",
+      "body": "Como o santo batismo lhe faz saber e lhe assegura que o único sacrifício de Cristo na cruz lhe beneficia?",
+      "attrs": {
+        "questionNumber": 69
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q069-a",
+      "kind": "answer",
+      "label": "R. 69",
+      "body": "Do seguinte modo:\n\nCristo instituiu esse lavar exterior e deu com ele a promessa de que, tão certo quanto a água remove a sujeira do corpo, assim também o Seu sangue e Espírito removem a impureza da minha alma, isto é, todos os meus pecados.",
+      "attrs": {
+        "questionNumber": 69,
+        "refs": [
+          "Mt 28.19.",
+          "Mt 3.11; Mc 16.16; Jo 1.33; At 2.38; Rm 6.3, 4; 1Pe 3.21."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q070-q",
+      "kind": "question",
+      "label": "P. 70",
+      "body": "Que significa ser lavado com o sangue e o Espírito de Cristo?",
+      "attrs": {
+        "questionNumber": 70
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q070-a",
+      "kind": "answer",
+      "label": "R. 70",
+      "body": "Ser lavado com o sangue de Cristo significa receber de Deus o perdão de pecados, por meio da graça, por causa do sangue de Cristo derramado por nós em Seu sacrifício na cruz.\n\nSer  lavado  com  o  Seu  Espírito  significa  ser  renovado  pelo  Espírito Santo e santificado para sermos membros de Cristo, para que morramos mais e mais para o pecado e vivamos uma vida santa e irrepreensível.",
+      "attrs": {
+        "questionNumber": 70,
+        "refs": [
+          "Ez 36.25; Zc 13.1; Ef 1.7; Hb 12.24; 1Pe 1.2; Ap 1.5; 7.14.",
+          "Jo 3.5-8; Rm 6.4; 1Co 6.11; Cl 2.11, 12."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q071-q",
+      "kind": "question",
+      "label": "P. 71",
+      "body": "Onde Cristo prometeu que nos lavaria com o Seu sangue e Espírito tão certo quanto somos lavados com a água do batismo?",
+      "attrs": {
+        "questionNumber": 71
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q071-a",
+      "kind": "answer",
+      "label": "R. 71",
+      "body": "Na instituição do batismo, onde Ele afirma:\n\n_\"Ide,  portanto,  fazei  discípulos  de  todas  as nações,  batizando-os  em nome do Pai, e do Filho, e do Espírito Santo\"_ (Mt 28.19).\n\n_\"Quem crer e for batizado será salvo; quem, porém, não crer será condenado\"_ (Mc 16.16).\n\nEssa promessa se repete onde a Escritura chama o batismo de lavar regenerador e de purificação dos pecados (Tt 3.5; At 22.16).",
+      "attrs": {
+        "questionNumber": 71
+      },
+      "sortOrder": 6
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "psalm-144-har",
+  "collection": "psalms",
+  "number": 144,
+  "numberLabel": "Salmo 144",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-144",
+  "attrs": {
+    "attribution": "CBS - Sagina"
+  },
+  "sortOrder": 272,
+  "units": [
+    {
+      "id": "psalm-144-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Bendito seja Deus, rochedo meu,\nQue\\_adestra\\_as minhas mãos para batalhar.\nEle prepara os dedos meus,\nPrepara meus dedos pra guerrear.\n<sup>2</sup> Misericórdia e fortaleza minha\\_é Deus.\nO meu refúgio alto\\_é Deus, é meu libertador.\nÉ nele\\_em quem confiarei,\nÉ quem meu povo sujeita\\_a mim.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-144-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Que é o homem, afinal, Senhor,\nA fim de que o venhas a conhecer?\nE\\_o filho do\\_homem que vem a ser\nPra tu, ó Senhor Deus, o estimar?\n<sup>4</sup> Tal como\\_um sopro, assim o homem é também.\nDos homens os seus dias são qual sombra a passar.\n<sup>5</sup> Abaixa\\_os céus e desce,\\_ó Deus;\nOs montes toca,\\_e fumegarão.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-144-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Despede raios para dispersar,\nOs inimigos meus vem desbaratar\nCom tuas setas, ó meu Senhor.\n<sup>7</sup> Estende do alto a tua mão.\nDas muitas águas, oh, vem me\\_arrebatar, Senhor,\nE do poder de estranhos, ó Senhor, vem me livrar.\n<sup>8</sup> Seus lábios mentirosos são;\nE falsidade\\_é seu proceder.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-144-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Um novo canto\\_a ti entoarei\nNa harpa de dez cordas, ó meu Senhor.\n<sup>10</sup> É Deus quem dá a vitória\\_aos reis;\nDa\\_espada maligna livrou Davi.\n<sup>11</sup> Deus, me liberta, Senhor meu Deus, vem me salvar.\nSim, do poder de\\_estranhos, ó Senhor, vem me livrar.\nSeus lábios mentirosos são;\nE falsidade\\_é seu proceder.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-144-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Que nossos filhos, quando joviais,\nQuais plantas fortes venham a se tornar;\nE nossas filhas, lavradas quais\nAs pedras de\\_esquina palaciais.\n<sup>13</sup> Nossos celeiros transbordem com as provisões;\nE a milhares os rebanhos venham produzir.\nDezenas de milhares, pois,\nOs nossos campos produzirão.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-144-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>14</sup> Que nossos bois bem fortes venham ser,\nSim, sejam eles fortes pra trabalhar.\nQue não venhamos ter invasão\nNem guerra nem pranto, lamentação.\n<sup>15</sup> É certamente mui bem-aventurado, sim,\nO povo, a nação à qual assim vem suceder.\nSim, bem-aventurado é\nO povo que tem Javé por Deus.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

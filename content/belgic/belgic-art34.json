@@ -1,0 +1,47 @@
+{
+  "id": "belgic-art34",
+  "collection": "belgic",
+  "number": 34,
+  "numberLabel": "Art. 34",
+  "title": "O sacramento do batismo",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 34,
+  "units": [
+    {
+      "id": "belgic-art34-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos e confessamos que Jesus Cristo, que é o fim da lei (Rm 10.4), ao derramar o Seu sangue pôs fim a todo e qualquer outro derramamento de sangue que se poderia ou deveria fazer como expiação ou satisfação pelos pecados. Ele aboliu a circuncisão, que envolvia sangue, e instituiu em lugar dela o sacramento do batismo. Pelo batismo somos recebidos na igreja de Deus e separados de todas as outras pessoas e falsas religiões, para estarmos totalmente comprometidos com Ele, de quem carregamos a marca e o emblema, que nos serve como testemunho de que Ele será eternamente o nosso Deus e Pai gracioso. Por  isso,  Ele  ordenou  que  todos  os  Seus  sejam  batizados  com  água pura, _\"em nome do Pai, e do Filho, e do Espírito Santo\"_ (Mt 28.19): dando-nos a entender com isso que assim como a água, derramada em nós, lava completamente a sujeira do corpo e assim como a água é vista no corpo do batizado quando derramada nele; o sangue de Cristo, pelo Espírito Santo, faz a mesma coisa no interior da alma. Ele lava e limpa as nossas almas do pecado e nos regenera de filhos da ira para filhos  de  Deus. Isso  não  é  produzido  pela  água  em  si  mesma mas pelo aspergir do precioso sangue do Filho de Deus, que é o nosso Mar Vermelho, que precisamos atravessar para escapar da tirania de Faraó - do diabo - para entrarmos na Canaã espiritual. Assim os ministros, por sua parte, dão-nos o sacramento e aquilo que é visível, mas o nosso Senhor nos dá aquilo que o sacramento significa, quer dizer, os dons invisíveis e a graça. O Senhor lava, purifica e limpa as nossas almas de toda imundície e iniquidade, renova os nossos corações e os enche de toda consolação, dá-nos a verdadeira certeza da Sua bondade paternal, reveste-nos de nova natureza, e despe-nos da velha natureza com todas as suas obras.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "belgic-art34-p2",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos, contudo, que aquele que almeja a vida eterna deve ser batizado uma vez com um só batismo. O batismo nunca deve ser repetido, pois não podemos nascer duas vezes. Além disso, o batismo não nos beneficia apenas quando a água está em nós e quando o recebemos, mas por toda a nossa vida. Por essa causa rejeitamos o erro dos Anabatistas,  que  não  se  contentam  com  o  batismo  recebido  uma  única vez,  e  que  também  condenam  o  batismo  dos  filhos  pequenos  dos crentes. Cremos que essas crianças devem ser batizadas e seladas com o sinal da aliança, assim como os bebês em Israel eram circuncidados com base nas mesmas promessas que agora são feitas aos nossos filhos. De fato, Cristo derramou o Seu sangue para purificar os filhos dos crentes do mesmo modo que o derramou pelos adultos. Por isso, devem eles receber o sinal e o sacramento daquilo que Cristo fez por eles, assim como o Senhor ordenou na lei que fosse oferecido um cordeiro  logo  após  o  nascimento  dos  filhos, que  era  o  sacramento  da paixão e morte de Jesus Cristo. Como o batismo tem para os nossos filhos o mesmo significado que a circuncisão tinha para o povo de Israel, Paulo chama o batismo de _\"circuncisão de Cristo\"_ (Cl 2.11).",
+      "attrs": {
+        "refs": [
+          "Cl 2.11.",
+          "Êx 12.48; 1Pe 2.9.",
+          "Mt 3.11; 1Co 12.13.",
+          "At 22.16; Hb 9.14; 1Jo 1.7; Ap 1.5b.",
+          "Tt 3.5.",
+          "1Pe 3.21.",
+          "Rm 6.3; 1Pe 1.2; 1Pe 2.24.",
+          "1Co 10.1-4.",
+          "1Co 6.11; Ef 5.26.",
+          "Rm 6.4; Gl 3.27.",
+          "Mt 28.19; Ef 4.5.",
+          "Gn 17.10-12; Mt 19.14; At 2.39.",
+          "1Co 7.14.",
+          "Lv 12.6."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

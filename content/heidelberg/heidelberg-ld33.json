@@ -1,0 +1,112 @@
+{
+  "id": "heidelberg-ld33",
+  "collection": "heidelberg",
+  "number": 33,
+  "numberLabel": "Domingo 33",
+  "title": null,
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 33,
+  "units": [
+    {
+      "id": "heidelberg-q088-q",
+      "kind": "question",
+      "label": "P. 88",
+      "body": "O que é o verdadeiro arrependimento ou conversão do homem?",
+      "attrs": {
+        "questionNumber": 88
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q088-a",
+      "kind": "answer",
+      "label": "R. 88",
+      "body": "É a morte da velha natureza e a ressurreição da nova natureza.",
+      "attrs": {
+        "questionNumber": 88,
+        "refs": [
+          "Rm 6.1-11; 1Co 5.7; 2Co 5.17; Ef 4.22-24; Cl 3.5-10."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q089-q",
+      "kind": "question",
+      "label": "P. 89",
+      "body": "O que é a morte da velha natureza?",
+      "attrs": {
+        "questionNumber": 89
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q089-a",
+      "kind": "answer",
+      "label": "R. 89",
+      "body": "É a profunda e sincera tristeza por termos ofendido a Deus com os nossos pecados, e o abominar e fugir desses pecados cada vez mais.",
+      "attrs": {
+        "questionNumber": 89,
+        "refs": [
+          "Sl 51.3, 4, 17; Jl 2.12, 13; Rm 8.12, 13; 2Co 7.10."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q090-q",
+      "kind": "question",
+      "label": "P. 90",
+      "body": "O que é a ressurreição da nova natureza?",
+      "attrs": {
+        "questionNumber": 90
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q090-a",
+      "kind": "answer",
+      "label": "R. 90",
+      "body": "É a alegria sincera em Deus por Cristo, e o amor e o deleite de viver segundo a vontade de Deus em todas as boas obras.",
+      "attrs": {
+        "questionNumber": 90,
+        "refs": [
+          "Sl 51.8, 12; Is 57.15; Rm 5.1; 14.17.",
+          "Rm 6.10, 11; Gl 2.20."
+        ]
+      },
+      "sortOrder": 6
+    },
+    {
+      "id": "heidelberg-q091-q",
+      "kind": "question",
+      "label": "P. 91",
+      "body": "Mas, o que são as boas obras?",
+      "attrs": {
+        "questionNumber": 91
+      },
+      "sortOrder": 7
+    },
+    {
+      "id": "heidelberg-q091-a",
+      "kind": "answer",
+      "label": "R. 91",
+      "body": "Somente  as  que  são  feitas  pela  verdadeira  fé, em  conformidade com a lei de Deus e para a Sua glória, e não aquelas que se baseiam na nossa própria opinião ou em preceitos de homens.",
+      "attrs": {
+        "questionNumber": 91,
+        "refs": [
+          "Jo 15.5; Rm 14.23; Hb 11.6.",
+          "Lv 18.4; 1Sm 15.22; Hb 11.6.",
+          "1Co 10.31.",
+          "Dt 12.32; Is 29.13; Ez 10.18, 19; Mt 15.7-9."
+        ]
+      },
+      "sortOrder": 8
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "psalm-035-gen",
+  "collection": "psalms",
+  "number": 35,
+  "numberLabel": "Salmo 35",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-035",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 61,
+  "units": [
+    {
+      "id": "psalm-035-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, contende\\_e vem lutar\nCom os que querem me\\_atingir.\n<sup>2</sup> Escudo\\_e o broquel embraça,\nDispõe-te, vem ao meu auxílio.\n<sup>3</sup> Empunha lança\\_em repressão\nAo passo do perseguidor.\nVem à minha\\_alma declarar:\n“Eu sou a tua salvação”!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-035-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Querem a vida me tirar:\nTenham vergonha\\_e confusão!\nTodos que contra mim conspiram\nRecuem, bem envergonhados!\n<sup>5</sup> Que fiquem como palha\\_ao léu,\nQue\\_os leve\\_o anjo do Senhor:\n<sup>6</sup> Na senda, venha\\_os perseguir;\nDeslizem no escuro\\_andar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-035-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Sem causa,\\_armaram contra mim,\nPra vida\\_em cova me tirar.\n<sup>8</sup> Que venha sobre\\_o inimigo\nDestruição bem sorrateira.\nQuando\\_ele nem sequer pensar;\nNos mesmos laços que tramou,\nQue possa se precipitar:\nÉ esta\\_a queda que terá!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-035-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Minha\\_alma\\_em Deus se\\_alegrará,\nDeleita\\_em sua salvação.\n<sup>10</sup> Meus ossos ao Senhor declaram:\n“Quem, Deus, contigo\\_é comparável?”\nAos fracos livramento dás:\nAjuda contra\\_os valentões.\nSim, aos carentes vem livrar\nDo que deseja\\_expropriar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-035-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>11</sup> Iníquas testemunhas vêm\nCobrar-me coisas que\\_eu não sei.\n<sup>12</sup> O bem com mal eles me pagam:\nDesolação! Minha\\_alma\\_estragam!\n<sup>13</sup> Mas, quando\\_enfermos eu os vi,\nAflito,\\_em saco me vesti,\nCabeça baixa\\_e com jejum\n<sup>14</sup> Como se fossem meus irmãos.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-035-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Curvado,\\_em luto, pois, chorei\nComo se fossem minha mãe.\n<sup>15</sup> Quando, porém, caí por terra,\nAlegres, contra mim juntaram.\nDesconhecidos, sem ter dó,\nVieram me fazer sofrer.\n<sup>16</sup> Como palhaços em festins,\nRangiam dentes contra mim.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-035-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>17</sup> Até, Senhor, quando\\_olharás?\nLivra minha\\_alma dos leões,\nDa sua violência\\_e fúria.\n<sup>18</sup> Dar-te-ei graças na\\_assembleia,\nLouvar-te-ei na multidão.\n<sup>19</sup> Não se alegre\\_o meu algoz\nQue, sem motivo, se opõe:\nNem mesmo\\_o olho piscará!",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-035-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>20</sup> Não é de paz que vai falar;\nEnganos trama, sem cessar,\nPra quem na terra,\\_em paz, habita.\n<sup>21</sup> Abrem a boca e,\\_então, dizem:\n“Peguei e vi com olhos meus!”\n<sup>22</sup> Viste-o, Senhor; não sai de mim.\n<sup>23</sup> Justiça vem fazer, meu Deus,\nÀ causa minha, meu Senhor!",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-035-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>24</sup> Julga, Senhor, meu justo Deus;\nNão deixes que o\\_opositor,\nAlegre, <sup>25</sup> diga pra si mesmo:\n“O meu desejo foi cumprido!\nDei cabo dele!\\_Agora sim!”\n<sup>26</sup> Possa\\_em vexame\\_envergonhar\nQuem se\\_alegrar no meu revés.\nSoberbo pejo possa ter!",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-035-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>27</sup> Jubile\\_e cante quem se\\_apraz,\nAlegre,\\_em minha retidão.\nE digam sempre: “Glorioso\nSeja\\_o Senhor, é Deus bondoso,\nPois se compraz no servo seu\nQuando\\_em prosperidade vai!”\nE minha língua,\\_em teu louvor,\nCanta\\_a justiça sem cessar.",
+      "attrs": {},
+      "sortOrder": 10
+    }
+  ]
+}

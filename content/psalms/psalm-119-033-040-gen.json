@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-033-040-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.33-40",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-033-040",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 202,
+  "units": [
+    {
+      "id": "psalm-119-033-040-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>33</sup> A mim ensina, ó Senhor meu Deus,\nSim, o caminho dos teus mandamentos,\nE,\\_até ao fim, então, os seguirei.\n<sup>34</sup> Peço que\\_a mim conceda\\_entendimento\nE,\\_então, eu guardarei a tua lei;\nDe todo\\_o coração, irei cumpri-la.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-033-040-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>35</sup> Pela vereda dos preceitos teus,\nGuia-me, pois eu nela me comprazo.\n<sup>36</sup> Também inclina o meu coração\nAos teus preceitos, e não à cobiça.\n<sup>37</sup> Da vaidade\\_afasta\\_os olhos meus.\nNo teu caminho, vem vivificar-me.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-033-040-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>38</sup> Ao servo teu, Senhor, vem confirmar\nTua promessa feita\\_aos que te temem.\n<sup>39</sup> O\\_opróbrio\\_eu temo;\\_afasta-o, pois, de mim,\nPois, ó Senhor, são bons os teus juízos.\n<sup>40</sup> Eis que suspiro pelas tuas leis;\nPor tua justiça, vem vivificar-me.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "psalm-036-har",
+  "collection": "psalms",
+  "number": 36,
+  "numberLabel": "Salmo 36",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-036",
+  "attrs": {
+    "attribution": "CBS - Manoah"
+  },
+  "sortOrder": 63,
+  "units": [
+    {
+      "id": "psalm-036-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Há no coração do pecador\nO clamor da transgressão.\nDiante dos seus olhos,\nNão há nenhum temor de Deus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-036-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Aos seus olhos, sua transgressão\nLhe elogia e lhe convence\nQue não virão às claras\nNem detestadas hão de ser.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-036-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> As palavras de sua boca são\nSó malícia e engano.\nRenunciou o discernir\nE a prática do bem.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-036-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>4</sup> No seu leito, trama perverter;\nSeu caminho não é bom.\nNão aborrece\\_o mal\nNem dele pretende se\\_afastar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-036-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>5</sup> A benignidade do Senhor\nChega\\_até aos altos céus;\nE\\_até às nuvens, tua\nFidelidade, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-036-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>6</sup> Como os altos montes do Senhor,\nAssim é tua justiça;\nTal qual profundo abismo\nSão os juízos do meu Deus.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-036-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Tu preservas homens e animais.\n<sup>7</sup> Quão preciosa\\_é\\_a tua graça!\nPor isso,\\_os homens buscam\nNas tuas asas se\\_abrigar.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-036-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>8</sup> Saciados todos hão de\\_estar\nCom\\_a fartura da tua casa.\nE tu a todos dás\nTorrente\\_em delícias a beber.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-036-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>9</sup> Pois da vida\\_a fonte\\_está em ti;\nEm tua luz, nós vemos luz.\n<sup>10</sup> Tua graça\\_e tua justiça\nSempre\\_estarão sobre\\_os fiéis.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-036-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>11</sup> Não me calque\\_o pé do\\_orgulho\\_e nem\nMe repila\\_a mão dos ímpios.\n<sup>12</sup> Tombaram os obreiros\nDa\\_iniquidade\\_e já não são.",
+      "attrs": {},
+      "sortOrder": 10
+    }
+  ]
+}

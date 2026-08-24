@@ -1,0 +1,56 @@
+{
+  "id": "psalm-056-gen",
+  "collection": "psalms",
+  "number": 56,
+  "numberLabel": "Salmo 56",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-056",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 95,
+  "units": [
+    {
+      "id": "psalm-056-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Misericórdia tem de mim, ó Deus,\nPorque o homem busca me ferir.\nFica o dia todo\\_a me\\_oprimir\nE contra mim peleja.\n<sup>2</sup> Continuamente,\\_estão me espreitando,\nQuerem ferir-me atrevidamente.\nSão numerosos os que me combatem,\nSim, numerosos são!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-056-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Vindo\\_o temor, confiarei em ti.\n<sup>4</sup> Que poderá fazer-me um mortal?\nEm Deus confio\\_e nada temerei;\nSua palavra\\_exalto.\n<sup>5</sup> Minhas palavras torcem todo\\_o dia;\nSão contra mim seus pensamentos todos.\n<sup>6</sup> Ao se\\_ajuntarem, ficam, às ocultas,\nBuscando me\\_espreitar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-056-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Ficam espionando\\_os passos meus\nE aguardando para me matar.\n<sup>7</sup> Vem dar-lhes pago por todo\\_o seu mal;\nSenhor, derruba\\_os povos!\n<sup>8</sup> Ó Deus, contaste todos os meus passos,\nAs minhas lágrimas tu recolheste.\nAcaso, elas não estão inscritas\nTodas no livro teu?",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-056-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> No dia em que eu te invocar,\nMeus inimigos vão retroceder.\nEu certo\\_estou de que Deus é por mim,\nPlena certeza tenho.\n<sup>10</sup> Eu louvarei de Deus a sua palavra\n<sup>11</sup> E neste Deus confio\\_e nada temo.\nQue poderá fazer-me\\_um mero homem?\nQue poderá fazer?",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-056-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Eu manterei os votos que eu fiz,\nSim, manterei meus votos, ó Senhor.\nAções de graças renderei, ó Deus,\nA ti hei de rendê-las.\n<sup>13</sup> Porque da morte me livraste\\_a alma\nE de cair os pés tu impediste,\nA fim de que na luz da vida\\_eu ande,\nEm tua presença,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

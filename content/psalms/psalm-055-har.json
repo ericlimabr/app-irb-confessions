@@ -1,0 +1,112 @@
+{
+  "id": "psalm-055-har",
+  "collection": "psalms",
+  "number": 55,
+  "numberLabel": "Salmo 55",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-055",
+  "attrs": {
+    "attribution": "CBS - What Wondrous Love is This"
+  },
+  "sortOrder": 94,
+  "units": [
+    {
+      "id": "psalm-055-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> À minha oração dá ouvidos, ó Deus,\nE não te\\_escondas do meu clamor.\n<sup>2</sup> Atende-me,\\_ó Senhor, resposta dá-me,\\_ó Deus.\nPerplexo eu estou neste meu reclamar\nE perturbado estou a andar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-055-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Por causa do clamor e\\_opressão do algoz,\nCalamidades lançam a mim\nE me\\_hostilizam eles com furor atroz.\n<sup>4</sup> No peito,\\_o coração me\\_estremece, Senhor;\nMortais terrores vêm me\\_assaltar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-055-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Me sobrevêm temor e tremor, ó meu Deus;\nDe mim se\\_apoderou grande\\_horror.\n<sup>6</sup> Então, eu disse: “Quem asas daria\\_a mim!\nQual pomba, poderia voar e pousar,\nSim, pouso\\_eu poderia\\_encontrar!”",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-055-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Então, eu fugiria pra longe, Senhor,\nNo meio do deserto ficar,\n<sup>8</sup> Com pressa,\\_a me abrigar do forte vendaval.\n<sup>9</sup> Destrói, confunde,\\_ó Deus, seus conselhos porque\nHá na cidade luta\\_e\\_opressão.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-055-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> De dia\\_e\\_noite,\\_estão na muralha\\_a rondar.\nPortas adentro,\\_impera o mal,\nMalícia\\_a dominar e perversão total.\n<sup>11</sup> Há na cidade destruição e\\_opressão;\nNas suas praças, fraudes estão.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-055-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Não é um inimigo que vem me\\_afrontar,\nPois eu suportaria, então.\nNem contra mim se\\_exalta\\_o que\\_aborrece\\_a mim,\nPois dele,\\_então, iria buscar me\\_esconder,\nSim, buscaria eu me\\_esconder.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-055-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Mas, homem, meu igual, companheiro tu és,\nAmigo\\_estreito\\_e bem cordial.\n<sup>14</sup> Juntos, andamos nós, juntos no recrear,\nNós caminhamos juntos com a multidão\nQue\\_andava rumo\\_à Casa de Deus.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-055-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>15</sup> Que vivos eles desçam à cova, Senhor;\nQue\\_a morte venha\\_aos tais assaltar.\nHá mal em suas moradas e\\_em seus corações.\n<sup>16</sup> Mas eu invocarei ao Senhor, o meu Deus,\nE meu Senhor a mim salvará.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-055-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>17</sup> À tarde, de manhã, meio-dia,\\_eu farei\nAs minhas queixas ao meu Senhor.\nEu me lamentarei, e Deus me\\_escutará.\n<sup>18</sup> E Deus há de livrar minha alma em paz\nDos muitos que perseguem a mim.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-055-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>19</sup> Deus lhes responderá, pois ouvidos dará,\nDeus, desde\\_a eternidade\\_a reinar.\nMas neles não se vê qualquer mudança\\_aqui;\nNão temem ao Senhor; <sup>20</sup> suas mãos estendeu\nContra\\_os que conviviam em paz.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-055-har-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "A sua aliança quebrou, corrompeu.\n<sup>21</sup> Brando\\_e macio é\\_o seu linguajar;\nBem mais do que\\_a manteiga e\\_o azeite são,\nMas têm no coração guerra,\\_espada na mão.\n<sup>22</sup> Confia\\_os teus cuidados a Deus.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-055-har-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "Ao justo Deus jamais deixará se\\_abalar,\n<sup>23</sup> Porém, quanto\\_ao cruel, fraudador,\nNa cova mais profunda, Deus os lançará.\nSeus dias nem irão à metade chegar,\nMas eu confiarei no Senhor.",
+      "attrs": {},
+      "sortOrder": 12
+    }
+  ]
+}

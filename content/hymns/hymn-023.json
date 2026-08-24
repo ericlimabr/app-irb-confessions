@@ -1,0 +1,41 @@
+{
+  "id": "hymn-023",
+  "collection": "hymns",
+  "number": 23,
+  "numberLabel": "Hino 23",
+  "title": "REI DAS NAÇÕES",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Jorge Moreira Rehder"
+  },
+  "sortOrder": 23,
+  "units": [
+    {
+      "id": "hymn-023-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Grandes são as tuas obras,\nSenhor Todo-Poderoso!\nJustos e verdadeiros são\nOs teus caminhos! (2x)",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-023-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Ó Rei das nações, quem não temerá,\nQuem não glorificará teu nome?\nÓ Rei das nações, quem não te louvará?\nPois só o teu nome é santo! (2x)",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-023-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Todas as nações virão\nE adorarão diante de ti,\nPois os teus atos de justiça\nSe fizeram manifestos. (2x)",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

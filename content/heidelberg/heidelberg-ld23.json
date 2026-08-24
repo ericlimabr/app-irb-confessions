@@ -1,0 +1,93 @@
+{
+  "id": "heidelberg-ld23",
+  "collection": "heidelberg",
+  "number": 23,
+  "numberLabel": "Domingo 23",
+  "title": null,
+  "subtitle": "A Nossa Justificação",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 23,
+  "units": [
+    {
+      "id": "heidelberg-q059-q",
+      "kind": "question",
+      "label": "P. 59",
+      "body": "Que proveito há para você que agora crê nisso?",
+      "attrs": {
+        "questionNumber": 59
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q059-a",
+      "kind": "answer",
+      "label": "R. 59",
+      "body": "O proveito é que em Cristo sou justo diante de Deus e herdeiro da vida eterna.",
+      "attrs": {
+        "questionNumber": 59,
+        "refs": [
+          "Hc 2.4; Jo 3.36; Rm 1.17; 5.1, 2."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q060-q",
+      "kind": "question",
+      "label": "P. 60",
+      "body": "Como é que você é justo diante de Deus?",
+      "attrs": {
+        "questionNumber": 60
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q060-a",
+      "kind": "answer",
+      "label": "R. 60",
+      "body": "Somente pela verdadeira fé em Jesus Cristo.\n\nEmbora a minha consciência me acuse de haver pecado gravemente contra os mandamentos de Deus, sem jamais haver obedecido a todos eles, e  de  ainda ser inclinado a todo o mal, Deus, no entanto, sem que  houvesse  em  mim  nenhum  mérito  próprio, somente  pela  Sua graça, imputa-me a perfeita satisfação, justiça e santidade de Cristo.\n\nSe  tão-somente  aceitar  esse  dom  crendo  fielmente  com  o  coração, Ele me concede isso como se eu jamais tivesse tido ou cometido nenhum pecado, e como se eu mesmo tivesse cumprido toda a obediência que Cristo cumpriu por mim.",
+      "attrs": {
+        "questionNumber": 60,
+        "refs": [
+          "Rm 3.21-28; Gl 2.16; Ef 2.8, 9; Fp 3.8-11.",
+          "Rm 3.9, 10.",
+          "Rm 7.23.",
+          "Dt 9.6; Ez 36.22; Tt 3.4, 5.",
+          "Rm 3.24; Ef 2.8.",
+          "Rm 4.3-5; 2Co 5.17-19; 1Jo 2.1, 2.",
+          "Jo 3.18; At 16.30, 31; Rm 3.22.",
+          "Rm 4.24, 25; 2Co 5.21."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q061-q",
+      "kind": "question",
+      "label": "P. 61",
+      "body": "Por que você diz que é justo somente pela fé?",
+      "attrs": {
+        "questionNumber": 61
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q061-a",
+      "kind": "answer",
+      "label": "R. 61",
+      "body": "Eu o digo não porque sou agradável a Deus graças ao valor da minha fé, pois somente a satisfação, a justiça e santidade de Cristo é a minha justiça diante de Deus. É somente pela fé que posso receber e fazer dessa justiça a minha própria justiça.",
+      "attrs": {
+        "questionNumber": 61,
+        "refs": [
+          "1Co 1.30, 31; 2.2.",
+          "Rm 10.10; 1Jo 5.10-12."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "psalm-002-har",
+  "collection": "psalms",
+  "number": 2,
+  "numberLabel": "Salmo 2",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-002",
+  "attrs": {
+    "attribution": "CBS - Salzburg"
+  },
+  "sortOrder": 4,
+  "units": [
+    {
+      "id": "psalm-002-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Por que tramam as nações,\nImaginam coisas vãs?\n<sup>2</sup> Os reis buscam conspirar;\nGovernantes, se unir\nContra o Senhor Javé,\nO Messias do Senhor:\n<sup>3</sup> Desatemos\\_os laços seus\nE quebremos seus grilhões.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-002-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Mas o Senhor lá dos céus\nRir-se-á e zombará.\n<sup>5</sup> Em ira lhes falará\nCom furor\\_os confundirá.\n<sup>6</sup> O meu Rei constituí\nSobre\\_o monte de Sião.\n<sup>7</sup> Seu decreto proclamei:\nÉs meu Filho, te gerei.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-002-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>8</sup> Nações por herança dou\nAo pedires tu de mim\nE\\_extremos da terra,\\_então,\nComo tua possessão.\n<sup>9</sup> Com bastão de ferro, pois,\nTu as esmigalharás.\nTal de\\_oleiro\\_o vaso é,\nTu as despedaçarás.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-002-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Agora vos digo,\\_ó reis:\nBem prudentes deveis ser.\nJuízes da terra,\\_ouvi,\nDeixai-vos advertir.\n<sup>11</sup> Com temor, sim, com temor,\nAo Senhor deveis servir.\nCom tremor, sim, com temor,\nAlegrai-vos no Senhor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-002-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> O Filho deveis beijar\nPara não se\\_enfurecer\nE não venhais perecer,\nNo caminho sucumbir\nQuando\\_em breve se\\_acender,\nSua ira derramar.\nBem-aventurados são\nQuem refúgio nele\\_achar.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

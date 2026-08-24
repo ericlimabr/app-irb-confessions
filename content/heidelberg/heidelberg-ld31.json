@@ -1,0 +1,86 @@
+{
+  "id": "heidelberg-ld31",
+  "collection": "heidelberg",
+  "number": 31,
+  "numberLabel": "Domingo 31",
+  "title": null,
+  "subtitle": "A Santa Ceia",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 31,
+  "units": [
+    {
+      "id": "heidelberg-q083-q",
+      "kind": "question",
+      "label": "P. 83",
+      "body": "O que são as chaves do reino do céu?",
+      "attrs": {
+        "questionNumber": 83
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q083-a",
+      "kind": "answer",
+      "label": "R. 83",
+      "body": "A pregação do santo evangelho e a disciplina eclesiástica.\n\nÉ por esses dois meios que o reino do céu se abre para os que creem, e se fecha para os incrédulos.",
+      "attrs": {
+        "questionNumber": 83,
+        "refs": [
+          "Mt 16.19; Jo 20.21-23."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q084-q",
+      "kind": "question",
+      "label": "P. 84",
+      "body": "Como se abre e se fecha o reino do céu pela pregação do evangelho?",
+      "attrs": {
+        "questionNumber": 84
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q084-a",
+      "kind": "answer",
+      "label": "R. 84",
+      "body": "De  acordo  com  o  mandamento  de  Cristo,  o  reino  do  céu  se  abre quando se proclama e se testifica de público a todo o crente - individual ou coletivamente - que Deus perdoou de fato a todos os seus pecados por causa dos méritos de Cristo, sempre que aceitam a promessa do evangelho com fé verdadeira.\n\nO reino do céu se fecha quando se proclama e se testifica a todos os incrédulos  e  hipócritas  que,  enquanto  não  se  arrependerem,  a  ira  de Deus e a condenação eterna repousam sobre eles.\n\nSegundo esse testemunho do evangelho, Deus os julgará tanto nessa quanto na vida porvir.",
+      "attrs": {
+        "questionNumber": 84,
+        "refs": [
+          "Mt 16.19; Jo 3.31-36; 20.21-23."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q085-q",
+      "kind": "question",
+      "label": "P. 85",
+      "body": "Como se fecha e se abre o reino do céu pela disciplina eclesiástica?",
+      "attrs": {
+        "questionNumber": 85
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q085-a",
+      "kind": "answer",
+      "label": "R. 85",
+      "body": "De acordo com o mandamento de Cristo, aqueles que se chamam de cristãos mas que se mostram não-cristãos na doutrina ou na vida devem ser, em primeiro lugar e de modo fraternal, admoestados mais de uma vez.\n\nSe não abandonarem a seus erros nem à sua impiedade, devem ser denunciados à igreja, isto é aos presbíteros.\n\nSe também não derem ouvidos às admoestações deles, serão proibidos pelos presbíteros de participar dos sacramentos e excluídos da congregação cristã, e do reino de Cristo pelo próprio Deus.\n\nSerão novamente recebidos como membros de Cristo e da igreja quando prometerem e demonstrarem arrependimento real.",
+      "attrs": {
+        "questionNumber": 85,
+        "refs": [
+          "Mt 18.15-20; 1Co 5.3-5; 5.11-13; 2Ts 3.14, 15.",
+          "Lc 15.20-24; 2Co 2.6-11."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

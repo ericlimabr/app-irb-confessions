@@ -1,0 +1,72 @@
+{
+  "id": "psalm-072-har",
+  "collection": "psalms",
+  "number": 72,
+  "numberLabel": "Salmo 72",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-072",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 119,
+  "units": [
+    {
+      "id": "psalm-072-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Concede,\\_ó Deus, os teus juízos\nAo teu ungido rei,\n<sup>2</sup> Para que nele teus aflitos\nEncontrem justa lei.\n<sup>3</sup> Que\\_os montes tragam paz ao povo;\n<sup>4</sup> Acabe\\_a opressão;\nO súdito necessitado\nReceba salvação.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-072-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> O reino dele permaneça\nEnquanto\\_o sol brilhar.\nO povo seu lhe obedeça\nAté a luz cessar.\n<sup>6</sup> O rei seja igual à chuva\nQue tanta bênção traz:\n<sup>7</sup> Em seu país brote justiça\nE abundante paz.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-072-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>8</sup> Seja a terra seu domínio,\n<sup>9</sup> E venha se curvar\nO mais distante inimigo\nPara se sujeitar.\n<sup>10-11</sup> Os reis de Társis e das ilhas,\nDe Sabá e Sebá\nCheguem trazendo as riquezas\nQue devem tributar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-072-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>12</sup> Socorro é do desvalido,\nEscuta\\_o seu clamor.\n<sup>13</sup> De compaixão é comovido,\nLembrando\\_a sua dor.\nPro pobre mostra-se bondoso,\nQue\\_em medo vem viver;\n<sup>14</sup> Seu sangue lhe é precioso,\nE vai-los proteger.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-072-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>15</sup> Vivas ao nosso rei daremos,\nDê-lhe\\_o\\_ouro de Sabá,\nE, sempre,\\_em seu favor oremos.\nBendito o rei será.\n<sup>16</sup> Dourados campos abundantes;\nOndula\\_o cereal;\nSussurra\\_o trigo\\_e cobre\\_os montes;\nÉ\\_ao Líbano igual.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-072-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>17</sup> Bendito,\\_o nome seu prospere\nEnquanto\\_o sol brilhar.\nReinado seu a nós confere;\nFuturo vem nos dar.\nTodas nações abençoadas,\nAlegres, chegarão.\nSeu nome bem-aventurado,\nGloriosa saudação.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-072-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>18-19</sup> Seu nome\\_excelso nós cantemos,\nDo Israel seu rei.\nOs seus milagres exaltemos;\nA fama\\_anunciarei.\nLouve\\_ao Senhor, porque descerra\nHonra\\_os prodígios seus.\nDe glória enchem toda\\_a terra.\nAmém! Louvai a Deus!",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

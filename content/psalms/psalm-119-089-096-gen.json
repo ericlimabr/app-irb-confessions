@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-089-096-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.89-96",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-089-096",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 212,
+  "units": [
+    {
+      "id": "psalm-119-089-096-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>89</sup> Pra sempre,\\_ó Deus, no céu firmada\\_está\nTua palavra, sim, pra todo\\_o sempre.\n<sup>90</sup> E a fidelidade do Senhor\nDe geração a geração se\\_estende.\nA terra tu firmaste, ó Senhor,\nE, até hoje, firme permanece.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-089-096-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>91</sup> Conforme\\_os teus juízos, ó Senhor,\nAté agora tudo se mantém, pois\nTudo que\\_existe\\_está ao teu dispor.\n<sup>92</sup> Não fosse\\_a tua lei o meu deleite,\nEm meio\\_à\\_angústia\\_iria perecer.\n<sup>93</sup> Nunca me\\_esquecerei dos teus preceitos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-089-096-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Os teus preceitos trazem vida\\_a mim.\n<sup>94</sup> Sou teu, me salva, pois a eles busco.\n<sup>95</sup> Ímpios me\\_espreitam pra me destruir,\nMas aos teus testemunhos eu me\\_atento.\n<sup>96</sup> Toda a perfeição tem um final,\nMas teus preceitos são ilimitados.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

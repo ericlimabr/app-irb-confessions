@@ -1,0 +1,87 @@
+{
+  "id": "heidelberg-ld35",
+  "collection": "heidelberg",
+  "number": 35,
+  "numberLabel": "Domingo 35",
+  "title": null,
+  "subtitle": "Os Dez Mandamentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 35,
+  "units": [
+    {
+      "id": "heidelberg-q096-q",
+      "kind": "question",
+      "label": "P. 96",
+      "body": "Que exige Deus no segundo mandamento?",
+      "attrs": {
+        "questionNumber": 96
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q096-a",
+      "kind": "answer",
+      "label": "R. 96",
+      "body": "Que não façamos a imagem de Deus em hipótese alguma, nem O adoremos de nenhum outro modo diferente do que nos ordenou em Sua Palavra.",
+      "attrs": {
+        "questionNumber": 96,
+        "refs": [
+          "Dt 4.15-19; Is 40.18-25; At 17.29; Rm 1.23.",
+          "Lv 10.1-7; Dt 12.30; 1Sm 15.22, 23; Mt 15.9; Jo 4.23, 24."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q097-q",
+      "kind": "question",
+      "label": "P. 97",
+      "body": "Então, não podemos fazer nenhum tipo de imagem?",
+      "attrs": {
+        "questionNumber": 97
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q097-a",
+      "kind": "answer",
+      "label": "R. 97",
+      "body": "Deus não pode nem deve ser visivelmente representado de nenhuma maneira. As criaturas podem ser representadas, mas Deus nos proíbe fazer ou ter imagens delas para adorá-las ou para servir a Deus por meio delas.",
+      "attrs": {
+        "questionNumber": 97,
+        "refs": [
+          "Êx 34.13, 14, 17; Nm 33.52; 2Rs 18.4, 5; Is 40.25."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q098-q",
+      "kind": "question",
+      "label": "P. 98",
+      "body": "Quer dizer que não se pode tolerar as imagens nas igrejas como \"livros para os leigos\"?",
+      "attrs": {
+        "questionNumber": 98
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q098-a",
+      "kind": "answer",
+      "label": "R. 98",
+      "body": "Não.  Pois  não  devemos  querer  ser  mais  sábios  do  que  o  próprio Deus. Ele quer que o Seu povo seja ensinado não por meio de ídolos mudos mas pela pregação viva da Sua Palavra.",
+      "attrs": {
+        "questionNumber": 98,
+        "refs": [
+          "Rm 10.14, 15, 17; 2Tm 3.16, 17; 2Pe 1.19.",
+          "Jr 10.8; Hc 2.18-20."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

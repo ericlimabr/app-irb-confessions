@@ -1,0 +1,80 @@
+{
+  "id": "psalm-101-gen",
+  "collection": "psalms",
+  "number": 101,
+  "numberLabel": "Salmo 101",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-101",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 165,
+  "units": [
+    {
+      "id": "psalm-101-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Eu cantarei a ti, Senhor, bondade\nE cantarei a ti, ó Deus, justiça.\n<sup>2</sup> Atento sabiamente\\_ao caminhar\nDa perfeição.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-101-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Quando virás, Senhor, a ter comigo?\nPortas adentro, lá em minha casa,\nUm coração sincero eu terei\nDentro do lar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-101-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Meus olhos não porei em coisa\\_injusta.\nDetesto\\_o proceder dos que se\\_afastam.\nE nada disso vai se apegar\nA mim, Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-101-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>4</sup> Longe de mim o coração perverso!\nDo mal não quero ter conhecimento.\n<sup>5</sup> Quem, em oculto, vive\\_a difamar\nDestruirei.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-101-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Aquele que possui olhar altivo\nE o que tem o coração soberbo,\nA esse homem não suportarei\nDe modo\\_algum.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-101-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>6</sup> Os olhos meus procurarão, na terra,\nTodo fiel, pra habitar comigo.\nE quem caminha\\_em reto proceder\nMe servirá.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-101-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>7</sup> Jamais hospedarei o fraudulento.\nE o que vive\\_a proferir mentiras,\nAnte\\_os meus olhos, este não irá\nPermanecer.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-101-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>8</sup> Todos os ímpios que estão na terra,\nManhã após manhã, vou destruí-los,\nLimpando a cidade do Senhor\nDos que são maus.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

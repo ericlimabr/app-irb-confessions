@@ -1,0 +1,33 @@
+{
+  "id": "belgic-art23",
+  "collection": "belgic",
+  "number": 23,
+  "numberLabel": "Art. 23",
+  "title": "A nossa justiça diante de Deus",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 23,
+  "units": [
+    {
+      "id": "belgic-art23-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que a nossa bem-aventurança fundamenta-se no perdão dos nossos pecados por causa de Jesus Cristo, e que nisso consiste a nossa justiça diante de Deus, segundo nos ensinam Davi e Paulo. Eles declaram que é _\"bem-aventurado o homem a quem Deus atribui justiça, independentemente de obras\"_ (Rm 4.6; Sl 32.1). O apóstolo também diz que somos _\"justificados gratuitamente, por sua graça, mediante a redenção que há em Cristo Jesus\"_ (Rm 3.24). Portanto sempre nos apegamos a esse fundamento firme. Damos toda a glória a Deus, humilhamo-nos diante dEle e reconhecemos aquilo que realmente somos. Nada temos que reivindicar por causa de nós mesmos nem por mérito nosso, mas dependemos e descansamos somente na obediência de Jesus Cristo  crucificado. Esta  obediência  é nossa quando cremos nEle. Ela é o suficiente para cobrir todas as nossas iniquidades e nos conceder a ousadia de nos aproximarmos de Deus, livrando as nossas consciências  de  temor,  terror  e  assombro,  de  modo  a  não  seguirmos  o exemplo do nosso primeiro pai, Adão, que trêmulo tentou se esconder e se cobrir de folhas de figueira. Certamente que seríamos consumidos se tivéssemos que aparecer diante de Deus confiados em nós mesmos  (por  pouco  que  fosse),  ou  em  qualquer  outra  criatura  (ai  de nós!). Por isso todos devem dizer com Davi: ó SE NHOR, _\"não entres em juízo com o teu servo, porque à tua vista não há justo nenhum vivente\"_ (Sl 143.2).",
+      "attrs": {
+        "refs": [
+          "1Jo 2.1.",
+          "2Co 5.18, 19; Ef 2.8; 1Tm 2.6.",
+          "Sl 115.1; Ap 7.10-12.",
+          "1Co 4.4; Tg 2.10.",
+          "At 4.12; Hb 10.20.",
+          "Rm 4.23-25.",
+          "Gn 3.7; Sf 3.11; Hb 4.16; 1Jo 4.17-19.",
+          "Lc 16.15; Fp 3.4-9."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

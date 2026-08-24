@@ -1,0 +1,49 @@
+{
+  "id": "hymn-055",
+  "collection": "hymns",
+  "number": 55,
+  "numberLabel": "Hino 55",
+  "title": "CASTELO FORTE É NOSSO DEUS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Martinho Lutero / Jacob Eduardo Von Hafe"
+  },
+  "sortOrder": 55,
+  "units": [
+    {
+      "id": "hymn-055-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Castelo forte é nosso Deus,\nEspada e bom escudo!\nCom seu poder defende os seus\nEm todo transe agudo.\nCom fúria pertinaz\nPersegue Satanás,\nCom ânimo cruel!\nAstuto e mui rebel,\nIgual não há na terra.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-055-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "A força do homem nada faz,\nSozinho está perdido.\nMas nosso Deus socorro traz\nEm seu filho escolhido.\nSabeis quem é? Jesus,\nO que venceu na cruz;\nSenhor dos altos céus,\nE, sendo o próprio Deus,\nTriunfa na batalha",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-055-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Se nos quisessem devorar\nDemônios não contados,\nNão poderiam dominar\nNem ver-nos assustados.\nO príncipe do mal,\nCom seu plano infernal,\nJá condenado está!\nVencido cairá;\nPor uma só palavra.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-055-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "De Deus o Verbo ficará,\nSabemos com certeza,\nE nada nos perturbará\nCom Cristo por defesa!\nSe temos de perder\nFamília, bens, prazer,\nSe tudo se acabar\nE a morte nos chegar,\nCom ele reinaremos!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

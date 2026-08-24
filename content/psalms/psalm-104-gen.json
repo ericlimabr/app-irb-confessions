@@ -1,0 +1,96 @@
+{
+  "id": "psalm-104-gen",
+  "collection": "psalms",
+  "number": 104,
+  "numberLabel": "Salmo 104",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-104",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 171,
+  "units": [
+    {
+      "id": "psalm-104-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Minha\\_alma, oh, bendize ao Senhor!\nComo\\_és magnificente, grande Deus:\nSobrevestido\\_em majestade\\_e glória,\n<sup>2</sup> Coberto\\_em luz qual manto luminoso,\nEis que estendes em cortina\\_o céu.\n<sup>3</sup> Tua morada firmas sobre\\_o mar;\nTeu carro\\_é nuvem; vento, tuas asas.\n<sup>4</sup> Dos anjos fazes vento\\_e labaredas.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-104-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Fundaste\\_a terra pra não vacilar.\n<sup>6</sup> Abismo\\_é tua roupa;\\_e se cobriu;\nDeixaste\\_as águas sobre as montanhas.\n<sup>7</sup> À voz de teu trovão, se retiraram.\n<sup>8</sup> Subiram montes ao lugar que\\_é seu;\nVales desceram ao lugar que\\_é seu.\n<sup>9</sup> Às águas deste\\_abismo\\_insuperável,\nPra que não tornem a cobrir a terra.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-104-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>10</sup> Fontes, no vale, fazes rebentar\nCom águas entre\\_os montes a correr;\n<sup>11</sup> Dão de beber aos animais do campo;\nSelvagens potros matam sua sede.\n<sup>12</sup> É nessas águas o melhor lugar\nPara pousarem pássaros do céu;\nEntre\\_a ramagem, entoarem canto;\nSim, lá desferem o seu belo canto.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-104-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>13</sup> Montanhas regas do teu alto céu,\nA terra\\_é farta do trabalho teu.\n<sup>14</sup> Fazes crescer pros animais a relva;\nTambém as plantas pra servir ao homem,\nDe sorte que da terra tire\\_o pão;\n<sup>15</sup> Vinho, que\\_alegra\\_o nosso coração;\nÓleo de\\_oliva, que dá brilho\\_ao rosto;\nBom alimento, que sustém as forças.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-104-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>16</sup> Ganham vigor as árvores de Deus,\nOs cedros libaneses que plantou,\n<sup>17</sup> Nos quais as aves fazem os seus ninhos.\nQuanto\\_à cegonha, mora nos ciprestes.\n<sup>18</sup> Os altos montes são também um lar\nPra cabra da montanha habitar.\nEis que também as rochas são refúgio\nDos arganazes, fortes roedores.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-104-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>19</sup> A lua marca\\_o tempo regular,\nO sol já sabe quando declinar.\n<sup>20</sup> Dispões, ó Deus, as trevas; vem a noite,\nNa qual vagueiam animais da selva.\n<sup>21</sup> Os leõezinhos rugem pra comer,\nBuscam de Deus sustento pra viver.\n<sup>22</sup> Em vindo\\_o sol, oh, eis que se recolhem\nPra descansar na toca, protegidos.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-104-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>23</sup> Até o fim do dia\\_escurecer,\nO homem tem trabalho\\_e afazer.\n<sup>24</sup> Senhor, que variedade\\_em tuas obras!\nSim, que sabedoria\\_utilizaste!\nCheia\\_é a terra: muito prosperar!\n<sup>25-26</sup> O mar, imenso: seres a nadar;\nSeres pequenos, grandes e navios;\nLeviatã, por tuas mãos formado.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-104-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>27</sup> A criação espera,\\_ó Deus, de ti\nSeu alimento\\_em tempo regular.\n<sup>28</sup> Abres a mão; fartura, pois, recolhem.\nSe\\_o concederes, haverá fartura.\n<sup>29</sup> Mas, se\\_o teu rosto fores ocultar,\nEles sucumbem, ao se perturbar.\nOh, se\\_impedires que, assim, respirem,\nMorrem e voltarão a ser poeira.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-104-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>30</sup> Envias teu Espírito\\_a criar,\nPra face do planeta renovar.\n<sup>31</sup> A glória do Senhor pra sempre seja!\nOh, sim, que Deus Senhor, em suas obras,\nPossa, na sua glória, exultar!\n<sup>32</sup> Foi tão-somente com o seu olhar\nQue fez a terra, dando-lhe tremores.\nToca\\_os vulcões; fumegam em resposta.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-104-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>33</sup> Canto\\_ao Senhor, enquanto eu viver;\nDurante\\_a minha vida,\\_a Deus louvor.\n<sup>34</sup> Que meu pensar lhe seja agradável!\nÉ no Senhor que eu me\\_alegro sempre.\n<sup>35</sup> Suma da terra todo pecador;\nPerversos não consigam subsistir.\nÓ minha alma, teu Senhor bendize!\nA Deus cantai louvores! Aleluia!",
+      "attrs": {},
+      "sortOrder": 10
+    }
+  ]
+}

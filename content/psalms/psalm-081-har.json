@@ -1,0 +1,88 @@
+{
+  "id": "psalm-081-har",
+  "collection": "psalms",
+  "number": 81,
+  "numberLabel": "Salmo 81",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-081",
+  "attrs": {
+    "attribution": "CBS - Lobe Den Herren"
+  },
+  "sortOrder": 133,
+  "units": [
+    {
+      "id": "psalm-081-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh, jubilai e cantai ao Senhor, nossa força!\nOh, celebrai, sim, ao Deus de Jacó celebrai-o!\n<sup>2</sup> Salmodiai, fazei soar tamboril,\nSaltério\\_e harpa suave!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-081-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Na Lua Nova, na festa, tocai a trombeta;\nNa Lua Cheia, no dia da festa que\\_é nossa;\n<sup>4</sup> Pois o Senhor, Deus de Jacó, prescreveu\nA Israel tal preceito.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-081-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Deus ordenou a José como lei e preceito\nQuando saiu Israel lá da terra do\\_Egito,\nOnde\\_eu ouvi língua estranha pra mim,\nA qual eu não conhecia.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-081-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Livrei dos cestos tuas mãos e\\_os teus ombros do peso.\n<sup>7</sup> Clamaste\\_a mim na angústia,\\_e te dei livramento.\nEu te provei nas águas de Meribá\nE, no trovão, dei resposta.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-081-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Ouve, meu povo, sim, pois eu desejo\\_exortar-te.\nÓ Israel, quem me dera se tu me\\_escutasses!\n<sup>9</sup> Estranho deus não haja\\_em meio de ti;\nJamais te curves a ele.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-081-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Eu sou teu Deus, que da terra do\\_Egito livrei-te.\nOh, abre bem a tua boca, pois hei de enchê-la.\n<sup>11</sup> Mas Israel não atendeu minha voz,\nNão quis me\\_ouvir o meu povo.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-081-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>12</sup> Deixei-o\\_andar, pois, no seu coração mui teimoso\nE\\_os entreguei pra seguir os seus próprios conselhos.\n<sup>13</sup> Oh, se\\_Israel, meu povo,\\_ouvisse a mim\nE\\_andasse nos meus caminhos!",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-081-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>14</sup> Seus inimigos eu destruiria de pronto\nE deitaria mão contra seus opositores.\n<sup>15</sup> Em sujeição sempre\\_ao meu povo,\\_Israel,\nQuem me\\_aborrece\\_estaria.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-081-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>16</sup> Sustentaria meu povo com\\_o trigo mais fino\nE\\_o fartaria com mel que da rocha escorre.\nSim, provisão daria eu a\\_Israel\nCom mel e\\_o trigo mais fino.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

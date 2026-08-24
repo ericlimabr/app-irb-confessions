@@ -1,0 +1,92 @@
+{
+  "id": "heidelberg-ld03",
+  "collection": "heidelberg",
+  "number": 3,
+  "numberLabel": "Domingo 3",
+  "title": null,
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossos Pecados e Miséria"
+  },
+  "sortOrder": 3,
+  "units": [
+    {
+      "id": "heidelberg-q006-q",
+      "kind": "question",
+      "label": "P. 6",
+      "body": "Então, Deus criou o homem assim tão mau e perverso?",
+      "attrs": {
+        "questionNumber": 6
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q006-a",
+      "kind": "answer",
+      "label": "R. 6",
+      "body": "Não, pelo contrário, Deus criou o homem bom e  à  Sua imagem, isso  é,  em  verdadeira  justiça  e  santidade, de  modo que ele pudesse conhecer corretamente a Deus, o seu Criador, amá-lO de coração, e viver com Ele em eterna felicidade para O louvar e glorificar.",
+      "attrs": {
+        "questionNumber": 6,
+        "refs": [
+          "Gn 1.31.",
+          "Gn 1.26, 27.",
+          "Ef 4.24.",
+          "Cl 3.10.",
+          "Sl 8."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q007-q",
+      "kind": "question",
+      "label": "P. 7",
+      "body": "De onde veio, então, a natureza corrompida do homem?",
+      "attrs": {
+        "questionNumber": 7
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q007-a",
+      "kind": "answer",
+      "label": "R. 7",
+      "body": "Da queda e desobediência dos nossos primeiros pais, Adão e Eva, no Paraíso. Ali a nossa natureza tornou-se corrupta de tal modo que somos todos concebidos e nascidos em pecado.",
+      "attrs": {
+        "questionNumber": 7,
+        "refs": [
+          "Gn 3.",
+          "Rm 5.12, 18, 19.",
+          "Sl 51.5."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q008-q",
+      "kind": "question",
+      "label": "P. 8",
+      "body": "Mas, somos tão corruptos que não somos capazes de fazer bem algum e somos inclinados a todo o mal?",
+      "attrs": {
+        "questionNumber": 8
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q008-a",
+      "kind": "answer",
+      "label": "R. 8",
+      "body": "Sim, a  menos  que  sejamos  gerados  novamente  pelo  Espírito  de Deus.",
+      "attrs": {
+        "questionNumber": 8,
+        "refs": [
+          "Gn 6.5; 8.21; Jó 14.4; Is 53.6.",
+          "Jo 3.3-5."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

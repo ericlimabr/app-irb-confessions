@@ -1,0 +1,56 @@
+{
+  "id": "psalm-113-har",
+  "collection": "psalms",
+  "number": 113,
+  "numberLabel": "Salmo 113",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-113",
+  "attrs": {
+    "attribution": "CBS - Monkland"
+  },
+  "sortOrder": 187,
+  "units": [
+    {
+      "id": "psalm-113-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Aleluia! Servos de Deus,\nAo seu nome dai louvor.\n<sup>2</sup> Agora\\_e para sempre,\\_então,\nSeja bendito\\_o nome seu.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-113-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Do nascente\\_ao pôr do sol,\nAo seu nome dai louvor.\n<sup>4</sup> Excelso\\_é Deus sobre\\_as nações;\nE sua glória, sobre\\_os céus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-113-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Quem é semelhante a Deus,\nCujo trono\\_acima\\_está,\n<sup>6</sup> Deus, que se volta para ver\nTudo\\_o que passa\\_em terra\\_e céus?",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-113-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Deus o pobre ergue do pó,\nDo monturo\\_o fraco traz.\n<sup>8</sup> Para sentá-lo com os reis,\nSim, com os reis do povo seu.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-113-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Faz a\\_estéril conceber,\nMãe alegre se tornar,\nViva\\_em família com os seus.\nOh! Aleluia,\\_aleluia!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

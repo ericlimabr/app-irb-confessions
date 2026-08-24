@@ -1,0 +1,64 @@
+{
+  "id": "psalm-147-gen",
+  "collection": "psalms",
+  "number": 147,
+  "numberLabel": "Salmo 147",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-147",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 276,
+  "units": [
+    {
+      "id": "psalm-147-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ao nosso Deus vinde louvá-lo,\nPorque é bom e agradável\nAo nosso Deus cantar louvores;\nFica-lhe bem louvor cantado.\n<sup>2</sup> Jerusalém Deus edifica;\nDe Israel junta\\_os dispersos;\n<sup>3</sup> Sara e pensa as feridas\nAos que têm coração quebrado.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-147-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Deus conta\\_o número de\\_estrelas,\nChamando todas por seu nome.\n<sup>5</sup> Grande\\_é\\_o Senhor, mui poderoso;\nSua ciência,\\_imensurável.\n<sup>6</sup> Deus dá amparo aos humildes,\nAbate\\_os ímpios para\\_a terra.\n<sup>7</sup> A Deus cantai ações de graças,\nCantai louvor ao som da harpa!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-147-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>8</sup> O Senhor cobre\\_o céu de nuvens;\nPrepara chuva para\\_a terra;\nDos montes, faz brotar a erva.\n<sup>9</sup> Aos animais lhes dá comida;\nDá alimento aos filhotes\nDos corvos quando eles clamam.\n<sup>10</sup> Despreza\\_a força do cavalo,\nGuerreiro forte não lhe\\_agrada.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-147-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>11</sup> Deus se compraz em quem o teme\nE\\_em sua compaixão espera.\n<sup>12</sup> Jerusalém, a Deus exalte;\nAo teu Senhor, Sião, aclame,\n<sup>13</sup> Pois Ele reforçou tuas portas;\nAbençoou, em ti, teus filhos.\n<sup>14</sup> E trouxe paz aos teus limites;\nCom trigo bom, te deu fartura.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-147-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>15</sup> Eis que\\_o Senhor envia\\_à terra\nSua palavra de comando,\nA qual percorre velozmente,\n<sup>16</sup> Trazendo, como lã, a neve;\nQual cinza, a geada\\_espalha.\n<sup>17</sup> Seu gelo\\_arroja em migalhas\nOh! Quando é que,\\_assim que\\_ocorre,\nQuem, pois, resiste ao seu frio?",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-147-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>18</sup> Manda\\_a palavra e\\_o derrete;\nO Senhor faz soprar o vento\nE faz assim que\\_as águas corram.\n<sup>19</sup> Mostra\\_a Jacó sua palavra;\nA Israel, leis e preceitos.\n<sup>20</sup> Não fez assim aos outros povos,\nQue desconhecem seus preceitos.\nOh! Aleluia! Aleluia!",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

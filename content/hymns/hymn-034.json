@@ -1,0 +1,41 @@
+{
+  "id": "hymn-034",
+  "collection": "hymns",
+  "number": 34,
+  "numberLabel": "Hino 34",
+  "title": "EXULTANTES, TE ADORAMOS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Maltbie Davenport Babcock / João Wilson Faustini e Antônio de Godoy Sobrinho"
+  },
+  "sortOrder": 34,
+  "units": [
+    {
+      "id": "hymn-034-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Exultantes, te adoramos,\nDeus da glória, Deus do amor.\nNossos corações te abrimos.\nEnche-nos de santo ardor!\nVem, dissipa as nuvens frias,\nA tristeza, a noite atroz!\nDoador das alegrias,\nO teu brilho luza em nós!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-034-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Tuas obras anunciam\nTeu imenso resplendor.\nCéus e terra, estrelas e anjos\nCantam hinos de louvor.\nVales, montes e campinas,\nLindos prados, verde mar,\nAves, fontes cristalinas\nVêm conosco te adorar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-034-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Ó cristãos, entoai os hinos\nQue o universo quer cantar!\nDe Jesus o amor divino\nFaz-nos mais e mais amar.\nJubilantes, celebremos\nSeu triunfo sobre o mal!\nVinde, alegres, exaltemos\nSua glória celestial!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

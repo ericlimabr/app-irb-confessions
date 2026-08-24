@@ -1,0 +1,88 @@
+{
+  "id": "psalm-080-gen",
+  "collection": "psalms",
+  "number": 80,
+  "numberLabel": "Salmo 80",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-080",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 130,
+  "units": [
+    {
+      "id": "psalm-080-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Pastor de Israel, escuta.\nGuias José qual um rebanho,\nEntronizado,\\_em esplendor,\nMais alto que os querubins.\n<sup>2</sup> Ante\\_Efraim e Benjamim\nE Manassés, vem em poder.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-080-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Desperta\\_e, com poder, nos salva.\n<sup>3</sup> Ó Deus, restaura\\_em livramento:\nFaze teu rosto resplender.\n<sup>4</sup> Senhor, té quando\\_irado\\_estás\nContra\\_oração do povo teu,\nÓ Senhor dos Exércitos?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-080-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Dás ao teu povo pão de dores;\nPara beber, copioso pranto.\n<sup>6</sup> Contenda contra as nações;\nNosso\\_inimigo ri de nós.\n<sup>7</sup> Resplende\\_o rosto,\\_a restaurar;\nSalva,\\_ó Deus dos Exércitos!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-080-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Trouxeste do país do\\_Egito\nVideira, que plantaste\\_em terra.\nAo expulsares as nações,\n<sup>9</sup> Deste-lhe terra pra crescer.\nRaízes fundas, pois, deitou;\nExpandiu-se,\\_ocupou lugar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-080-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Tanto cresceu, que\\_a sua sombra\nPor sobre\\_os montes se projeta:\nPor sobre\\_os cedros do Senhor.\n<sup>11</sup> Sua ramagem estendeu\nAté ao mar, que longe\\_está;\nTé ao rio,\\_os rebentos seus.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-080-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Por que as cercas derribaste\nPra vindimarem no caminho?\n<sup>13</sup> O javali destruidor\nSelvagem traz devastação.\nNela, repastam animais,\nQue pululam em derredor.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-080-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>14</sup> Deus dos Exércitos, te volta!\nRogamos que, do céu, visites.\n<sup>15</sup> Protege\\_a tua plantação,\nFeita por tua destra mão,\nQue, para ti, a reforçou.\n<sup>16</sup> Queimada\\_e decepada\\_está.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-080-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "Pereçam nossos inimigos.\nÓ Deus, repreenda-os o teu rosto.\n<sup>17</sup> Sobre\\_o teu povo, ó Senhor,\nDá tua destra\\_em proteção.\nAo Filho do\\_Homem dá a mão,\nQue tornaste com força\\_a ti.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-080-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>18</sup> Juntos a ti, pois, ficaremos.\nTeu santo nome\\_invocaremos.\nOh! Vivifica-nos, Senhor!\n<sup>19</sup> Restaura-nos, pra nos salvar!\nVem, resplandece\\_o rosto teu,\nNosso Deus dos Exércitos.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

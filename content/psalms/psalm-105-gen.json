@@ -1,0 +1,176 @@
+{
+  "id": "psalm-105-gen",
+  "collection": "psalms",
+  "number": 105,
+  "numberLabel": "Salmo 105",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-105",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 173,
+  "units": [
+    {
+      "id": "psalm-105-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh, vinde ao Senhor dar graças\nE vinde invocar seu nome.\nOh, proclamai, entre\\_as nações,\nAquilo que realizou.\n<sup>2</sup> Cantai-lhe salmos, sim, cantai!\nMaravilhas suas narrai.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-105-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Gloriai-vos no seu santo nome!\nGloriai-vos no seu santo nome!\nAlegre-se o coração\nDos que procuram o Senhor.\n<sup>4</sup> Buscai Javé e\\_o seu poder\nE seu legado\\_até o fim.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-105-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Lembrai-vos, pois, dos seus prodígios\nE dos juízos de seus lábios.\nDas maravilhas vos lembrai,\nSim, maravilhas que\\_Ele fez,\n<sup>6</sup> Vós descendentes de\\_Abraão,\nFilhos eleitos de Jacó.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-105-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Ele\\_é\\_o Senhor, este Deus nosso!\nAté\\_os confins, vão seus juízos.\n<sup>8</sup> Perpetuamente, lembrará\nDa aliança que firmou,\nCom a palavra que\\_empenhou\nPara até mil gerações!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-105-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9-10</sup> Tal foi seu pacto com Abraão,\nJurado a Jacó e\\_Isaque,\nAssegurado\\_a Israel\nPor aliança eternal:\n<sup>11</sup> “Darei\\_o país de Canaã\nDa vossa\\_herança por quinhão”.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-105-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Naquela época, o povo\nEstava\\_em número pequeno.\nMui poucos eram, pois, ali,\nE forasteiros a passar.\n<sup>13</sup> Iam de nação em nação,\nDe um país ao outro,\\_então.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-105-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>14</sup> Não permitiu que oprimissem,\nQue perseguissem o seu povo.\nPor seu amor, repreendeu,\n<sup>14-15</sup> Dizendo\\_assim pra muitos reis:\n“Nos meus ungidos não toqueis\nNem meus profetas maltrateis.”",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-105-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>16</sup> Fome fez vir por sobre\\_a terra,\nCessando\\_as formas de se ter pão.\n<sup>17</sup> Adiante deles, enviou\nJosé, que\\_escravo se tornou.\n<sup>18</sup> Seus pés prenderam com grilhões;\nEm ferros lhe puseram, pois.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-105-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>19</sup> Assim, correu até cumprir-se\nA profecia sobre José,\nAté que demonstrado foi\nPela palavra do Senhor.\n<sup>20</sup> Então, o rei o libertou;\nChefe dos povos o soltou.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-105-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>21</sup> O rei tornou José mordomo,\nSenhor de sua casa e bens:\n<sup>22</sup> Sua vontade\\_a sujeitar\nPríncipes daquele lugar\nE\\_os anciãos dali também\nSabedoria\\_a ensinar.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-105-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>23</sup> No\\_Egito, Israel entrou, pois;\nAndou Jacó na terra de Cam.\n<sup>24</sup> Deus fez fecundo seu povo;\nForte mais que seu opressor.\n<sup>25</sup> Este Deus fez ter ódio\\_aos seus\nE\\_astúcia contra\\_os servos seus.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-105-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>26</sup> Deus lhes mandou Moisés, seu servo;\nTambém Arão, eleito seu, foi.\n<sup>27</sup> Por meio deles, lá em Cam,\nSinais e maravilhas fez.\n<sup>28</sup> Nem um nem outro desviou\nDa sua palavra, pois, então.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-105-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "Escuridão Deus enviou-lhes,\nE tudo\\_em volta escureceu.\n<sup>29</sup> Em sangue\\_as águas transformou;\nOs peixes todos fez morrer.\n<sup>30</sup> Sua terra muitas rãs gerou\nAté nos cômodos dos reis.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-105-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>31</sup> Ele falou, vieram nuvens\nDe moscas e piolhos ali.\n<sup>32</sup> Chuva de pedras enviou,\nChamas de fogo\\_em seu país.\n<sup>33</sup> Vinhedos seus lhes devastou;\nÁrvores, figueirais quebrou.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-105-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>34</sup> Ele falou, e\\_apareceram\nSaltões e muitos gafanhotos\n<sup>35</sup> Que se puseram\\_a devorar\nToda a erva do país!\nTambém nos campos foram, sim,\nA devorar o fruto\\_ali.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-105-gen-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "<sup>36</sup> Feriu de morte as primícias,\nVigor daquela terra ali.\nSim, primogênitos matou,\nOs primogênitos dali.\n<sup>37</sup> Então, seu povo fez sair;\nCom prata\\_e ouro, pois, subiu.",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "psalm-105-gen-v17",
+      "kind": "verse",
+      "label": "17",
+      "body": "E, entre\\_as tribos do seu povo,\nNenhum inválido existiu.\n<sup>38</sup> Regozijou-se\\_o Egito\nQuando saiu\\_o povo de Deus,\nPois esse mesmo povo,\\_assim,\nLhe tinha posto em terror.",
+      "attrs": {},
+      "sortOrder": 17
+    },
+    {
+      "id": "psalm-105-gen-v18",
+      "kind": "verse",
+      "label": "18",
+      "body": "<sup>39</sup> Deus estendeu, qual toldo, nuvem\nFogo de noite\\_a iluminar.\n<sup>40</sup> Pediram; fez vir pássaros,\nCom pão do céu\\_os alimentou.\n<sup>41</sup> Fendeu a rocha pra brotar\nÁgua\\_em torrente na\\_aridez.",
+      "attrs": {},
+      "sortOrder": 18
+    },
+    {
+      "id": "psalm-105-gen-v19",
+      "kind": "verse",
+      "label": "19",
+      "body": "<sup>42</sup> Lembrou da sua palavra santa;\nTambém de Abraão, seu servo.\nPor isso, tudo\\_executou.\n<sup>43</sup> Com alegria, conduziu\nSeu povo,\\_alegre, a cantar\nSim, povo escolhido seu.",
+      "attrs": {},
+      "sortOrder": 19
+    },
+    {
+      "id": "psalm-105-gen-v20",
+      "kind": "verse",
+      "label": "20",
+      "body": "<sup>44</sup> Deu-lhes as terras de\\_outros povos;\nDe seu labor tomaram posse.\n<sup>45</sup> Isso fez Deus pra fazer-lhes\nOs seus preceitos observar,\nPara guardar as suas leis.\nLouvai a Deus! Aleluia!",
+      "attrs": {},
+      "sortOrder": 20
+    }
+  ]
+}

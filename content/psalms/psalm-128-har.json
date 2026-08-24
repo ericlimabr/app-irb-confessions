@@ -1,0 +1,40 @@
+{
+  "id": "psalm-128-har",
+  "collection": "psalms",
+  "number": 128,
+  "numberLabel": "Salmo 128",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-128",
+  "attrs": {
+    "attribution": "CBS - Nettleton"
+  },
+  "sortOrder": 241,
+  "units": [
+    {
+      "id": "psalm-128-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Bem-aventurado\\_aquele\nQue temor tem ao Senhor\nE que anda nos caminhos,\nOs caminhos de Javé.\n<sup>2</sup> Do labor das tuas mãos\nO teu pão granjearás\nE feliz, então, serás,\nE o bem te seguirá.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-128-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Tua\\_esposa,\\_em tua casa,\nÉ videira\\_a florescer.\nQuais rebentos de\\_oliveira,\nOs teus filhos brotarão.\nAo redor da tua mesa,\nTodos juntos estarão.\n<sup>4</sup> Eis a bênção que alcança\nQuem assim teme\\_ao Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-128-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Que\\_o Senhor te abençoe\nDesde\\_o monte de Sião\nE,\\_em Jerusalém, tu vejas\nTodo\\_o bem que haverá\nPelo tempo dos teus dias,\nPelos anos do viver!\n<sup>6</sup> Filhos dos teus filhos vejas.\nSeja\\_a paz sobre\\_Israel!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

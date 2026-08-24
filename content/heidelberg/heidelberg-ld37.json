@@ -1,0 +1,64 @@
+{
+  "id": "heidelberg-ld37",
+  "collection": "heidelberg",
+  "number": 37,
+  "numberLabel": "Domingo 37",
+  "title": null,
+  "subtitle": "Os Dez Mandamentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 37,
+  "units": [
+    {
+      "id": "heidelberg-q101-q",
+      "kind": "question",
+      "label": "P. 101",
+      "body": "Mas será que podemos, de modo piedoso, fazer juramentos e votos em Nome de Deus?",
+      "attrs": {
+        "questionNumber": 101
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q101-a",
+      "kind": "answer",
+      "label": "R. 101",
+      "body": "Sim, quando o governo o exige de seus súditos, ou quando a necessidade o exige para que se guarde e se promova a fidelidade e a verdade, para a glória de Deus e o bem do nosso próximo.\n\nEsse tipo de juramento tem por base a Palavra de Deus e  foi  assim utilizado da maneira correta pelos santos do Velho e do Novo Testamentos.",
+      "attrs": {
+        "questionNumber": 101,
+        "refs": [
+          "Dt 6.13; 10.20; Jr 4.1, 2; Hb 6.16.",
+          "Gn 21.24; 31.53; Js 9.15; 1Sm 24.22; 1Rs 1.29, 30; Rm 1.9; 2Co 1.23."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q102-q",
+      "kind": "question",
+      "label": "P. 102",
+      "body": "Podemos também jurar pelos santos ou por outras criaturas?",
+      "attrs": {
+        "questionNumber": 102
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q102-a",
+      "kind": "answer",
+      "label": "R. 102",
+      "body": "Não. Um juramento legítimo é uma invocação a Deus, para que Ele, o único que conhece o coração, sirva como testemunha da verdade e que me castigue se eu jurar falsamente.\n\nNenhuma criatura é digna de uma tal honra.",
+      "attrs": {
+        "questionNumber": 102,
+        "refs": [
+          "Rm 9.1; 2Co 1.23.",
+          "Mt 5.34-37; 23.16-22; Tg 5.12."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

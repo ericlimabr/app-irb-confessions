@@ -1,0 +1,56 @@
+{
+  "id": "psalm-129-har",
+  "collection": "psalms",
+  "number": 129,
+  "numberLabel": "Salmo 129",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-129",
+  "attrs": {
+    "attribution": "CBS - Old 110th"
+  },
+  "sortOrder": 243,
+  "units": [
+    {
+      "id": "psalm-129-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> “Por muitas vezes, me angustiaram\nDesde mui jovem”, diga,\\_ó Israel.\n<sup>2</sup> Desde minha juventude me\\_afligiram,\nMas não prevaleceram contra mim.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-129-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Sobre\\_o meu dorso,\\_araram lavradores;\nE longos sulcos nele,\\_então, se fez.\n<sup>4</sup> Justo é\\_o Senhor, agindo com justiça.\nDos ímpios suas cordas, pois, cortou.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-129-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Sejam envergonhados, repelidos\nTodos os que detestam a Sião!\nSim, sejam, pois, cobertos de vexame\nAqueles que detestam a Sião!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-129-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Sejam qual erva\\_em cima dos telhados,\nQue seca mesmo antes de nascer.\n<sup>7</sup> Erva que\\_a mão do segador não enche\nNem do que\\_abraça\\_o feixe,\\_ao amarrar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-129-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> E\\_os que passando\\_aqui também não dizem:\n“Convosco seja\\_a bênção do Senhor.”\nE\\_os que passando\\_aqui também não dizem:\n“Nós vos abençoamos no Senhor.”",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

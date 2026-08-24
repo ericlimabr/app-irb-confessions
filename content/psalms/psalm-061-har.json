@@ -1,0 +1,40 @@
+{
+  "id": "psalm-061-har",
+  "collection": "psalms",
+  "number": 61,
+  "numberLabel": "Salmo 61",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-061",
+  "attrs": {
+    "attribution": "CBS - Jerusalem"
+  },
+  "sortOrder": 102,
+  "units": [
+    {
+      "id": "psalm-061-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Minha\\_oração atende, ó Deus!\nOuve, ó Pai, meu suplicar!\n<sup>2</sup> Dos fins da terra, clamo a ti\nCom abatido coração.\nLeva-me\\_à rocha, ó Senhor,\nQue\\_é bem mais alta do que eu,\n<sup>3</sup> Pois torre forte és para mim,\nRefúgio contra\\_o homem mau.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-061-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> No templo, sempre\\_assista eu.\nSob tuas asas firme\\_estou,\nNo\\_esconderijo protetor,\n<sup>5</sup> Pois escutaste\\_os votos meus.\nMe deste\\_a herança dos que têm\nTemor ao nome teu, Senhor,\n<sup>6</sup> E longo tempo dás ao rei:\nSeus anos duram gerações!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-061-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Que permaneça diante de Deus,\nPara sempre,\\_o nosso rei!\nTua verdade e teu favor\nSeu reino possam preservar!\n<sup>8</sup> Assim, teu nome louvarei;\nCom salmos, sempre cantarei\nE, dia a dia, cumprirei\nOs votos feitos ao Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

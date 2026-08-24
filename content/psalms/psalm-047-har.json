@@ -1,0 +1,40 @@
+{
+  "id": "psalm-047-har",
+  "collection": "psalms",
+  "number": 47,
+  "numberLabel": "Salmo 47",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-047",
+  "attrs": {
+    "attribution": "CBS - Assurance"
+  },
+  "sortOrder": 80,
+  "units": [
+    {
+      "id": "psalm-047-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Todos os povos, palmas batei\nE,\\_alegremente,\\_a Deus celebrai.\n<sup>2</sup> De toda\\_a terra é\\_o grande Rei,\nSenhor tremendo,\\_Altíssimo Deus.\n<sup>3</sup> Todos os povos nos submeteu,\nPôs sob os nossos pés as nações.\n<sup>4</sup> A nossa herança Deus escolheu,\nA glória de Jacó que\\_Ele\\_amou.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-047-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Por entre\\_aclamações, Deus subiu,\nO Senhor, sob o som de clarins.\n<sup>6</sup> Salmodiai a Deus, nosso Rei;\nCantai louvores, cantai ao Rei.\n<sup>7</sup> De toda\\_a terra, sim, Ele\\_é Rei;\nSalmodiai, cantai-lhe louvor!\nOh, sabiamente, salmos cantai\nAo Rei de toda\\_a terra,\\_o Senhor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-047-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>8</sup> Sobre\\_as nações, governa\\_o Senhor.\nNo santo trono, Deus se\\_assentou.\n<sup>9</sup> Os reis dos povos juntos estão,\nPovo de Deus, o Deus de\\_Abraão,\nPorque pertencem ao nosso Deus\nDa terra\\_os seus escudos, broquéis.\nGloriosamente, Deus se\\_exaltou;\nEm sua glória, Deus se\\_exaltou!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

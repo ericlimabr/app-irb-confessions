@@ -1,0 +1,64 @@
+{
+  "id": "psalm-024-har",
+  "collection": "psalms",
+  "number": 24,
+  "numberLabel": "Salmo 24",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-024",
+  "attrs": {
+    "attribution": "CBS - Greyfriars"
+  },
+  "sortOrder": 46,
+  "units": [
+    {
+      "id": "psalm-024-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Do Senhor é\\_a terra e\\_a sua plenitude,\nO mundo e todos os habitantes seus.\n<sup>2</sup> Pois sobre os mares Ele\\_a fundamentou\nE sobre\\_as correntes estabeleceu.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-024-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Quem, pois, subirá para\\_o monte do Senhor?\nOu quem estará no seu santo lugar?\n<sup>4</sup> Aquele que\\_é limpo de mãos e coração,\nNão ama\\_a vaidade,\\_enganoso não é.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-024-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Tal homem recebe a bênção do Senhor,\nJustiça do Deus da sua salvação.\n<sup>6</sup> Tal é a linhagem daqueles que o buscam,\nQue buscam a face do Deus de Jacó.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-024-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Erguei já, ó portas, as vossas cabeças;\nPortais eternais, levantai-vos ao Rei.\nA fim de que entre ali o Rei da Glória,\nPortais eternais, levantai-vos ao Rei.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-024-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Quem é\\_o Rei da Glória,\\_este Rei tão glorioso?\nSenhor das batalhas, que\\_é forte em poder.\n<sup>9</sup> Erguei já, ó portas, as vossas cabeças;\nPortais eternais, levantai-vos ao Rei.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-024-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "A fim de que entre ali o Rei da Glória,\nPortais eternais, levantai-vos ao Rei.\n<sup>10</sup> Quem é\\_o Rei da Glória,\\_este Rei tão glorioso?\nEle\\_é\\_o Rei da Glória, das hostes Senhor!",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

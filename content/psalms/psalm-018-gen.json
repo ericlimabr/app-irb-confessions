@@ -1,0 +1,152 @@
+{
+  "id": "psalm-018-gen",
+  "collection": "psalms",
+  "number": 18,
+  "numberLabel": "Salmo 18",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-018",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 34,
+  "units": [
+    {
+      "id": "psalm-018-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh, eu te amo, Senhor, minha força.\n<sup>2</sup> És minha rocha, minha cidadela,\nO meu libertador e o meu Deus,\nO meu rochedo e refúgio meu.\nDa minha salvação tu és a força,\nÉs meu escudo, és meu baluarte.\n<sup>3</sup> Clamo\\_ao Senhor, mui digno de louvor.\nSalvo\\_eu serei dos inimigos meus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-018-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Torrentes ímpias me\\_aterrorizaram,\nLaços mortais vieram a cercar-me,\n<sup>5</sup> Cadeias do inferno\\_a me cingir,\nTramas mortais a me surpreender.\n<sup>6</sup> Ao meu Senhor clamei em minha\\_angústia\nE por socorro,\\_então, gritei ao meu Deus,\nE, do seu templo, Ele\\_ouviu a mim.\nAos seus ouvidos meu clamor chegou.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-018-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Então, a terra se\\_abalou tremendo,\nE vacilaram e se\\_estremeceram\nDos montes até\\_os fundamentos seus,\nTudo porque\\_o Senhor se\\_enfureceu.\n<sup>8</sup> Subiu fumaça das narinas suas,\nFogo devorador da sua boca,\nBrasas ardentes dele a sair,\nTudo porque\\_o Senhor se\\_enfureceu.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-018-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Deus, o Senhor, baixou os céus, descendo.\nSob os seus pés, estavam densas trevas.\n<sup>10</sup> Montou um querubim e, bem veloz,\nNas asas do vento,\\_o Senhor voou.\n<sup>11</sup> Das trevas fez o seu lugar oculto\nTal como\\_um manto que o envolvesse.\nSeu pavilhão foi a escuridão\nDas águas e as nuvens lá do céu.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-018-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Do resplendor que diante dele\\_havia,\nAs densas nuvens se desvaneceram.\nHouve granizo\\_e brasas a arder.\n<sup>13</sup> A sua voz o\\_Altíssimo\\_elevou.\nBrasas de fogo e granizo houve,\nE, lá nos céus, Deus fez que trovejasse.\n<sup>14</sup> Com suas setas, Deus os espalhou,\nRaios multiplicou e\\_os derrotou.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-018-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> As águas mais profundas foram vistas,\nDo mundo\\_os fundamentos descobertos\nPor causa da repreensão de Deus,\nAo sopro das narinas do Senhor.\n<sup>16</sup> A sua mão Deus me\\_estendeu do alto,\nTomou-me\\_e me tirou das muitas águas.\n<sup>17</sup> Dos que me odiavam me livrou,\nPois poderosos eram mais que eu.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-018-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>18</sup> No dia da tragédia, me\\_assaltaram,\nMas o Senhor a mim serviu de\\_amparo.\n<sup>19</sup> Para\\_um lugar folgado me levou;\nLivrou-me, pois de mim se agradou.\n<sup>20</sup> O meu Senhor retribuiu conforme\nMinhas mãos puras e\\_a justiça minha,\n<sup>21</sup> Pois os caminhos do Senhor guardei\nE do meu Deus eu não me afastei.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-018-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>22</sup> Perante mim, estão os seus juízos;\nNão afastei de mim os seus preceitos.\n<sup>23</sup> Eis que fui reto para com meu Deus\nE da iniquidade me guardei.\n<sup>24</sup> Por isso, o Senhor retribuiu-me\nSegundo a justiça que possuo\nE a pureza que\\_há em minhas mãos\nAnte\\_os seus olhos, ante\\_o meu Senhor.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-018-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>25</sup> Senhor, com o benigno és benigno\nE com o reto tu te mostras reto.\n<sup>26</sup> Pra com o puro, tu és puro,\\_ó Deus;\nCom o perverso, inflexível és.\n<sup>27</sup> Senhor, tu salvas a nação humilde,\nMas os altivos olhos tu abates.\n<sup>28</sup> Minha candeia fazes acender;\nEm minhas trevas, tu derramas luz.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-018-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>29</sup> Contigo,\\_ó Deus, eu desbarato tropas.\nCom meu Senhor, eu salto\\_até muralhas.\n<sup>30</sup> Perfeita é a senda do Senhor;\nSua palavra bem provada é.\nEis que\\_o Senhor escudo é pra todos,\nPra todos que em Deus se refugiam.\n<sup>31</sup> Pois quem é Deus, senão o Deus Javé?\nQuem é rochedo\\_além do nosso Deus?",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-018-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>32</sup> É Deus quem revestiu a mim de força\nE aperfeiçoou o meu caminho.\n<sup>33</sup> Também deu ligeireza aos meus pés,\nSim, ligeireza como\\_a corça tem.\nO meu Senhor firmou-me nas alturas\n<sup>34</sup> E adestrou-me\\_as mãos para\\_o combate\nA ponto de eu conseguir vergar\nArco de bronze com o braço meu.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-018-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>35</sup> Da tua salvação me deste\\_o\\_escudo,\nMe sustentaste com a tua destra.\nTua clemência me engrandeceu;\nSim, me engrandeceste, ó meu Deus.\n<sup>36</sup> O meu caminho tu o alargaste,\nDebaixo dos meus pés o alargaste.\nEis que não vacilaram os meus pés,\nPois alargaste\\_o meu caminho,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-018-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>37</sup> Eu persegui, então, meus inimigos\nE só voltei depois de dar-lhes cabo.\n<sup>38</sup> E a tal ponto eu os esmaguei\nQue não puderam mais se levantar.\nDebaixo dos meus pés caíram eles,\n<sup>39</sup> Pois tu me deste força pra batalha.\nTambém me submeteste, ó Senhor,\nOs que se levantaram contra mim.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-018-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>40</sup> Senhor, puseste\\_em fuga\\_os inimigos;\nE\\_exterminei os que me odiavam.\n<sup>41</sup> Gritaram, mas ninguém lhes socorreu.\nA Deus clamaram, mas não respondeu.\n<sup>42</sup> Então, os reduzi ao pó do vento;\nTal como lama, eu lancei-os fora.\nAo pó do vento, sim, os reduzi;\nE qual a lama fora os lancei.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-018-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>43</sup> Do povo em revolta me livraste,\nCabeça das nações tu me fizeste.\nPovo que não conheço me serviu.\n<sup>44</sup> Bastou ouvir-me\\_a voz e\\_obedeceu.\nAté os estrangeiros se sujeitam;\n<sup>45</sup> Das suas fortificações saíram.\nOs estrangeiros, cheios de temor.\nDelas saíram por temer a mim.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-018-gen-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "<sup>46</sup> Vive\\_o Senhor! Que seja, pois, bendito!\nÉ meu Rochedo! Seja exaltado!\nPois é o Deus da minha salvação,\n<sup>47</sup> Deus que por mim vingança\\_executou,\nDeus que a mim sujeitos fez os povos,\n<sup>48</sup> Deus que me livra dos meus oponentes.\nSobre\\_inimigos exaltaste\\_a mim.\nDo violento me livraste,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "psalm-018-gen-v17",
+      "kind": "verse",
+      "label": "17",
+      "body": "<sup>49</sup> Entre\\_os gentios, hei de glorificar-te\nE cantarei louvores ao teu nome.\n<sup>50</sup> É Ele quem vitórias dá ao rei.\nSim, ao seu rei vitórias Ele dá.\nEle\\_é bondoso com o seu ungido,\nPra com Davi e sua descendência.\nSim, mui bondoso é o nosso Deus\nE, para sempre, Ele\\_assim será.",
+      "attrs": {},
+      "sortOrder": 17
+    }
+  ]
+}

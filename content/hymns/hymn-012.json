@@ -1,0 +1,33 @@
+{
+  "id": "hymn-012",
+  "collection": "hymns",
+  "number": 12,
+  "numberLabel": "Hino 12",
+  "title": "LOUVAI A DEUS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CHAMADO À ADORAÇÃO",
+    "author": "Joachim Neander / Antonio de Campos Gonçalves"
+  },
+  "sortOrder": 12,
+  "units": [
+    {
+      "id": "hymn-012-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Louvai a Deus, soberano Senhor do que é feito.\nLouvai-o, sim, de vossa alma tesouro perfeito.\nA Deus cantai e, com fervor, tributai\nProfundo amor e respeito.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-012-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Louvai a Deus, que vos faz prosperar dia a dia\nE, com amor, vos defende e abençoa a porfia.\nLembrai também que o Onipotente vos vem\nFazer feliz companhia.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "psalm-003-har",
+  "collection": "psalms",
+  "number": 3,
+  "numberLabel": "Salmo 3",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-003",
+  "attrs": {
+    "attribution": "CBS - New Britain"
+  },
+  "sortOrder": 6,
+  "units": [
+    {
+      "id": "psalm-003-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, como\\_aumentam contra mim\nOs opositores meus!\n<sup>2</sup> São muitos que proferem contra mim:\nNem Deus o salvará.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-003-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Tu és minha glória,\\_escudo meu,\nExaltas o servo teu.\n<sup>4</sup> Clamei com minha voz, responde-me\nDo santo monte seu.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-003-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> E pego no sono ao deitar;\nAcordo, pois me susténs.\n<sup>6</sup> Não temo\\_a multidão ao meu redor\nQue contra mim está.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-003-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Levanta-te,\\_ó Deus! Vem me salvar,\nFeriste\\_inimigos meus.\nSeus dentes e seus queixos quebraste,\nFerindo-os de\\_uma vez.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-003-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Ao Senhor Javé, o nosso Deus,\nPertence a salvação,\nA bênção divinal esteja, pois,\nNo povo teu, Senhor.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

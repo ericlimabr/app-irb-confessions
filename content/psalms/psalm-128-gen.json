@@ -1,0 +1,40 @@
+{
+  "id": "psalm-128-gen",
+  "collection": "psalms",
+  "number": 128,
+  "numberLabel": "Salmo 128",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-128",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 240,
+  "units": [
+    {
+      "id": "psalm-128-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> É bem-aventurado\nQuem teme ao Senhor,\nQue anda nos caminhos,\nNas sendas de Javé.\n<sup>2</sup> Do teu labor diário\nTe alimentarás.\nFeliz serás em tudo.\nO bem te seguirá.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-128-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Em casa, tua\\_esposa\nÉ vide\\_a florescer.\nRebentos de oliveira,\nÀ mesa,\\_os filhos são.\n<sup>4</sup> Assim abençoado\nSerá quem teme\\_a Deus.\n<sup>5</sup> Javé te abençoe\nDo monte de Sião!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-128-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Javé conceda bênção\nDo monte de Sião!\nProsperidade vejas\nLá em Jerusalém\nPor todos os teus dias!\n<sup>6</sup> Também que possas ver\nOs filhos de teus filhos\nE paz sobre Israel!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

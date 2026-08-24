@@ -1,0 +1,64 @@
+{
+  "id": "psalm-033-har",
+  "collection": "psalms",
+  "number": 33,
+  "numberLabel": "Salmo 33",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-033",
+  "attrs": {
+    "attribution": "CBS - Message"
+  },
+  "sortOrder": 59,
+  "units": [
+    {
+      "id": "psalm-033-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Exultai no Senhor, vós, ó justos!\nSim, aos retos louvá-lo é bom.\n<sup>2</sup> Com harpa\\_ao Senhor celebrai-o\nNo saltério de dez cordas.\n<sup>3</sup> Cantando\\_ao Senhor, louvai.\nEntoai ao Senhor novo canto.\nJubiloso, com arte tangei.\n<sup>4</sup> Do Senhor a palavra\\_é mui reta;\nTodo\\_o seu proceder, fiel.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-033-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Ele ama\\_a justiça\\_e\\_o direito;\nSua bondade\\_enche\\_a terra, então.\n<sup>6</sup> Os céus por sua voz se fizeram;\nSurgiram por sua palavra\nAs hostes celestiais.\n<sup>7</sup> Junta\\_em montes do mar suas águas;\nE\\_em reservas, os seus vagalhões.\n<sup>8</sup> Ao Senhor, sim, temei toda\\_a terra;\nE do mundo,\\_habitantes seus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-033-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>9</sup> Fez-se tudo por sua palavra;\nOrdenou, tudo veio\\_a\\_existir.\n<sup>10</sup> E frustra\\_às nações, seus desígnios,\nDos povos os seus intentos\nAnula-os, pois, nosso Deus.\n<sup>11</sup> O conselho de Deus é pra sempre;\nE\\_os desígnios do seu coração\nPerpetuam-se sempre\\_e pra sempre,\nSim, por todas as gerações.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-033-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>12</sup> A nação venturosa\\_é aquela\nCujo Senhor Jeová é\\_o seu Deus;\nE\\_o povo pra ser sua\\_herança\nO qual Ele\\_o escolheu,\nO qual Ele\\_o escolheu.\n<sup>13</sup> Deus, olhando dos céus, vê os homens;\n<sup>14</sup> De\\_onde habita, a todos Deus vê,\n<sup>15</sup> Pois a todos formou os seus corações\nE suas obras contempla\\_e vê.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-033-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>16</sup> Não há rei que se salve com\\_a força\nDas suas tropas; nem vai se livrar\nCom toda\\_a sua força\\_o valente.\n<sup>17</sup> E\\_o cavalo não garante\nLivrar com o seu poder.\n<sup>18</sup> Eis que\\_os olhos de Deus estão postos\nSobre\\_aqueles que lhe têm temor,\nQue esperam na misericórdia\n<sup>19</sup> E livrá-los da morte,\\_então,",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-033-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "E na fome conservar-lhes vivos.\n<sup>20</sup> Nossa alma espera em Deus;\nEle\\_é nosso auxílio e\\_escudo.\n<sup>21</sup> E nele se\\_alegra, pois,\nEm Deus, nosso coração,\nPois confiamos no seu santo nome.\n<sup>22</sup> Sobre nós, seja, pois, ó Senhor,\nTua misericórdia em nós, Senhor,\nPois de ti esperamos nós.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

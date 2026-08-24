@@ -1,0 +1,32 @@
+{
+  "id": "belgic-art12",
+  "collection": "belgic",
+  "number": 12,
+  "numberLabel": "Art. 12",
+  "title": "A criação de todas as coisas, especialmente dos anjos",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 12,
+  "units": [
+    {
+      "id": "belgic-art12-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que o Pai criou por Sua Palavra - isto é, por meio de Seu Filho o Verbo - o céu, a terra e todas as criaturas do nada, quando bem Lhe aprouve, e  que,  a  cada  uma delas, concedeu o ser, a forma, e a aparência, e a cada uma a própria função específica para servirem ao seu Criador. Cremos que Ele também continua a sustentá-las e a governá-las segundo a Sua providência eterna, pelo Seu poder infinito, para que sirvam ao homem, a fim de que o homem possa servir ao seu Deus. Ele também criou os anjos bons, para serem Seus mensageiros e servirem a Seus eleitos. Da posição de exaltação em que foram criados por Deus, alguns deles caíram na perdição eterna, tendo os demais, pela graça de Deus, permanecido firmes em seu estado original. Os demônios e os espíritos malignos são tão corrompidos que são inimigos de Deus e de todo o bem. Ficam de espreita como assassinos para, com todas as suas forças, arruinarem a igreja e a todos os seus membros e para tudo destruírem com os seus artifícios malignos. Por isso, pela própria  malignidade  deles,  estão  condenados  à  perdição  eterna  e aguardam a cada dia os seus horríveis tormentos. Assim, abominamos e rejeitamos o erro dos Saduceus, que negam a existência de espíritos e de anjos; e também os erros dos Maniqueístas, que dizem que os demônios não foram criados, mas que têm origem em si mesmos e que não se corromperam, sendo malignos pela própria natureza.",
+      "attrs": {
+        "refs": [
+          "Gn 1.1; Gn 2.3; Is 40.26; Jr 32.17; Cl 1.15, 16; 1Tm 4.3; Hb 11.3; Ap 4.11.",
+          "Sl 103.20, 21; Mt 4.11; Hb 1.14.",
+          "Jo 8.44; 2Pe 2.4; Jd 6.",
+          "Gn 3.1-5; 1Pe 5.8.",
+          "Ef 6.12; Ap 12.4, 13-17; Ap 20.7-9.",
+          "Mt 8.29; Mt 25.41; Ap 20.10.",
+          "At 23.8."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "hymn-022",
+  "collection": "hymns",
+  "number": 22,
+  "numberLabel": "Hino 22",
+  "title": "DEUS DOS ANTIGOS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Daniel Crane Roberts / João Wilson Faustini"
+  },
+  "sortOrder": 22,
+  "units": [
+    {
+      "id": "hymn-022-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Deus dos antigos, cuja forte mão\nRege e sustém os astros na amplidão,\nÓ Soberano, excelso Criador,\nCom gratidão, cantamos teu louvor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-022-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Desde o passado, foste nossa luz,\nSol que até hoje, com fulgor, reluz!\nSê nosso esteio, guia e proteção;\nTua palavra, lei e direção.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-022-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Da guerra atroz, do crime e assolação,\nDos tempos maus de um mundo em confusão,\nSeja teu braço o nosso defensor,\nPois confiamos sempre em ti, Senhor!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-022-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Teu povo, ó Deus, assiste em seu labor,\nNo testemunho do teu grande amor.\nAs nossas vidas vem fortalecer,\nPara o teu nome sempre engrandecer.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-022-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 5
+    }
+  ]
+}

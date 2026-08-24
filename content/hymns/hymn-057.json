@@ -1,0 +1,57 @@
+{
+  "id": "hymn-057",
+  "collection": "hymns",
+  "number": 57,
+  "numberLabel": "Hino 57",
+  "title": "SOMENTE PONHO A MINHA FÉ",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Edward Mote / Francisco Caetano Borges da Silva"
+  },
+  "sortOrder": 57,
+  "units": [
+    {
+      "id": "hymn-057-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Somente ponho a minha fé\nNa graça excelsa de Jesus,\nNo sacrifício remidor,\nNo sangue do bom Redentor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-057-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "A minha fé e o meu amor\nEstão firmados no Senhor,\nEstão firmados no Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-057-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Se não lhe posso a face ver,\nÉ pela fé que vou viver!\nEm cada transe a suportar\nEu hei de nele confiar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-057-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "A sua graça é mui real,\nAbrigo traz no temporal;\nAo vir cercar-me a tentação,\nMe fortalece sua mão.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-057-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Quando a trombeta ressoar,\nIrei com ele me encontrar,\nE, com os salvos, cantarei\nLouvor eterno ao grande Rei.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

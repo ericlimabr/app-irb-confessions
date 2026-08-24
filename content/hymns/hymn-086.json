@@ -1,0 +1,41 @@
+{
+  "id": "hymn-086",
+  "collection": "hymns",
+  "number": 86,
+  "numberLabel": "Hino 86",
+  "title": "SUBISTE AO CÉU, TRIUNFADOR!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: ASCENSÃO",
+    "author": "João Marques da Mota Sobrinho"
+  },
+  "sortOrder": 86,
+  "units": [
+    {
+      "id": "hymn-086-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Subiste ao céu, triunfador!\nDe tudo agora és tu Senhor;\nVenceste, Rei da Glória!\nEis que te sentas junto ao Pai.\nColher, em breve, a igreja vai,\nAs bênçãos da vitória!\nA cruz é luz.\nO pecado? Expiado!\nVida e morte,\nTudo está em mão que é forte!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-086-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Atrai-nos bem a ti, Senhor,\nQue andemos sempre em teu fulgor,\nE o reino teu busquemos.\nDá que vivamos com temor\nE, humildes, pelo teu amor,\nO mal abandonemos!\nDá, Rei, à grei\nQue, lutando sob teu mando,\nSeja firme\nE sua fé ao mundo afirme.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-086-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Clamamos, ó Senhor, por ti.\nVem ser com o teu povo aqui.\nFazer que viva unido.\nE seja grato e liberal,\nBuscando o bem celestial,\nO bem imerecido.\nOh, sim! E assim,\nNós, constantes e exultantes,\nJuntaremos\nNossas mãos, louvar-te-emos!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

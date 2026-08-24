@@ -1,0 +1,45 @@
+{
+  "id": "belgic-art24",
+  "collection": "belgic",
+  "number": 24,
+  "numberLabel": "Art. 24",
+  "title": "A nossa santificação e as boas obras",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 24,
+  "units": [
+    {
+      "id": "belgic-art24-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que esta fé verdadeira operada no homem pelo ouvir da Palavra de Deus e pelo agir do Espírito Santo, regenera-o e torna-o um novo homem; faz com que viva uma vida nova e o liberta da escravidão do pecado. Por isso não é verdade que essa fé justificadora o torna indiferente para viver uma vida santa e boa. Ao contrário, sem ela ninguém jamais poderia fazer nada por amor a Deus, mas somente por amor a si mesmo ou por medo da condenação. É, portanto, impossível que essa fé santa seja inoperante no homem, porque não falamos de  uma  fé  vã,  mas  da  que  a  Escritura  chama  de  _\"a  fé  que  atua  pelo amor\"_ (Gl 5.6). Esta fé leva o homem a exercitar-se às obras que Deus ordenou em Sua Palavra. As boas obras, que procedem da boa raiz da fé, são boas e aceitáveis à vista de Deus, porque são todas santificadas pela Sua graça. Apesar disso elas não cooperam para a nossa justificação, porque é pela fé em Cristo que somos justificados, antes mesmo de  fazermos  quaisquer  boas  obras. De  outro  modo  essas  obras  não poderiam ser boas, assim como o fruto da árvore não pode ser bom, se a árvore não for boa. Por isso que praticamos boas obras, não para termos mérito; pois, que mérito podemos ter? Antes, somos devedores a Deus pelas boas obras que praticamos, e  não Ele a nós, _\"porque Deus é quem efetua em vós tanto o querer como o realizar, segundo a sua boa vontade\"_  (Fp  2.13). Tenhamos sempre em mente o que está escrito: _\"Assim também vós, depois de haverdes feito quanto vos foi ordenado, dizei: Somos servos inúteis, porque fizemos apenas o que devíamos fazer\"_ (Lc 17.10). Contudo, não  negamos  que  Deus  recompensa  as  boas  obras, mas  é  pela  Sua graça que Ele coroa os Seus dons.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "belgic-art24-p2",
+      "kind": "article",
+      "label": null,
+      "body": "Além  disso,  embora  pratiquemos  boas  obras  não  baseamos  nelas  a nossa salvação. Pois nada podemos fazer, por mínimo que seja, que não o contaminemos com a nossa carne e que não seja digno de punição. Ainda que pudéssemos apresentar uma única boa obra, a mera lembrança de um único pecado bastaria para Deus a rejeitar. Assim, estaríamos sempre em dúvida, lançados de um lado para o outro sem certeza alguma e com as nossas pobres consciências sempre atormentadas  se  não  confiássemos  no  mérito  do  sofrimento  e  da  morte  do nosso Salvador.",
+      "attrs": {
+        "refs": [
+          "At 16.14; Rm 10.17; 1Co 12.3.",
+          "Ez 36.26, 27; Jo 1.12, 13; Jo 3.5; Ef 2.4-6; Tt 3.5; 1Pe 1.23.",
+          "Jo 5.24; Jo 8.36; Rm 6.4-6; 1Jo 3.9.",
+          "Gl 5.22; Tt 2.12.",
+          "Jo 15.5; Rm 14.23; 1Tm 1.5; Hb 11.4, 6.",
+          "Rm 4.5.",
+          "Mt 7.17.",
+          "1Co 1.30, 31; 1Co 4.7; Ef 2.10.",
+          "Rm 2.6, 7; 1Co 3.14; 2Jo 8; Ap 2.23.",
+          "Rm 7.21.",
+          "Tg 2.10.",
+          "Hc 2.4; Mt 11.28; Rm 10.11."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

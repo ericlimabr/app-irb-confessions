@@ -1,0 +1,88 @@
+{
+  "id": "psalm-143-har",
+  "collection": "psalms",
+  "number": 143,
+  "numberLabel": "Salmo 143",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-143",
+  "attrs": {
+    "attribution": "CBS - Schönster Herr Jesu"
+  },
+  "sortOrder": 270,
+  "units": [
+    {
+      "id": "psalm-143-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, atende a minha prece.\nEscuta,\\_ó Deus, o meu suplicar.\nSegundo\\_a tua fidelidade,\nPela justiça,\\_atende-me.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-143-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Com o teu servo numa demanda\nNão entres, pois nenhum justo há,\n<sup>3</sup> Pois o\\_inimigo tem perseguido\nMinha\\_alma\\_e me lançado\\_ao chão.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-143-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "E tem-me feito morar em trevas\nTal quem morreu muito tempo\\_atrás.\n<sup>4</sup> E\\_o meu espírito dentro\\_esmorece;\nE\\_o coração turbado\\_está.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-143-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Lembro teus feitos de\\_antigos dias\nE penso nas obras das tuas mãos.\n<sup>6</sup> Qual terra seca, por ti anseio.\nA ti levanto\\_as minhas mãos.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-143-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Oh! Dá-te pressa! Senhor, responde!\nMe desfalece minha\\_alma\\_aqui.\nA tua face não me escondas,\nSenão qual morto eu serei.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-143-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>8</sup> Dá-me, bem cedo, ouvir da graça,\nPois eu confio em ti, Senhor.\nMostra\\_o caminho por onde\\_eu siga,\nPorque minha\\_alma\\_elevo\\_a ti.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-143-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>9</sup> Dos inimigos, Senhor, me livra,\nPois meu refúgio está em ti.\n<sup>10</sup> Tua vontade fazer me\\_ensina,\nPois o meu Deus tu és, Senhor.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-143-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "Por terra plana, oh, vem guiar-me.\nTeu bom Espírito me conduz.\n<sup>11</sup> Como\\_ao teu nome\\_e tua justiça,\nQue amas, vivifica\\_a mim.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-143-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Livra minha\\_alma <sup>12</sup> por tua graça,\nDestrói os inimigos meus.\nDá cabo deles, pois me\\_atribulam,\nPorque sou servo teu, Senhor.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

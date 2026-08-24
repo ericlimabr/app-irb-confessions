@@ -1,0 +1,38 @@
+{
+  "id": "belgic-art01",
+  "collection": "belgic",
+  "number": 1,
+  "numberLabel": "Art. 1",
+  "title": "Só existe um Deus",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 1,
+  "units": [
+    {
+      "id": "belgic-art01-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Todos nós cremos com o coração, e confessamos com a boca, que só existe um Deus, que é um Ser espiritual e simples; Ele é eterno, incompreensível, invisível, imutável, infinito, onipotente, perfeitamente sábio, justo, bom e a fonte transbordante de todo o bem.",
+      "attrs": {
+        "refs": [
+          "Rm 10.10.",
+          "Dt 6.4; 1Co 8.4, 6; 1Tm 2.5.",
+          "Jo 4.24.",
+          "Sl 90.2.",
+          "Rm 11.33.",
+          "Cl 1.15; 1Tm 6.16.",
+          "Tg 1.17.",
+          "1Rs 8.27; Jr 23.24.",
+          "Gn 17.1; Mt 19.26; Ap 1.8.",
+          "Rm 16.27.",
+          "Rm 3.25, 26; Rm 9.14; Ap 16.5, 7.",
+          "Mt 19.17.",
+          "Tg 1.17."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

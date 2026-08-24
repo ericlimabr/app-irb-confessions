@@ -1,0 +1,49 @@
+{
+  "id": "hymn-009",
+  "collection": "hymns",
+  "number": 9,
+  "numberLabel": "Hino 9",
+  "title": "VAMOS NÓS LOUVAR A DEUS!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CHAMADO À ADORAÇÃO",
+    "author": "Manuel Avelino de Souza"
+  },
+  "sortOrder": 9,
+  "units": [
+    {
+      "id": "hymn-009-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Vamos nós louvar a Deus!\nVamos! Vamos!\nAo Senhor de toda a luz,\nSanto! Santo!\nCantem, louvem lá nos céus\nNosso Deus e Rei Jesus!\nExaltado seja Deus,\nSanto, Santo!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-009-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Exaltado seja nosso Deus e Pai!\nExaltado! Para sempre o exaltai!\nCantem, louvem lá nos céus\nNosso Deus e Rei Jesus!\nExaltado seja Deus, Santo, Santo!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-009-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Nosso Deus, eterno Pai,\nSanto, Santo,\nDeu-nos bênção por Jesus!\nVede! Vede!\nAo Senhor glorificai,\nVós, os salvos pela cruz!\nSim, conosco glória dai!\nVinde! Vinde!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-009-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Exaltemos nosso Deus,\nSanto, Santo!\nExaltemos com fervor\nHoje, hoje!\nTributemos todos nós,\nHinos santos de louvor,\nSim, louvor em alta voz,\nHoje! Hoje!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

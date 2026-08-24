@@ -1,0 +1,80 @@
+{
+  "id": "psalm-019-har",
+  "collection": "psalms",
+  "number": 19,
+  "numberLabel": "Salmo 19",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-019",
+  "attrs": {
+    "attribution": "CBS - Columbia"
+  },
+  "sortOrder": 36,
+  "units": [
+    {
+      "id": "psalm-019-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Os céus proclamam, sim, a glória do Senhor;\nE\\_o firmamento\\_expõe as obras das suas mãos.\n<sup>2</sup> E discursa\\_o dia\\_ao que vem depois;\nE\\_a noite\\_à outra faz saber.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-019-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Linguagem nem palavra\\_ou som se ouve\\_algum,\n<sup>4</sup> Porém se faz ouvir na terra\\_a sua voz.\nE\\_as palavras soam até\\_os confins.\nAí, pôs uma tenda\\_ao sol,",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-019-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Que,\\_assim como herói, os céus a percorrer,\nDos aposentos sai qual noivo\\_a se\\_alegrar\n<sup>6</sup> E de um extremo ao outro vai,\nE nada\\_escapa\\_ao seu calor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-019-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Perfeita\\_é\\_a lei de Deus, restaura\\_o coração;\nSeu testemunho fiel ao simples dá o saber.\n<sup>8</sup> Do Senhor mui retos\\_os preceitos são\nE\\_alegram bem o coração.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-019-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "O mandamento seu é puro\\_e dá visão.\n<sup>9</sup> É claro\\_o seu temor, pra sempre durará;\nVerdadeiros são os juízos seus\nE justos todos por igual.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-019-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Mais desejáveis são que\\_o ouro puro\\_e bom;\nMais doces do que\\_o mel que\\_o favo destilou.\n<sup>11</sup> E\\_ao teu servo trazem exortação;\nHá grande prêmio\\_em os guardar.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-019-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>12</sup> Quem pode discernir as próprias transgressões?\nDas que\\_eu não posso ver perdoa-me, Senhor.\n<sup>13</sup> Da soberba guarda teu servo,\\_ó Deus,\nJamais me venha dominar.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-019-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "E justo, pois, serei, de grande transgressão.\n<sup>14</sup> Aquilo que\\_eu falar e\\_o coração meditar\nAgradáveis sejam a ti, Senhor,\nRochedo meu e Redentor!",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

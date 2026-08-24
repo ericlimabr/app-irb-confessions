@@ -1,0 +1,136 @@
+{
+  "id": "heidelberg-ld16",
+  "collection": "heidelberg",
+  "number": 16,
+  "numberLabel": "Domingo 16",
+  "title": null,
+  "subtitle": "Deus Filho e a Nossa Redenção",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 16,
+  "units": [
+    {
+      "id": "heidelberg-q040-q",
+      "kind": "question",
+      "label": "P. 40",
+      "body": "Por que foi necessário que Cristo se humilhasse até à morte?",
+      "attrs": {
+        "questionNumber": 40
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q040-a",
+      "kind": "answer",
+      "label": "R. 40",
+      "body": "Por causa da justiça e da verdade de Deus a satisfação pelos nossos pecados não poderia ocorrer de outra forma senão pela morte do Filho de Deus.",
+      "attrs": {
+        "questionNumber": 40,
+        "refs": [
+          "Gn 2.17.",
+          "Rm 8.3; Fp 2.8; Hb 2.9, 14, 15."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q041-q",
+      "kind": "question",
+      "label": "P. 41",
+      "body": "Por que foi Ele 'sepultado'?",
+      "attrs": {
+        "questionNumber": 41
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q041-a",
+      "kind": "answer",
+      "label": "R. 41",
+      "body": "O Seu sepultamento testifica que Ele realmente morreu.",
+      "attrs": {
+        "questionNumber": 41,
+        "refs": [
+          "Is 53.9; Jo 19.38-42; At 13.29; 1Co 15.3, 4."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q042-q",
+      "kind": "question",
+      "label": "P. 42",
+      "body": "Se Cristo morreu por nós, por que ainda temos que morrer?",
+      "attrs": {
+        "questionNumber": 42
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q042-a",
+      "kind": "answer",
+      "label": "R. 42",
+      "body": "A nossa morte não é o pagamento pelos nossos pecados, mas ela põe fim aos nossos pecados e é a entrada para a vida eterna.",
+      "attrs": {
+        "questionNumber": 42,
+        "refs": [
+          "Mc 8.37.",
+          "Jo 5.24; Rm 7.24, 25; Fp 1.23."
+        ]
+      },
+      "sortOrder": 6
+    },
+    {
+      "id": "heidelberg-q043-q",
+      "kind": "question",
+      "label": "P. 43",
+      "body": "Que outros benefícios recebemos do sacrifício e morte de Cristo na cruz?",
+      "attrs": {
+        "questionNumber": 43
+      },
+      "sortOrder": 7
+    },
+    {
+      "id": "heidelberg-q043-a",
+      "kind": "answer",
+      "label": "R. 43",
+      "body": "Pela morte de Cristo a nossa velha natureza é crucificada, morta e sepultada com Ele, para que os desejos malignos da carne não reinem mais sobre nós e possamos nos ofertar a Ele como sacrifício de gratidão.",
+      "attrs": {
+        "questionNumber": 43,
+        "refs": [
+          "Rm 6.5-11; Cl 2.11-12.",
+          "Rm 6.12-14.",
+          "Rm 12.1; Ef 5.1, 2."
+        ]
+      },
+      "sortOrder": 8
+    },
+    {
+      "id": "heidelberg-q044-q",
+      "kind": "question",
+      "label": "P. 44",
+      "body": "Por que razão se acrescenta: \"desceu ao inferno\"?",
+      "attrs": {
+        "questionNumber": 44
+      },
+      "sortOrder": 9
+    },
+    {
+      "id": "heidelberg-q044-a",
+      "kind": "answer",
+      "label": "R. 44",
+      "body": "A angústia, a dor, o terror e a agonia indizíveis que Cristo suportou em todos os Seus sofrimentos - especialmente na cruz - dão-me a certeza e a consolação de que, por maiores que sejam as minhas tristezas e tentações, Ele me livrou da angústia e do tormento do inferno.",
+      "attrs": {
+        "questionNumber": 44,
+        "refs": [
+          "Sl 18.5, 6; 116.3; Mt 26.36-46; 27.45, 46; Hb 5.7-10.",
+          "Is 53."
+        ]
+      },
+      "sortOrder": 10
+    }
+  ]
+}

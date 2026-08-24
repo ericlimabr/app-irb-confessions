@@ -1,0 +1,112 @@
+{
+  "id": "psalm-068-gen",
+  "collection": "psalms",
+  "number": 68,
+  "numberLabel": "Salmo 68",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-068",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 113,
+  "units": [
+    {
+      "id": "psalm-068-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Eis que se ergue o Senhor!\nFogem os inimigos seus,\nSomem da sua presença.\n<sup>2</sup> E, qual fumaça\\_a dissipar,\nAssim dispersa o Senhor\nOs que o aborrecem.\nTal como\\_a cera que está\nPerante\\_o fogo\\_a derreter,\nPerecem os iníquos.\n<sup>3</sup> Mas, na presença do Senhor,\nOs justos regozijo têm;\nCom alegria,\\_exultam.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-068-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Ao nome do Senhor cantai!\nSalmodiai e exaltai\nQuem monta sobre\\_as nuvens!\nPois o seu nome é Senhor!\nDiante dele exultai\nPerante\\_a sua presença!\n<sup>5</sup> O pai dos órfãos é\\_o Senhor\nE das viúvas é\\_o juiz\nEm sua morada santa;\n<sup>6</sup> Deus que ao solitário faz\nMorar em vida familiar,\nProspera aos cativos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-068-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Porém, em terra\\_estéril, faz\nQuem é rebelde habitar;\nAssim faz aos rebeldes.\n<sup>7</sup> E, quando\\_o nosso Deus saiu\nÀ frente do seu povo\\_a\\_andar,\nEm meio ao deserto,\n<sup>8</sup> Eis que a terra\\_estremeceu\nE, até mesmo, gotejou\nO céu em sua presença!\nPerante\\_o Deus de Israel,\nAté\\_o Sinai se abalou,\nDiante da sua presença!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-068-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Pra tua\\_herança, ó Senhor,\nMandaste chuva\\_em profusão\nE\\_a restabeleceste.\n<sup>10</sup> A tua grei ali morou.\nEm tua bondade, ó Senhor,\nProveste para\\_o pobre.\n<sup>11</sup> Deu sua palavra o Senhor;\nGrande\\_é\\_o exército que vem\nTrazendo boas novas.\n<sup>12</sup> Com suas tropas, fogem reis;\nE a mulher do lar está\nA repartir despojos.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-068-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>13</sup> Ainda que vós estejais\nDeitados entre os redis,\nEu vos farei qual pomba.\nNas asas, prata eu porei;\nE\\_as penas eu revestirei\nCom ouro amarelo.\n<sup>14</sup> Cai neve sobre o Zalmom,\nQuando ali dispersa\\_os reis\nO Todo-Poderoso.\n<sup>15</sup> O monte de Deus é Basã;\nE serra de elevações\nO monte de Basã, sim.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-068-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>16</sup> Por que olhais a invejar,\nÓ montes que\\_elevados sois,\nAo seu monte\\_escolhido\nPra ser a sua\\_habitação,\nMonte no qual habitará\nDeus para todo\\_o sempre?\n<sup>17</sup> Eis que os carros do Senhor\nSão vinte mil, sim, vinte mil,\nMilhares de milhares.\nNo meio deles, Deus está.\nEis que o monte de Sinai\nTornou-se\\_em santuário.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-068-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>18</sup> Eis que\\_às alturas Deus subiu\nE\\_o cativeiro a si levou\nE recebeu despojos.\nA homens, sim, Deus recebeu,\nPara\\_em seu meio habitar,\nRebeldes inclusive.\n<sup>19</sup> Bendito seja o Senhor,\nQue benefício sempre traz\nA nós diariamente.\nDeus é a nossa salvação.\n<sup>20</sup> Nosso libertador é Deus;\nDa morte Deus nos livra.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-068-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>21</sup> Deus gravemente ferirá,\nSim, a cabeça rachará\nE\\_o cabeludo crânio\nDos que são inimigos seus,\nDaquele que vive\\_a andar\nNos seus próprios delitos.\n<sup>22</sup> Disse\\_o Senhor: Farei voltar\nDesde Basã ao povo meu,\nDo mar e profundezas,\n<sup>23</sup> Para poder banhar o pé\nNo sangue de\\_inimigos seus,\nLambido por cachorros.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-068-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>24</sup> Viu-se\\_o cortejo do Senhor,\nSim, do Senhor, meu Deus e Rei,\nEm meio\\_ao santuário.\n<sup>25</sup> Na frente, homens a cantar;\nInstrumentistas por detrás;\nDonzelas com adufes.\n<sup>26</sup> Vós descendentes de\\_Israel\nEm meio às congregações,\nAo Senhor bendizei-o!\n<sup>27</sup> Eis o mais novo, Benjamim;\nEis Zebulom e Naftali,\nJudá e\\_o\\_ajuntamento.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-068-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>28</sup> Reúne\\_a tua força,\\_ó Deus,\nQue\\_usaste\\_a nos favorecer,\nTua divina força,\n<sup>29</sup> Que vem do templo teu, Senhor,\nQue fica em Jerusalém.\nReis te darão presentes!\n<sup>30</sup> Vem, ó Senhor, repreender\nAs feras dos canaviais,\nOs touros e novilhos.\nQuem prata\\_em barra quer pra si\nCalcai seus pés; dispersa,\\_ó Deus,\nQuem se compraz na guerra.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-068-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>31</sup> Príncipes do Egito vêm;\nA Etiópia estende\\_as mãos\nCheias para\\_o Senhor Deus.\n<sup>32</sup> Reinos da terra, oh, cantai,\nSim, ao Senhor salmodiai\nCantai todos os povos\n<sup>33</sup> Àquele que está nos céus\nE lá tem sua\\_habitação\nDesde\\_a antiguidade!\nA sua voz Deus faz ouvir;\nSim, sua voz faz ressoar,\nVoz que é poderosa!",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-068-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>34</sup> A glória tributai a Deus!\nA sua majestade\\_está\nSobre\\_Israel, seu povo;\nE, nos espaços siderais,\nA sua fortaleza\\_está,\nSim, sua fortaleza.\n<sup>35</sup> Ó Senhor, Deus de Israel,\nOh, quão tremendo\\_és tu, Senhor,\nDesde\\_os teus santuários!\nConcede força e poder,\nSim, ao seu povo de\\_Israel.\nSeja\\_o Senhor bendito!",
+      "attrs": {},
+      "sortOrder": 12
+    }
+  ]
+}

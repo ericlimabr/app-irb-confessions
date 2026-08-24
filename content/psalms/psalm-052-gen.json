@@ -1,0 +1,64 @@
+{
+  "id": "psalm-052-gen",
+  "collection": "psalms",
+  "number": 52,
+  "numberLabel": "Salmo 52",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-052",
+  "attrs": {
+    "attribution": "Lucas Freire / Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 88,
+  "units": [
+    {
+      "id": "psalm-052-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Por que na maldade glorias,\nÓ homem de poder?\nContudo, a bondade de Deus,\nPra sempre, durará.\n<sup>2</sup> A tua língua\\_intenta\\_o mal,\nPlaneja sempre\\_o mal.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-052-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "E, como navalha\\_afiada,\nPratica\\_enganação,\n<sup>3</sup> Ama\\_a mentira à verdade,\nPrefere\\_o mal ao bem.\n<sup>4</sup> Palavras de destruição\nÉ\\_o que ama dizer.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-052-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Deus te destruirá para sempre,\nHá de te\\_arrebatar.\nVai te tirar da tua tenda\nE te extirpará.\nDa terra dos viventes, sim,\nDeus te extirpará.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-052-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Os justos verão tudo isso\nE temerão também.\nRirão, dizendo: <sup>7</sup> “Este\\_é\\_o homem!\nOh, eis aí o tal:\nConfiou nos bens, e não em Deus;\nReforço\\_achou no mal.”",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-052-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Porém, eu sou qual oliveira\nQue verdejante\\_está,\nA qual está na casa de Deus.\nEu hei de confiar;\nPra sempre, eu confiarei\nNa graça do Senhor.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-052-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Graças te darei para sempre,\nPois tu fizeste\\_assim.\nEm meio\\_aos teus fiéis, pra sempre,\nEu hei de esperar;\nEsperarei no nome teu,\nPois o teu nome\\_é bom.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

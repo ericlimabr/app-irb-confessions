@@ -1,0 +1,30 @@
+{
+  "id": "belgic-art06",
+  "collection": "belgic",
+  "number": 6,
+  "numberLabel": "Art. 6",
+  "title": "A diferença entre os livros canônicos e os livros apócrifos",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 6,
+  "units": [
+    {
+      "id": "belgic-art06-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Distinguimos esses livros sagrados dos apócrifos, que são os seguintes: III e IV Esdras, Tobias, Judite, Sabedoria, Eclesiástico, Baruc, os acréscimos aos livros de Ester e Daniel (o cântico de Azarias na fornalha, o cântico dos três jovens na fornalha, a estória de Suzana, Bel e o Dragão), a oração de Manassés e I e II Macabeus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "belgic-art06-p2",
+      "kind": "article",
+      "label": null,
+      "body": "A igreja pode ler e tirar deles instrução até onde concordarem com os livros  canônicos.  Mas  não  têm  nenhum  poder  nem  autoridade  que possam confirmar pelo seu testemunho qualquer artigo da fé ou da religião  cristã;  muito  menos  podem  diminuir  a  autoridade  dos  livros sagrados.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

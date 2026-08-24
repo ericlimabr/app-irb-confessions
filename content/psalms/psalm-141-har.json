@@ -1,0 +1,88 @@
+{
+  "id": "psalm-141-har",
+  "collection": "psalms",
+  "number": 141,
+  "numberLabel": "Salmo 141",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-141",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 266,
+  "units": [
+    {
+      "id": "psalm-141-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A ti, Senhor, alto eu clamo.\nÓ meu Socorro, ouça-me!\nEu chamo\\_a ti; inclina-te;\nA tua companhia amo.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-141-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> A prece minha,\\_as mãos erguidas,\nChegue\\_ante\\_a tua face,\\_ó Deus,\nIgual incenso,\\_o agrado teu,\nComo\\_holocaustos vespertinos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-141-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> A minha boca, Deus, segure.\nQue,\\_ao falar, não me venha\\_expor.\nMe sele\\_os lábios, ó Senhor.\n<sup>4</sup> Meu coração nem mal procure.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-141-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Meu coração, Senhor, protege\nDo mal que os ímpios tentarão.\nSuas iguarias coma não,\nEm sua casa não esteja.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-141-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>5</sup> É graça quando justo fere;\nUngido é me\\_a repreensão,\nPois em amor castigarão,\nE não rejeito\\_olhar severo.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-141-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Eu orarei sob a maldade\nQue o perverso praticar.\n<sup>6</sup> Palavras mansas vou falar,\nMesmo\\_o juiz precipitado.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-141-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>7</sup> Malignos, eles destroçaram,\nJogados\\_os ossos pelo chão;\nLavrada terra,\\_assim estão,\nE, junto\\_à cova,\\_esbranquiçaram.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-141-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>8</sup> A ti meus olhos sempre fitam;\nEm ti confio, meu Senhor.\nNão desampares no terror\nE guarde\\_a alma tão aflita.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-141-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>9</sup> Das redes salve que me armaram,\nDa armadilha\\_e traição.\n<sup>10</sup> Que eu, ileso,\\_escape,\\_então.\nNa rede caiam que montaram.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

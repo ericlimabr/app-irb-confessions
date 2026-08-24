@@ -1,0 +1,25 @@
+{
+  "id": "hymn-016",
+  "collection": "hymns",
+  "number": 16,
+  "numberLabel": "Hino 16",
+  "title": "GLÓRIA SEJA AO PAI!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Hino do século II/ João Gomes da Rocha"
+  },
+  "sortOrder": 16,
+  "units": [
+    {
+      "id": "hymn-016-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Glória seja ao Pai,\nAo Filho e ao Santo Espírito,\nComo era no princípio,\nÉ hoje e para sempre,\nEternamente! Amém! Amém!",
+      "attrs": {},
+      "sortOrder": 1
+    }
+  ]
+}

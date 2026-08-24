@@ -1,0 +1,40 @@
+{
+  "id": "dort-conclusion",
+  "collection": "dort",
+  "number": null,
+  "numberLabel": "Conclusão",
+  "title": "Conclusão",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "role": "conclusion"
+  },
+  "sortOrder": 5,
+  "units": [
+    {
+      "id": "dort-conclusion-s1",
+      "kind": "section",
+      "label": null,
+      "body": "Esta  é  a  declaração  clara,  simples  e  sincera  da  doutrina  ortodoxa quanto aos Cinco Artigos de Fé disputados nos Países Baixos; e esta é a rejeição dos erros pelos quais as igrejas foram perturbadas, por algum tempo. O Sínodo julga que as presentes declarações e rejeições estão de acordo com a Palavra de Deus e com as confissões das Igrejas Reformadas.  Tornando-se,  por  isso,  evidente  que  alguns  agiram  de modo demasiado impróprio e contrário a toda a verdade, equidade e amor, desejando persuadir o povo do seguinte:",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "dort-conclusion-s2",
+      "kind": "section",
+      "label": null,
+      "body": "1. Que a doutrina das Igrejas Reformadas no tocante à predestinação e aos demais pontos relacionados a ela, por seu caráter e tendência, desvia os corações dos homens de toda a piedade e religião;\n2. Que ela é um ópio para a carne, ministrado pelo diabo, bem como uma fortaleza para Satanás onde, à espreita de todos, fere multidões e atinge mortalmente a muitos com os dardos tanto do desespero quanto da falsa segurança;\n3. Que faz de Deus o autor do pecado e um tirano injusto e hipócrita; e que nada é senão um renovado Estoicismo, Maniqueísmo, Libertinismo e Islamismo;\n4. Que leva à negligência espiritual ao fazer as pessoas crerem que nada pode impedir a salvação dos eleitos, não importando como vivam, e que, por essa causa, eles podem cometer em segurança os crimes mais atrozes. Por outro lado, ela nada pode fazer em favor da salvação dos reprovados, nem mesmo que eles tivessem realizado todas as obras dos santos;\n5. Que a mesma doutrina ensina que Deus predestinou e criou a maior parte da humanidade para a condenação eterna, por um mero ato arbitrário da sua vontade, sem levar em consideração nenhum pecado;\n6. Que da mesma maneira por que a eleição é a fonte e a causa da fé e das boas obras, a reprovação é a causa da incredulidade e da impiedade;\n7. Que muitos filhos inocentes de pais crentes são arrancados do seio de suas mães e lançados de modo tirânico no inferno, de tal sorte que nem o sangue de Cristo, nem o batismo, nem as orações da igreja no ato do batismo lhes podem ser de qualquer proveito.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "dort-conclusion-s3",
+      "kind": "section",
+      "label": null,
+      "body": "E ainda há muitos outros ensinamentos desse tipo que as Igrejas Reformadas não apenas não confessam mas que até mesmo detestam de todo o coração. Este Sínodo de Dort, portanto, conclama em nome do Senhor a todos quantos  piedosamente  invocam  o  nosso  Salvador  Jesus  Cristo,  que não julguem a fé das Igrejas Reformadas a partir de calúnias ajuntadas daqui  e  dali;  nem  tampouco  pelas  declarações  pessoais  de  alguns mestres, modernos ou antigos, muitas vezes citados em má-fé, ou tirados do contexto e explicados de modo contrário ao seu verdadeiro sentido.  Mas  deve-se  julgar  a  fé  das  Igrejas  Reformadas  pelas  Confissões públicas dessas igrejas e pela presente explanação da doutrina ortodoxa, confirmada pelo consenso unânime e individual dos membros de todo o Sínodo. Além disso, o Sínodo adverte aos próprios caluniadores que considerem quão severo é o julgamento de Deus que aguarda aos que dão falso testemunho contra tantas igrejas e suas Confissões, que conturbam a consciência dos fracos e que tentam colocar sob suspeita, aos olhos de muitos, a comunidade dos verdadeiros crentes. Finalmente, este Sínodo exorta a todos os co-ministros do evangelho de Cristo a se conduzirem em santo temor e reverência diante de Deus quando lidarem com esta doutrina em escolas e igrejas. Que ao ensiná-la, tanto pela palavra falada quanto escrita, devem procurar a glória  do  nome  de  Deus,  a  santidade  de  vida  e  a  consolação  das  almas aflitas. Seus pensamentos e palavras sobre a doutrina devem estar em concordância com a Escritura, segundo a analogia da fé. E devem se abster de usar todas aquelas expressões que ultrapassam os limites do verdadeiro sentido das Escrituras Sagradas para não dar aos frívolos sofistas uma boa oportunidade de caluniar ou zombar da doutrina das Igrejas Reformadas. Que o Senhor Jesus Cristo, o Filho de Deus, que está assentado à destra do Pai e concede os seus dons aos homens, nos santifique na verdade; que Ele traga à verdade os que dela se desviaram; que silencie os caluniadores da sã doutrina e supra os fiéis ministros da Sua Palavra com o Espírito de sabedoria e discernimento, para que tudo aquilo que falarem seja para a glória de Deus e a edificação dos seus ouvintes. Amém.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

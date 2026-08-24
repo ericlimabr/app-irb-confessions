@@ -1,0 +1,32 @@
+{
+  "id": "psalm-070-har",
+  "collection": "psalms",
+  "number": 70,
+  "numberLabel": "Salmo 70",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-070",
+  "attrs": {
+    "attribution": "CBS - Thaxted"
+  },
+  "sortOrder": 116,
+  "units": [
+    {
+      "id": "psalm-070-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, oh, dá-te pressa\nE vem livrar a mim!\nÓ Senhor, vem socorrer-me!\nApressa-te, Senhor!\n<sup>2</sup> Retroceda em vexame\nQuem minha vida quer tirar,\nCubra-se de vergonha\nQuem me deseja\\_o mal.\n<sup>3</sup> Por sua ignomínia,\nVenha retroceder;\nQuem diz “bem-feito, muito bem”\nVenha retroceder.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-070-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Mas, quanto\\_aos que te buscam,\nSe\\_alegrem no Senhor.\nDiga sempre que\\_és grandioso\nQuem ama\\_a salvação.\n<sup>5</sup> Sou necessitado\\_e pobre;\nDá-te pressa\\_em me valer;\nPois tu és meu amparo,\nÉs meu libertador.\nSenhor, não te detenhas!\nTe\\_apressa em me valer!\nSenhor, não venhas te deter!\nTe\\_apressa em me valer!",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

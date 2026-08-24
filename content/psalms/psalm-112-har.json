@@ -1,0 +1,48 @@
+{
+  "id": "psalm-112-har",
+  "collection": "psalms",
+  "number": 112,
+  "numberLabel": "Salmo 112",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-112",
+  "attrs": {
+    "attribution": "CBS - Judas Maccabeus"
+  },
+  "sortOrder": 185,
+  "units": [
+    {
+      "id": "psalm-112-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh! Aleluia! Bem-aventurado é\nQuem na lei de Deus se\\_apraz e\\_a Ele tem temor.\n<sup>2</sup> Sua prole,\\_aqui na terra, há de ter poder.\nEis que\\_a geração dos justos bênçãos vai receber.\n<sup>3</sup> Na sua casa, há prosperidade\\_e bens.\nEis que sua justiça sempre vai permanecer.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-112-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Ao justo nasce luz em meio\\_à\\_escuridão.\nÉ misericordioso, bom e justo é.\n<sup>5</sup> Quem se compadece\\_e\\_empresta bem feliz será.\nEm juízo, sua causa ele defenderá.\n<sup>6</sup> Nunca tal homem abalado há de ser\nE lembrado para sempre ele ficará.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-112-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Com más notícias, não se\\_atemorizará.\nO seu coração é firme, confiante\\_em Deus.\n<sup>8</sup> Tem o coração bem firme, sem nenhum temor,\nAté ver nos inimigos cumprir-se\\_o seu querer.\n<sup>9</sup> Distribuindo, aos necessitados dá.\nEis que sua justiça sempre permanecerá.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-112-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Sua justiça sempre permanecerá.\nEis que\\_o seu poder em glória há de se\\_exaltar.\n<sup>10</sup> O perverso, vendo isso, se\\_enfurecerá,\nRange\\_os dentes, se consome, enraivecido\\_está,\nPois o desejo dos iníquos morrerá.\nO desejo dos perversos, sim, perecerá.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

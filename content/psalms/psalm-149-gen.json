@@ -1,0 +1,32 @@
+{
+  "id": "psalm-149-gen",
+  "collection": "psalms",
+  "number": 149,
+  "numberLabel": "Salmo 149",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-149",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 280,
+  "units": [
+    {
+      "id": "psalm-149-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Cantai a Deus, oh, aleluia,\nUm novo canto com os santos.\n<sup>2</sup> Ó Sião, louva\\_ao Rei, Criador seu\n<sup>3</sup> Com músicas e danças.\n<sup>4</sup> O Senhor bem ao povo quer;\nAos humildes dá salvação.\n<sup>5</sup> Possam os santos exultar;\nNo leito,\\_a se\\_alegrar!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-149-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>6</sup> Louvor a Deus nos lábios tenham;\nEm mãos, espada de dois gumes,\n<sup>7</sup> Pra castigar, vingar os povos,\n<sup>8</sup> Prender seus governantes\nE seus nobres pôr em grilhões,\n<sup>9</sup> Pois julgá-los com lei assim,\nAos santos, grande honra é!\nLouvai! Aleluia!",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

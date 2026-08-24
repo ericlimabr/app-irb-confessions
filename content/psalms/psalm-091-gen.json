@@ -1,0 +1,80 @@
+{
+  "id": "psalm-091-gen",
+  "collection": "psalms",
+  "number": 91,
+  "numberLabel": "Salmo 91",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-091",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 149,
+  "units": [
+    {
+      "id": "psalm-091-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> O que habita no lugar\nDo\\_esconderijo de Deus\nE\\_à sombra\\_está a descansar,\nSombra do\\_Onipotente\n<sup>2</sup> Diz ao Senhor: refúgio\\_és meu,\nTu és meu baluarte,\nDeus meu, em quem confiarei.\nDeus meu, em ti confio.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-091-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Pois Ele\\_irá te libertar\nDo laço do caçador.\nDa peste há de te livrar,\nPeste perniciosa.\n<sup>4</sup> Com suas penas, cobrirá;\nE estarás seguro.\nSua verdade é pavês,\nSua verdade\\_é\\_escudo.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-091-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Tu não irás te assustar\nCom o terror da noite\nE nem com setas que estão\nVoando pelo dia.\n<sup>6</sup> E nem a peste temerás,\nSe propagando\\_em trevas.\nNem mortandade temerás,\nQue\\_assola\\_ao meio-dia.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-091-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Mil cairão ao lado teu,\nDez mil à tua direita;\nMas atingido não serás,\nNão serás atingido.\n<sup>8</sup> Somente com os olhos teus\nTu hás de contemplá-los.\nVerás os ímpios a sofrer,\nVerás o seu castigo.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-091-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Porque disseste bem assim:\nO meu refúgio\\_é meu Deus.\nFizeste do Altíssimo\nA tua residência.\n<sup>10</sup> Por isso, mal nenhum irá\nAcontecer contigo.\nNenhuma praga entrará\nDentro da tua tenda.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-091-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Pois aos seus anjos Deus dará\nOrdens ao teu respeito,\nPra que, em todo caminhar,\nEles te venham guardar.\n<sup>12</sup> E te sustentarão nas mãos.\nNas mãos, vão sustentá-lo,\nPra que não venhas tropeçar\nCom o teu pé em pedra.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-091-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Leão e cobra pisarás,\nSim, pisarás com teus pés.\nAo leãozinho calcarás\nE também a serpente.\n<sup>14</sup> Porque a mim se apegou,\nEu livrarei a ele.\nA salvo hei de colocar,\nPois me conhece\\_o nome.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-091-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>15</sup> E, quando ele me\\_invocar,\nEu hei de respondê-lo.\nEm sua\\_angústia,\\_eu estarei;\nCom glória, vou livrá-lo.\n<sup>16</sup> A ele eu saciarei\nCom a longevidade.\nEis que a minha salvação\nA ele vou mostrá-la.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

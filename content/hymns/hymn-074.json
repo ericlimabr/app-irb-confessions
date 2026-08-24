@@ -1,0 +1,49 @@
+{
+  "id": "hymn-074",
+  "collection": "hymns",
+  "number": 74,
+  "numberLabel": "Hino 74",
+  "title": "QUEM É ESSE ESTRANHO INFANTE?",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: NASCIMENTO",
+    "author": "William Walsham How/ João Gomes da Rocha"
+  },
+  "sortOrder": 74,
+  "units": [
+    {
+      "id": "hymn-074-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Quem é esse estranho infante\nDe tão nobre geração,\nVerdadeiro descendente\nDe Davi e de Abraão?\nÉ de Deus o Filho Eterno,\nQue dos altos céus baixou;\nEle é o Verbo feito carne,\nQue, entre os homens, habitou.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-074-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Quem é esse perseguido\nPor demônios e homens vis?\nQuem é esse que é bendito\nPelos lábios infantis?\nÉ o Senhor, o desejado,\nQue em Judeia apareceu.\nÉ o Messias prometido,\nQue de glória a terra encheu.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-074-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Quem é esse que aos enfermos\nA saúde restaurou,\nAos aflitos deu alento,\nE aos famintos saciou?\nÉ o Cristo, a fonte régia\nQue confere todo bem.\nCom perfeita providência,\nToda a criação mantém.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-074-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Quem é esse Nazareno,\nHomem santo sofredor,\nPobre, sábio, compassivo,\nQue revela tanto amor?\nÉ o eterno substituto,\nO Cordeiro pascoal,\nCarregado de trabalhos,\nVitorioso sobre o mal.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

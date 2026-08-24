@@ -1,0 +1,64 @@
+{
+  "id": "psalm-046-har",
+  "collection": "psalms",
+  "number": 46,
+  "numberLabel": "Salmo 46",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-046",
+  "attrs": {
+    "attribution": "CBS - Materna"
+  },
+  "sortOrder": 78,
+  "units": [
+    {
+      "id": "psalm-046-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Refúgio\\_e fortaleza\\_é Deus, presente\\_em socorrer.\nNas horas de tribulação, <sup>2</sup> não temos que temer\nAinda que a terra toda venha\\_a transtornar\nOu que os montes se abalem no seio do mar,",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-046-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Ainda que as águas venham a tumultuar,\nTambém os montes estremeçam com fúria total.\n<sup>4</sup> Um rio a cidade do Senhor vem alegrar,\nO santuário das moradas do mais Alto Ser,",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-046-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> E, no seu meio, Deus está; jamais, se\\_abalará.\nAjuda, pois, Deus lhe trará desde\\_o amanhecer.\n<sup>6</sup> Os reinos podem se\\_abalar; nações também bramar.\nA sua voz Deus levantou e\\_a terra dissolveu.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-046-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> O Senhor dos Exércitos está conosco\\_aqui.\nRefúgio nosso Ele é, o Deus de Israel.\n<sup>8</sup> Oh! Vinde, contemplai as obras do Senhor Javé:\nQue\\_assolações efetuou na terra\\_o nosso Deus!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-046-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Põe termo\\_à guerra\\_até\\_os confins do mundo\\_o nosso Deus.\nO arco Ele quebra\\_e\\_a lança despedaçará;\nOs carros todos Deus fará no fogo\\_incendiar.\nPõe termo\\_à guerra\\_até\\_os confins do mundo\\_o nosso Deus.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-046-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Aquietai-vos e sabei que\\_eu sou o vosso Deus.\nSou exaltado entre\\_as nações; na terra, grande\\_eu sou.\n<sup>11</sup> O Senhor dos Exércitos está conosco\\_aqui.\nRefúgio nosso Ele é, o Deus de Israel.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "hymn-047",
+  "collection": "hymns",
+  "number": 47,
+  "numberLabel": "Hino 47",
+  "title": "DIRIJO A TI, SENHOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ORAÇÃO E SÚPLICA",
+    "author": "James Theodore Houston"
+  },
+  "sortOrder": 47,
+  "units": [
+    {
+      "id": "hymn-047-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Dirijo a ti, Senhor, minha oração;\nEu sei que tudo vês no coração.\nA ti venho adorar e graça suplicar,\nOh, vem me abençoar, vem já, meu Deus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-047-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Dirijo a ti, Senhor, minha oração,\nDo mal que pratiquei, a confissão!\nSê tu, ó meu Senhor, propício ao pecador,\nConcede-me o favor de tua paz.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-047-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Dirijo a ti, Senhor, minha oração,\nDivino amparo, que és em aflição.\nOh, vem me consolar, minha alma confortar,\nE sempre me guardar de todo o mal.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-047-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Atende, ó meu Senhor, minha oração,\nQue, humilde, sobe a ti com gratidão.\nTu és meu mediador, meu Rei e Salvador.\nQue sempre em teu amor possa eu viver.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-047-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 5
+    }
+  ]
+}

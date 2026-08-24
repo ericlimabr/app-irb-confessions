@@ -1,0 +1,47 @@
+{
+  "id": "belgic-art26",
+  "collection": "belgic",
+  "number": 26,
+  "numberLabel": "Art. 26",
+  "title": "A intercessão de Cristo",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 26,
+  "units": [
+    {
+      "id": "belgic-art26-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que não temos acesso a Deus senão pelo único Mediador e Advogado,  Jesus  Cristo,  o  Justo. Com  esse  propósito  Ele  se  tornou homem, unindo as duas naturezas, Divina e humana, para que nós homens não sejamos impedidos mas tenhamos acesso à Majestade Divina. Mas, este Mediador que o Pai constituiu entre Ele e nós, não nos deve amedrontar por Sua grandeza, a ponto de fazer-nos procurar um outro,  conforme a nossa imaginação. Pois não há ninguém, nem no céu,  nem  na  terra,  entre  as  criaturas,  que  nos  ame  mais  que  Jesus Cristo. _\"Pois Ele, subsistindo em forma de Deus, ... a Si mesmo se esvaziou tornando-se em semelhança de homem, e assumindo a forma de servo por nós\"_ (Fp 2.6, 7), e em todas as coisas tornou-se semelhante a Seus irmãos (Hb 2.17). Contudo, se fôssemos procurar um outro intercessor,  acaso  encontraríamos  algum  que  nos  amasse  mais  do  que Aquele que entregou a Sua vida por nós, mesmo quando éramos Seus inimigos (Rm 5.8, 10)? Se tivéssemos que procurar alguém que tivesse autoridade e poder, quem os teria mais do que Ele, que está assentado à  direita  do  Pai  e  que  tem  toda  a  autoridade  no  céu  e  na  terra  (Mt 28.18)? E quem será ouvido antes do que o próprio bem-amado Filho de Deus? Foi, portanto, a total falta de confiança que introduziu o costume de desonrar os santos, em vez de honrá-los, ao fazer o que eles mesmos jamais fizeram nem exigiram. Pelo contrário, como registram os seus escritos, sempre rejeitaram tal honra, como era seu dever.  Aqui não se deve alegar que não somos dignos, pois não apresentamos as nossas orações em razão de nossa própria dignidade, mas somente pela excelência e a dignidade de Jesus Cristo, cuja justiça é a nossa, mediante a fé.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "belgic-art26-p2",
+      "kind": "article",
+      "label": null,
+      "body": "Por isso, pelo bom motivo de extrair de nós esse medo tolo, ou antes essa falta de confiança, o autor de Hebreus nos diz que convinha a Jesus Cristo que _\"em todas as coisas, se tornasse semelhante aos irmãos, para  ser  misericordioso  e  fiel  Sumo  Sacerdote  nas  coisas  referentes  a Deus e para fazer propiciação pelos pecados do povo. Pois, naquilo que Ele  mesmo sofreu, tendo sido tentado, é poderoso para socorrer os que são tentados\"_ (Hb 2.17, 18). E depois, para nos encorajar mais ainda a procurá-lO,  ele  nos  diz:  _\"Tendo,  pois,  a  Jesus,  o  Filho  de  Deus,  como grande sumo sacerdote que penetrou os céus, conservemos firmes a nossa confissão. Porque não temos sumo sacerdote que não possa compadecer-se das nossas fraquezas; antes, foi ele tentado em todas as coisas, à nossa  semelhança,  mas  sem  pecado.  Acheguemo-nos,  portanto,  confiadamente,  junto  ao  trono  da  graça,  a  fim  de  recebermos  misericórdia  e acharmos graça  para  socorro  em  ocasião  oportuna\"_  (Hb  4.14-16). A mesma carta diz: _\"Tendo, pois, irmãos, intrepidez para entrar no Santo dos Santos, pelo sangue de Jesus .... aproximemo-nos, com sincero coração, em plena certeza de fé etc.\"_ (Hb 10.19, 22). Cristo, _\"no entanto, porque continua para sempre, tem o seu sacerdócio imutável. Por isso, também pode salvar  totalmente  os  que  por  ele  se  chegam  a  Deus,  vivendo sempre para interceder por eles\"_ (Hb 7.24, 25). Então, que mais é necessário, visto que o próprio Cristo diz?: _\"Eu sou o caminho, e a verdade, e a vida; ninguém vem ao Pai senão por mim\"_ (Jo 14.6). Por que procuraríamos outro advogado, visto que aprouve a Deus dar-nos Seu Filho como o nosso Advogado? Não o abandonemos por um outro que jamais haveremos de encontrar. Pois quando Deus o deu a nós, bem sabia que éramos pecadores. Portanto, segundo o mandamento de Cristo, clamamos ao Pai celestial mediante Cristo, nosso único Mediador, como nos foi ensinado na oração  do  Senhor. E  temos  a  certeza  de  que  o  Pai  nos  concederá tudo o que pedirmos em Seu nome (Jo 16.23).",
+      "attrs": {
+        "refs": [
+          "1Tm 2.5.",
+          "1Jo 2.1.",
+          "Ef 3.12.",
+          "Mt 11.28; Jo 15.13; Ef 3.19; 1Jo 4.10.",
+          "Hb 1.3; Hb 8.1.",
+          "Mt 3.17; Jo 11.42; Ef 1.6.",
+          "At 10.26; At 14.15.",
+          "Jr 17.5, 7; At 4.12.",
+          "1Co 1.30.",
+          "Jo 10.9; Ef 2.18; Hb 9.24.",
+          "Rm 8.34.",
+          "Hb 13.15.",
+          "Mt 6.9-13; Lc 11.2-4.",
+          "Jo 14.13."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

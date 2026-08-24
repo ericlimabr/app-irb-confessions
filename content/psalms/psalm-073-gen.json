@@ -1,0 +1,104 @@
+{
+  "id": "psalm-073-gen",
+  "collection": "psalms",
+  "number": 73,
+  "numberLabel": "Salmo 73",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-073",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 120,
+  "units": [
+    {
+      "id": "psalm-073-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus é mui bom com Israel,\nCom os de limpo coração,\n<sup>2</sup> Mas quase resvalaram meus pés,\nQuase meus passos desviaram,\n<sup>3</sup> Pois os soberbos invejei\nAo ver os maus prosperarem,\n<sup>4</sup> Os quais não têm preocupações;\nSeu corpo\\_é nédio e sadio.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-073-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Cansaço eles não possuem\nTal como os mortais possuem\nE nem sequer são afligidos\nTal como são os outros homens.\n<sup>6</sup> Por isso, a soberba\\_está\nQual um colar a cingi-los;\nE\\_a violência\\_em volta\\_está\nTal como\\_um manto\\_a envolver.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-073-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Gordura salta\\_aos olhos seus,\nDesejos do seu coração.\n<sup>8</sup> Zombam e falam com malícia;\nFalam de opressão, altivos.\n<sup>9</sup> Põem sua boca contra\\_os céus,\nSim, contra\\_os céus sua boca;\nE sua língua,\\_a percorrer;\nA terra\\_inteira a falar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-073-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Por isso, é que\\_o povo seu\nVolta-se\\_a eles e os tem\nTal como fonte da qual bebem,\nEm grande quantidade bebem.\n<sup>11</sup> E dizem: “Como sabe Deus?\nAcaso,\\_há conhecimento?”\n<sup>12</sup> Eis que os ímpios são assim:\nTranquilos, a enriquecer.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-073-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>13</sup> Por certo,\\_inútil foi a mim\nPuro guardar o coração.\nE foi inútil ter lavado\nAs minhas mãos na inocência.\n<sup>14</sup> Porque, o dia todo,\\_eu sou,\nContinuamente,\\_afligido\nE castigado sempre sou\nDiariamente, de manhã.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-073-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> Se eu pensasse em falar,\nEssas palavras, ó Senhor,\nA geração ofenderia\nDaqueles que são os teus filhos.\n<sup>16</sup> Só em tentar compreender,\nAo refletir nessas coisas,\nFardo pesado foi pra mim,\nTarefa árdua por demais.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-073-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>17</sup> Até que eu, por fim, entrei\nNo santuário do Senhor\nE entendi qual é\\_o destino,\nQual é\\_o destino dos perversos.\n<sup>18</sup> Tu lanças na destruição:\nLugar escorregadio.\n<sup>19</sup> De súbito,\\_em desolação,\nSão consumidos de terror!",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-073-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>20</sup> Tal como\\_ao sonho\\_ao acordar,\nAssim também, ó Deus Senhor,\nQuando vieres despertar-te,\nDesprezarás a\\_imagem deles.\n<sup>21</sup> Ao se\\_amargar meu coração,\nMinhas entranhas doendo,\n<sup>22</sup> Bruto\\_e\\_ignorante me tornei,\nIrracional diante de ti.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-073-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>23</sup> Porém, contigo\\_eu sempre\\_estou.\nTu me seguras pela mão.\n<sup>24</sup> Me guias com o teu conselho\nE me recebes na tua glória.\n<sup>25</sup> Quem mais eu tenho,\\_ó Deus, no céu,\nAlém de ti, ó Senhor meu?\nE nem na terra\\_o meu prazer\nEstá em outro\\_além de ti.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-073-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>26</sup> Mesmo que venha\\_esmorecer\nA minha carne\\_e\\_o coração,\nDeus é a minha fortaleza\nE minha\\_herança para sempre.\n<sup>27</sup> Os que se\\_afastam do Senhor\nPerecerão certamente.\nOs que são infiéis a ti\nTu, ó Senhor, destruirás.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-073-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>28</sup> Mas, quanto\\_a mim, é bom estar\nJunto\\_ao Senhor, que é meu Deus.\nO meu refúgio\\_eu ponho nele,\nPra proclamar seus feitos todos.\nSim, quanto\\_a mim, é bom estar\nJunto\\_ao meu Deus, o Senhor meu.\nO meu refúgio nele\\_está,\nPra proclamar os feitos seus.",
+      "attrs": {},
+      "sortOrder": 11
+    }
+  ]
+}

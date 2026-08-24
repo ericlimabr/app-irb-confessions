@@ -1,0 +1,48 @@
+{
+  "id": "psalm-119-081-088-har",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.81-88",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-119-081-088",
+  "attrs": {
+    "attribution": "CBS - Vox Dilecti"
+  },
+  "sortOrder": 211,
+  "units": [
+    {
+      "id": "psalm-119-081-088-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>81</sup> Minha\\_alma desfalece\\_enquanto\\_aguardo\\_a salvação\nQue vem de ti, porém espero\\_em tua lei, Senhor.\n<sup>82</sup> Meus olhos esmorecem, pois, enquanto\\_eu espero,\\_ó Deus,\nPor tua promessa\\_e,\\_então, direi: “Irás me consolar?”",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-081-088-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>83</sup> Tal qual um odre na fumaça, me\\_assemelho eu.\nContudo, não me\\_esqueço nunca dos decretos teus,\n<sup>84</sup> E quantos vêm a ser os dias do servo teu, Senhor?\nJustiça quando\\_a mim farás contra\\_o perseguidor?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-081-088-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>85</sup> Soberbos que não andam consoante\\_a tua lei\nAbriram covas para mim, são contra\\_a tua lei.\n<sup>86</sup> Pois verdadeiros todos são os teus mandamentos, sim.\nInjustamente me perseguem, oh, ajuda-me!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-119-081-088-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>87</sup> Na terra, quase conseguiram destruir a mim;\nMas eu não deixo\\_os teus preceitos, não os deixarei.\n<sup>88</sup> Segundo\\_a tua graça, vem dar vida a mim, ó Deus;\nE guardarei a lei que vem dos lábios teus, Senhor.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

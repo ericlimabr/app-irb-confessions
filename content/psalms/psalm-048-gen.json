@@ -1,0 +1,56 @@
+{
+  "id": "psalm-048-gen",
+  "collection": "psalms",
+  "number": 48,
+  "numberLabel": "Salmo 48",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-048",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 81,
+  "units": [
+    {
+      "id": "psalm-048-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Grande\\_e mui digno é\\_o Senhor\nDe receber o seu louvor,\nSim, na cidade do Deus nosso.\n<sup>2</sup> De toda\\_a terra\\_a alegria\nO seu santo monte é,\nO seu monte de Sião,\nMonte belo\\_e sobranceiro\nPara\\_o Norte da cidade,\nSim, no Norte da cidade\nDesse Rei tão grandioso.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-048-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Em seus palácios, o Senhor,\nEle se dá a conhecer\nComo\\_um refúgio elevado.\n<sup>4</sup> Por isso, reis se coligaram;\nPassaram, <sup>5</sup> mas lhes bastou\nVê-lo para se\\_espantar;\nE fugiram apressados.\n<sup>6</sup> O terror ali venceu-os;\nE, então, sentiram dores\nComo da parturiente.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-048-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Quebraste as embarcações\nDe Társis com vento\\_oriental.\n<sup>8</sup> Tal qual ouvíamos ser dito,\nEis que assim também o vimos;\nSim, tal como\\_ouvimos nós,\nAssim vimos nós também\nNa cidade do Deus nosso,\nDeus que é\\_o Senhor das Hostes.\nE pra sempre sua cidade\nO Senhor estabelece.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-048-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Em meio\\_ao templo teu, Senhor,\nPensamos nós em teu favor.\n<sup>10</sup> Senhor, tal como ao teu nome,\nTambém o teu louvor se\\_estende.\nDa terra\\_até seus confins,\nSe estende teu louvor.\nTua destra\\_é muito justa.\n<sup>11</sup> Monte de Sião, se\\_alegre!\nFilhas de Judá exultem\nPelos teus juízos retos!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-048-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Rondai Sião e\\_a percorrei\nE suas torres as contai\n<sup>13</sup> E notai bem seus baluartes\nE seus palácios observai-os,\nPra que vós possais narrar\nÀs vindouras gerações\n<sup>14</sup> Que\\_este Deus é o Deus nosso,\nNosso Deus pra todo\\_o sempre\nE, até a nossa morte,\nHá de ser o nosso guia.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

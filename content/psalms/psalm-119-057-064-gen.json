@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-057-064-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.57-64",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-057-064",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 206,
+  "units": [
+    {
+      "id": "psalm-119-057-064-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>57</sup> Minha porção é Deus, o meu Senhor.\nDisse que guardaria tuas palavras.\n<sup>58</sup> De todo\\_o coração, imploro eu\nPela tua graça, meu Senhor, imploro.\nPeço que tenhas compaixão de mim;\nTem compaixão segundo tua palavra.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-057-064-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>59</sup> Eu considero os caminhos meus,\nVolto meus passos aos teus testemunhos.\n<sup>60</sup> Logo me\\_apresso; nada me detém\nEm observar, Senhor, teus mandamentos.\n<sup>61</sup> Os ímpios lançam laços sobre mim,\nPorém de tua lei eu não me\\_esqueço.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-057-064-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>62</sup> Levanto,\\_à meia noite, pra render\nGraças a ti por teus juízos retos.\n<sup>63</sup> Dos que te temem companheiro sou\nE dos que guardam os teus mandamentos.\n<sup>64</sup> Tua bondade enche\\_a terra,\\_ó Deus.\nSenhor, ensina\\_a mim os teus decretos.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "hymn-064",
+  "collection": "hymns",
+  "number": 64,
+  "numberLabel": "Hino 64",
+  "title": "MAIS PERTO QUERO ESTAR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Sarah Fuller Flower Adams / João Gomes da Rocha"
+  },
+  "sortOrder": 64,
+  "units": [
+    {
+      "id": "hymn-064-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Mais perto quero estar, meu Deus, de ti,\nInda que seja a dor que me una a ti!\nSempre hei de suplicar: “Mais perto quero estar,\nMais perto quero estar, meu Deus, de ti!”",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-064-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Mesmo vagando aqui, na solidão,\nDe noite a descansar, dormindo ao chão,\nEm sonhos vou clamar: “Mais perto quero estar,\nMais perto quero estar, meu Deus, de ti!”",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-064-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Minha alma cantará a ti, Senhor!\nPerdão já recebi por teu favor.\nEu sempre hei de rogar: “Mais perto quero estar,\nMais perto quero estar, meu Deus, de ti!”",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-064-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "E quando a morte, enfim, me vier chamar,\nNos céus, com o Senhor, irei morar!\nEntão me alegrarei perto de ti, meu Rei!\nPerto de ti, meu Rei, meu Deus, de ti!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-064-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 5
+    }
+  ]
+}

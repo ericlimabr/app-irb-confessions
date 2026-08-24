@@ -1,0 +1,65 @@
+{
+  "id": "hymn-081",
+  "collection": "hymns",
+  "number": 81,
+  "numberLabel": "Hino 81",
+  "title": "CANTAI! EXULTAI!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: RESSURREIÇÃO",
+    "author": "Horatius Bonar / Sarah Poulton Kalley"
+  },
+  "sortOrder": 81,
+  "units": [
+    {
+      "id": "hymn-081-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Cantai! Exultai!\nO Messias chegou!\nDissiparam-se as trevas,\nA aurora raiou!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-081-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Dai louvores, celebrai-o\nFoi morto na cruz,\nDai louvores, publicai-o\nJá vive Jesus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-081-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Cantai! Exultai!\nPelos ímpios sofreu!\nSatisfez a justiça\nE o sangue verteu!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-081-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Cantai! Exultai!\nTemos pleno perdão,\nPois Jesus nos concede\nReal salvação!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-081-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Cantai! Exultai!\nJesus Cristo, nos céus,\nPelos seus intercede\nÀ destra de Deus",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "hymn-081-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Cantai! Exultai!\nO Senhor voltará!\nTriunfante, glorioso,\nNas nuvens virá!",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

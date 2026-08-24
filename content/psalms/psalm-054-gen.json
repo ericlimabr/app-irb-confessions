@@ -1,0 +1,40 @@
+{
+  "id": "psalm-054-gen",
+  "collection": "psalms",
+  "number": 54,
+  "numberLabel": "Salmo 54",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-054",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 91,
+  "units": [
+    {
+      "id": "psalm-054-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Me salva por teu nome,\\_ó Deus;\nPor teu poder, me faz justiça.\n<sup>2</sup> Escuta\\_ó Deus, a minha prece\nE as palavras que\\_eu disser.\n<sup>3</sup> Pois se levantam contra mim\nOs insolentes, violentos.\nQuerem tirar a minha vida;\nNão têm temor de Deus em si.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-054-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Mas Deus é meu ajudador;\nEle sustenta minha vida.\nSim, é\\_o Senhor quem me sustenta.\n<sup>5</sup> Ele\\_há, pois, de retribuir\nO mal que faz meu opressor.\nSim, ele\\_há de retribuir-lhe.\nÓ Deus, por tua fieldade,\nDá cabo de meu opressor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-054-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Oferecer-te-ei, Senhor,\nMeus sacrifícios voluntários.\nEu vou louvar teu nome, Senhor,\nSim, louvarei porque é bom.\n<sup>7</sup> Das opressões Deus me livrou:\nDe todas elas me livrou Deus.\nE,\\_assim, os olhos meus se enchem\nCom a ruína do\\_opressor.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

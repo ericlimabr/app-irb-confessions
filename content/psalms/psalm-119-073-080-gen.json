@@ -1,0 +1,48 @@
+{
+  "id": "psalm-119-073-080-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.73-80",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-073-080",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 208,
+  "units": [
+    {
+      "id": "psalm-119-073-080-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>73</sup> Eu fui criado pelas tuas mãos\nOh! Me ensina para que\\_eu aprenda\nOs mandamentos teus, ó meu Senhor.\n<sup>74</sup> Quando me viram, muito se\\_alegraram\nOs que\\_ao teu santo nome têm temor,\nPois eu espero na tua palavra.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-073-080-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>75</sup> Bem sei que justos teus juízos são\nE com fidelidade me\\_afligiste.\n<sup>76</sup> Peço que venha, pois, me consolar\nTua bondade, conforme\\_a palavra\nA qual tu deste\\_ao servo teu, Senhor.\n<sup>77</sup> Baixem a mim tuas misericórdias.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-073-080-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Que tua misericórdia baixe\\_a mim,\nPara que\\_eu viva, pois eu me comprazo\nNa tua lei, na tua lei, Senhor.\n<sup>78</sup> Envergonhados sejam os soberbos\nPor me tratarem de modo cruel,\nPorém meditarei em teus preceitos.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-119-073-080-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>79</sup> Aqueles que\\_ao teu nome têm temor\nE\\_os que conhecem os teus testemunhos,\nVoltem-se\\_a mim tais homens, por favor.\n<sup>80</sup> Seja meu coração irrepreensível,\nIrrepreensível nos decretos teus,\nPra que\\_eu não venha\\_a ser envergonhado.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

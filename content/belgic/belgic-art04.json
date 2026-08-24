@@ -1,0 +1,54 @@
+{
+  "id": "belgic-art04",
+  "collection": "belgic",
+  "number": 4,
+  "numberLabel": "Art. 4",
+  "title": "Os livros canônicos",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 4,
+  "units": [
+    {
+      "id": "belgic-art04-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos  que  as  Sagradas  Escrituras  constituem-se  de  duas  partes:  o Velho  e  o  Novo  Testamentos,  que  são  canônicos  e  contra  os  quais nada se pode pretextar. Esta é a relação dos livros reconhecidos pela igreja de Deus:",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "belgic-art04-h1",
+      "kind": "heading",
+      "label": null,
+      "body": "Os livros do Velho Testamento são:",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "belgic-art04-l1",
+      "kind": "article",
+      "label": null,
+      "body": "Cinco livros de Moisés: Gênesis, Êxodo, Levítico, Números e Deuteronômio;\nDoze livros históricos: Josué, Juízes, Rute, I e II Samuel, I e II Reis, I e II Crônicas, Esdras, Neemias, Ester;\nCinco livros poéticos: Jó, Salmos, Provérbios, Eclesiastes e Cântico dos Cânticos;\nQuatro profetas maiores: Isaías, Jeremias (com Lamentações), Ezequiel e Daniel;\nDoze profetas menores: Oséias, Joel, Amós, Obadias, Jonas, Miquéias, Naum, Habacuque, Sofonias, Ageu, Zacarias e Malaquias.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "belgic-art04-h2",
+      "kind": "heading",
+      "label": null,
+      "body": "Os livros do Novo Testamento são:",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "belgic-art04-l2",
+      "kind": "article",
+      "label": null,
+      "body": "Quatro evangelhos: Mateus, Marcos, Lucas e João;\nOs Atos dos Apóstolos;\nAs treze cartas do apóstolo Paulo: Romanos, I e II Coríntios, Gálatas, Efésios, Filipenses, Colossenses, I e II Tessalonicenses, I e II Timóteo, Tito e Filemon;\nA carta aos Hebreus;\nAs outras sete cartas: Tiago, I e II Pedro, I, II e III João e Judas;\nE a revelação do apóstolo João: Apocalipse.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

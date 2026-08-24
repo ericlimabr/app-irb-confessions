@@ -1,0 +1,40 @@
+{
+  "id": "psalm-125-har",
+  "collection": "psalms",
+  "number": 125,
+  "numberLabel": "Salmo 125",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-125",
+  "attrs": {
+    "attribution": "CBS - Madrid"
+  },
+  "sortOrder": 235,
+  "units": [
+    {
+      "id": "psalm-125-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Quem confiar em Deus\nÉ qual monte de Sião,\nQue não se\\_abalará.\nPara sempre firme\\_está.\n<sup>2</sup> Como\\_em redor de ti\nOs montes, ó Sião,\nPra sempre,\\_em derredor\nDo seu povo Deus está.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-125-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> O cetro do\\_homem mau\nNão irá permanecer\nSobre quem justo for,\nSobre\\_a sorte dos fiéis,\nPara que\\_o justo não\nEstenda\\_a sua mão\nA fim de praticar\nA iniquidade,\\_o mal.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-125-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Oh, faze\\_o bem, Senhor,\nA quem anda\\_em retidão.\nAos bons de coração,\nSim, oh, faze\\_o bem, Senhor.\n<sup>5</sup> E quem se desviar\nJavé o levará\nCom o\\_homem malfeitor.\nHaja paz sobre\\_Israel!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-161-168-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.161-168",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-161-168",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 221,
+  "units": [
+    {
+      "id": "psalm-119-161-168-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>161</sup> Sem causa, príncipes perseguem-me,\nMas tua lei meu coração a teme.\n<sup>162</sup> Em tuas promessas, eu me\\_alegrarei\nComo quem encontrou grande despojo.\n<sup>163</sup> E a mentira abominarei,\nPorém amor à tua lei eu tenho.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-161-168-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>164</sup> No dia, sete vezes louvarei\nA ti, Senhor, por teus juízos justos.\n<sup>165</sup> Tem grande paz quem ama tua lei,\nPorque tropeço não existe\\_a eles.\n<sup>166</sup> Senhor, espero\\_em tua salvação\nE também cumpro os teus mandamentos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-161-168-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>167</sup> Minha\\_alma tem guardado\\_a tua lei,\nA qual, ardentemente,\\_ó Deus, eu amo.\n<sup>168</sup> Tenho guardado os preceitos teus.\nTenho\\_observado, sim, teus testemunhos,\nPois todos os caminhos meus estão,\nEstão diante da tua presença.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

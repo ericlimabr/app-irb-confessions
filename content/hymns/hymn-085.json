@@ -1,0 +1,41 @@
+{
+  "id": "hymn-085",
+  "collection": "hymns",
+  "number": 85,
+  "numberLabel": "Hino 85",
+  "title": "SUBINDO AOS CÉUS, DISSESTE",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: ASCENSÃO",
+    "author": "Rodolpho F. Hasse"
+  },
+  "sortOrder": 85,
+  "units": [
+    {
+      "id": "hymn-085-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Subindo aos céus, disseste:\nNão vos esquecerei;\nIrei ao Pai Celeste,\nMas não vos deixarei.\nLugares vou dispor\nE, lá dos céus, mandar\nVeraz Consolador.\nConvosco irei ficar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-085-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Ó Salvador querido,\nNos deste terno adeus,\nHavendo ao Pai subido;\nMas voltarás dos céus\nE, em glória e resplendor,\nO mundo julgarás\nCom todo o teu rigor.\nAos fiéis acolherás.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-085-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Radiantes de alegria,\nIremos receber\nA Cristo, neste dia,\nSem nada mais temer.\nVirá nos libertar\nDa luta terreal\nE seu repouso dar\nNa glória perenal.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

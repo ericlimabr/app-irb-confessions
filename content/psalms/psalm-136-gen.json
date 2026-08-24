@@ -1,0 +1,208 @@
+{
+  "id": "psalm-136-gen",
+  "collection": "psalms",
+  "number": 136,
+  "numberLabel": "Salmo 136",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-136",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 256,
+  "units": [
+    {
+      "id": "psalm-136-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Rendei graças ao Senhor.\nGraças dai, porque\\_Ele\\_é bom,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-136-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Rendei graças, pois, a Deus:\nDentre\\_os deuses o maior,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-136-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Rendei graças ao Senhor:\nDos senhores maioral,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-136-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>4</sup> Maravilhas Ele faz;\nÉ só Ele quem as faz.\nSim, a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-136-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>5</sup> Ele\\_os vastos céus criou;\nCom entendimento,\\_o fez.\nSim, a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-136-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>6</sup> Ele\\_a terra estendeu;\nSobre\\_as águas, estendeu.\nSim, a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-136-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>7</sup> Grandes luminares fez;\nOs luzeiros, sim, criou.\nOra, sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-136-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>8</sup> E também o sol criou\nPara\\_o dia presidir.\nSim, a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-136-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>9</sup> Lua,\\_estrelas fez também,\nPresidindo\\_a noite,\\_assim.\nOra, sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-136-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>10</sup> O Egito Deus feriu;\nSeus herdeiros destruiu,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-136-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>11</sup> O seu povo de\\_Israel\nRetirou do meio,\\_ali,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-136-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>12</sup> Com sua mão que tem poder,\nE seu braço\\_a estender,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-136-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>13</sup> Separou o mar em dois:\nMar Vermelho repartiu,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-136-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>14</sup> E, em meio\\_àquele mar,\nFez passar a Israel,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-136-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>15</sup> Militares, Faraó\nDeus jogou naquele mar,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-136-gen-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "<sup>16</sup> No deserto, o Senhor\nO seu povo conduziu,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "psalm-136-gen-v17",
+      "kind": "verse",
+      "label": "17",
+      "body": "<sup>17-18</sup> Deus feriu a grandes reis\nE famosos reis matou,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 17
+    },
+    {
+      "id": "psalm-136-gen-v18",
+      "kind": "verse",
+      "label": "18",
+      "body": "<sup>19-20</sup> A Seom, dos amorreus,\nE a Ogue, de Basã,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 18
+    },
+    {
+      "id": "psalm-136-gen-v19",
+      "kind": "verse",
+      "label": "19",
+      "body": "<sup>21</sup> Suas terras concedeu,\nPor herança Ele\\_as deu,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 19
+    },
+    {
+      "id": "psalm-136-gen-v20",
+      "kind": "verse",
+      "label": "20",
+      "body": "<sup>22</sup> Por herança Ele\\_as deu\nAo seu servo Israel,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 20
+    },
+    {
+      "id": "psalm-136-gen-v21",
+      "kind": "verse",
+      "label": "21",
+      "body": "<sup>23</sup> Louvai quem lembrou de nós\nEm nossa tribulação,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 21
+    },
+    {
+      "id": "psalm-136-gen-v22",
+      "kind": "verse",
+      "label": "22",
+      "body": "<sup>24</sup> E também nos libertou\nDa nossa oposição,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 22
+    },
+    {
+      "id": "psalm-136-gen-v23",
+      "kind": "verse",
+      "label": "23",
+      "body": "<sup>25</sup> Alimento\\_a todos dá,\nDá a toda carne\\_aqui,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 23
+    },
+    {
+      "id": "psalm-136-gen-v24",
+      "kind": "verse",
+      "label": "24",
+      "body": "<sup>26</sup> Oh! Rendei adoração\nAo Deus que governa\\_os céus,\nPois a sua compaixão,\nPara sempre, durará.",
+      "attrs": {},
+      "sortOrder": 24
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "psalm-078-har",
+  "collection": "psalms",
+  "number": 78,
+  "numberLabel": "Salmo 78",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-078",
+  "attrs": {
+    "attribution": "CBS - Hartford"
+  },
+  "sortOrder": 127,
+  "units": [
+    {
+      "id": "psalm-078-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> À minha lei, meu povo, escutai, prestai ouvidos.\nÀs palavras que\\_eu pronunciar prestai bem atenção.\n<sup>2</sup> Meus lábios, bem abertos, em parábolas antigas,\nDos tempos idos contarei, enigmas narrarei.\n<sup>3</sup> Aquilo que\\_aprendemos e\\_os pais nos contaram\n<sup>4</sup> Oculto\\_aos seus filhos não podemos deixar.\nE\\_à geração vindoura narrar as maravilhas,\nLouvores do nosso Deus e\\_o seu grande poder.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-078-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Instituiu preceitos; em Jacó, um testemunho.\nEstabeleceu a sua lei no meio de\\_Israel.\nE\\_aos nossos pais deu ordens que aos filhos transmitissem,\n<sup>6</sup> E\\_a nova geração a Deus pudesse conhecer,\nE\\_os filhos que ainda hão de vir ao mundo\nTambém referissem aos descendentes seus,\n<sup>7</sup> A fim de que pusessem em Deus a confiança\nE não se\\_esquecessem mais dos feitos do Senhor;",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-078-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Que\\_a lei observassem <sup>8</sup> e seus pais não imitassem;\nGeração rebelde, corações instáveis, infiéis.\n<sup>9</sup> De Efraim os filhos, mesmo\\_armados de\\_arco\\_e flecha,\nFugiram do combate\\_<sup>10</sup> e\\_o pacto não guardaram mais.\nNa lei não mais andaram, <sup>11</sup> de Deus se\\_esqueceram,\nDas obras gloriosas que muito lhes mostrou.\n<sup>12</sup> Prodígios fez aos pais lá na terra do Egito,\nNa sua presença,\\_então, no campo de Zoã.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-078-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>13</sup> O mar foi dividido, e os fez seguir avante;\nAprumou as águas como\\_um dique\\_<sup>14</sup> e\\_os conduziu, então:\nDe dia, com\\_uma nuvem; com clarão de fogo,\\_à noite.\n<sup>15</sup> E, no deserto, fendeu rochas e\\_os dessedentou.\nO povo, então, bebeu de um modo\\_abundante.\nTal qual de abismos, <sup>16</sup> da pedra fez brotar\nTorrentes fez manar, muitas águas como rios,\n<sup>17</sup> Porém inda prosseguiram em se rebelar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-078-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "E contra\\_o Deus Sublime, no deserto, pois, pecaram.\n<sup>18</sup> No seu coração, tentaram Deus, pedindo pelo pão\nQue fosse do seu gosto <sup>19</sup> e, assim, falaram dele.\nFalaram contra Deus, dizendo: pode acaso Deus\nA nós nesse deserto\\_uma mesa prover-nos?\n<sup>20</sup> Manaram as águas quando\\_a rocha feriu.\nCaudais, sim, transbordaram; mas pão poderá dar-nos?\nOu carne\\_ao seu povo poderá Deus fornecer?",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-078-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>21</sup> Ouvindo tudo isso, Deus ficou indignado;\nE de Deus o fogo se\\_acendeu, então, contra Jacó.\nTambém a sua ira levantou-se contra\\_o povo,\n<sup>22</sup> Porque não creram no Senhor e\\_em sua salvação.\n<sup>23</sup> Mas Ele\\_aos céus deu ordens; e\\_as portas se\\_abriram;\n<sup>24</sup> Choveu sobre eles maná e cereal.\n<sup>25</sup> E cada qual comeu, sim, comeu o pão dos anjos,\nPorque Deus lhes enviou comidas a fartar.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-078-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>26</sup> Do sul, do oriente, com poder, soprou um vento.\n<sup>27</sup> Sobre\\_o povo Deus, sim, qual poeira, carne fez chover.\nDos mares, como areia, fez voláteis vir a eles,\n<sup>28</sup> Caindo sobre\\_o arraial, das tendas ao redor.\n<sup>29</sup> Então, comeram muito, fartaram-se todos;\nE\\_o que desejavam Deus, pois, lhes atendeu.\n<sup>30</sup> Porém, o apetite eles não reprimiram;\nNa boca estava\\_ainda\\_o alimento seu.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-078-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>31</sup> E Deus, ardendo\\_em ira, contra Israel, seu povo,\nSobre\\_os fortes semeou a morte\\_e\\_os jovens Deus prostrou.\n<sup>32</sup> Mas, mesmo assim, o povo prosseguiu no seu pecado;\nNas suas maravilhas todas preferiu não crer.\n<sup>33</sup> Por isso, que Deus fez que seus dias se fossem\nQual sopro;\\_e\\_os seus anos, em súbito terror.\n<sup>34</sup> E, quando Deus a morte mandava contra eles,\nEntão, sob contrição, buscavam ao Senhor.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-078-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>35</sup> Lembravam-se de que Deus era sempre\\_a sua Rocha;\nE\\_o Deus Altíssimo,\\_o Senhor, era seu Redentor.\n<sup>36</sup> Lhe\\_elogiavam muito, mas somente com a boca,\nPorém, com\\_a língua,\\_o povo,\\_então, mentia para Deus,\n<sup>37</sup> Porque o coração deles não era firme;\nNão tinham firmeza diante do Senhor.\nE\\_a sua aliança o povo não honrava;\nE contra\\_o concerto\\_eterno foram infiéis.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-078-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>38</sup> Mas Deus, porém, que\\_é sempre cheio de misericórdia,\nSempre compassivo, não destrói, desvia\\_o seu furor,\nPerdoa a iniquidade, não dá largas à sua\\_ira,\nReprime sua\\_indignação, sua ira Deus contém;\n<sup>39</sup> Pois lembra-se que\\_o povo é feito de carne,\nQual vento que passa sem nunca mais voltar.\n<sup>40</sup> Por muitas vezes, foram rebeldes no deserto;\nNo ermo, provocações lançaram contra Deus.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-078-har-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>41</sup> De novo, agravaram; ao Deus de\\_Israel tentaram.\n<sup>42</sup> Não lembraram mais do seu poder nem que lhes resgatou\nDas mãos do adversário <sup>43</sup> e de como, no Egito,\nProdígios Deus realizou no campo de Zoã;\n<sup>44</sup> E,\\_então, aos rios deles converteu em sangue\nE,\\_assim, das correntes não pudessem beber;\n<sup>45</sup> De moscas aos enxames mandou que devorassem;\nE rãs, pois, Deus enviou para lhes destruir.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-078-har-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>46</sup> E Deus suas colheitas entregou aos gafanhotos\nE do seu trabalho\\_a produção às larvas destinou.\n<sup>47</sup> E destruiu suas vinhas com as chuvas de granizo;\nSuas figueiras com geadas Deus lhes devastou.\n<sup>48</sup> O gado\\_e\\_os seus rebanhos entregou aos raios;\n<sup>49</sup> Lançou contra eles sua ira, com furor,\nIndignação, ruína e cólera divina,\nE\\_os anjos em legião com males a cumprir.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-078-har-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>50</sup> Deu livre curso\\_à ira, não poupou ninguém da morte,\nMas à pestilência Deus a todos eles entregou.\n<sup>51</sup> Feriu de morte\\_os filhos, primogênitos do Egito;\nDe Cam, nas tendas, as primícias do poder viril.\n<sup>52</sup> Seu povo, como\\_ovelhas, Deus fez que saísse\nE, como\\_um rebanho, no ermo Deus guiou.\n<sup>53</sup> Levou-o\\_em segurança e, sem temor, seguiram,\nAo passo que\\_ao inimigo\\_o mar o submergiu.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-078-har-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>54</sup> E,\\_então, levou o povo para sua terra santa\nE até ao monte que\\_o Senhor com a destra\\_adquiriu.\n<sup>55</sup> Nações que lá estavam expulsou e suas terras\nCom eles repartiu e,\\_ali, as tribos fez herdar.\n<sup>56</sup> Ainda\\_assim, tentaram a Deus, o Supremo\nE lhe resistiram, quebrando\\_a sua lei.\n<sup>57</sup> Atrás voltaram como seus pais, aleivosos.\nFugiram, pois, do Senhor qual arco\\_enganador.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-078-har-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>58</sup> Com\\_os altos provocaram e a Deus o incitaram.\nCom imagens de\\_escultura, pois, seu zelo despertou.\n<sup>59</sup> E Deus, ouvindo isso, ficou muito indignado.\nE sobremodo\\_aborreceu seu povo, Israel.\n<sup>60</sup> Abandonou Siló com o seu tabernáculo\nE\\_a tenda na qual entre\\_os homens habitou.\n<sup>61</sup> E\\_a arca da sua força passou ao cativeiro\nSua glória Deus transferiu à mão do opressor.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-078-har-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "<sup>62</sup> Deus entregou, com ira, o seu povo à espada.\nContra\\_a sua própria\\_herança Ele se\\_encolerizou.\n<sup>63</sup> Seus jovens foram todos devorados pelo fogo\nE\\_as virgens deles não tiveram canto nupcial.\n<sup>64</sup> Caíram à espada os seus sacerdotes;\nE\\_as suas viúvas nenhuma lamentou.\n<sup>65</sup> E Deus se despertou, como\\_estando em um sono,\nTal forte que se\\_exaltou após vinho beber.",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "psalm-078-har-v17",
+      "kind": "verse",
+      "label": "17",
+      "body": "<sup>66</sup> Fez recuar a golpes adversários do seu povo\nE desprezo permanente\\_a eles Deus lhes cominou.\n<sup>67</sup> Também Deus rejeitou, pois, de José a sua tenda\nE\\_ainda mais não elegeu a tribo de\\_Efraim.\n<sup>68</sup> Mas, antes, escolheu de Judá sua tribo\nE\\_o monte Sião, pois, que tanto Ele\\_amou.\n<sup>69</sup> E fez o santuário tal como\\_os céus durável\nE firme qual terra que, para sempre, fundou.",
+      "attrs": {},
+      "sortOrder": 17
+    },
+    {
+      "id": "psalm-078-har-v18",
+      "kind": "verse",
+      "label": "18",
+      "body": "<sup>70</sup> Também Davi, seu servo, que por Deus foi escolhido,\nFoi tomado, pois, dentre\\_as ovelhas e dos seus redis.\n<sup>71</sup> Tirou-o do cuidado das ovelhas e das crias,\nPara pastorear Jacó, o povo de Israel,\nSeu povo, sua\\_herança. <sup>72</sup> Com integridade\nDo seu coração, ele,\\_então, apascentou,\nSeu povo, sua\\_herança, consoante\\_integridade.\nCom mãos precavidas, pois, então, os dirigiu.",
+      "attrs": {},
+      "sortOrder": 18
+    }
+  ]
+}

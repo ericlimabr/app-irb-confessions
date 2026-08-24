@@ -1,0 +1,86 @@
+{
+  "id": "heidelberg-ld28",
+  "collection": "heidelberg",
+  "number": 28,
+  "numberLabel": "Domingo 28",
+  "title": null,
+  "subtitle": "A Santa Ceia",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 28,
+  "units": [
+    {
+      "id": "heidelberg-q075-q",
+      "kind": "question",
+      "label": "P. 75",
+      "body": "Como a santa ceia lhe faz saber e lhe assegura que você tem parte no único sacrifício de Cristo na cruz e de todos os Seus dons?",
+      "attrs": {
+        "questionNumber": 75
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q075-a",
+      "kind": "answer",
+      "label": "R. 75",
+      "body": "Do seguinte modo:\n\nCristo ordenou a mim e a todos os crentes que em Sua memória comêssemos desse pão partido e bebêssemos desse cálice.\n\nJuntamente com esse mandamento Ele deu essas promessas:\n\n_Primeira_: tão certo como vejo com os meus olhos o pão do Senhor partido por mim e o Seu cálice dado a mim, assim também foi o Seu corpo ofertado por mim e o Seu sangue derramado por mim na cruz.\n\n_Segunda_: tão certamente quanto recebo das mãos do ministro e provo com a minha boca o pão e o cálice do Senhor como sinais seguros do corpo  e  do  sangue  de  Cristo,  assim  também  Ele  mesmo,  com  o  Seu corpo crucificado e o Seu sangue derramado, alimenta e nutre a minha alma para a vida eterna.",
+      "attrs": {
+        "questionNumber": 75,
+        "refs": [
+          "Mt 26.26-28; Mc 14.22-24; Lc 22.19, 20; 1Co 11.23-25."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q076-q",
+      "kind": "question",
+      "label": "P. 76",
+      "body": "O que significa comer o corpo crucificado de Cristo e beber o Seu sangue derramado?",
+      "attrs": {
+        "questionNumber": 76
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q076-a",
+      "kind": "answer",
+      "label": "R. 76",
+      "body": "_Primeiro_:  aceitar  de  todo  coração  todo  o  sofrimento  e  morte  de Cristo, e assim receber o perdão dos pecados e a vida eterna.\n\n_Segundo_: ser unido cada vez mais ao santo corpo de Cristo pelo Espírito Santo que vive tanto nEle quanto em nós.\n\nPortanto, embora Cristo esteja no céu e  nós estejamos na terra, somos carne da Sua carne e osso dos Seus ossos e vivemos eternamente e somos governados por um único Espírito, assim como os membros do nosso corpo o são por uma única alma.",
+      "attrs": {
+        "questionNumber": 76,
+        "refs": [
+          "Jo 6.35, 40, 50-54.",
+          "Jo 6.55, 56; 1Co 12.13.",
+          "At 1.9-11; 3.21; 1Co 11.26; Cl 3.1.",
+          "1Co 6.15, 17; Ef 5.29, 30; 1Jo 4.13.",
+          "Jo 6.56-58; 15.1-6; Ef 4.15, 16; 1Jo 3.24."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q077-q",
+      "kind": "question",
+      "label": "P. 77",
+      "body": "Onde foi que Cristo prometeu que Ele quer alimentar e refrigerar os crentes com o Seu corpo e sangue tão certamente quanto eles comem desse pão partido e bebem desse cálice?",
+      "attrs": {
+        "questionNumber": 77
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q077-a",
+      "kind": "answer",
+      "label": "R. 77",
+      "body": "Na instituição da Ceia do Senhor:\n\n_\"O Senhor Jesus, na noite em que foi traído, tomou o pão; e, tendo dado graças, o partiu e disse: Isto é o meu corpo, que é dado por vós; fazei isto em memória de mim. Por semelhante modo, depois de haver ceado, tomou também o cálice, dizendo: Este cálice é a nova aliança no meu sangue; fazei isto, todas as vezes que o beberdes, em memória de mim. Porque, todas as vezes que comerdes este pão e beberdes o cálice, anunciais a morte do Senhor, até que ele venha\"_ (1Co 11.23-26).\n\nPaulo repete essa promessa onde diz:\n\n_\"Porventura, o cálice da bênção que abençoamos não é a comunhão do sangue de Cristo?  O  pão  que  partimos  não  é  a  comunhão  do  corpo  de Cristo?  Porque  nós,  embora  muitos,  somos  unicamente  um  pão,  um  só corpo; porque todos participamos do único pão\"_ (1Co 10.16, 17).",
+      "attrs": {
+        "questionNumber": 77
+      },
+      "sortOrder": 6
+    }
+  ]
+}

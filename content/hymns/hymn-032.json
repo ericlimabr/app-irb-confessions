@@ -1,0 +1,57 @@
+{
+  "id": "hymn-032",
+  "collection": "hymns",
+  "number": 32,
+  "numberLabel": "Hino 32",
+  "title": "Ó DEUS, ETERNO PROTETOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Isaac Watts / Leonido Krey"
+  },
+  "sortOrder": 32,
+  "units": [
+    {
+      "id": "hymn-032-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Ó Deus, eterno protetor,\nAjudador fiel,\nÉs nosso amparo em toda a dor,\nSocorro de Israel!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-032-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Sob tua forte proteção,\nAndaram sempre os fiéis,\nGuiados só por tua mão,\nPotente Rei dos Reis.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-032-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "És desde o início, eterno Deus,\nTeus anos não têm fim.\nCriaste tudo, terra e céus,\nE deste a vida a mim.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-032-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Mil anos são aos olhos teus\nQual noite que findou,\nE a vida humana, grande Deus,\nQual sombra que passou.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-032-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Ó Deus, eterno protetor,\nAjudador fiel,\nSê nosso amparo em toda a dor,\nSocorro de Israel!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

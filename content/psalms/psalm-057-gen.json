@@ -1,0 +1,64 @@
+{
+  "id": "psalm-057-gen",
+  "collection": "psalms",
+  "number": 57,
+  "numberLabel": "Salmo 57",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-057",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 96,
+  "units": [
+    {
+      "id": "psalm-057-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Tem misericórdia de mim, ó Deus!\nMisericórdia tem de mim, ó Deus!\nOh! Eis que\\_em ti minha\\_alma se abriga;\nRefúgio\\_à sombra de tuas asas tem,\nAté que passem as calamidades.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-057-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Eu clamarei ao Deus Altíssimo,\nAo Deus que executa tudo\\_a mim.\n<sup>3</sup> Do céu, me\\_envia livramento,\\_auxílio\nE de vergonha cobre\\_o opressor.\nBem fielmente, traz misericórdia:",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-057-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> “Minha\\_alma\\_está em meio aos leões;\nQuerem os homens todos devorar.\nQual flecha,\\_os dentes; qual espada\\_a língua.”\n<sup>5</sup> Sê exaltado, Deus, por sobre\\_o céu!\nEm toda\\_a terra, brilhe\\_a tua glória!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-057-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> “Armaram rede para\\_os passos meus;\nA minha alma\\_está por se\\_abater;\nFizeram minha cova, mas caíram.”\n<sup>7</sup> Meu coração, ó Deus, bem firme\\_está.\nEu cantarei, entoarei louvores!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-057-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> “Ó minha alma, vem, pois, despertar!\nLira e harpa, vinde despertar!\nQuero\\_acordar até a própria alva.”\n<sup>9</sup> Render-te-ei, em meio às nações,\nAções de graça\\_e canto de louvores.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-057-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Ó Deus, a tua grande compaixão\nMesmo\\_ao mais alto céu pode chegar.\nTua fidelidade,\\_até as nuvens.\n<sup>11</sup> Sê exaltado, Deus, por sobre\\_os céus.\nEm toda\\_a terra,\\_esplenda tua glória.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

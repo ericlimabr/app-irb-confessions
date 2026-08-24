@@ -1,0 +1,59 @@
+{
+  "id": "hymn-040",
+  "collection": "hymns",
+  "number": 40,
+  "numberLabel": "Hino 40",
+  "title": "JESUS, SENHOR, ME ACHEGO A TI",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LEI, CONFISSÃO E PERDÃO",
+    "author": "Eliza Helen Hamilton / Joseph Jones"
+  },
+  "sortOrder": 40,
+  "units": [
+    {
+      "id": "hymn-040-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Jesus, Senhor, me achego a ti,\nTua ira santa mereci;\nO teu favor me estende aqui!\nAceita um pecador!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-040-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Eu venho como estou!\nSim, venho como estou!\nPorque Jesus por mim morreu,\nEu venho como estou!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-040-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "As minhas culpas grandes são,\nMas tu, que não morreste em vão,\nMe podes conceder perdão!\nAceita um pecador!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-040-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Oh! Vem agora, Salvador,\nLivrar-me por teu grande amor,\nPois tu, Jesus, és meu Senhor;\nAceita um pecador!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-040-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 5
+    }
+  ]
+}

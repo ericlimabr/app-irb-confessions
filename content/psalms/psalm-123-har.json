@@ -1,0 +1,32 @@
+{
+  "id": "psalm-123-har",
+  "collection": "psalms",
+  "number": 123,
+  "numberLabel": "Salmo 123",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-123",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 231,
+  "units": [
+    {
+      "id": "psalm-123-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A ti que\\_habitas nos mais altos céus,\nLevanto\\_os olhos meus.\n<sup>2</sup> O servo vê se\\_as mãos dos seus senhores\nConcedem-lhe favores.\nA serva fita\\_a face da senhora,\nBondade\\_a ela\\_implora.\nAssim olhamos nosso Deus, pra que\nA nós tenha mercê.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-123-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3-4</sup> Clemência\\_a ti pedimos, ó Senhor,\nE ao desdém se\\_opor.\nRevolta-nos desprezo\\_os abastados,\nDo\\_orgulho saturados.\nE, fartos do escárnio do altivo,\nFicamos fugitivos\nSomente a ti, ó Deus; a\\_humilhação\nRemova\\_a tua mão.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

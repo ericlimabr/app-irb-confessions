@@ -1,0 +1,56 @@
+{
+  "id": "psalm-019-gen",
+  "collection": "psalms",
+  "number": 19,
+  "numberLabel": "Salmo 19",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-019",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 35,
+  "units": [
+    {
+      "id": "psalm-019-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Os céus proclamam bem\nA glória do Senhor;\nE\\_o firmamento diz\nDas obras das suas mãos.\n<sup>2</sup> Discurso\\_e transmissão\nUm dia\\_ao outro faz;\nE\\_a noite\\_à outra, após,\nConhecimento traz\n<sup>3</sup> Sem som e sem palavras.\n<sup>4</sup> Contudo, faz-se\\_ouvir\nA voz e seu falar\nAté\\_os confins do mundo.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-019-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Nos céus, a tenda\\_armou,\nNa qual habita\\_o sol,\n<sup>5</sup> Que, como noivo sai\nDos aposentos seus\nTal como um herói\nQue,\\_em regozijo, vai\nA senda a percorrer.\n<sup>6</sup> De\\_um lado\\_ao outro, vai\nOs céus atravessando.\nEmite tal calor;\nDo seu intenso\\_ardor\nNão há quem se esconda.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-019-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Perfeita\\_é\\_a lei de Deus,\nRestaura\\_o coração.\nSeu testemunho\\_é fiel\nAo simples, sábio faz.\n<sup>8</sup> As prescrições de Deus\nRetas e justas são,\nFolgam o coração.\nSeu mandamento é\nPuro,\\_ilumina os olhos.\n<sup>9</sup> Limpo\\_é\\_o temor de Deus,\nQue permanecerá,\nSim, para todo\\_o sempre.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-019-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Os juízos do Senhor\nTodos verdade são\nE justos por igual.\n<sup>10</sup> Mais desejáveis são\nQue ouro puro e bom,\nMais doces do que\\_o mel\nQue\\_o favo a destilar.\n<sup>11</sup> Eles ao servo teu\nServem de advertência,\nPorque em os guardar,\nSempre\\_a obedecer,\nHá grande recompensa.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-019-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Quem pode discernir\nAs próprias transgressões?\nPerdoa-me, Senhor\nDas que não percebi.\n<sup>13</sup> Também, teu servo,\\_ó Deus,\nGuarda da presunção,\nE livre ficarei\nDe grande transgressão,\nQue\\_ela não me domine.\n<sup>14</sup> Fale\\_e medite eu\nDe modo\\_a te\\_agradar,\nMeu Redentor e Rocha.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

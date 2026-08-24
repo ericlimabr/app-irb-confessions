@@ -1,0 +1,48 @@
+{
+  "id": "psalm-100-gen",
+  "collection": "psalms",
+  "number": 100,
+  "numberLabel": "Salmo 100",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-100",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 163,
+  "units": [
+    {
+      "id": "psalm-100-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Cantai com júbilo\\_ao Senhor.\nTodas as terras, celebrai!\n<sup>2</sup> Alegres, a Javé servi.\nCom canto,\\_a Ele\\_apresentai.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-100-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Sabei que o Senhor é Deus:\nEle\\_é o nosso criador!\nNós somos dele, povo seu:\nRebanho do qual é pastor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-100-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Por suas portas, vinde\\_entrar,\nCom gratidão, nos átrios seus.\nLouvai, dai graças ao Senhor\nE\\_o nome dele bendizei.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-100-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Porque\\_o Senhor é muito bom!\nDura pra sempre tal mercê:\nDe geração em geração,\nFidelidade do Senhor!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

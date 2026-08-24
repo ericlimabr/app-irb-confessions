@@ -1,0 +1,42 @@
+{
+  "id": "heidelberg-ld50",
+  "collection": "heidelberg",
+  "number": 50,
+  "numberLabel": "Domingo 50",
+  "title": null,
+  "subtitle": "A Oração",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 50,
+  "units": [
+    {
+      "id": "heidelberg-q125-q",
+      "kind": "question",
+      "label": "P. 125",
+      "body": "Qual é a quarta petição?",
+      "attrs": {
+        "questionNumber": 125
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q125-a",
+      "kind": "answer",
+      "label": "R. 125",
+      "body": "_\"O pão nosso de cada dia dá-nos hoje\"_.\n\nIsto é:\n\nQue supras todas as nossas necessidades físicas para que reconheçamos que Tu és a única fonte de todo o bem, e que - sem a Tua bênção - nem o nosso cuidado, nem o nosso labor nem mesmo os Teus dons, podem nos fazer bem algum.\n\nE, portanto, que não depositemos a nossa confiança em nenhuma criatura, mas somente em Ti.",
+      "attrs": {
+        "questionNumber": 125,
+        "refs": [
+          "Sl 104.27-30; 145.15, 16; Mt 6.25-34.",
+          "At 14.17; 17.25; Tg 1.17.",
+          "Dt 8.3; Sl 37.16; 127.1, 2; 1Co 15.58.",
+          "Sl 55.22; 62; 146; Jr 17.5-8; Hb 13.5, 6."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

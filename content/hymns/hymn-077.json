@@ -1,0 +1,49 @@
+{
+  "id": "hymn-077",
+  "collection": "hymns",
+  "number": 77,
+  "numberLabel": "Hino 77",
+  "title": "SEJA BENDITO O CORDEIRO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: MORTE",
+    "author": "Eden Reeder Latta / Henry Maxwell Wright"
+  },
+  "sortOrder": 77,
+  "units": [
+    {
+      "id": "hymn-077-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Seja bendito o Cordeiro\nQue na cruz por nós padeceu;\nSeja bendito o seu sangue\nQue por nossos pecados verteu.\nEis que no sangue lavados,\nNo seu poder e perdão,\nOs pecadores remidos\nPor Jesus têm com Deus comunhão.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-077-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Alvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse sangue lavado:\nMais alvo que a neve serei.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-077-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Quão espinhosa a coroa\nQue Jesus por nós suportou!\nOh! Quão profundas as chagas\nQue nos provam o quanto Ele amou!\nEis nessas chagas pureza\nPara o maior pecador,\nA quem mais alvo que a neve\nO teu sangue transforma, Senhor!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-077-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Se nós a ti confessarmos\nE seguirmos na tua luz,\nTu não somente perdoas:\nPurificas também, ó Jesus.\nLavas de todo pecado!\nQue maravilha de amor!\nPois que mais alvos que a neve\nO teu sangue nos torna, Senhor!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

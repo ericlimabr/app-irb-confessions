@@ -1,0 +1,24 @@
+{
+  "id": "psalm-117-har",
+  "collection": "psalms",
+  "number": 117,
+  "numberLabel": "Salmo 117",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-117",
+  "attrs": {
+    "attribution": "CBS - Lasst uns erfreuen"
+  },
+  "sortOrder": 194,
+  "units": [
+    {
+      "id": "psalm-117-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ao Senhor Deus rendei louvor!\nTodos os povos, adorai!\nDai louvores, ó gentios!\n<sup>2</sup> Porque mui grande\\_é\\_o seu favor,\nSua misericórdia\\_em nós.\nDo Senhor fidelidade,\nPara sempre, permanece! Aleluia!",
+      "attrs": {},
+      "sortOrder": 1
+    }
+  ]
+}

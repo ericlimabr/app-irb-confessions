@@ -1,0 +1,41 @@
+{
+  "id": "hymn-046",
+  "collection": "hymns",
+  "number": 46,
+  "numberLabel": "Hino 46",
+  "title": "VEM, Ó PAI, DEUS FORTE, ETERNO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ORAÇÃO E SÚPLICA",
+    "author": "Manoel B. Silvestre"
+  },
+  "sortOrder": 46,
+  "units": [
+    {
+      "id": "hymn-046-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Vem, ó Pai, Deus forte, Eterno,\nCom tua graça divinal,\nE com teu amor superno,\nVem, desvia-nos do mal!\nPois sem ti a vida é falha,\nSomos pobres, sem valor!\nOh! Ajuda na batalha\nContra o forte tentador!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-046-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Vem Jesus, ó vero amigo,\nDo Deus Pai revelador,\nPois tu és supremo abrigo\nDo perdido pecador!\nGlória a ti nós tributamos,\nÓ Deus Filho e Salvador!\nTua graça te imploramos,\nManancial de amor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-046-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Vem, Espírito bendito,\nNossa mente iluminar!\nVem ao coração aflito\nSuas dores minorar!\nVem, Consolador amado,\nNossa fé fortalecer\nE, nas lutas do pecado,\nAjudar-nos a vencer!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

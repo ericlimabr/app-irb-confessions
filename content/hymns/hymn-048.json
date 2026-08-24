@@ -1,0 +1,41 @@
+{
+  "id": "hymn-048",
+  "collection": "hymns",
+  "number": 48,
+  "numberLabel": "Hino 48",
+  "title": "Ó SENHOR QUE A TUDO EXCEDES",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ORAÇÃO E SÚPLICA",
+    "author": "Charles Wesley / Antônio de Campos Gonçalves"
+  },
+  "sortOrder": 48,
+  "units": [
+    {
+      "id": "hymn-048-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Ó Senhor, que a tudo excedes,\nDom celeste, amor sem par,\nOh, coroa de favores\nNosso frágil caminhar.\nGrande amor, amor bendito,\nÓ divina compaixão,\nVem socorre ao que padece,\nFaze nele habitação.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-048-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Ó Senhor, a cada dia\nDá-nos tua inspiração!\nVem, remove o mau desejo\nQue nos tenta o coração.\nTu, somente, nos conheces\nE nos podes proteger.\nDá-nos, pois, a tua graça,\nE com ela o teu poder.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-048-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Ó Senhor, não te separes\nDo rebanho terrenal!\nUne a igreja, estreitamente,\nDá-lhe vida fraternal.\nAbençoa todo crente,\nIlumina-lhe o andar,\nE que todos se comprazam\nEm teu nome proclamar.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

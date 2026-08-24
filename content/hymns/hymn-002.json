@@ -1,0 +1,34 @@
+{
+  "id": "hymn-002",
+  "collection": "hymns",
+  "number": 2,
+  "numberLabel": "Hino 2",
+  "title": "O CÂNTICO DE SIMEÃO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CÂNTICOS DE TEXTOS BÍBLICOS",
+    "bibleRef": "Lucas 2.29-32",
+    "author": "Vítor Olivier"
+  },
+  "sortOrder": 2,
+  "units": [
+    {
+      "id": "hymn-002-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>29</sup> Em paz, Senhor, Deus meu,\nDespede o servo teu\nConforme a tua palavra,\n<sup>30</sup> Pois vi a salvação\nQue preparaste, ó Deus,\nPerante os povos todos.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-002-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>31</sup> A tua salvação,\nQue deste às nações,\nÉ Cristo revelado.\n<sup>32</sup> É luz para os gentios\nE a glória de Israel,\nA glória do teu povo.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

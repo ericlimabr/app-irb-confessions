@@ -1,0 +1,72 @@
+{
+  "id": "psalm-147-har",
+  "collection": "psalms",
+  "number": 147,
+  "numberLabel": "Salmo 147",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-147",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 277,
+  "units": [
+    {
+      "id": "psalm-147-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Louvor a Deus, linda\\_é a vida.\nA Deus a glória é devida.\nDoce\\_e direito é que, sempre,\nUm canto\\_ao nosso Deus nos lembre.\n<sup>2</sup> Constrói cidade escolhida;\nDo exílio\\_o povo tão perdido\n<sup>3</sup> Reúne\\_e\\_as mágoas deles cura;\nNo coração, nem dor perdura.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-147-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Ele\\_enumera as estrelas;\nDe nome chama todas elas.\n<sup>5</sup> Grande\\_é\\_o Senhor; é poderoso;\nNão há limite\\_ao Majestoso.\n<sup>6</sup> Pois aos humildes Ele\\_ampara,\nOs suprimentos lhes prepara.\nRebaixa\\_os ímpios para\\_a terra,\nQue, orgulhosos, lá prosperam.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-147-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Ao nosso Deus um hino cante\nE\\_o som da cítara levante,\nAo nosso Deus, <sup>8</sup> que,\\_em majestade,\nOs céus com nuvens os invade.\nA terra com a chuva rega;\nNos montes, faz brotar a relva.\n<sup>9</sup> Aos animais lhes dá comida;\nE\\_aos corvos lhes garante\\_a vida.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-147-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Veloz cavalo não lhe\\_agrada;\nGuerreiro forte não lhe\\_é nada.\nA altivez dos bem armados\nNão é jamais do seu agrado.\n<sup>11</sup> Sua compaixão é tão somente\nPara\\_os humildes, seus tementes.\nSeu coração a Ele deram,\nO seu amor e graça\\_esperam.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-147-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Jerusalém, louve\\_e exalte.\nSião, que honras não lhe faltem.\n<sup>13</sup> Pois reforçou as tuas portas;\nÀs trancas lhes dobrou a força.\nTeus filhos protegidos moram,\nHeroicos jovens te resguardam.\n<sup>14</sup> O pão diário lhes fornece\nE\\_eterna paz lhe\\_estabelece.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-147-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> A terra a palavra ouve,\nSua fala pelo mundo move.\n<sup>16</sup> De neve um pelego forma.\nDe noite, a geada torna;\n<sup>17</sup> À terra seu granizo lança,\nAo frio seu, quem a amansa?\n<sup>18</sup> Sua palavra\\_o vento\\_amorna,\nE\\_o gelo\\_em água se transforma.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-147-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>19</sup> O nosso Deus tem escolhido,\nJacó\\_a palavra entendida.\nA Israel deu mandamentos,\nDireito\\_e sua lei clemente.\n<sup>20</sup> Assim não fez aos outros povos.\nCantemos-lhe um hino novo.\nA força,\\_a honra e a glória\nSejam a\\_Ele, reine\\_em vitória.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "psalm-067-har",
+  "collection": "psalms",
+  "number": 67,
+  "numberLabel": "Salmo 67",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-067",
+  "attrs": {
+    "attribution": "CBS - Missionary hymn"
+  },
+  "sortOrder": 112,
+  "units": [
+    {
+      "id": "psalm-067-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Deus, sê gracioso conosco,\\_abençoando,\nFazendo, pois, teu rosto em nós resplandecer,\n<sup>2</sup> A fim de que, na terra, se saiba\\_o teu caminho;\nE,\\_em todas as nações, a tua salvação.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-067-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Que\\_os povos todos louvem a ti, os povos todos.\n<sup>4</sup> Alegrem-se,\\_exultando, as gentes com louvor;\nPois julgas retamente os povos, com justiça,\nE guias as nações na terra, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-067-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Que\\_os povos todos louvem a ti, os povos todos.\n<sup>6</sup> A terra deu seu fruto; e Deus, o nosso Deus,\nTeu povo abençoa, <sup>7</sup> oh, sim, nos abençoa;\nE todos os confins da terra\\_o temerão.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

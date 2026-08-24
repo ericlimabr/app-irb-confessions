@@ -1,0 +1,64 @@
+{
+  "id": "heidelberg-ld22",
+  "collection": "heidelberg",
+  "number": 22,
+  "numberLabel": "Domingo 22",
+  "title": null,
+  "subtitle": "Deus Espírito Santo e a Nossa Santificação",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 22,
+  "units": [
+    {
+      "id": "heidelberg-q057-q",
+      "kind": "question",
+      "label": "P. 57",
+      "body": "Que consolação lhe traz a \"ressurreição do corpo\"?",
+      "attrs": {
+        "questionNumber": 57
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q057-a",
+      "kind": "answer",
+      "label": "R. 57",
+      "body": "Que depois dessa vida, não apenas a minha alma será levada imediatamente para Cristo, meu Cabeça, mas que também essa minha carne, ressuscitada pelo poder de Cristo, será reunida à minha alma e feita à semelhança do corpo glorioso de Cristo.",
+      "attrs": {
+        "questionNumber": 57,
+        "refs": [
+          "Lc 16.22; 23.43; Fp 1.21-23.",
+          "Jó 19.25, 26; 1Co 15.20, 42-46, 54; Fp 3.21; 1Jo 3.2."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q058-q",
+      "kind": "question",
+      "label": "P. 58",
+      "body": "Que consolação lhe traz o artigo sobre a \"vida eterna\"?",
+      "attrs": {
+        "questionNumber": 58
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q058-a",
+      "kind": "answer",
+      "label": "R. 58",
+      "body": "Já agora sinto em meu coração o princípio do gozo eterno, pois depois dessa vida obterei a perfeita bem-aventurança que o olho jamais viu, nem o ouvido ouviu, nem o coração humano pode conceber. Uma bem-aventurança para se louvar a Deus eternamente.",
+      "attrs": {
+        "questionNumber": 58,
+        "refs": [
+          "Jo 17.3; Rm 14.17; 2Co 5.2, 3.",
+          "Jo 17.24; 1Co 2.9."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

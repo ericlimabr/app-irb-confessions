@@ -1,0 +1,80 @@
+{
+  "id": "psalm-055-gen",
+  "collection": "psalms",
+  "number": 55,
+  "numberLabel": "Salmo 55",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-055",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 93,
+  "units": [
+    {
+      "id": "psalm-055-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus, vem ouvir a minha prece;\nDa minha queixa não te\\_escondas.\n<sup>2</sup> Responde, pois estou perplexo;\nEstou confuso\\_em meu queixar.\n<sup>3</sup> Vil inimigo,\\_a me\\_oprimir,\nFeroz, me faz hostilidades.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-055-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> No peito,\\_o coração me\\_aperta;\nTerror de morte me salteia.\n<sup>5</sup> Oh, sou tomado de horrores.\n<sup>6</sup> “Ah! Se, qual pombo, eu voar,\n<sup>7</sup> Longe,\\_em deserto,\\_eu vou pousar.\n<sup>8</sup> Do vendaval me\\_abrigaria.”",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-055-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>9</sup> Senhor, destrói os maus conselhos!\nHá violência na cidade.\n<sup>10</sup> Por noite\\_e dia, dentro\\_e fora,\nVejo\\_a malícia\\_a rodear.\n<sup>11</sup> Nas suas praças, opressão,\nDestruição e vil engano!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-055-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>12</sup> Se\\_o inimigo me\\_oprimisse,\nSuportaria\\_a sua\\_afronta,\nMas quem me\\_odeia\\_e me confronta\n<sup>13</sup> É meu amigo,\\_homem igual.\n<sup>14</sup> Andamos junto\\_em multidão.\nAté à Casa de Deus fomos!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-055-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>15</sup> Que tenham morte violenta!\nQue, vivos, desçam ao abismo!\nPois há maldade\\_em sua casa;\nSim, é maldoso\\_o coração!\n<sup>16</sup> Invocarei, porém, a Deus.\nÉ o Senhor que\\_irá salvar-me!",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-055-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>17</sup> À tarde\\_e de manhã, eu queixo.\nDeus ouvirá o meu lamento:\n<sup>18</sup> “São tantos os que me perseguem:\nLivra minha\\_alma, dando paz!”\n<sup>19</sup> Deus ouvirá! Responderá!\nÉ Deus eterno\\_e soberano!",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-055-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "No opressor não há mudança;\nNão teme\\_a Deus, <sup>20</sup> a paz despreza,\nQuis violar sua\\_aliança.\n<sup>21</sup> Qual óleo brando\\_é seu falar;\nNo coração, quer guerrear;\nÉ uma\\_espada preparada!",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-055-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>22</sup> Lança\\_ao Senhor o teu cuidado:\nSustenta\\_o justo, sem abalo.\n<sup>23</sup> Porém, ó Deus, à funda cova\nHomens de sangue jogará.\nSeu crime não perdurará!\nMas eu, porém, em ti confio!",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

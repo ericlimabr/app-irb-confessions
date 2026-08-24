@@ -1,0 +1,310 @@
+{
+  "id": "dort-h1",
+  "collection": "dort",
+  "number": 1,
+  "numberLabel": "Capítulo I",
+  "title": "A Eleição e a Reprovação Divinas",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 1,
+  "units": [
+    {
+      "id": "dort-h1-art01",
+      "kind": "article",
+      "label": "Art. 1",
+      "body": "Como todos os homens pecaram em Adão, estão debaixo da maldição e merecem a morte eterna, Deus não teria feito injustiça a ninguém se tivesse resolvido deixar toda a raça humana no pecado e debaixo da maldição, e condená-la por causa do seu pecado, de acordo com estas palavras do apóstolo: _\"para que se cale toda boca, e todo o mundo seja culpável  perante  Deus  …  pois  todos  pecaram  e  carecem  da  glória  de Deus\"_ (Rm 3.19, 23) e _\"o salário do pecado é a morte\"_ (Rm 6.23).",
+      "attrs": {
+        "heading": "Toda a humanidade é condenável diante de Deus",
+        "refs": [
+          "Rm 5.12; Rm 3.19, 23; Rm 6.23."
+        ]
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "dort-h1-art02",
+      "kind": "article",
+      "label": "Art. 2",
+      "body": "Mas nisso se manifestou o amor de Deus, em que Ele enviou ao mundo o Seu Filho Unigênito, _\"para que todo aquele que nEle crê não pereça, mas tenha a vida eterna\"_.",
+      "attrs": {
+        "heading": "O envio do Filho de Deus",
+        "refs": [
+          "1Jo 4.9; Jo 3.16."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "dort-h1-art03",
+      "kind": "article",
+      "label": "Art. 3",
+      "body": "Assim, para que os homens sejam conduzidos à fé, Deus misericordiosamente enviou arautos da mais bem-aventurada mensagem a quem Ele quer e quando Ele quer. Pelo ministério deles os homens são chamados ao arrependimento e à fé no Cristo crucificado. Pois, _\"Como, porém, invocarão Aquele em quem não creram? E como crerão nAquele de quem nada ouviram? E como ouvirão, se não há quem pregue? E como pregarão, se não forem enviados?\"_.",
+      "attrs": {
+        "heading": "A pregação do Evangelho",
+        "refs": [
+          "Is 52.7; 1Co 1.23, 24; Rm 10.14, 15."
+        ]
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "dort-h1-art04",
+      "kind": "article",
+      "label": "Art. 4",
+      "body": "A  ira  de  Deus  permanece  sobre  os  que  não  creem  neste  Evangelho. Mas aqueles que o recebem e abraçam a Jesus o Salvador com uma fé verdadeira e viva são libertados por Ele da ira de Deus e da destruição, e presenteados com a vida eterna.",
+      "attrs": {
+        "heading": "Um duplo resultado",
+        "refs": [
+          "Jo 3.36; Mc 16.16; Rm 10.9."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "dort-h1-art05",
+      "kind": "article",
+      "label": "Art. 5",
+      "body": "A causa ou a culpa dessa incredulidade, assim como a de todos os outros pecados, não está em Deus de modo nenhum, mas antes, no homem. No entanto, a fé em Jesus Cristo e a salvação através dEle é a livre dádiva de Deus, como está escrito: _\"Porque pela graça sois salvos, mediante a fé; e isto não vem de vós; é dom de Deus\"_. Semelhantemente, _\"Porque vos foi concedida a graça … de crerdes nEle\"_.",
+      "attrs": {
+        "heading": "A causa da incredulidade e a fonte da fé",
+        "refs": [
+          "Hb 4.6; Ef 2.8; Fp 1.29."
+        ]
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "dort-h1-art06",
+      "kind": "article",
+      "label": "Art. 6",
+      "body": "Procede do decreto eterno de Deus conceder, no tempo devido, o dom da fé a alguns e não a outros. Pois Ele conhece todas as Suas obras desde a eternidade, e _\"faz todas as coisas conforme o conselho da sua vontade\"_.  De  acordo  com  este  decreto,  Ele  graciosamente  quebranta os corações dos eleitos, por mais duros que sejam, e os inclina a crer; entretanto, segundo o Seu justo juízo, ele deixa os não-eleitos em sua própria malignidade e dureza. E aqui, especialmente, nos é revelada a profunda, misericordiosa e ao mesmo tempo justa distinção entre homens  igualmente  merecedores  de  condenação,  que  é  o  decreto  da eleição e da reprovação, revelado na Palavra de Deus. Embora os homens perversos, impuros e volúveis o distorçam para a própria destruição  deles,  esse  mesmo  decreto  proporciona  consolação  indizível às almas santas e tementes a Deus.",
+      "attrs": {
+        "heading": "O decreto eterno de Deus",
+        "refs": [
+          "At 13.48; 1Pe 2.8; Ef 1.11."
+        ]
+      },
+      "sortOrder": 6
+    },
+    {
+      "id": "dort-h1-art07",
+      "kind": "article",
+      "label": "Art. 7",
+      "body": "A eleição é o propósito imutável de Deus pelo qual Ele, antes da fundação do mundo, segundo o soberano beneplácito da Sua vontade e por  pura  graça,  escolheu  para  a  salvação  em  Cristo  de  entre  toda  a raça humana, caída pela própria culpa do estado original de integridade no pecado e na perdição - um número definido de pessoas específicas, em nada melhores nem mais dignas que as outras, porém envolvidas na mesma miséria dos demais. Também desde a eternidade, Ele constituiu a Cristo como o Mediador e o Cabeça de todos os eleitos e o fundamento da salvação. Assim decretou dar a Cristo os que haveriam de ser salvos e chamá-los e trazê-los eficazmente à Sua comunhão pela Sua Palavra e Espírito. Ele decretou conceder-lhes a fé verdadeira em Cristo, os justificar, os santificar e por fim - depois de os ter preservado poderosamente na comunhão do Seu Filho - os glorificar, para a demonstração da Sua misericórdia e o louvor da riqueza da Sua graça gloriosa. Como está escrito:  Deus  nos  escolheu  em  Cristo  _\"antes  da  fundação  do  mundo, para sermos santos e irrepreensíveis perante ele; e em amor nos predestinou para ele, para a adoção de filhos, por meio de Jesus Cristo, segundo o beneplácito de sua vontade, para louvor da glória de sua graça, que ele nos concedeu gratuitamente no Amado\"_. E em outro lugar: _\"E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou\"_.",
+      "attrs": {
+        "heading": "Definição da Eleição",
+        "refs": [
+          "Ef 1.4, 11; Jo 17.2, 12, 14; Jo 6.37, 44; 1Co 1.9; Ef 1.4-6; Rm 8.30."
+        ]
+      },
+      "sortOrder": 7
+    },
+    {
+      "id": "dort-h1-art08",
+      "kind": "article",
+      "label": "Art. 8",
+      "body": "Não  há  vários  decretos  de  eleição,  mas  um  único  e  mesmo  decreto para todos os que hão de ser salvos, tanto debaixo do Velho quanto do Novo  Testamento.  Porque  a  Escritura  declara  que  o  beneplácito,  o propósito e o conselho da vontade de Deus é único. Segundo este propósito Ele nos escolheu desde a eternidade tanto para a graça quanto para a glória, tanto para a salvação e para o caminho da salvação - o qual preparou para que andássemos nele.\n\nDt 7.7; 9.6; Ef 1.4, 5; 2.10.",
+      "attrs": {
+        "heading": "Um único decreto de eleição"
+      },
+      "sortOrder": 8
+    },
+    {
+      "id": "dort-h1-art09",
+      "kind": "article",
+      "label": "Art. 9",
+      "body": "Tal eleição não se baseia em fé prevista, em obediência da fé, santidade ou de qualquer outra boa qualidade ou disposição que seja a causa ou a condição necessária aos homens para serem eleitos; os homens, todavia, são eleitos para a fé, para a obediência da fé, para a santidade etc. A eleição é, portanto, a fonte de todas as virtudes salvadoras de onde emana a fé, a santidade e os outros dons salvadores, e por fim a própria vida eterna, como frutos e efeitos da eleição. É isso o que o apóstolo  ensina  quando  diz:  _\"assim  como  nos  escolheu  nele  antes  da fundação do mundo, (não  porque  fôssemos  santos,  mas) para  sermos santos e irrepreensíveis perante ele\"_.",
+      "attrs": {
+        "heading": "A eleição não se baseia em fé prevista",
+        "refs": [
+          "Rm 8.30; Ef 1.4."
+        ]
+      },
+      "sortOrder": 9
+    },
+    {
+      "id": "dort-h1-art10",
+      "kind": "article",
+      "label": "Art. 10",
+      "body": "A causa dessa eleição graciosa é tão-somente o beneplácito de Deus, o qual não consiste de haver Deus escolhido de entre todas as condições possíveis umas certas qualidades ou ações dos homens como requisito para a salvação; mas consiste em que Ele, de entre a multidão dos pecadores, adotou para Sua possessão certas pessoas. Pois está escrito: _\"ainda não eram os gêmeos nascidos, nem tinham praticado o bem ou o mal … e já fora dito a ela (a  Rebeca):  O mais velho será servo do mais moço\"_. E também: _\"todavia, amei a Jacó, porém aborreci a Esaú\"_. E ainda: _\"e creram todos os que haviam sido destinados para a vida eterna\"_.",
+      "attrs": {
+        "heading": "A eleição baseia-se no beneplácito de Deus",
+        "refs": [
+          "Rm 9.11-13; Gn 25.23; Ml 1.2, 3; At 13.48."
+        ]
+      },
+      "sortOrder": 10
+    },
+    {
+      "id": "dort-h1-art11",
+      "kind": "article",
+      "label": "Art. 11",
+      "body": "Como  o  próprio  Deus  é  infinitamente  sábio,  imutável,  onisciente  e onipotente, assim também a Sua eleição não pode ser desfeita, refeita, alterada, revogada nem anulada; tampouco podem os eleitos ser rejeitados, nem o número deles diminuído.\n\nJo 6.37; 10.28.",
+      "attrs": {
+        "heading": "A eleição é imutável"
+      },
+      "sortOrder": 11
+    },
+    {
+      "id": "dort-h1-art12",
+      "kind": "article",
+      "label": "Art. 12",
+      "body": "Os eleitos recebem no tempo oportuno - ainda que em vários graus e diferentes modos - a certeza da sua eterna e imutável eleição para a salvação. Eles, todavia, não a obtêm quando curiosamente investigam as  coisas  ocultas  e  profundas  de  Deus,  mas  quando  observam  em  si mesmos, com alegria espiritual e santo deleite, os infalíveis frutos da eleição indicados na Palavra de Deus - como a fé verdadeira em Cristo,  o  temor  filial  a  Deus,  a  piedosa  tristeza  pelos  seus  pecados,  e  a fome e a sede de justiça.\n\nDt 29.29; 1Co 2.10, 11; 2Co 13.5; 7.10; Mt 5.6.",
+      "attrs": {
+        "heading": "A certeza da eleição"
+      },
+      "sortOrder": 12
+    },
+    {
+      "id": "dort-h1-art13",
+      "kind": "article",
+      "label": "Art. 13",
+      "body": "A consciência e a certeza da eleição fornecem aos filhos de Deus maior  motivo para se humilharem diariamente diante dEle, para adorarem a profundidade das Suas misericórdias, para se purificarem e para amarem fervorosamente Aquele que os amou primeiro de modo tão grandioso. Contudo absolutamente não é verdade que a doutrina da eleição e o meditar nela os façam relaxar na observação dos mandamentos de Deus ou os rendam falsamente seguros. No justo juízo de Deus isso normalmente ocorre aos que supõem atrevidamente ter a graça  da  eleição,  ou  que  dela  falam  de  modo  leviano  e  jactancioso, mas que se recusam a andar nos caminhos dos eleitos.\n\n1Jo 3.3; 4.19.",
+      "attrs": {
+        "heading": "O valor desta certeza"
+      },
+      "sortOrder": 13
+    },
+    {
+      "id": "dort-h1-art14",
+      "kind": "article",
+      "label": "Art. 14",
+      "body": "A doutrina da eleição divina, segundo o mui sábio conselho de Deus, foi pregada pelos profetas, pelo próprio Cristo e pelos apóstolos, tanto debaixo do Velho Testamento quanto do Novo Testamento, sendo então  registrada  por  escrito  nas  Sagradas  Escrituras.  Assim,  também hoje, essa doutrina deve ser ensinada na igreja de Deus - para a qual ela  foi  particularmente  destinada  -  em  tempo  e  lugar  apropriados, com espírito criterioso, de modo reverente e santo, sem curiosa investigação nos caminhos do Altíssimo, para a glória do santíssimo nome de Deus, e para a viva consolação do Seu povo.\n\nAt 20.27; Jó 36.23-26; Rm 11.33; 12.3; 1Co 4.6.",
+      "attrs": {
+        "heading": "Como se deve ensinar a eleição"
+      },
+      "sortOrder": 14
+    },
+    {
+      "id": "dort-h1-art15",
+      "kind": "article",
+      "label": "Art. 15",
+      "body": "As Sagradas Escrituras mostram e nos recomendam esta graça eterna e imerecida da nossa eleição, especialmente quando além disso declara que nem todos os homens são eleitos, mas que alguns não são eleitos, ou foram preteridos na eleição eterna de Deus. Deus, pelo seu beneplácito  mui  soberano,  justo,  irrepreensível  e  imutável,  decretou deixá-los na miséria comum em que eles se lançaram por sua própria culpa e não lhes concedeu a fé salvadora, nem a graça da conversão. Para mostrar a Sua justiça, Deus os deixou em seus próprios caminhos e debaixo do Seu justo juízo, decretando, por fim, os condenar e punir eternamente, não apenas pela incredulidade deles, mas também por causa de todos os seus outros pecados. Este é o decreto da reprovação, o qual não faz de Deus o autor do pecado (o só pensar isso é blasfêmia!), antes o revela como o terrível, irrepreensível e justo Juiz e Vingador do pecado.",
+      "attrs": {
+        "heading": "A descrição da reprovação",
+        "refs": [
+          "At 14.16."
+        ]
+      },
+      "sortOrder": 15
+    },
+    {
+      "id": "dort-h1-art16",
+      "kind": "article",
+      "label": "Art. 16",
+      "body": "Alguns ainda não discernem claramente em si mesmos uma fé viva em Cristo,  nem  confiança  firme  no  coração,  nem  boa  consciência,  nem zelo  pela  obediência  filial  e  pela  glorificação  de  Deus  por  meio  de Cristo. Apesar disso, eles usam os meios pelos quais Deus prometeu operar tais coisas em nós. Eles não devem se assustar quando se fala da reprovação, nem devem se incluir entre os reprovados. Pelo contrário, devem continuar a usar esses meios com diligência, a almejar com fervor um tempo de graça mais abundante e a esperá-lo com reverência e humildade. Há também outros que desejam se converter a Deus com seriedade, tão somente para O agradar e para serem libertos do corpo da morte, contudo não conseguem chegar até onde gostariam no caminho da piedade e da fé. Essas pessoas não deveriam ter tanto medo da doutrina da reprovação, pois Deus, que é misericordioso, prometeu que não esmagará a cana quebrada e não apagará o pavio que fumega. Há ainda outros que desprezam a Deus e ao Senhor Jesus Cristo e que se  entregam  completamente aos cuidados do mundo e às concupiscências da carne. Para esses, a doutrina da reprovação é mesmo apavorante, pois não se voltam para Deus com seriedade.\n\nTg 2.26; 2Co 1.12; Rm 5.11; Fp 3.3; Rm 7.24; Is 42.3; Mt 12.20; 13.22; Hb 12.29.",
+      "attrs": {
+        "heading": "Como reagir à doutrina da reprovação"
+      },
+      "sortOrder": 16
+    },
+    {
+      "id": "dort-h1-art17",
+      "kind": "article",
+      "label": "Art. 17",
+      "body": "Devemos julgar a respeito da vontade de Deus com base na Sua Palavra, que declara que os filhos dos crentes são santos, não por natureza, mas em virtude da aliança da graça da qual participam juntamente com os seus pais. Por essa causa, pais tementes a Deus não devem duvidar da eleição e da salvação daqueles seus filhos a quem Deus chamou desta vida ainda na infância.",
+      "attrs": {
+        "heading": "Os filhos de crentes que morrem na infância",
+        "refs": [
+          "Gn 17.7; Is 59.21; At 2.39; 1Co 7.14."
+        ]
+      },
+      "sortOrder": 17
+    },
+    {
+      "id": "dort-h1-art18",
+      "kind": "article",
+      "label": "Art. 18",
+      "body": "Aos que se queixam da graça da eleição imerecida e da severidade da reprovação justa, replicamos com as palavras do apóstolo: _\"Quem és tu, ó homem, para discutires com Deus?!\"_, e com essas palavras do nosso  Salvador:  _\"Porventura,  não  me  é  lícito  fazer  o  que  quero  do  que  é meu?\"_. Nós,  porém,  adorando  com  reverência  estes  mistérios,  exclamamos com o apóstolo: _\"Ó profundidade da riqueza, tanto da sabedoria como do conhecimento de Deus! Quão insondáveis são os seus juízos, e quão inescrutáveis,  os  seus  caminhos!  Quem,  pois,  conheceu  a  mente  do  Senhor? Ou quem foi o seu conselheiro? Ou quem primeiro deu a ele para que lhe venha a ser restituído? Porque dele, e por meio dele, e para ele são todas as coisas. A ele, pois, a glória eternamente. Amém!\"_.",
+      "attrs": {
+        "heading": "Não protesto, mas sim adoração",
+        "refs": [
+          "Jó 34.34-37; Rm 9.20; Mt 20.15; Rm 11.33-36."
+        ]
+      },
+      "sortOrder": 18
+    },
+    {
+      "id": "dort-h1-rej-intro",
+      "kind": "rejection",
+      "label": null,
+      "body": "Depois de haver explanado a verdadeira doutrina da eleição e da reprovação, o Sínodo condena e rejeita os seguintes erros:",
+      "attrs": {},
+      "sortOrder": 19
+    },
+    {
+      "id": "dort-h1-rej1",
+      "kind": "rejection",
+      "label": "Erro 1",
+      "body": "Erro 1 — O  completo  e  total  decreto  da  eleição  para  a  salvação  é  a vontade de Deus de salvar aos que irão crer e perseverar na fé e na obediência.  Quanto  a  esse  decreto,  nada  mais  que  isso  foi  revelado pela Palavra de Deus.\n\nRefutação — Esse erro é um engano e contradiz claramente a Escritura  que  declara  não  somente  que  Deus  irá  salvar  aos  que  creem  mas também que Ele, desde a eternidade, escolheu pessoas específicas. No tempo oportuno ele concede a esses eleitos, em detrimento de outros, a fé em Cristo e a perseverança. _\"Manifestei o teu nome aos homens que me deste do mundo\"_ (Jo 17.6). _\"E creram todos os que haviam sido destinados para a vida eterna\"_ (At 13.48). _\"assim como nos escolheu nele antes da fundação do mundo, para sermos santos e irrepreensíveis perante ele; e em amor\"_ (Ef 1.4).",
+      "attrs": {},
+      "sortOrder": 20
+    },
+    {
+      "id": "dort-h1-rej2",
+      "kind": "rejection",
+      "label": "Erro 2",
+      "body": "Erro 2 — Há vários tipos de eleição divina para a vida eterna. Uma é geral e indefinida, a outra é específica e definida. Esta última, por sua vez, pode ser: incompleta, revogável, duvidosa e condicional, ou então: completa, irrevogável, cabal e absoluta. Da mesma maneira que há uma eleição para a fé e uma outra para a salvação. Assim, a eleição pode ser para a fé justificadora sem contudo ser definitiva para a salvação.\n\nRefutação — Tudo isso é invenção da mente humana sem nenhuma base na Escritura. Isso corrompe a doutrina da eleição e rompe a corrente de ouro da nossa salvação: _\"E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou\"_ (Rm 8.30).",
+      "attrs": {},
+      "sortOrder": 21
+    },
+    {
+      "id": "dort-h1-rej3",
+      "kind": "rejection",
+      "label": "Erro 3",
+      "body": "Erro 3 — O beneplácito e o propósito de Deus do qual a Escritura fala na doutrina da eleição não é que Ele escolheu especificamente algumas pessoas e outras não, mas que de entre todas as condições possíveis (assim como as obras da lei) Ele escolheu e selecionou o ato de fé - que não tem nenhum mérito em si mesmo - e também a imperfeita  obediência  da  fé,  para  que  fossem  condição  de  salvação.  Em  Sua graça Ele quis considerar essa fé como obediência perfeita e digna da recompensa da vida eterna.\n\nRefutação — Esse erro ofensivo rouba toda a eficácia do beneplácito de  Deus  e  dos  méritos  de  Cristo,  empurra  as  pessoas  para  longe  da verdade da justificação pela graça e da simplicidade da Escritura; além de contradizer a palavra do apóstolo: _\"[Deus] nos salvou e nos chamou com santa vocação; não segundo as nossas obras, mas conforme a Sua própria determinação e graça que nos foi dada em Cristo Jesus, antes dos tempos eternos\"_ (2Tm 1.9).",
+      "attrs": {},
+      "sortOrder": 22
+    },
+    {
+      "id": "dort-h1-rej4",
+      "kind": "rejection",
+      "label": "Erro 4",
+      "body": "Erro 4 — A eleição para a fé depende das seguintes condições: o homem deve fazer uso da luz da natureza do modo apropriado, deve ser piedoso, humilde, manso e qualificado para a vida eterna.\n\nRefutação — Se  isso  fosse  verdade  a  eleição  dependeria  do  homem. Isso assemelha-se ao ensinamento de Pelágio e choca-se diretamente com o ensinamento do apóstolo em Efésios 2.3-9: _\"entre os quais também todos nós andamos outrora, segundo as inclinações da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos, por natureza, filhos da ira, como também os demais. Mas Deus, sendo rico em misericórdia, por causa do grande amor com que nos amou, e estando nós mortos em nossos delitos, nos deu vida juntamente com Cristo, - pela graça sois salvos, e, juntamente com ele, nos ressuscitou, e nos fez assentar nos lugares celestiais em Cristo Jesus; para mostrar, nos séculos vindouros, a suprema riqueza da sua graça, em bondade para conosco, em Cristo Jesus. Porque pela graça sois salvos, mediante a fé; e isto não vem de vós; é dom de Deus; não de obras, para que ninguém se glorie\"_.",
+      "attrs": {},
+      "sortOrder": 23
+    },
+    {
+      "id": "dort-h1-rej5",
+      "kind": "rejection",
+      "label": "Erro 5",
+      "body": "Erro 5 — A eleição incompleta e não-definitiva de pessoas específicas para a salvação dá-se com base na presciência da fé, da conversão, da santidade, da piedade que começaram ou existiram por algum tempo. A  eleição  completa  e  definitiva,  no  entanto,  ocorreu  por  causa  da presciência da perseverança na fé, da conversão, da santidade e da piedade até o fim. Esse é o mérito gracioso e evangélico pelo que o eleito é mais digno do que o não eleito. Por isso, a fé, a obediência da fé, a santidade, a piedade e a perseverança não são frutos da imutável eleição para a glória. Antes, são as condições e as causas necessárias requeridas e sabidas de antemão como concretizadas naqueles que serão eleitos integralmente.\n\nRefutação — Esse erro milita contra toda a Escritura, que constantemente  nos  incute  o  seguinte:  A  Eleição  é  motivada  _\"não  por  obras, mas por Aquele que chama\"_ (Rm 9.11); _\"e creram todos os que haviam sido destinados para a vida eterna\"_ (At 13.48); _\"assim como nos escolheu nEle antes da fundação do mundo, para sermos santos e irrepreensíveis perante Ele\"_ (Ef 1.4); _\"Não fostes vós que me escolhestes a mim; pelo contrário, eu vos escolhi a vós outros\"_ (Jo 15.16). _\"se é pela graça, já não é  pelas  obras;  do  contrário,  a  graça  já  não  é  graça\"_  (Rm 11.6); _\"Nisto consiste o amor: não em que nós tenhamos amado a Deus, mas em que ele nos amou e enviou o seu Filho como propiciação pelos nossos pecados\"_ (1Jo 4.10).",
+      "attrs": {},
+      "sortOrder": 24
+    },
+    {
+      "id": "dort-h1-rej6",
+      "kind": "rejection",
+      "label": "Erro 6",
+      "body": "Erro 6 — Nem  toda  eleição  para  a  salvação  é  imutável.  Alguns  dos eleitos podem e até mesmo perecem eternamente a despeito de qualquer decreto de Deus.\n\nRefutação — Esse erro grosseiro torna Deus mutável, destrói a consolação que os crentes têm na firmeza da sua eleição e contradiz a Sagrada Escritura: O eleito não pode ser desviado, Mt 24.24; _\"E a vontade de quem me enviou é esta: que nenhum eu perca de todos os que me deu\"_ (Jo 6.39). _\"E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou\"_ (Rm 8.30).",
+      "attrs": {},
+      "sortOrder": 25
+    },
+    {
+      "id": "dort-h1-rej7",
+      "kind": "rejection",
+      "label": "Erro 7",
+      "body": "Erro 7 — Nesta vida não há fruto, consciência ou certeza da imutável eleição para a glória, exceto a que se baseia numa condição mutável e incerta.\n\nRefutação — Falar de uma certeza incerta não é apenas absurdo mas é também contrário à experiência dos crentes. Sendo conscientes da sua eleição, eles se gloriem com os apóstolos nesse favor de Deus (Efésios 1);  eles  se  regozijem  com os discípulos de Cristo, por terem os seus nomes escritos no céu (Lucas 10.20); e eles levantem a consciência da eleição contra os dardos inflamados do maligno, quando exclamam: _\"Quem intentará acusação contra os  eleitos  de  Deus?  É  Deus  quem  os justifica\"_ (Rm 8.33).",
+      "attrs": {},
+      "sortOrder": 26
+    },
+    {
+      "id": "dort-h1-rej8",
+      "kind": "rejection",
+      "label": "Erro 8",
+      "body": "Erro 8 — Deus não decidiu, simplesmente com base em sua justa vontade, deixar nenhuma pessoa na queda de Adão e no estado comum de pecado e condenação, nem decidiu preterir ninguém na concessão da graça necessária para fé e conversão.\n\nRefutação — A Escritura, no entanto, declara: _\"tem Ele misericórdia de quem  quer  e  também  endurece  a  quem  Lhe  apraz\"_  (Rm  9.18).  Afirma também: _\"a vós outros é dado conhecer os mistérios do reino dos céus, mas àqueles não lhes é isso concedido\"_ (Mt 13.11). E ainda: _\"Graças te dou, ó Pai, Senhor do céu e da terra, porque ocultaste estas coisas aos sábios e instruídos e as revelaste aos pequeninos. Sim, ó Pai, porque assim foi do teu agrado\"_ (Mt 11.25, 26).",
+      "attrs": {},
+      "sortOrder": 27
+    },
+    {
+      "id": "dort-h1-rej9",
+      "kind": "rejection",
+      "label": "Erro 9",
+      "body": "Erro 9 — Deus envia o Evangelho a um povo mais que a um outro, não meramente e somente por causa do bom propósito de sua vontade, mas por ser este melhor e mais digno que o outro, ao qual o Evangelho não é comunicado.\n\nRefutação — Moisés nega isso quando fala ao povo de Israel, como se vê a seguir: _\"Eis que os céus e os céus dos céus são do Senhor, teu Deus, a terra e tudo o que nela há. Tão-somente o Senhor se afeiçoou a teus pais para os amar; a vós outros, descendentes deles, escolheu de todos os povos, como hoje se vê\"_ (Dt 10.14, 15). E Cristo diz: _\"Ai de ti, Corazim! Ai de ti, Betsaida! Porque, se em Tiro e em Sidom se tivessem operado os milagres que em vós se fizeram, há muito que elas se teriam arrependido com pano de saco e cinza\"_ (Mt 11.21).",
+      "attrs": {},
+      "sortOrder": 28
+    }
+  ]
+}

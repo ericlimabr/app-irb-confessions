@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-113-120-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.113-120",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-113-120",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 215,
+  "units": [
+    {
+      "id": "psalm-119-113-120-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>113</sup> A vaidade aborreço, sim,\nPorém, ó Deus, a tua lei eu amo.\n<sup>114</sup> És meu refúgio e escudo meu.\nSenhor, espero na tua palavra.\n<sup>115</sup> Que\\_os ímpios venham se\\_apartar de mim.\nQuero guardar a lei que é do meu Deus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-113-120-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>116</sup> Segundo prometeste, ó Senhor,\nVem me\\_amparar a fim de que eu viva\nE não permitas, não, ó meu Senhor,\nQue\\_a esperança minha me\\_envergonhe.\n<sup>117</sup> Dá-me sustento;\\_e salvo eu serei\nE sempre\\_atentarei aos teus decretos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-113-120-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>118</sup> Desprezas quem desvia da tua lei,\nPois falsidade é a\\_astúcia deles.\n<sup>119</sup> Rejeitas ímpios, pois escória são.\nPor isso, amo os teus testemunhos.\n<sup>120</sup> Me arrepio, com temor de ti.\nTenho temor, ó Deus, aos teus juízos.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

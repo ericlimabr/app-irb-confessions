@@ -1,0 +1,112 @@
+{
+  "id": "heidelberg-ld05",
+  "collection": "heidelberg",
+  "number": 5,
+  "numberLabel": "Domingo 5",
+  "title": null,
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 5,
+  "units": [
+    {
+      "id": "heidelberg-q012-q",
+      "kind": "question",
+      "label": "P. 12",
+      "body": "Se pelo justo julgamento de Deus merecemos tanto o castigo temporal quanto o eterno, como, então, poderemos escapar desta punição para sermos novamente recebidos em graça?",
+      "attrs": {
+        "questionNumber": 12
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q012-a",
+      "kind": "answer",
+      "label": "R. 12",
+      "body": "Deus requer que a Sua justiça seja satisfeita. Por isso, nós mesmos devemos satisfazer essa justiça completamente, ou um outro por nós.",
+      "attrs": {
+        "questionNumber": 12,
+        "refs": [
+          "Êx 20.5; 23.7; Rm 2.1-11.",
+          "Is 53.11; Rm 8.3, 4."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q013-q",
+      "kind": "question",
+      "label": "P. 13",
+      "body": "Podemos, nós mesmos, satisfazer essa justiça?",
+      "attrs": {
+        "questionNumber": 13
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q013-a",
+      "kind": "answer",
+      "label": "R. 13",
+      "body": "Certamente que não. Pelo contrário, todos os dias aumentamos a nossa dívida.",
+      "attrs": {
+        "questionNumber": 13,
+        "refs": [
+          "Sl 130.3; Mt 6.12; Rm 2.4, 5."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q014-q",
+      "kind": "question",
+      "label": "P. 14",
+      "body": "Qualquer mera criatura pode satisfazê-la por nós?",
+      "attrs": {
+        "questionNumber": 14
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q014-a",
+      "kind": "answer",
+      "label": "R. 14",
+      "body": "Não.\n\nEm primeiro lugar, Deus não vai castigar uma outra criatura pelo pecado que o homem cometeu.\n\nAlém disso, não há criatura que possa suportar o peso da ira eterna de Deus contra o pecado, nem libertar outros dessa ira.",
+      "attrs": {
+        "questionNumber": 14,
+        "refs": [
+          "Ez 18.4, 20; Hb 2.14-18.",
+          "Sl 130.3; Na 1.6."
+        ]
+      },
+      "sortOrder": 6
+    },
+    {
+      "id": "heidelberg-q015-q",
+      "kind": "question",
+      "label": "P. 15",
+      "body": "Que tipo de mediador e libertador temos que buscar?",
+      "attrs": {
+        "questionNumber": 15
+      },
+      "sortOrder": 7
+    },
+    {
+      "id": "heidelberg-q015-a",
+      "kind": "answer",
+      "label": "R. 15",
+      "body": "Alguém que seja homem verdadeiro e justo, e mais poderoso que todas as criaturas; isso é, alguém que seja ao mesmo tempo Deus verdadeiro.",
+      "attrs": {
+        "questionNumber": 15,
+        "refs": [
+          "1Co 15.21; Hb 2.17.",
+          "Is 53.9; 2Co 5.21; Hb 7.26.",
+          "Is 7.14; 9.6; Jr 23.6; Jo 1.1; Rm 8.3, 4."
+        ]
+      },
+      "sortOrder": 8
+    }
+  ]
+}

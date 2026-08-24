@@ -1,0 +1,88 @@
+{
+  "id": "heidelberg-ld30",
+  "collection": "heidelberg",
+  "number": 30,
+  "numberLabel": "Domingo 30",
+  "title": null,
+  "subtitle": "A Santa Ceia",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 30,
+  "units": [
+    {
+      "id": "heidelberg-q080-q",
+      "kind": "question",
+      "label": "P. 80",
+      "body": "Qual é a diferença entre a Ceia do Senhor e a missa do papa?",
+      "attrs": {
+        "questionNumber": 80
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q080-a",
+      "kind": "answer",
+      "label": "R. 80",
+      "body": "A Ceia do Senhor nos testifica, primeiramente, que temos o perdão completo  de  todos  os  nossos  pecados  pelo  único  sacrifício  de  Jesus Cristo, que Ele mesmo realizou na cruz de uma vez por todas; em segundo lugar, que pelo Espírito Santo somos enxertados em Cristo, o qual está agora no céu em Seu corpo verdadeiro à mão direita do Pai, e é onde Ele quer ser adorado.\n\nA missa, no entanto, ensina primeiro que nem os vivos nem os mortos têm o perdão de pecados por meio do sofrimento de Cristo se Ele não for  ainda  sacrificado  diariamente  em favor  deles  pelos  sacerdotes;  e em segundo lugar, que Cristo está presente corporalmente na forma do pão e do vinho, e neles deve ser adorado. A missa, portanto, é basicamente nada mais que a negação do único sacrifício e sofrimento de Jesus Cristo, e é uma idolatria maldita.",
+      "attrs": {
+        "questionNumber": 80,
+        "refs": [
+          "Mt 26.28; Jo 10.30; Hb 7.27; 9.12, 25, 26; 10.10-18.",
+          "1Co 6.17; 10.16, 17.",
+          "Jo 20.17; At 7.55, 56; Hb 1.3; 8.1.",
+          "Jo 4.21-24; Fp 3.20; Cl 3.1; 1Ts 1.10."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q081-q",
+      "kind": "question",
+      "label": "P. 81",
+      "body": "Quem deve vir à mesa do Senhor?",
+      "attrs": {
+        "questionNumber": 81
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q081-a",
+      "kind": "answer",
+      "label": "R. 81",
+      "body": "Aqueles que, em verdade, estão descontentes consigo mesmos por causa dos seus pecados e que, mesmo assim, confiam que eles lhes foram perdoados e que o mal que ainda resta neles está coberto pelo sofrimento e morte de Cristo, e que também desejam fortalecer a sua fé e corrigir as suas vidas, cada vez mais.\n\nMas os hipócritas e os que não se arrependem comem e bebem juízo para si mesmos.",
+      "attrs": {
+        "questionNumber": 81,
+        "refs": [
+          "1Co 10.19-22; 11.26-32."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q082-q",
+      "kind": "question",
+      "label": "P. 82",
+      "body": "Esses que por sua confissão e vida demonstram que são incrédulos e ímpios devem ser admitidos à ceia do Senhor?",
+      "attrs": {
+        "questionNumber": 82
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q082-a",
+      "kind": "answer",
+      "label": "R. 82",
+      "body": "Não, porque a aliança de Deus seria profanada e a Sua ira se acenderia contra toda a congregação.\n\nPor isso, segundo o mandamento de Cristo a Seus apóstolos, a igreja de Cristo tem o dever de excluir tais pessoas pelas chaves do reino do céu, até que corrijam as suas vidas.",
+      "attrs": {
+        "questionNumber": 82,
+        "refs": [
+          "Sl 50.16; Is 1.11-17; 1Co 11.17-34."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "psalm-001-har",
+  "collection": "psalms",
+  "number": 1,
+  "numberLabel": "Salmo 1",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-001",
+  "attrs": {
+    "attribution": "CBS - Arlington"
+  },
+  "sortOrder": 2,
+  "units": [
+    {
+      "id": "psalm-001-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Quão bem-aventurado é o homem que não anda\nConforme\\_as ímpias sugestões de conselheiros maus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-001-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Não se detém no caminhar de homens pecadores\nNem se assenta\\_em comunhão com o\\_escarnecedor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-001-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>2</sup> Porém, o seu prazer está na santa lei de Deus,\nE, dia\\_e noite, nessa lei medita sem cessar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-001-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>3</sup> Qual árvore plantada\\_está junto das muitas águas,\nTal é o homem, pois, no tempo,\\_o fruto próprio dá.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-001-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "E murcha não será jamais toda\\_a sua folhagem;\nBem-sucedido\\_ele será em tudo que fizer.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-001-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>4</sup> Os ímpios nunca são assim; são como\\_a palha\\_ao vento.\n<sup>5</sup> No juízo\\_e na congregação dos justos, cairão.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-001-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>6</sup> Pois o Senhor conhece bem dos justos a vereda,\nMas o caminho dos perversos, sim, perecerá.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "psalm-041-gen",
+  "collection": "psalms",
+  "number": 41,
+  "numberLabel": "Salmo 41",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-041",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 70,
+  "units": [
+    {
+      "id": "psalm-041-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> É muito bem-aventurado, sim,\nQuem ao pobre\\_acudir.\nO Senhor Deus lhe dá libertação\nEm meio\\_ao dia mau.\n<sup>2</sup> Deus o protege, guarda seu viver,\nFeliz na terra faz.\nO Senhor não o\\_entrega\\_à discrição\nDos inimigos seus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-041-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> E, quando\\_enfermo,\\_em meio\\_ao leito seu,\nDeus lhe sustentará.\nSim, na moléstia, Deus lhe\\_assistirá,\nSeu leito\\_afofará.\n<sup>4</sup> Disse: Senhor, minha\\_alma vem sarar,\nDe mim tem compaixão.\nSara minha\\_alma e tem compaixão,\nPois contra ti pequei.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-041-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Meus inimigos falam mal de mim:\n“Oh, quando\\_há de morrer?\nOh, quando\\_o nome seu perecerá?\nSim, quando morrerá?”\n<sup>6</sup> Se algum deles vem me visitar,\nDiz coisas vãs pra mim,\nJunta malícias no seu coração\nE\\_as fala ao sair.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-041-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Os que me\\_odeiam rosnam contra mim,\nPlanejando\\_o meu mal.\nDizem: <sup>8</sup> “Que brava peste\\_ele pegou!\nJá não levantará!”\n<sup>9</sup> Até o meu chegado\\_amigo, que\nComia do meu pão,\nEm quem eu confiava, contra mim\nErgueu seu calcanhar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-041-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Porém, ó Deus, tem compaixão de mim.\nLevanta-me, Senhor!\nSim, de modo que\\_eu lhes venha pagar\nConforme\\_o merecer.\n<sup>11</sup> Com isto,\\_eu sei que tu te\\_agradas, sim,\nDe mim, ó meu Senhor:\nEm não vir contra mim prevalecer\nO inimigo meu.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-041-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Na minha\\_integridade, meu Senhor,\nTu me sustentarás.\nPara sempre,\\_à tua presença, Senhor,\nTu me colocarás.\n<sup>13</sup> Seja bendito\\_eternamente,\\_ó Deus,\nSenhor de Israel,\nDe\\_eternidade\\_a\\_eternidade, sim,\nPra sempre,\\_amém e\\_amém!",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

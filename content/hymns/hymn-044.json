@@ -1,0 +1,49 @@
+{
+  "id": "hymn-044",
+  "collection": "hymns",
+  "number": 44,
+  "numberLabel": "Hino 44",
+  "title": "OH VEM, OH VEM, EMANUEL",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ORAÇÃO E SÚPLICA",
+    "author": "Antigo hino latino / tradutor desconhecido"
+  },
+  "sortOrder": 44,
+  "units": [
+    {
+      "id": "hymn-044-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Oh vem, oh vem, bendito Emanuel,\nE da maldade livra Israel,\nQue jaz em triste desolação\nE, ansioso, espera por libertação.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-044-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Louvai! Louvai! Pois vosso Emanuel\nVirá pra resgatar a Israel.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-044-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Oh vem, oh vem, Senhor Celestial\nE livra-nos a cada um do mal.\nCorrige-nos e faz-nos saber\nQue em teu poder havemos de vencer.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-044-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Oh vem, oh vem, Senhor, Rei de Sião,\nE põe teu trono em cada coração.\nAs trevas todas vem dissipar\nE tua vontade vem nos ensinar.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

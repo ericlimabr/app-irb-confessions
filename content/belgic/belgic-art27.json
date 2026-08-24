@@ -1,0 +1,51 @@
+{
+  "id": "belgic-art27",
+  "collection": "belgic",
+  "number": 27,
+  "numberLabel": "Art. 27",
+  "title": "A igreja cristã católica ou universal",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 27,
+  "units": [
+    {
+      "id": "belgic-art27-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos e professamos uma única igreja católica ou universal, que é a santa  congregação  e  assembleia dos  verdadeiros  crentes  em  Cristo, que aguardam a sua total salvação em Jesus Cristo, lavados por Seu sangue e santificados e selados pelo Espírito Santo.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "belgic-art27-p2",
+      "kind": "article",
+      "label": null,
+      "body": "Essa  igreja  existe  desde  o  princípio  do  mundo  e  existirá  até  o  final, pois Cristo é Rei Eterno que não pode ficar sem súditos. Essa  santa igreja é preservada por Deus contra o furor do mundo inteiro, mesmo que por um tempo pareça, aos olhos do homem, mui pequena e quase extinta. Assim, no perigoso reino de Acabe, o Senhor preservou para Si sete mil pessoas que não dobraram os joelhos a Baal.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "belgic-art27-p3",
+      "kind": "article",
+      "label": null,
+      "body": "Além disso, esta santa igreja não está confinada nem limitada a um lugar em particular nem a pessoas específicas, mas está espalhada e dispersa pelo mundo inteiro. Contudo, está integrada e unida, de coração e vontade, em um único e mesmo Espírito, pelo poder da fé.",
+      "attrs": {
+        "refs": [
+          "Gn 22.18; Is 49.6; Ef 2.17-19.",
+          "Sl 111.1; Jo 10.14, 16; Ef 4.3-6; Hb 12.22, 23.",
+          "Jl 2.32; At 2.21.",
+          "Ef 1.13; Ef 4.30.",
+          "2Sm 7.16; Sl 89.36; Sl 110.4; Mt 28.18, 20; Lc 1.32.",
+          "Sl 46.5; Mt 16.18.",
+          "Is 1.9; 1Pe 3.20; Ap 11.7.",
+          "1Rs 19.18; Rm 11.4.",
+          "Mt 23.8; Jo 4.21-23; Rm 10.12, 13.",
+          "Sl 119.63; At 4.32; Ef 4.4."
+        ]
+      },
+      "sortOrder": 3
+    }
+  ]
+}

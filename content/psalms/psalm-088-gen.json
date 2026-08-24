@@ -1,0 +1,96 @@
+{
+  "id": "psalm-088-gen",
+  "collection": "psalms",
+  "number": 88,
+  "numberLabel": "Salmo 88",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-088",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 144,
+  "units": [
+    {
+      "id": "psalm-088-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Senhor Deus, meu salvador,\nDia e noite,\\_a ti eu clamo.\n<sup>2</sup> Que chegue à tua presença\nA minha oração, Senhor.\nInclina,\\_ó Deus, os teus ouvidos.\nAo meu clamor, Senhor, escuta.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-088-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Pois a minha\\_alma já está,\nFarta de males já se\\_encontra.\nA minha vida beira\\_a morte.\n<sup>4</sup> Eis que contado eu já sou\nEntre\\_os que\\_à sepultura descem.\nSou como\\_um homem já sem força.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-088-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Entre\\_os defuntos eu estou,\nEntre\\_os que têm mortais feridas.\nSou atirado entre\\_os mortos,\nOs quais na sepultura\\_estão,\nDos quais, Senhor, já não te lembras,\nDe tuas mãos desamparados.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-088-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Na cova, me puseste,\\_ó Deus,\nOh, sim, na cova mais profunda.\nFui colocado em abismos,\nLugares tenebrosos, sim.\n<sup>7</sup> Por sobre mim tua ira pesa;\nMe\\_abates com tuas ondas todas.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-088-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Dos conhecidos meus, Senhor,\nTu me\\_apartaste\\_e me fizeste\nAbominável pra com eles.\nPreso\\_estou sem poder sair.\n<sup>9</sup> E já estão desfalecendo,\nDe tão aflitos, os meus olhos.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-088-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Dia\\_após dia, clamo\\_a ti.\nAs minhas mãos a ti levanto.\n<sup>10</sup> Acaso, mostrarás prodígios\nAos que na sepultura\\_estão?\nOu se levantarão, acaso,\nOs que\\_estão mortos pra louvar-te?",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-088-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>11</sup> Acaso,\\_ó Deus, hás de mostrar,\nNa sepultura, tua bondade\nOu, no abismo,\\_a fieldade?\n<sup>12</sup> Acaso, manifestarão,\nNas trevas, tuas maravilhas\nOu, por acaso, tua justiça?",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-088-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>13</sup> Eu clamo por socorro\\_a ti.\nMinha\\_oração já se\\_antecipa\nPerante ti de antemanhã.\n<sup>14</sup> Por que rejeitas, ó Senhor,\nA minha alma e ocultas,\nDe mim ocultas o teu rosto?",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-088-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>15</sup> Eu ando prestes a\\_expirar\nE mui aflito desde moço.\nEnquanto sofro\\_os teus terrores,\nMui perturbado eu estou.\n<sup>16</sup> Eis que por sobre mim passaram,\nSim, sobre mim as tuas iras.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-088-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "Destroem-me\\_os terrores teus,\n<sup>17</sup> Que me rodeiam como água\nE, de contínuo, me circundam.\n<sup>18</sup> Tu afastaste,\\_ó Deus, de mim\nO meu amigo\\_e companheiro.\nMeus conhecidos são as trevas.",
+      "attrs": {},
+      "sortOrder": 10
+    }
+  ]
+}

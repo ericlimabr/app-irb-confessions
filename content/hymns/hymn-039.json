@@ -1,0 +1,49 @@
+{
+  "id": "hymn-039",
+  "collection": "hymns",
+  "number": 39,
+  "numberLabel": "Hino 39",
+  "title": "SE A TI TRISTEZA EU CAUSEI, SENHOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LEI, CONFISSÃO E PERDÃO",
+    "author": "C. Maud Battersby / Umberto Cantoni"
+  },
+  "sortOrder": 39,
+  "units": [
+    {
+      "id": "hymn-039-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Se a ti tristeza eu causei, Senhor,\nSe ao meu exemplo o fraco tropeçou,\nSe em teus caminhos eu não quis andar,\nPerdão, Senhor!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-039-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Se vão e fútil foi o meu falar,\nSe ao meu irmão não demonstrei amor,\nSe ao sofredor não estendi a mão,\nPerdão, Senhor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-039-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Se indiferente foi o meu viver,\nTranquilo, calmo, sem lutar por ti,\nDevendo estar mui firme no labor,\nPerdão, Senhor!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-039-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Escuta, ó Deus, a minha oração\nE vem livrar-me de incertezas mil,\nTransforma este pobre pecador!\nAmém, Senhor!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

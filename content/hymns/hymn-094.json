@@ -1,0 +1,49 @@
+{
+  "id": "hymn-094",
+  "collection": "hymns",
+  "number": 94,
+  "numberLabel": "Hino 94",
+  "title": "DEUS VOS GUARDE",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ENCERRAMENTO E DESPEDIDA",
+    "author": "Jeremiah Eames Rankin / Stuart Edmund McNair"
+  },
+  "sortOrder": 94,
+  "units": [
+    {
+      "id": "hymn-094-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Deus vos guarde pelo seu poder,\nProtegidos, abençoados,\nDesfrutando os seus cuidados,\nDeus vos guarde pelo seu poder!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-094-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Pelo seu poder e no seu amor,\nEstaremos todos com Jesus!\nPelo seu poder e no seu amor,\nOh! Que Deus vos guarde em sua luz!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-094-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Deus vos guarde para o seu louvor,\nConsolados e contentes,\nAchegados sempre aos crentes,\nDeus vos guarde para o seu louvor!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-094-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Deus vos guarde bem no seu amor.\nNo trabalho glorioso,\nPara o dia venturoso,\nDeus vos guarde bem no seu amor!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

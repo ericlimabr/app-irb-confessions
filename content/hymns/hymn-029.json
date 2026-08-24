@@ -1,0 +1,49 @@
+{
+  "id": "hymn-029",
+  "collection": "hymns",
+  "number": 29,
+  "numberLabel": "Hino 29",
+  "title": "LOUVORES A DEUS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Antônio de Campos Gonçalves"
+  },
+  "sortOrder": 29,
+  "units": [
+    {
+      "id": "hymn-029-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Louvores a Deus, mui sinceros louvores,\nTributa a minh’alma com grande fervor.\nSó tu és a fonte de graça e favores,\nDivina promessa, recursos de amor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-029-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Louvar-te, Senhor, meu desejo constante,\nMeus votos ardentes, empenho sem par;\nLouvar-te na vida, no lar ou distante,\nSozinho ou na igreja, por todo lugar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-029-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Aceita, Senhor, a expressão de minh’alma,\nTributo de graças, pois tudo me dás.\nNos dias de lutas, nas horas de calma,\nContigo, Senhor, tenho a bênção da paz.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-029-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Não cesse em meus lábios o canto sincero\nDe gratos louvores, tributo leal.\nVencer a jornada contigo eu espero,\nPor bênção divina, favor paternal.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

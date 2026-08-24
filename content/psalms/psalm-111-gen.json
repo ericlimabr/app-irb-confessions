@@ -1,0 +1,72 @@
+{
+  "id": "psalm-111-gen",
+  "collection": "psalms",
+  "number": 111,
+  "numberLabel": "Salmo 111",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-111",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 182,
+  "units": [
+    {
+      "id": "psalm-111-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Aleluia! Louvai a Deus!\nGraças darei, de coração,\nAo Senhor Deus na assembleia,\nNa companhia dos justos.\nGraças, de todo\\_o coração,\nA Deus darei na assembleia.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-111-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> São grandes as suas obras\nE procuradas elas são\nPelos que nelas se comprazem.\n<sup>3</sup> Têm glória e majestade;\nE a justiça do Senhor\nHá de permanecer pra sempre.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-111-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Deus fez que fossem lembradas\nAs maravilhas que\\_operou.\nMisericordioso\\_é\\_o Senhor,\nEle\\_é também compassivo.\n<sup>5</sup> O mantimento Ele dá\nAos que temor têm ao seu nome.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-111-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "O Senhor sempre se lembra\nDa aliança que firmou,\n<sup>6</sup> E o poder das suas obras\nManifestou ao seu povo,\nDando-lhe\\_a\\_herança das nações,\nDando nações por sua\\_herança.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-111-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Obras das mãos do Senhor Deus\nJustiça e verdade são.\nFiéis são seus preceitos todos.\n<sup>8</sup> Estáveis pra todo\\_o sempre,\nInstituídos eles são\nEm retidão, fidelidade.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-111-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Ele\\_enviou ao seu povo,\nSim, enviou sua redenção;\nEstabeleceu para sempre,\nPra sempre,\\_a sua\\_aliança.\nTremendo\\_e santo\\_é\\_o nome seu,\nSanto\\_e tremendo é\\_o seu nome.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-111-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>10</sup> O seu temor é\\_o princípio,\nSim, o princípio do saber.\nTodos aqueles que\\_o praticam\nRevelam sua prudência.\nPra sempre, permanecerá\nO seu louvor, pra todo\\_o sempre.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

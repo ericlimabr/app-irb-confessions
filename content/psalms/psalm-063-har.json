@@ -1,0 +1,72 @@
+{
+  "id": "psalm-063-har",
+  "collection": "psalms",
+  "number": 63,
+  "numberLabel": "Salmo 63",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-063",
+  "attrs": {
+    "attribution": "CBS - St. Columba"
+  },
+  "sortOrder": 106,
+  "units": [
+    {
+      "id": "psalm-063-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Deus, tu és o meu forte Deus.\nAnsiosamente, te busquei.\nQual terra que sedenta\\_está,\nMeu ser almeja Deus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-063-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> No santuário, contemplo\\_a ti.\nVejo\\_a tua glória, teu poder.\n<sup>3</sup> Melhor que\\_a vida\\_a graça é.\nLouvor meus lábios dão.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-063-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Assim, me cumpre te bendizer,\nE o faço\\_enquanto\\_aqui viver.\nLevantarei as minhas mãos\nEm nome do Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-063-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> De banha farta minha\\_alma\\_está.\nJubiloso, louvo meu Senhor.\n<sup>6</sup> No leito,\\_à noite,\\_a meditar,\nDe ti me lembro, pois.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-063-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Porque tens sido auxílio meu,\nSob tuas asas, louvarei.\n<sup>8</sup> Apega-se\\_a minha\\_alma\\_a ti.\nTua destra me sustém.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-063-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Mas os que buscam me destruir\nAo abismo todos descerão.\nÀ\\_espada morrem e serão\n<sup>10</sup> Comida dos chacais.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-063-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>11</sup> O rei, porém, se alegra\\_em Deus.\nQuem, assim, por seu nome jurar\nGloriar-se-á, pois calará\nDo mentiroso\\_a voz.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

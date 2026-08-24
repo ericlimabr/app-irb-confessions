@@ -1,0 +1,88 @@
+{
+  "id": "psalm-103-gen",
+  "collection": "psalms",
+  "number": 103,
+  "numberLabel": "Salmo 103",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-103",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 169,
+  "units": [
+    {
+      "id": "psalm-103-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó minha alma, ao Senhor bendize:\nTudo aquilo que em mim existe\nSeu nome santo venha bendizer.\n<sup>2</sup> Ó minha alma, ao Senhor bendize\nE não te\\_esqueças de seus benefícios,\nNenhum sequer dos benefícios seus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-103-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> É Deus que\\_absolve tua\\_iniquidade,\nEle\\_é quem sara tua\\_enfermidade.\n<sup>4</sup> Deus te coroa\\_em graça e mercê,\nA tua vida\\_a redimir da cova.\n<sup>5</sup> Qual águia te renova como jovem,\nFartando\\_em bens o teu envelhecer.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-103-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Javé Senhor exerce a justiça,\nJulgando\\_a todos que são oprimidos.\n<sup>7</sup> Mostrou os seus caminhos a Moisés.\nAos filhos de\\_Israel mostrou seus feitos.\n<sup>8</sup> Misericordioso, compassivo,\nPaciente\\_e mui benigno é\\_o Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-103-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Perpetuamente, Deus não repreende\nNem, para sempre, guarda\\_a sua ira.\n<sup>10</sup> Não retribui as nossas transgressões;\nConforme\\_as nossas faltas não nos trata.\n<sup>11</sup> Tal como\\_alteia\\_o céu por sobre\\_a terra,\nCom quem o teme\\_é grande em mercê.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-103-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Tal como\\_o Leste dista do\\_Ocidente,\nAssim de nós afasta nossas faltas.\n<sup>13</sup> Deus é qual pai: dos filhos se condói.\nJavé se compadece dos que\\_o temem.\n<sup>14</sup> Nossa\\_estrutura o Senhor conhece,\nTambém compreende que nós somos pó.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-103-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> Quanto ao homem, todos os seus dias\nSão semelhantes à campestre relva:\nQual flor do campo,\\_assim florescerá.\n<sup>16</sup> Se\\_o vento sopra,\\_então, desaparece.\nLogo depois daquele mesmo\\_instante,\nO seu lugar não mais conhecerá.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-103-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>17</sup> Mercê de Deus é sobre\\_os que o temem\nDe\\_eternidade a eternidade;\nJustiça sua, sobre\\_as gerações,\n<sup>18</sup> Com os que guardam sua aliança\nE que se lembram dos seus mandamentos\nE\\_os seus preceitos cumprem no viver.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-103-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>19</sup> Nos altos céus, Javé pôs o seu trono;\nDomina sobre todo o seu reino.\n<sup>20</sup> Ó anjos valorosos em poder,\nQue\\_executais as suas ordens todas,\nObedecendo,\\_assim, a sua palavra,\nOh, vinde bendizer a Deus Javé!",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-103-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>21</sup> Louvai Javé, vós todas suas hostes,\nMinistros seus, fazeis vontade sua.\n<sup>22</sup> Vós, todas suas obras, bendizei:\nSim, bendizei Javé, vós suas obras,\nEm todo o lugar do seu domínio.\nBendize, ó minha\\_alma, ao Senhor!",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

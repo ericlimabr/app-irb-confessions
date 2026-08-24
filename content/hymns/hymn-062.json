@@ -1,0 +1,49 @@
+{
+  "id": "hymn-062",
+  "collection": "hymns",
+  "number": 62,
+  "numberLabel": "Hino 62",
+  "title": "QUE SEGURANÇA TENHO EM JESUS!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Frances Jane Crosby / George Benjamin Nind"
+  },
+  "sortOrder": 62,
+  "units": [
+    {
+      "id": "hymn-062-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Que segurança tenho em Jesus,\nPois nele tenho paz, vida e luz!\nCom Cristo herdeiro, Deus me aceitou\nMediante o Filho que me salvou!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-062-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Conto esta história, cantando assim:\n“Cristo, na cruz, foi morto por mim!”\nConto esta história, cantando assim:\n“Cristo, na cruz, foi morto por mim!”",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-062-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Inteiramente me submeti,\nPlena alegria nele senti.\nAnjos, descendo, trazem dos céus\nProvas da graça que vem de Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-062-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Firmado em Cristo, no seu amor,\nEstou contente em meu Salvador!\nEsperançoso hei de viver\nPor Jesus Cristo, por seu poder.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

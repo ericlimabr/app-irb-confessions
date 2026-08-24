@@ -1,0 +1,115 @@
+{
+  "id": "heidelberg-ld06",
+  "collection": "heidelberg",
+  "number": 6,
+  "numberLabel": "Domingo 6",
+  "title": null,
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 6,
+  "units": [
+    {
+      "id": "heidelberg-q016-q",
+      "kind": "question",
+      "label": "P. 16",
+      "body": "Por que tem de ser um homem verdadeiro e justo?",
+      "attrs": {
+        "questionNumber": 16
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q016-a",
+      "kind": "answer",
+      "label": "R. 16",
+      "body": "Tem de ser homem verdadeiro, pois a justiça de Deus exige que a mesma natureza humana que pecou pague pelo pecado.\n\nTem de ser homem justo pois alguém que, por natureza, já é pecador, não pode pagar pelos pecados dos outros.",
+      "attrs": {
+        "questionNumber": 16,
+        "refs": [
+          "Rm 5.12, 15; 1Co 15.21; Hb 2.14-16.",
+          "Hb 7.26, 27; 1Pe 3.18."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q017-q",
+      "kind": "question",
+      "label": "P. 17",
+      "body": "Por que ele tem de ser, ao mesmo tempo, Deus verdadeiro?",
+      "attrs": {
+        "questionNumber": 17
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q017-a",
+      "kind": "answer",
+      "label": "R. 17",
+      "body": "Ele tem de ser Deus verdadeiro para que, pelo poder da Sua natureza Divina, possa suportar em sua natureza humana o peso da ira de Deus e, conquistar e restituir para nós a justiça e a vida.",
+      "attrs": {
+        "questionNumber": 17,
+        "refs": [
+          "Is 9.6.",
+          "Dt 4.24; Na 1.6; Sl 130.3.",
+          "Is 53.5, 11; Jo 3.16; 2Co 5.21."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q018-q",
+      "kind": "question",
+      "label": "P. 18",
+      "body": "Mas, que Mediador é esse que é, ao mesmo tempo, Deus verdadeiro e homem verdadeiro e justo?",
+      "attrs": {
+        "questionNumber": 18
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q018-a",
+      "kind": "answer",
+      "label": "R. 18",
+      "body": "O  nosso  Senhor  Jesus  Cristo, _\"o  qual  se  nos  tornou,  da  parte  de Deus, sabedoria, e justiça, e santificação, e redenção\"_ (1Co 1.30).",
+      "attrs": {
+        "questionNumber": 18,
+        "refs": [
+          "Mt 1.21-23; Lc 2.11; 1Tm 2.5; 3.16."
+        ]
+      },
+      "sortOrder": 6
+    },
+    {
+      "id": "heidelberg-q019-q",
+      "kind": "question",
+      "label": "P. 19",
+      "body": "Como você sabe disso?",
+      "attrs": {
+        "questionNumber": 19
+      },
+      "sortOrder": 7
+    },
+    {
+      "id": "heidelberg-q019-a",
+      "kind": "answer",
+      "label": "R. 19",
+      "body": "Pelo santo evangelho, revelado pela primeira vez no Paraíso pelo próprio Deus.\n\nO qual o fez proclamar depois pelos patriarcas e profetas, e prefigurar, como sombras, pelos sacrifícios e outras cerimônias da lei.\n\nFazendo-o, por fim, ser cumprido por meio do Seu único Filho.",
+      "attrs": {
+        "questionNumber": 19,
+        "refs": [
+          "Gn 3.15.",
+          "Gn 12.3; 22.18; 49.10.",
+          "Is 53; Jr 23.5, 6; Mc 7.18-20; At 10.43; Hb 1.1.",
+          "Lv 1-7; Jo 5.46; Hb 10.1-10.",
+          "Rm 10.4; Gl 4.4, 5; Cl 2.17."
+        ]
+      },
+      "sortOrder": 8
+    }
+  ]
+}

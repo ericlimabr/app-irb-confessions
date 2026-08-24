@@ -1,0 +1,42 @@
+{
+  "id": "hymn-005",
+  "collection": "hymns",
+  "number": 5,
+  "numberLabel": "Hino 5",
+  "title": "A ORAÇÃO DO SENHOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CÂNTICOS DE TEXTOS BÍBLICOS",
+    "bibleRef": "Mateus 6.9-13",
+    "author": "Autor desconhecido"
+  },
+  "sortOrder": 5,
+  "units": [
+    {
+      "id": "hymn-005-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>9</sup> Ó Nosso Pai, que estás no céu,\nSantificado é o nome teu.\n<sup>10</sup> Teu reino venhas erigir,\nVontade tua bem cumprir\nNos altos céus, também aqui.\nAssim oramos, pois, a ti.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-005-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>11</sup> O pão diário queiras dar,\nAs nossas faltas, perdoar\nQual nós fazemos, sem rancor,\nA quem é nosso devedor.\n<sup>12</sup> E não nos deixes, Pai, cair:\nAssim oramos, pois, a ti.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-005-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>13</sup> Da tentação vem proteger.\nDe todo mal que nos vier\nProtege aqueles que são teus,\nPois teu é o reino, ó nosso Deus.\nVem nossa prece receber!\nAssim oramos, pois. Amém.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hymn-073",
+  "collection": "hymns",
+  "number": 73,
+  "numberLabel": "Hino 73",
+  "title": "EIS DOS ANJOS A HARMONIA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: NASCIMENTO",
+    "author": "Charles Wesley / Robert Hawkey Moreton"
+  },
+  "sortOrder": 73,
+  "units": [
+    {
+      "id": "hymn-073-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Eis dos anjos a harmonia!\nCantam glória ao Rei Jesus.\nPaz aos homens! Que alegria!\nPaz com Deus em plena luz.\nOuçam povos, exultantes,\nErgam salmos triunfantes,\nAclamando seu Senhor,\nNasce Cristo, o Redentor!\nToda a terra e os altos céus\nCantem sempre glória a Deus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-073-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Cristo, eternamente honrado,\nDo seu trono se ausentou.\nCristo, entre homens, encarnado,\nDeus conosco se mostrou.\nQuão bondosa divindade!\nQuão gloriosa humanidade!\nSalve a glória de Israel,\nLuz do mundo, Emanuel!\nToda a terra e os altos céus,\nCantem sempre glória a Deus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-073-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Cante o povo resgatado\nGlória ao Príncipe da Paz;\nDeus em Cristo revelado\nVida e luz ao mundo traz!\nNasce a fim de renascermos.\nVive para revivermos.\nRei, Profeta e Salvador!\nLouvem todos ao Senhor!\nToda a terra e os altos céus\nCantem sempre glória Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "heidelberg-ld19",
+  "collection": "heidelberg",
+  "number": 19,
+  "numberLabel": "Domingo 19",
+  "title": null,
+  "subtitle": "Deus Filho e a Nossa Redenção",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 19,
+  "units": [
+    {
+      "id": "heidelberg-q050-q",
+      "kind": "question",
+      "label": "P. 50",
+      "body": "Por que se acrescentou \"está assentado à mão direita de Deus\"?",
+      "attrs": {
+        "questionNumber": 50
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q050-a",
+      "kind": "answer",
+      "label": "R. 50",
+      "body": "Cristo ascendeu ao céu para manifestar-se lá como o Cabeça da Sua igreja, por meio de quem o Pai governa todas as coisas.",
+      "attrs": {
+        "questionNumber": 50,
+        "refs": [
+          "Ef 1.20-23; Cl 1.18.",
+          "Mt 28.18; Jo 5.22, 23."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q051-q",
+      "kind": "question",
+      "label": "P. 51",
+      "body": "Que benefício tem para nós esta glória de Cristo, o nosso Cabeça?",
+      "attrs": {
+        "questionNumber": 51
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q051-a",
+      "kind": "answer",
+      "label": "R. 51",
+      "body": "Primeiro:  pelo  Seu  Espírito  Santo  Ele  derrama  sobre  nós,  Seus membros, os dons celestiais.\n\nSegundo: pelo Seu poder Ele nos defende e preserva de todos os inimigos.",
+      "attrs": {
+        "questionNumber": 51,
+        "refs": [
+          "At 2.33; Ef 4.7-12.",
+          "Sl 2.9; 110.1, 2; Jo 10.27-30; Ap 19.11-16."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q052-q",
+      "kind": "question",
+      "label": "P. 52",
+      "body": "Que consolo lhe dá o fato de que Cristo \"há de vir para julgar os vivos e os mortos\"?",
+      "attrs": {
+        "questionNumber": 52
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q052-a",
+      "kind": "answer",
+      "label": "R. 52",
+      "body": "Que em todas as minhas aflições e perseguições eu de cabeça erguida e cheio de ânimo espero vir do céu, como juiz, Aquele mesmo que antes se submeteu ao juízo de Deus por minha causa, e removeu de sobre mim toda a maldição.\n\nEle lançará todos os Seus e meus inimigos na condenação eterna, mas levará para Si mesmo, para o gozo e glória celestiais, a mim e a todos os Seus escolhidos.",
+      "attrs": {
+        "questionNumber": 52,
+        "refs": [
+          "Lc 21.28; Rm 8.22-25; Fp 3.20, 21; Tt 2.13, 14.",
+          "Mt 25.31-46; 1Ts 4.16, 17; 2Ts 1.6-10."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "psalm-127-har",
+  "collection": "psalms",
+  "number": 127,
+  "numberLabel": "Salmo 127",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-127",
+  "attrs": {
+    "attribution": "CBS - Glasgow"
+  },
+  "sortOrder": 239,
+  "units": [
+    {
+      "id": "psalm-127-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Se Deus a casa não a edificar,\nEm vão trabalha\\_o construtor.\nSe a cidade Deus não guardar,\nEm vão o vigia será.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-127-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Será inútil bem cedo levantar\nE tarde sempre repousar,\nComer o pão que muito custou.\nAos santos Deus dá ao dormir.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-127-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Os filhos são, pois, herança do Senhor,\nHerança e seu galardão.\n<sup>4</sup> Quais flechas que\\_o guerreiro dispõe,\nAssim os seus filhos serão.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-127-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Feliz é\\_o homem que muitos filhos tem.\nVergonha nunca sofrerá\nQuando\\_o inimigo\\_à porta vier,\nPois cheia sua\\_aljava\\_estará.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

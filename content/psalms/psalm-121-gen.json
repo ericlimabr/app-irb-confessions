@@ -1,0 +1,48 @@
+{
+  "id": "psalm-121-gen",
+  "collection": "psalms",
+  "number": 121,
+  "numberLabel": "Salmo 121",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-121",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 226,
+  "units": [
+    {
+      "id": "psalm-121-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Elevo\\_aos montes meu olhar:\n“De onde surgirá\nSocorro para mim?”\n<sup>2</sup> O meu socorro vem de Deus,\nQue fez o céu e\\_a terra;\nSocorro vem do Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-121-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Javé não há de permitir\nTeus pés a vacilar\nE não dormitará.\n<sup>4</sup> É certo que não dormirá\nNem há de cochilar quem\nÉ\\_o guarda de Israel.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-121-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Javé é quem te guardará.\nQual sombra, é\\_o Senhor\nAo lado destro teu.\n<sup>6</sup> Eis que, de dia, nem o sol\nNem, pela noite,\\_a lua\nJamais te molestarão.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-121-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Javé tua alma guardará,\nDe todo mal que há\nTeu Deus te guardará.\n<sup>8</sup> Javé também há de guardar\nTua saída\\_e\\_entrada\nAgora\\_e sempre. Amém.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

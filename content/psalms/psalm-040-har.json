@@ -1,0 +1,72 @@
+{
+  "id": "psalm-040-har",
+  "collection": "psalms",
+  "number": 40,
+  "numberLabel": "Salmo 40",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-040",
+  "attrs": {
+    "attribution": "CBS - O store God"
+  },
+  "sortOrder": 69,
+  "units": [
+    {
+      "id": "psalm-040-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Pelo Senhor, espero confiante,\nPois se\\_inclinou e\\_ouviu quando clamei.\n<sup>2</sup> Do poço\\_horrível, tremedal de lama,\nDeus me tirou; na rocha, me firmou.\n<sup>3</sup> E nos meus lábios novo canto pôs,\nUm hino de louvor a Deus.\nE,\\_ao virem isto, muitos temerão\nE no Senhor confiarão.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-040-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> É bem-aventurado todo\\_aquele\nQue no Senhor a confiança põe;\nNão pende para\\_os homens arrogantes\nNem para\\_aqueles que\\_amam o mentir.\n<sup>5</sup> Prodígios mil, desígnios sobre nós\nTens feito,\\_ó Deus; não tens igual.\nQuisera\\_anunciá-los, proclamar,\nMas ultrapassam meu contar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-040-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Ofertas, sacrifícios não quiseste;\nAbriste\\_os meus ouvidos para\\_ouvir.\nOfertas, holocausto não requeres\nPelo pecado, pela transgressão.\n<sup>7</sup> Então, eu disse: “Eis aqui estou;\nNo rolo, consta sobre mim.\n<sup>8</sup> O meu prazer é teu querer cumprir,\nE dentro\\_em mim tua lei está.”",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-040-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> E proclamei as novas de justiça\nPerante\\_os santos na congregação.\nTu sabes que jamais cerrei os lábios;\nTu bem o sabes, ó Senhor meu Deus.\n<sup>10</sup> Tua justiça\\_em mim não ocultei,\nFidelidade proclamei.\nNão escondi da grande reunião\nVerdade, graça\\_e salvação.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-040-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>11</sup> Mercê, ó Deus, de mim não deixes longe;\nVerdade\\_e graça venham me guardar.\n<sup>12</sup> São incontáveis males que me cercam;\nJá me\\_alcançou tamanha transgressão!\nSão mais que meus cabelos, muito mais;\nMe desfalece\\_o coração.\n<sup>13</sup> Ó Deus, te\\_apressa\\_em dar-me salvação!\nOh, vem, Senhor, me socorrer!",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-040-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>14</sup> Envergonhado, cheio de vexame\nSeja\\_o que quer a vida me tirar!\nSim, volte\\_atrás coberto de vergonha\nQuem tem prazer se mal me sobrevém!\n<sup>15</sup> Por sua ignomínia sofram, pois,\nOs que estão falando\\_assim,\nDizendo “Foi bem-feito! Muito bem!”\nSofram de ti perturbação!",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-040-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>16</sup> Em ti se\\_alegrem, sejam jubilantes\nOs que te buscam, todos, ó Senhor.\nQuem ama\\_a tua salvação proclame:\n“Engrandecido seja\\_o nosso Deus!”\n<sup>17</sup> Necessitado\\_e pobre\\_embora sou,\nCuida de mim o meu Senhor.\nÉs meu amparo, meu libertador!\nNão te detenhas, ó Deus meu!",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

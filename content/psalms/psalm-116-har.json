@@ -1,0 +1,72 @@
+{
+  "id": "psalm-116-har",
+  "collection": "psalms",
+  "number": 116,
+  "numberLabel": "Salmo 116",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-116",
+  "attrs": {
+    "attribution": "CBS - Pilgrims"
+  },
+  "sortOrder": 192,
+  "units": [
+    {
+      "id": "psalm-116-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Amo\\_o Senhor, pois meu clamor escuta\n<sup>2</sup> E\\_os seus ouvidos inclinou a mim.\nEnquanto\\_aqui viver, hei de\\_invocá-lo.\n<sup>3</sup> Laços de morte me\\_envolvendo\\_estão.\nSinto do\\_inferno\\_angústias em mim;\nMe\\_acometeu tristeza\\_e tribulação.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-116-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Ao nome do Senhor clamei dizendo:\n“Ó meu Senhor, minha\\_alma vem livrar”.\n<sup>5</sup> Justo\\_é\\_o Senhor e muito compassivo;\nMisericordioso\\_é\\_o nosso Deus.\n<sup>6</sup> Pelos humildes vela\\_o Senhor.\nProstrado\\_estava, mas meu Deus me salvou.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-116-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Volta, minha\\_alma para\\_o teu sossego,\nPois generoso pra contigo\\_é Deus,\n<sup>8</sup> Porque da morte me livraste\\_a alma;\nDo choro,\\_os olhos; de cair, meus pés.\n<sup>9</sup> E, na presença do meu Senhor,\nNa terra dos viventes, eu andarei.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-116-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Eu cria, mesmo tendo\\_assim falado:\n“Estive sobremodo\\_em aflição”.\n<sup>11</sup> Eu disse\\_enquanto\\_estava perturbado:\n“Todos os homens mentirosos são”.\n<sup>12</sup> E\\_o que darei, pois, ao meu Senhor\nPor tantos benefícios que\\_Ele me deu?",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-116-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>13</sup> Eu tomarei da salvação a taça,\nInvocarei o nome do Senhor\n<sup>14</sup> E cumprirei diante do seu povo\nOs votos que\\_ao Senhor meu Deus eu fiz.\n<sup>15</sup> É preciosa\\_aos olhos de Deus\nA morte dos seus santos, preciosa é.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-116-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>16</sup> Ó meu Senhor, deveras sou teu servo;\nFilho da tua serva sou, meu Deus.\nOs meus grilhões quebraste todos eles.\n<sup>17</sup> Ações de graças hei de\\_oferecer\nE sacrifícios a ti, meu Deus.\nÓ meu Senhor, teu nome\\_eu hei de\\_invocar.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-116-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>18</sup> E, na presença do seu povo todo,\nMeus votos ao Senhor eu cumprirei,\n<sup>19</sup> Nos átrios do Senhor, em sua casa,\nSim, em teu meio, ó Jerusalém,\nNos átrios, pois, da casa de Deus,\nSim, em Jerusalém, oh, aleluia!",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

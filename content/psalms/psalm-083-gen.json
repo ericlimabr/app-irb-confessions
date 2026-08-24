@@ -1,0 +1,72 @@
+{
+  "id": "psalm-083-gen",
+  "collection": "psalms",
+  "number": 83,
+  "numberLabel": "Salmo 83",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-083",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 136,
+  "units": [
+    {
+      "id": "psalm-083-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh, não te cales, meu Senhor,\nNem fiques inativo,\\_ó Deus!\n<sup>2</sup> Teus inimigos se agitam,\nE\\_os que te\\_odeiam já levantam.\n<sup>3</sup> Tramando\\_estão contra\\_o teu povo,\nContra teus protegidos tramam.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-083-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> “Vamos riscá-los das nações”\nÉ o que dizem contra nós;\n“E que não haja mais memória\nDo nome de\\_Israel não lembrem”.\n<sup>5</sup> Pois contra ti estão tramando;\nContra ti firmam aliança.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-083-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Ismaelitas e\\_os de\\_Edom,\nOs de Hagar e Moabe,\n<sup>7</sup> Gebal, Amom e Amaleque,\nComo\\_os de Tiro, a Filístia;\n<sup>8</sup> Também a\\_Assíria\\_está com eles,\nAos filhos de Ló aliados.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-083-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Faz como fez a Midiã,\nComo a Sísera\\_e Jabim,\n<sup>10</sup> Os quais morreram, sim, em En-Dor;\nEles tornaram-se\\_em adubo.\n<sup>11</sup> Sejam seus nobres como\\_Orebe,\nQual Zeba, Zeebe\\_e Zalmuna.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-083-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Disseram: “Vamos nós tomar\nAs residências do Senhor”.\n<sup>13</sup> Deus meu, fazei-os como folhas\nQuando\\_estão em remoinho,\nComo a palha\\_ao léu do vento,\n<sup>14</sup> Como o fogo consumindo.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-083-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> Assim, persegue-os, Senhor\nE também amedronta-os.\n<sup>16</sup> Enche seus rostos de vergonha,\nPara que busquem o teu nome.\n<sup>17</sup> Que sejam bem envergonhados;\nPra sempre, sejam confundidos.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-083-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Envergonhados sejam, pois,\nE confundidos sempre, sim;\nQue se perturbem e pereçam.\n<sup>18</sup> E reconhecerão que só tu\nÉs o Altíssimo que reinas.\nTu és Senhor sobre a terra.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

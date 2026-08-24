@@ -1,0 +1,64 @@
+{
+  "id": "psalm-006-gen",
+  "collection": "psalms",
+  "number": 6,
+  "numberLabel": "Salmo 6",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-006",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 11,
+  "units": [
+    {
+      "id": "psalm-006-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh! Não me repreendas,\nSenhor, na tua ira,\nE, com o teu furor,\nNão venhas castigar-me.\n<sup>2</sup> Senhor, sê compassivo,\nPois eu me sinto mal.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-006-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Sara-me,\\_ó Deus, pois estão\nMeus ossos abalados.\nVem me sarar, Senhor!\n<sup>3</sup> Minha\\_alma\\_está turbada,\nDeveras abalada.\nOh! Até quando,\\_ó Deus?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-006-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Oh! Que te voltes, Senhor!\nSim, vem livrar minha\\_alma;\nCom graça, me salvar!\n<sup>5</sup> Na morte, quem te lembra?\nNa sepultura estando,\nQuem te dará louvor?",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-006-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Cansado\\_estou de gemer.\nMeu leito,\\_à noite,\\_alago\nDe tanto eu chorar.\n<sup>7</sup> Meus olhos se\\_amortecem,\nDe mágoa se\\_envelhecem\nPelo\\_adversário meu.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-006-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Oh! Apartai-vos de mim,\nVós todos os iníquos,\nPorque Deus me\\_escutou,\nOuviu o meu lamento,\n<sup>9</sup> Ouviu-me suplicando\nEm minha oração.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-006-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Sejam envergonhados,\nDeveras perturbados\nOs inimigos meus\nE, repentinamente,\nCobertos de vexames,\nVenham tornar atrás.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

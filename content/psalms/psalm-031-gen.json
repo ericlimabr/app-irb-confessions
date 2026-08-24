@@ -1,0 +1,168 @@
+{
+  "id": "psalm-031-gen",
+  "collection": "psalms",
+  "number": 31,
+  "numberLabel": "Salmo 31",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-031",
+  "attrs": {
+    "attribution": "Arthur Pires / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 55,
+  "units": [
+    {
+      "id": "psalm-031-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Tu és o meu refúgio, Senhor.\nNão seja eu jamais\nEnvergonhado, não.\nLivra-me por tua justiça.\n<sup>2</sup> Inclina teus ouvidos,\nMe livra bem depressa.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-031-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Sê meu castelo forte, Senhor,\nMeu baluarte, sim,\nQue venha me salvar,\n<sup>3</sup> Porque tu és a minha rocha\nE\\_a minha cidadela;\nÉs minha fortaleza.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-031-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Por causa do teu nome, Senhor,\nTu me conduzirás,\nTambém me guiarás.\n<sup>4</sup> Dos laços que me ocultaram,\nSenhor, hás de livrar-me,\nPois és meu baluarte.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-031-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> O meu espírito\\_entrego a ti.\nTu me remiste,\\_ó Deus.\nDeus da verdade\\_és tu.\n<sup>6</sup> Tu aborreces os que\\_adoram\nE\\_aos ídolos se prostram,\nPorém em ti confio.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-031-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Em tua bondade vou me\\_alegrar,\nPois a minha\\_aflição\nTens visto, ó Senhor.\nMinhas angústias tu conheces.\n<sup>8</sup> E não me entregaste\nNas mãos do inimigo.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-031-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Firmaste os meus pés, ó Senhor,\nEm uma região\nBem espaçosa, sim.\n<sup>9</sup> Senhor, de mim te compadeças.\nMe sinto\\_atribulado.\nMuita tristeza\\_eu tenho.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-031-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Meus olhos se consomem, ó Deus,\nA alma\\_e\\_o corpo meu\nDe tanto\\_entristecer.\n<sup>10</sup> Pois gasto toda\\_a minha vida\nE os meus anos todos\nEm choros e gemidos.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-031-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "A minha força débil está\nPor causa do meu mal,\nSim, do pecado meu.\nOs ossos meus já se consomem.\n<sup>11</sup> Eu me tornei opróbrio\nPara\\_os meus inimigos.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-031-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Para\\_o vizinho,\\_espanto eu sou\nE também um horror\nPara\\_o amigo meu.\nTodos os que me veem na rua\nFogem de mim pra longe.\nEu me tornei opróbrio.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-031-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>12</sup> Me esqueceram no coração\nTal homem que morreu\nOu vaso que quebrou,\n<sup>13</sup> Pois tenho\\_ouvido murmurarem\nE contra mim falarem,\nTerror por todo lado.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-031-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "Conspiram contra mim, ó Senhor,\nSim, tramam me matar.\n<sup>14</sup> Porém confio\\_em ti.\nEu disse: tu, sim, és o meu Deus.\n<sup>15</sup> Nas tuas mãos somente,\nEstão meus dias todos.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-031-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "Nas tuas mãos, meus dias estão.\nOh, livra-me das mãos\nDos inimigos meus,\nDe todos os que me perseguem.\n<sup>16</sup> Teu rosto resplandece,\nSim, sobre o teu servo.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-031-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "Por tua compaixão, vem salvar.\n<sup>17</sup> Não seja eu jamais\nEnvergonhado, não;\nPois eu te invoquei, Senhor meu.\nHumilha os perversos,\nNa morte\\_emudecidos.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-031-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>18</sup> Os mentirosos faze calar,\nQue contra\\_o justo teu\nFalam com presunção,\nCom insolência\\_e menosprezo.\n<sup>19</sup> Quão grande\\_é tua bondade!\nPreservas quem te teme.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-031-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "Quão grande\\_é tua bondade, Deus meu,\nQue reservada\\_está\nPra quem te teme,\\_ó Deus,\nPerante os filhos dos homens.\nTu usas para\\_aqueles\nQue\\_em ti se refugiam.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-031-gen-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "<sup>20</sup> No\\_escuso da tua presença,\\_ó Deus,\nTu os esconderás\nDo homem a tramar.\nSenhor, em um esconderijo,\nOcultarás a eles\nDa língua que contende.",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "psalm-031-gen-v17",
+      "kind": "verse",
+      "label": "17",
+      "body": "<sup>21</sup> Bendito seja Deus, o Senhor,\nQue sua compaixão\nA mim engrandeceu\nNuma cidade sitiada!\n<sup>22</sup> Na minha pressa,\\_eu disse:\n\"De ti fui excluído\".",
+      "attrs": {},
+      "sortOrder": 17
+    },
+    {
+      "id": "psalm-031-gen-v18",
+      "kind": "verse",
+      "label": "18",
+      "body": "Mas minha voz ouviste, Senhor,\nQuando\\_eu a ti clamei\nPor teu socorro,\\_ó Deus.\n<sup>23</sup> A Deus amai, vós que sois santos.\nDeus aos fiéis preserva,\nSim, aos fiéis preserva.",
+      "attrs": {},
+      "sortOrder": 18
+    },
+    {
+      "id": "psalm-031-gen-v19",
+      "kind": "verse",
+      "label": "19",
+      "body": "Mas, com largueza, Deus pagará\nAos que soberbos são.\n<sup>24</sup> Vós, sede fortes, pois,\nE\\_o coração se revigore.\nSim, vós que\\_esperais nele,\nQue Deus vos fortaleça.",
+      "attrs": {},
+      "sortOrder": 19
+    }
+  ]
+}

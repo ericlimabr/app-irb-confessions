@@ -1,0 +1,72 @@
+{
+  "id": "psalm-051-gen",
+  "collection": "psalms",
+  "number": 51,
+  "numberLabel": "Salmo 51",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-051",
+  "attrs": {
+    "attribution": "Lucas Freire / Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 86,
+  "units": [
+    {
+      "id": "psalm-051-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh, compadece-te de mim, ó Deus,\nSegundo\\_a compaixão que tu possuis.\nPor multidão das tuas misericórdias,\nVem apagar as minhas transgressões.\n<sup>2</sup> Meu transgredir de todo vem lavar\nE purifica-me do meu pecado,\n<sup>3</sup> Pois eu conheço\\_as minhas transgressões;\nÀ minha frente,\\_está meu dolo sempre.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-051-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Foi contra ti somente que pequei;\nFiz o que\\_é mau perante os teus olhos.\nDeus, és bem justo\\_aquilo que declaras;\nSim, és bem puro sempre\\_em teu julgar.\n<sup>5</sup> Em meio\\_à\\_iniquidade, eu nasci;\nA mãe me concebeu em seu pecado.\n<sup>6</sup> Eis que, no íntimo, o teu prazer,\nO teu prazer se\\_encontra na verdade.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-051-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "E, no recôndito, ó meu Senhor,\nMe fazes conhecer sabedoria.\n<sup>7</sup> Me limpa\\_e purifica com hissopo;\nMais alvo do que\\_a neve,\\_então, serei.\n<sup>8</sup> Faze-me\\_ouvir alegre jubilar,\nPara\\_exultar os ossos que\\_esmagaste.\n<sup>9</sup> Esconde\\_o rosto dos pecados meus;\nApaga toda\\_a minha\\_iniquidade.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-051-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Cria em mim um puro coração\nE um espírito que não se\\_abala.\n<sup>11</sup> Não me repulses da tua presença\nNem tires teu Espírito de mim.\n<sup>12</sup> Minha\\_alegria\\_em tua salvação\nTraze de volta, vem restituí-la.\nVem sustentar a mim, bondoso Deus,\nCom um espírito bem voluntário.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-051-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>13</sup> Aos transgressores eu ensinarei;\nOs teus caminhos hei de ensiná-los;\nA ti se\\_entregarão os pecadores.\n<sup>14</sup> Ó Deus, Senhor da minha salvação,\nDo crime de matar vem me livrar;\nTua justiça\\_a minha língua\\_exalta!\n<sup>15</sup> Senhor, meus lábios vem, agora,\\_abrir;\nE minha boca cantará louvores.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-051-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>16</sup> Não te comprazes no sacrificar,\nPois do contrário a ti os daria.\nNão te agradarás de holocaustos.\n<sup>17</sup> O sacrifício que agrada\\_a Deus\nÉ um espírito em contrição,\nUm coração que\\_esteja quebrantado,\nSim, compungido, triste coração;\nNão o desprezarás, Senhor, ó Deus meu.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-051-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>18</sup> Deus, na cidade de Sião faz bem,\nSegundo te apraz boa vontade.\nOh, vem, agora,\\_edificar os muros,\nFortalecendo a Jerusalém.\n<sup>19</sup> Então, eu sei que vais te agradar\nDos sacrifícios feitos em justiça,\nDos holocaustos feitos a queimar.\nEm teu altar, ofertarão novilhos.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

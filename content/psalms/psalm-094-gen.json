@@ -1,0 +1,104 @@
+{
+  "id": "psalm-094-gen",
+  "collection": "psalms",
+  "number": 94,
+  "numberLabel": "Salmo 94",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-094",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 153,
+  "units": [
+    {
+      "id": "psalm-094-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus das vinganças, resplandece.\n<sup>2</sup> Te\\_exalta, ó juiz da terra\nDá pago aos soberbos, sim.\n<sup>3</sup> Oh! Até quando, ó Senhor,\nOs ímpios hão de exultar?\nOh! Até quando, ó Senhor?",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-094-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Impiedade eles falam,\nProferem coisas muito duras.\nOs que praticam atos maus\nVivem a se vangloriar.\n<sup>5</sup> Esmagam o teu povo,\\_ó Deus,\nA tua\\_herança\\_a oprimir.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-094-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Matam os órfãos e viúvas\nE assassinam o\\_estrangeiro.\n<sup>7</sup> E dizem: “O Deus de Jacó,\nEle não vê nem caso faz”.\n<sup>8</sup> Ó insensatos, atendei!\nQuando prudentes vós sereis?",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-094-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Acaso, quem fez o ouvido\nNão poderá, pois, escutá-los?\nAquele que aos olhos fez,\nAcaso, não enxergará?\n<sup>10</sup> Quem repreende as nações,\nAcaso, não irá punir?",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-094-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "O que nos dá conhecimento\nNão tem também sabedoria?\n<sup>11</sup> Dos homens Deus conhece bem\nTodos os pensamentos seus.\nApenas vaidade são,\nSão todos pensamentos vãos.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-094-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Senhor, é bem-aventurado\nO homem a quem tu castigas,\nA quem ensinas tua lei,\n<sup>13</sup> Para fazê-lo repousar\nNos dias maus, até se\\_abrir\nA cova para\\_o homem mau.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-094-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>14</sup> Deus não rejeita o seu povo\nNem desampara sua\\_herança.\n<sup>15</sup> Juízo se converterá,\nSim, em justiça tornará.\nSegui-la-ão todos os que\nPossuem reto coração.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-094-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>16</sup> Quem se levantará comigo\nContra\\_os perversos, contra\\_os ímpios,\nOs quais praticam o que\\_é mau?\n<sup>17</sup> Não fosse Deus o\\_auxílio meu,\nA minha alma\\_iria\\_estar,\nJá no silêncio,\\_iria\\_estar.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-094-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>18</sup> E, quando o meu pé resvala,\nTu me sustentas com bondade.\n<sup>19</sup> Em meio\\_à grande multidão\nDe pensamentos dentro\\_em mim,\nMinha\\_alma,\\_ó Deus, vens alegrar\nCom o consolo que tu dás.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-094-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>20</sup> Acaso, pode\\_associar-se\nJunto a ti o trono\\_iníquo,\nO qual inventa o que\\_é mau,\nUsando por pretexto\\_a lei?\n<sup>21</sup> Contra o justo\\_a se\\_ajuntar,\nSangue\\_inocente\\_a condenar.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-094-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>22</sup> Senhor, tu és meu baluarte,\nMeu Deus, rochedo\\_em que me\\_abrigo.\n<sup>23</sup> Sobre os ímpios faz cair\nO seu pecado\\_e transgressão.\nPela malícia que\\_eles têm,\nAos ímpios exterminará.",
+      "attrs": {},
+      "sortOrder": 11
+    }
+  ]
+}

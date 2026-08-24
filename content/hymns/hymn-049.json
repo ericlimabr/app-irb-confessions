@@ -1,0 +1,41 @@
+{
+  "id": "hymn-049",
+  "collection": "hymns",
+  "number": 49,
+  "numberLabel": "Hino 49",
+  "title": "GRANDE DEUS, O TEU LOUVOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ORAÇÃO E SÚPLICA",
+    "author": "Robert Hawkey Moreton"
+  },
+  "sortOrder": 49,
+  "units": [
+    {
+      "id": "hymn-049-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Grande Deus, o teu louvor,\nHoje, unidos entoamos.\nTeu excelso e terno amor,\nJubilosos, celebramos.\nCulto damos só a ti\nAbençoa-nos aqui.\nCulto damos só a ti.\nAbençoa-nos aqui.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-049-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Reina, Príncipe da Paz\nOnde agora o mal domina.\nObre em graça que perfaz\nDo evangelho a sã doutrina.\nLeve, ó Deus, a sua luz,\nTodo o orbe ao Rei Jesus.\nLeve, ó Deus, a sua luz,\nTodo o orbe ao Rei Jesus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-049-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Seja ao Pai, Supremo Deus,\nE ao Espírito de vida\nE a Jesus, nos altos céus,\nHonra sem cessar rendida.\nInfinito é seu poder.\nNele temos vida e ser.\nInfinito é seu poder.\nNele temos vida e ser.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "psalm-015-gen",
+  "collection": "psalms",
+  "number": 15,
+  "numberLabel": "Salmo 15",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-015",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 29,
+  "units": [
+    {
+      "id": "psalm-015-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Quem, ó Senhor, habitará\nNo tabernáculo, tua casa?\nQue homem pode,\\_ali, morar,\nNo santo monte do Senhor?\n<sup>2</sup> Quem vive com integridade.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-015-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Justiça vive\\_a praticar,\nDe coração fala\\_a verdade;\n<sup>3</sup> Que não difama no falar,\nAo semelhante não faz mal\nNem lança\\_injúria ao vizinho.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-015-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Aquele que aos olhos tem\nPor desprezível o malvado,\nMas honra quem teme\\_ao Senhor;\nJura, mas sem se retratar,\nMesmo que sofra dano próprio.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-015-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Empresta sem agiotar,\nTambém suborno não aceita\nPara\\_inocentes condenar.\nQuem deste modo proceder\nJamais será, pois, abalado.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

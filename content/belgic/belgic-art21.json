@@ -1,0 +1,36 @@
+{
+  "id": "belgic-art21",
+  "collection": "belgic",
+  "number": 21,
+  "numberLabel": "Art. 21",
+  "title": "A satisfação de Cristo, nosso Sumo Sacerdote",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 21,
+  "units": [
+    {
+      "id": "belgic-art21-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que Jesus Cristo foi confirmado por juramento para ser Sumo Sacerdote para sempre, segundo a ordem de Melquisedeque. Ele  se apresentou em nosso lugar diante de Seu Pai, aplacando-Lhe a ira e satisfazendo-O totalmente pela oferta de Si mesmo sobre o madeiro da  cruz,  onde  verteu  o  Seu  precioso  sangue  para  a  purificação  dos nossos pecados, conforme predisseram os profetas. Pois está escrito: _\"O castigo que nos traz a paz estava sobre Ele, e pelas Suas pisaduras fomos sarados\"_; _\"Como cordeiro foi levado ao matadouro\"_; _\"Foi contado com os transgressores\"_ (Is 53.5, 7, 12) e condenado como um criminoso por Pôncio Pilatos, que no entanto havia antes declarado a Sua inocência. Ele  restituiu  o  que  não  havia  roubado  (Sl  69.4).  Ele  morreu como o justo pelos injustos (1Pe 3.18). Ele sofreu no corpo e na alma, sentindo  o  castigo  terrível  causado  pelos  nossos  pecados,  e  o  _\"Seu suor se tornou como gotas de sangue caindo sobre a terra\"_ (Lc 22.44). Finalmente Ele exclamou: _\"Deus meu, Deus meu, por que me desamparaste?\"_ (Mt 27.46). Tudo isso Ele suportou para o perdão dos nossos pecados. Por essa causa dizemos, exatamente como Paulo, que nada sabemos _\"senão a Jesus Cristo e este crucificado\"_ (1Co 2.2). Consideramos _\"tudo como perda, por causa da sublimidade do conhecimento de Cristo Jesus\"_ nosso Senhor (Fp 3.8). Nas suas feridas encontramos consolação e não temos necessidade de buscar ou de inventar qualquer outro meio de reconciliação com Deus senão esse único sacrifício, ofertado uma única vez, através do qual os que creem foram aperfeiçoados para sempre (Hb 10.14). Por isso o anjo de Deus O chamou de _Jesus_, isto é, Salvador, _\"porque ele salvará o Seu povo dos pecados deles\"_ (Mt 1.21).",
+      "attrs": {
+        "refs": [
+          "Sl 110.4; Hb 7.15-17.",
+          "Rm 4.25; Rm 5.8, 9; Rm 8.32; Gl 3.13; Cl 2.14; Hb 2.9, 17; Hb 9.11-15.",
+          "At 2.23; Fp 2.8; 1Tm 1.15; Hb 9.22; 1Pe 1.18, 19; 1Jo 1.7; Ap 7.14.",
+          "Lc 24.25-27; Rm 3.21; 1Co 15.3.",
+          "1Pe 2.24.",
+          "Mc 15.28.",
+          "Jo 18.38.",
+          "Rm 5.6.",
+          "Sl 22.15.",
+          "Hb 7.26-28; Hb 9.24-28.",
+          "Lc 1.31; At 4.12."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

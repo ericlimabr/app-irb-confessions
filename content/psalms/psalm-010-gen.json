@@ -1,0 +1,64 @@
+{
+  "id": "psalm-010-gen",
+  "collection": "psalms",
+  "number": 10,
+  "numberLabel": "Salmo 10",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-010",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 19,
+  "units": [
+    {
+      "id": "psalm-010-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Por que tão longe ficas, ó Senhor,\nE te escondes na tribulação?\n<sup>2</sup> Ao pobre\\_os ímpios buscam perseguir\nCom arrogância e perversidão.\nNos próprios laços presos venham ser,\n<sup>3</sup> Pois se gloriam em sua cobiça.\nO avarento contra Deus blasfema.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-010-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> O ímpio não procura\\_investigar.\nEm sua soberba, diz que não há Deus.\n<sup>5</sup> As suas obras sempre\\_a prosperar,\nBem longe\\_os teus juízos dele\\_estão.\nPõe-se a rir dos inimigos seus,\n<sup>6</sup> Pois, em seu coração, assim afirma:\n“Eu nunca sofrerei nenhum abalo”.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-010-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Na sua boca, só tem maldição,\nInsulto,\\_engano, mal e opressão.\n<sup>8</sup> Põe-se nas vilas para espreitar\nPara,\\_em oculto,\\_o justo trucidar.\nSeus olhos sobre\\_o desvalido\\_estão.\n<sup>9</sup> Espreita, qual leão em sua caverna,\nE,\\_então, apanha\\_o pobre\\_em sua rede.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-010-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Então, se\\_abaixa\\_e põe-se\\_a rastejar.\nEm seu poder, o desvalido cai.\n<sup>11</sup> Diz em seu coração: Deus se\\_esqueceu,\nVirou o rosto\\_e não verá jamais.\n<sup>12</sup> Ó Deus, levanta e\\_ergue\\_a tua mão.\nNão te esqueças dos necessitados!\nOh, não te\\_esqueças dos que são humildes!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-010-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>13</sup> Por que razão despreza\\_o ímpio\\_a Deus,\nPensando que Deus não se\\_importará?\n<sup>14</sup> Mas te atentas ao trabalho seu\nPra que o possas em tuas mãos tomar.\nO desvalido se entrega\\_a ti,\nPois tu tens sido\\_o defensor do órfão.\n<sup>15</sup> Oh, quebra\\_o braço do mau e perverso!",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-010-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>16</sup> Um reino\\_eterno\\_é\\_o reino do Senhor.\nDa tua terra, somem-se\\_as nações.\n<sup>17</sup> Do pobre tens ouvido\\_a petição\nE fortalecerás seu coração.\n<sup>18</sup> Farás justiça\\_ao que\\_oprimido for\nA fim de que o homem desta terra\nNão mais prossiga\\_em sua violência.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

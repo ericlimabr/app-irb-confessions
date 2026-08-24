@@ -1,0 +1,40 @@
+{
+  "id": "psalm-131-har",
+  "collection": "psalms",
+  "number": 131,
+  "numberLabel": "Salmo 131",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-131",
+  "attrs": {
+    "attribution": "CBS - Humility"
+  },
+  "sortOrder": 247,
+  "units": [
+    {
+      "id": "psalm-131-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Não é soberbo\\_o meu coração,\nNem tenho\\_altivo\\_o\\_olhar.\nAs grandes coisas não vou buscar,\nGrandes demais pra mim.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-131-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Mas a minha\\_alma\\_eu fiz sossegar.\nComo\\_um infante\\_está\nBem desmamado, com sua mãe,\nMinha\\_alma\\_assim está.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-131-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Ó Israel, espera em Deus,\nEspera no Senhor,\nDesde\\_o presente, que\\_agora é,\nE para sempre!\\_Amém!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "psalm-110-har",
+  "collection": "psalms",
+  "number": 110,
+  "numberLabel": "Salmo 110",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-110",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 181,
+  "units": [
+    {
+      "id": "psalm-110-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Disse\\_o Senhor ao meu Senhor: \"Comigo\nAssenta-te\\_à direita minha\\_até\nQue eu derrube os teus inimigos\nAssim como\\_escabelo aos teus pés.\"",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-110-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Alcança-te o cetro, tua glória;\nÉ de Sião que\\_emana\\_o seu poder.\n<sup>3</sup> Teu povo se\\_apresenta à vitória;\nSão voluntários na batalha\\_a ter.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-110-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Teus jovens vêm em santos vestimentos;\nNa\\_aurora, erguem-se em saudação.\nOrvalho,\\_a flor do povo,\\_alegremente;\nE, destemidos, te\\_acompanharão.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-110-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>4</sup> Deus se jurou, sem arrependimento,\nQue\\_igual Melquisedeque\\_o consagrou.\n“És sacerdote sempiternamente.”\nContigo\\_é\\_o Senhor, fará\\_o que falou.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-110-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>5</sup> Sobre\\_as nações fará seu julgamento;\nSeu veredito\\_Ele\\_executará.\n<sup>6</sup> Durante\\_a migra, bebe de torrentes,\nE, de cabeça\\_erguida, passará.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

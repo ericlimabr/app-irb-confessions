@@ -1,0 +1,104 @@
+{
+  "id": "psalm-081-gen",
+  "collection": "psalms",
+  "number": 81,
+  "numberLabel": "Salmo 81",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-081",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 132,
+  "units": [
+    {
+      "id": "psalm-081-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Cantai, jubilai\nA Deus, nossa força.\nO Deus de Jacó\nCelebrai-o\\_assim.\n<sup>2</sup> Oh! Salmodiai,\nEntoai louvores!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-081-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Tocai tamboril,\nSaltério e harpa!\n<sup>3</sup> Trombetas tocai\nQuando\\_a lua está\nCheia\\_ou nova for,\nPois é nossa festa!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-081-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Preceito\\_a\\_Israel\nPrescrito ao povo\nDo Deus de Jacó\n<sup>5</sup> Ordenou Javé\nE\\_a José mandou\nAo sair do Egito.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-081-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Ouvi um falar\nQue não conhecia.\n<sup>6</sup> Do peso livrei\nOs seus ombros, sim;\nSuas mãos também,\nDe pesados cestos.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-081-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Clamaste na dor;\nProvi livramento.\nNo\\_oculto trovão,\nEu te respondi\nQuando,\\_em Meribá,\nFoste tu provado.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-081-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>8</sup> Ouve,\\_ó Israel;\nQuero exortar-te:\nSe\\_ouvisses a mim!\n<sup>9</sup> Não exista\\_em ti\nDeus além de mim\nNem a ele adores.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-081-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>10</sup> Eu sou o Senhor\nTeu Deus, que te livrou.\nDo\\_Egito tirei,\nEu te libertei.\nAbre\\_a boca bem:\nEis que será cheia!",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-081-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>11</sup> Mas o povo meu\nNão me deu ouvidos!\nNão me atendeu!\n<sup>12</sup> Eu\\_o deixei andar\nNo seu mui teimar:\nSiga\\_os seus conselhos!",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-081-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>13</sup> Ah! Se\\_o povo meu\nA mim escutasse!\nSe\\_andasse\\_Israel\nNos caminhos meus,\n<sup>14</sup> O\\_inimigo seu\nEu abateria.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-081-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "Deitaria mão\nContra\\_os adversários.\n<sup>15</sup> Quem aborrecer,\nRejeitar Javé\nSujeitar-lhe-ei;\nIsto, para sempre.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-081-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>16</sup> Sustento\\_a Israel,\nAssim, eu daria:\nCom trigo mui bom,\nFartaria, sim.\nDar-lhe-ia mel\nQue da rocha\\_escorre.",
+      "attrs": {},
+      "sortOrder": 11
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "psalm-146-har",
+  "collection": "psalms",
+  "number": 146,
+  "numberLabel": "Salmo 146",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-146",
+  "attrs": {
+    "attribution": "CBS - Ripley"
+  },
+  "sortOrder": 275,
+  "units": [
+    {
+      "id": "psalm-146-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Aleluia! Ó minha\\_alma,\nGlorifica\\_ao teu Senhor,\n<sup>2</sup> E, durante\\_a minha vida,\nCantarei em seu louvor.\n<sup>3</sup> Não confieis em governantes\nNem nos homens pra salvar.\n<sup>4</sup> Seus projetos cessam todos\nQuando\\_o\\_espírito lhes sai.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-146-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Bem-aventurado\\_aquele\nCujo Deus é\\_o de Jacó,\nQue recebe seu auxílio,\nEsperando\\_em Deus Javé.\n<sup>6</sup> Ele fez os céus e\\_a terra,\nFez o mar e tudo\\_o mais\nE fiel, eternamente,\nO Senhor se manterá.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-146-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Faz justiça\\_aos oprimidos,\nAo faminto dá o pão.\nO Senhor liberta\\_os presos,\n<sup>8</sup> Abatidos põe de pé.\nO Senhor ao justo ama,\nFaz o cego enxergar.\n<sup>9</sup> Sobre órfãos e viúvas\nSeu amparo Ele dá.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-146-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "O Senhor ao forasteiro\nLhe concede proteção,\nMas dos ímpios o caminho\nO Senhor transtornará.\n<sup>10</sup> Para sempre,\\_o Senhor reina!\nÓ Sião, teu Deus é Rei!\nDe\\_uma geração à outra,\nReina Deus! Aleluia!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

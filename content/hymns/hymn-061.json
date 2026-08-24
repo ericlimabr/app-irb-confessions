@@ -1,0 +1,49 @@
+{
+  "id": "hymn-061",
+  "collection": "hymns",
+  "number": 61,
+  "numberLabel": "Hino 61",
+  "title": "A DEUS BENDIZEMOS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Frances Jane Crosby / Joseph Jones"
+  },
+  "sortOrder": 61,
+  "units": [
+    {
+      "id": "hymn-061-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "A Deus bendizemos, por seu grande amor,\nSeu Filho bendito por nós todos deu,\nE graça concede ao mais vil pecador,\nAbrindo-lhe a porta de entrada no céu.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-061-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Exultai! Exultai! E louvai com fervor\nA Jesus, exaltai, a Jesus, Redentor!\nA Deus Pai bendizemos, porquanto do céu\nSeu Filho bendito por nós todos deu!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-061-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Oh! Graça real! Assim foi que Jesus,\nMorrendo, seu sangue por nós derramou,\nHerança nos céus, com os salvos em luz,\nLegou-nos aquele que o preço pagou.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-061-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Tal prova de amor nos persuade a confiar\nNos merecimentos do Filho de Deus!\nE quem, a Jesus, pela fé se entregar,\nVai vê-lo sentado na glória dos céus.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

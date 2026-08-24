@@ -1,0 +1,80 @@
+{
+  "id": "psalm-062-gen",
+  "collection": "psalms",
+  "number": 62,
+  "numberLabel": "Salmo 62",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-062",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 103,
+  "units": [
+    {
+      "id": "psalm-062-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Somente\\_em Deus, ó minha\\_alma,\nSilente,\\_espera no Senhor,\nPois minha salvação vem dele.\n<sup>2</sup> Só Ele é minha rocha,\nRefúgio alto\\_e salvação.\nEu não serei muito\\_abalado!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-062-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Oh! Até quando vós todos\nContra um homem mal fareis,\nPara assim o derribardes\nComo parede pendida\nOu muro prestes a cair?\nOh! Até quando? Até quando?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-062-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Só pensam em derribá-lo\nDa dignidade que\\_ele tem\nE na mentira se comprazem.\nCom sua boca, bendizem,\nPorém, em seu interior,\nSó falam de perversidade.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-062-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Somente\\_em Deus, ó minha\\_alma,\nSilente,\\_espera no Senhor,\nPois dele vem minha\\_esperança.\n<sup>6</sup> Só Ele é minha rocha,\nRefúgio alto\\_e salvação.\nJamais eu sofrerei abalo!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-062-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Em Deus está minha glória,\nO meu refúgio\\_e salvação\nE também minha forte rocha.\n<sup>8</sup> Povo, confiai nele sempre\nE derramai o coração\nPerante Deus, refúgio nosso!",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-062-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Os homens de classe baixa,\nPor certo, vaidade são;\nE os de ordem elevada\nNão passam de falsidade.\nQuando pesados juntos, são\nMais leves do que\\_a vaidade.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-062-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>10</sup> Não ponhais vossa confiança\nNaquilo que vós extorquis\nNem na rapina vos gloriem.\nSe as riquezas aumentam,\nNão coloqueis o coração\nEm vosso enriquecimento.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-062-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>11</sup> A boca do Senhor disse,\nE duas vezes eu ouvi\nQue o poder a Deus pertence.\n<sup>12</sup> Pertence\\_a ti, Deus, a graça.\nA cada um tu retribuis\nSegundo\\_as obras que praticam.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

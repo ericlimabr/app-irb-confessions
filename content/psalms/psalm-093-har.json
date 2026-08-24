@@ -1,0 +1,40 @@
+{
+  "id": "psalm-093-har",
+  "collection": "psalms",
+  "number": 93,
+  "numberLabel": "Salmo 93",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-093",
+  "attrs": {
+    "attribution": "CBS - All to Christ I Owe"
+  },
+  "sortOrder": 152,
+  "units": [
+    {
+      "id": "psalm-093-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Eis que reina o Senhor; cingido Ele\\_está.\nDe poder e majestade\\_o Senhor se revestiu.\nO mundo Deus firmou, não vacilará.\n<sup>2</sup> Desde\\_a\\_antiguidade,\\_ó Deus, teu trono firme\\_está.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-093-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Tu és desde\\_a\\_eternidade,\\_ó Deus, nosso Senhor.\n<sup>3</sup> Levantando\\_os rios vão seu bramido, seu fragor.\n<sup>4</sup> Porém, Deus, o Senhor, lá nos altos céus,\nBem mais poderoso é que\\_os vagalhões do mar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-093-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Fidelíssimos, ó Deus, teus testemunhos são.\nÀ tua casa,\\_ó Deus, convém santidade, ó Senhor.\nÀ tua casa,\\_ó Deus, ó Senhor, convém,\nSim, a santidade para todo\\_o sempre, ó Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

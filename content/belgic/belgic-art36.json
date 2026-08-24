@@ -1,0 +1,40 @@
+{
+  "id": "belgic-art36",
+  "collection": "belgic",
+  "number": 36,
+  "numberLabel": "Art. 36",
+  "title": "O governo civil",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 36,
+  "units": [
+    {
+      "id": "belgic-art36-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que o nosso Deus gracioso, por causa da depravação do gênero humano, estabeleceu reis, governos e oficiais civis. Ele quer que o mundo seja governado por leis e planos de governo, para restringir os excessos dos homens e para que tudo transcorra em boa ordem entre eles. Para isso colocou Ele a espada na mão das autoridades para castigar os malfeitores e proteger os que praticam o bem (Rm 13.4). Eles têm por ofício não apenas restringir e conservar a boa ordem pública, mas também a proteção da igreja e do seu ministério para que * o reino de  Cristo  possa  vir,  a  Palavra  do  evangelho  seja  pregada  em  toda  a parte e Deus seja honrado e servido por todos - como Ele determina em Sua Palavra. Além  disso,  cada  um,  independente  da  sua  qualidade,  condição  ou classe é obrigado a submeter-se aos oficiais civis, pagar os impostos, respeitá-los e honrá-los, e obedecê-los em tudo aquilo que não contrarie a Palavra de Deus. Devemos orar por eles para que Deus os dirija  em  todos  os  seus  caminhos  e  para  que  _\"vivamos  vida tranquila e mansa, com toda piedade e respeito\"_ (1Tm 2.1, 2). Em razão disso reprovamos os Anabatistas e outros rebeldes, e em geral todos quantos se opõem às autoridades e aos oficiais civis, subvertem a justiça, introduzem a comunhão de bens, e perturbam a boa ordem que Deus estabeleceu entre os homens.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "belgic-art36-p2",
+      "kind": "article",
+      "label": null,
+      "body": "\\* As palavras a seguir foram eliminadas nesse ponto, em 1905, pelo Sínodo Geral das Igrejas Reformadas da Holanda (Gereformeerde Kerken in Nederland): _\"toda idolatria e falso culto devem ser removidos e impedidos, e o reino do anticristo deve ser destruído\"_.",
+      "attrs": {
+        "refs": [
+          "Pv 8.15; Dn 2.21; Jo 19.11; Rm 13.1.",
+          "Êx 18.20.",
+          "Dt 1.16; Dt 16.19; Jz 21.25; Sl 82; Jr 21.12; Jr 22.3; 1Pe 2.13, 14.",
+          "Sl 2; Rm 13.4a; 1Tm 2.1-4.",
+          "Mt 17.27; Mt 22.21; Rm 13.7; Tt 3.1; 1Pe 2.17.",
+          "At 4.19; At 5.29.",
+          "2Pe 2.10; Jd 8."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

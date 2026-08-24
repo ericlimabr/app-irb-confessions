@@ -1,0 +1,120 @@
+{
+  "id": "psalm-139-gen",
+  "collection": "psalms",
+  "number": 139,
+  "numberLabel": "Salmo 139",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-139",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 261,
+  "units": [
+    {
+      "id": "psalm-139-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Tu me sondas, ó meu Senhor.\nSondas-me e conheces-me.\n<sup>2</sup> Sabes quando\\_estou a sentar\nE também o meu levantar.\nE penetras meus pensamentos\nSim, penetras de longe, Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-139-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Esquadrinhas o meu andar\nE esquadrinhas meu deitar.\nConheces todo\\_o caminhar\n<sup>4</sup> E também todo\\_o meu falar,\nO qual não me chegou à língua;\nE tu já o conheces, Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-139-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Tu me cercas por trás e pões\nDiante\\_e sobre mim tua mão.\n<sup>6</sup> Maravilhoso por demais\nÉ tal conhecimento\\_a mim,\nÉ sobremodo elevado;\nE eu não o posso atingir.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-139-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Para onde me\\_ausentarei\nDo teu Espírito, Senhor?\nOu da tua face fugirei?\n<sup>8</sup> Se subo\\_aos céus, tu lá estás.\nSe eu, no mais profundo\\_abismo,\nFizer a cama, lá estarás.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-139-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Se\\_eu tomar asas da manhã\nOu nos confins do mar ficar,\n<sup>10</sup> Ainda\\_ali a tua mão,\nA tua mão me guiará.\nMesmo\\_ali, sei que\\_a tua destra,\nSei que\\_a tua destra me susterá.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-139-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Se\\_eu disser: “Hão de me cobrir\nAs trevas, e, ao meu redor,\nA luz em noite tornará”,\n<sup>12</sup> As próprias trevas não serão,\nNão serão para ti escuras;\nTrevas e luz pra ti são iguais.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-139-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Pois, no ventre da minha mãe,\nFormaste\\_o meu interior.\n<sup>14</sup> Graças te dou por me criar\nMaravilhosamente,\\_ó Deus.\nTuas obras são admiráveis\nE muito bem na minha\\_alma\\_o sei.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-139-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>15</sup> Os meus ossos não te\\_encobri\nQuando\\_eu entretecido fui.\nTal qual nas profundezas, fui\nFormado no oculto,\\_ó Deus.\n<sup>16</sup> E meu corpo ainda\\_informe\nCom os teus olhos viste, Senhor.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-139-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Escreveste nos livros teus\nMeus dias todos do viver.\nTu escreveste um por um,\nDeterminando cada um,\nQuando\\_ainda não existia\nNenhum dos dias do meu viver.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-139-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>17</sup> Quão preciosos são para mim\nOs pensamentos teus, Senhor!\nQuão grande\\_a soma deles é!\n<sup>18</sup> Mais do que\\_os grãos de\\_areia são.\nSe\\_os contasse, não poderia\nJamais a soma deles findar.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-139-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>19</sup> Oh, quem dera\\_ao perverso\\_e mau\nTu desses cabo, ó Senhor!\nHomens de sangue apartai,\nOh, apartai-vos, sim, de mim!\n<sup>20</sup> Contra ti eles são rebeldes,\nMalícias falam, são contra ti.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-139-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>21</sup> Senhor, não aborreço eu\nOs que\\_aborrecem ao Senhor?\nEis que não abomino eu\nQuem se levanta contra ti?\n<sup>22</sup> Sim, eu tenho\\_ódio consumado;\nDe fato, são inimigos meus.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-139-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>23</sup> Vem sondar-me, Senhor meu Deus,\nE conhecer meu coração.\nVem me provar e conhecer\nTodos os pensamentos meus.\n<sup>24</sup> Vê se\\_existe\\_algum mau caminho.\nNa senda\\_eterna, guia-me,\\_ó Deus!",
+      "attrs": {},
+      "sortOrder": 13
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "psalm-065-gen",
+  "collection": "psalms",
+  "number": 65,
+  "numberLabel": "Salmo 65",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-065",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 108,
+  "units": [
+    {
+      "id": "psalm-065-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A ti louvor e confiança\nSeja\\_em Sião, ó Deus,\nE\\_a ti o voto será pago,\nOh, sim, se pagará!\n<sup>2</sup> Ó tu que\\_a oração escutas,\nTodos virão a ti\n<sup>3</sup> Por causa das iniquidades\nE suas transgressões.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-065-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Se\\_as nossas transgressões dominam,\nTu as perdoarás.\n<sup>4</sup> É bem-aventurado\\_aquele\nA quem Deus escolher.\nE, pra que\\_assista nos teus átrios,\nFaze-o chegar a ti.\nCom a bondade da tua casa,\nFartos seremos, sim.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-065-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Em tua justiça, nos respondes,\nÓ Senhor nosso Deus.\nTremendos feitos realizas,\nÓ nosso Salvador.\nDe todos os confins da terra,\nTu esperança és.\nTambém dos mares mais longínquos,\nTu esperança és.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-065-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Por tua força, consolidas\nOs montes, ó Senhor.\nCingido de poder, <sup>7</sup> aplacas\nDos mares o rugir;\nDas suas ondas o ruído,\nDas gentes os motins.\n<sup>8</sup> Quem nos confins da terra\\_habita\nTeme os teus sinais.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-065-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Os que procedem do\\_Oriente\nOu do\\_Ocidente vêm\nTu fazes que, bem jubilosos,\nEles exultem, pois.\n<sup>9</sup> Regas a terra e\\_a visitas,\nEnriquecendo-a mais.\nSim, tu, Senhor, a enriqueces,\nEm grande profusão.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-065-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Os teus ribeiros abundantes\nDe\\_águas a derramar;\nA terra tu dispões, preparas,\nPara o cereal,\n<sup>10</sup> Regando\\_os sulcos, aplanando\nTodas as leivas, pois,\nQue amolecem com chuviscos,\nBênçãos na produção.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-065-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>11</sup> E\\_o ano, que foi produtivo,\nTu coroaste,\\_ó Deus.\nDa tua bondade coroada\nFoi toda\\_a produção.\nE, nos teus rastros, tem gordura,\nQue\\_está a destilar;\n<sup>12</sup> Sobre\\_as pastagens do deserto,\nFartura\\_a destilar.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-065-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "Vestem-se\\_os montes de\\_alegria.\nGrande jubilação!\n<sup>13</sup> Cobrem-se\\_os campos de rebanhos,\nVales a se vestir\nDe\\_espigas, que cobrem os vales,\nEm grande\\_exultação.\nVales e montes exultando,\nAlegres a cantar!",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

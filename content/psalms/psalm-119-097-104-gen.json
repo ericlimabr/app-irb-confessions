@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-097-104-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.97-104",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-097-104",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 213,
+  "units": [
+    {
+      "id": "psalm-119-097-104-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>97</sup> Oh! Quanto\\_eu amo,\\_ó Deus, a tua lei;\nO dia todo nela eu medito.\n<sup>98</sup> Teus mandamentos me fizeram ser\nMais sábio do que os meus inimigos,\nPorque os tenho sempre junto\\_a mim.\nTeus mandamentos sempre\\_estão comigo.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-097-104-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>99</sup> Eu compreendo mais que\\_os mestres meus,\nPorque medito nos teus testemunhos.\n<sup>100</sup> Sou mais prudente do que\\_os anciãos,\nPorque eu guardo,\\_ó Deus, os teus preceitos.\n<sup>101</sup> Do mau caminho eu desvio\\_os pés,\nA fim de observar tua palavra.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-097-104-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>102</sup> Dos teus juízos não me\\_apartarei,\nPorque, Senhor meu, tu a mim ensinas.\n<sup>103</sup> Quão doces as palavras tuas são,\nMais do que\\_o mel é doce\\_à minha boca!\n<sup>104</sup> Os teus preceitos fazem-me\\_entender.\nDa falsidade\\_a senda\\_eu abomino.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

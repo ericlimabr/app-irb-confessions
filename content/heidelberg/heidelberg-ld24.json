@@ -1,0 +1,87 @@
+{
+  "id": "heidelberg-ld24",
+  "collection": "heidelberg",
+  "number": 24,
+  "numberLabel": "Domingo 24",
+  "title": null,
+  "subtitle": "A Nossa Justificação",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 24,
+  "units": [
+    {
+      "id": "heidelberg-q062-q",
+      "kind": "question",
+      "label": "P. 62",
+      "body": "Mas, por que as nossas boas obras não podem ser a nossa justiça diante de Deus, ou pelo menos parte dessa justiça?",
+      "attrs": {
+        "questionNumber": 62
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q062-a",
+      "kind": "answer",
+      "label": "R. 62",
+      "body": "Porque a justiça que pode subsistir diante do juízo de Deus deve ser absolutamente  perfeita  e  totalmente  de  acordo  com  a  Sua  lei, enquanto até mesmo as nossas melhores obras nesta vida são todas imperfeitas e contaminadas com o pecado.",
+      "attrs": {
+        "questionNumber": 62,
+        "refs": [
+          "Dt 27.26; Gl 3.10.",
+          "Is 64.6."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q063-q",
+      "kind": "question",
+      "label": "P. 63",
+      "body": "Se as nossas boas obras não merecem nada, por que Deus promete recompensá-las nesta vida e na futura?",
+      "attrs": {
+        "questionNumber": 63
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q063-a",
+      "kind": "answer",
+      "label": "R. 63",
+      "body": "Essa recompensa não é por mérito, mas é um dom de graça.",
+      "attrs": {
+        "questionNumber": 63,
+        "refs": [
+          "Mt 5.12; Hb 11.6.",
+          "Lc 17.10; 2Tm 4.7, 8."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q064-q",
+      "kind": "question",
+      "label": "P. 64",
+      "body": "Esse ensinamento não torna as pessoas descuidadas e ímpias?",
+      "attrs": {
+        "questionNumber": 64
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q064-a",
+      "kind": "answer",
+      "label": "R. 64",
+      "body": "Não. É impossível que os que são enxertados em Cristo pela verdadeira fé não produzam fruto de gratidão.",
+      "attrs": {
+        "questionNumber": 64,
+        "refs": [
+          "Mt 7.18; Lc 6.43-45; Jo 15.5."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

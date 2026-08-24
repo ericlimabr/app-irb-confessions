@@ -1,0 +1,32 @@
+{
+  "id": "psalm-054-har",
+  "collection": "psalms",
+  "number": 54,
+  "numberLabel": "Salmo 54",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-054",
+  "attrs": {
+    "attribution": "CBS - Ebenezer"
+  },
+  "sortOrder": 92,
+  "units": [
+    {
+      "id": "psalm-054-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Deus, me salva por teu nome;\nFaz-me justiça com poder.\n<sup>2</sup> Ó Deus, escuta minha prece;\nMinhas palavras vem ouvir.\n<sup>3</sup> Contra mim, pois, se levantam\nInsolentes homens vis!\nDar cabo querem da minha vida;\nPerante si, pois, não têm Deus!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-054-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Eis que Deus é meu socorro;\nMinha vida Deus sustém.\n<sup>5</sup> Retribui meus opressores;\nDá cabo deles, Deus fiel.\n<sup>6</sup> Com voluntários sacrifícios,\nLouvar-te-ei, porque é bom,\n<sup>7</sup> Pois livrou-me das angústias,\nE derrotados vejo\\_os maus.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

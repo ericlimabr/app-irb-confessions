@@ -1,0 +1,59 @@
+{
+  "id": "hymn-024",
+  "collection": "hymns",
+  "number": 24,
+  "numberLabel": "Hino 24",
+  "title": "TRINDADE SANTÍSSIMA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Reginald Heber / João Gomes da Rocha"
+  },
+  "sortOrder": 24,
+  "units": [
+    {
+      "id": "hymn-024-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Santo, santo, santo, Deus onipotente,\nCantam de manhã nossas vozes com fervor.\nSanto, santo, santo, bom e verdadeiro,\nÉs Deus triúno, excelso Criador!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-024-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Santo, santo, santo, todos os remidos,\nJuntos com os anjos, proclamam teu louvor.\nAntes de formar-se o firmamento e a terra,\nEras e sempre és e hás de ser, Senhor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-024-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Santo, santo, santo, nós, os pecadores,\nNão podemos ver tua glória sem tremor.\nTu somente és santo, só tu és perfeito,\nDeus soberano, imenso em teu amor!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-024-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Santo, santo, santo, Deus onipotente,\nTuas obras louvam teu nome com fervor.\nSanto, santo, santo, justo e compassivo,\nÉs Deus triúno, excelso Criador!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-024-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 5
+    }
+  ]
+}

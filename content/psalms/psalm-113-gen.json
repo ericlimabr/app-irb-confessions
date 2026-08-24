@@ -1,0 +1,48 @@
+{
+  "id": "psalm-113-gen",
+  "collection": "psalms",
+  "number": 113,
+  "numberLabel": "Salmo 113",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-113",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 186,
+  "units": [
+    {
+      "id": "psalm-113-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Aleluia, Louvai a Deus!\nLouvai, vós, servos do Senhor,\nOh, sim, louvai o nome de Deus!\n<sup>2</sup> Sempre bendito\\_é\\_o nome seu.\n<sup>3</sup> Desde o nascente\\_ao pôr do sol,\nLouvado seja o seu nome!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-113-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Excelso\\_é Deus sobre\\_as nações;\nE\\_a sua glória, sobre\\_os céus.\n<sup>5</sup> Quem ao Senhor se assemelha?\nQuem se iguala\\_ao nosso Deus?\nSeu trono\\_está nos altos céus.\nNos altos céus, está seu trono.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-113-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Javé se\\_inclina para ver\nO que se passa\\_em terra\\_e céu.\n<sup>7</sup> Do pó Deus ergue o carente\nE do monturo\\_o fraco traz,\n<sup>8</sup> Para sentá-lo com os reis,\nCom governantes do seu povo.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-113-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> E a mulher que\\_estéril é,\nQue não consegue filhos ter,\nJavé Senhor estabelece\nQue tenha vida familiar:\nAlegre mãe consegue ser!\nLouvai a Deus! Oh! Aleluia!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

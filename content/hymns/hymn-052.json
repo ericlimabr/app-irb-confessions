@@ -1,0 +1,49 @@
+{
+  "id": "hymn-052",
+  "collection": "hymns",
+  "number": 52,
+  "numberLabel": "Hino 52",
+  "title": "TUDO A TI, SENHOR, CONSAGRO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "OFERTAS E GRATIDÃO",
+    "author": "Judson W. Van DeVenter / Salomão Luís Ginsburg"
+  },
+  "sortOrder": 52,
+  "units": [
+    {
+      "id": "hymn-052-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Tudo a ti, Senhor, consagro,\nTudo, tudo deixarei;\nResoluto, mas submisso,\nSempre a ti eu seguirei!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-052-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Tudo deixarei,\nTudo entregarei!\nSim, a ti, Senhor bondoso,\nSempre servirei!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-052-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Tudo a ti, Senhor, consagro,\nPois eu sinto o teu amor\nTransformar a minha vida\nE meu coração, Senhor!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-052-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Tudo a ti, Jesus, consagro,\nQue alegria, meu Senhor!\nPaz perfeita, paz completa!\nGlória, glória ao Salvador!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

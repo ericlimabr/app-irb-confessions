@@ -1,0 +1,80 @@
+{
+  "id": "psalm-119-073-080-har",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.73-80",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-119-073-080",
+  "attrs": {
+    "attribution": "CBS - St. Peter"
+  },
+  "sortOrder": 209,
+  "units": [
+    {
+      "id": "psalm-119-073-080-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>73</sup> As tuas mãos a mim fizeram, dando-me\\_afeição.\nVem ensinar-me pra que\\_aprenda\\_os mandamentos teus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-073-080-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>74</sup> E\\_os que te temem se alegraram ao me ver, Senhor,\nPois na palavra tua tenho esperado,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-073-080-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>75</sup> Bem sei, Senhor, que justos todos teus juízos são\nE, com fidelidade,\\_então, me afligiste,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-119-073-080-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>76</sup> E venha, pois, tua bondade consolar a mim,\nSegundo deste tua palavra,\\_ó Deus, ao servo teu.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-119-073-080-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>77</sup> Que as misericórdias venham sobre mim, Senhor,\nPra que eu viva, pois a tua lei é\\_o meu prazer.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-119-073-080-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>78</sup> Injustamente, os soberbos me trataram mal.\nVexame sofram, mas na tua lei meditarei.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-119-073-080-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>79</sup> E que se voltem para mim quem teme ao Senhor,\nOs que conhecem tua lei, os testemunhos teus.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-119-073-080-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>80</sup> Perfeito seja\\_em teus decretos o meu coração,\nA fim de que envergonhado\\_eu nunca venha\\_a ser.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

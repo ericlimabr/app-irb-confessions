@@ -1,0 +1,80 @@
+{
+  "id": "psalm-033-gen",
+  "collection": "psalms",
+  "number": 33,
+  "numberLabel": "Salmo 33",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-033",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 58,
+  "units": [
+    {
+      "id": "psalm-033-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Regozijai em Deus, ó justos.\nAos retos seu louvor convém\n<sup>2</sup> Oh! Celebrai a Deus com harpa.\nCom canto ao Senhor louvai.\nLouvai no saltério\nQue possui dez cordas.\nLouvai, sim, a Deus.\n<sup>3</sup> Cantai novo canto,\nTangei jubilosos,\nTangei com arte.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-033-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Pois reta é\\_a palavra sua,\nE suas obras são fiéis.\n<sup>5</sup> Ama\\_a justiça e\\_o juízo,\nE a bondade do Senhor\nEnche toda\\_a terra.\n<sup>6</sup> E por sua palavra\nFizeram-se\\_os céus;\nE pelo seu sopro\nVindo da sua boca,\nAs suas hostes.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-033-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Em um montão, eis que\\_Ele\\_ajunta\nAs muitas águas lá do mar.\nEm um reservatório,\\_encerra\nOs grandes vagalhões que há.\n<sup>8</sup> Temam ao Senhor, pois,\nTodos que se\\_encontram\nNeste mundo\\_aqui.\n<sup>9</sup> Pela sua palavra,\nTudo\\_o que existe\nVeio\\_à\\_existência.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-033-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Os planos das nações Deus frustra;\nDos povos, suas intenções.\n<sup>11</sup> Pra sempre, dura seu conselho\nE\\_os planos do seu coração.\n<sup>12</sup> Nação venturosa\nÉ a que por Deus tem\nAo Senhor Javé.\nE feliz é\\_o povo\nQue foi escolhido\nPra sua\\_herança.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-033-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>13</sup> Deus olha os filhos dos homens;\nDesde os céus, a todos vê.\n<sup>14</sup> Vê todos que na terra moram\nDesde a sua\\_habitação.\n<sup>15</sup> E foi Ele mesmo\nQue formou a todos\nOs seus corações;\nEle, que contempla\nOs seus feitos todos,\nAs suas obras.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-033-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>16</sup> Não há nenhum rei que se salve\nCom os exércitos que tem,\nE nem por sua muita forma\nO forte há de se livrar.\n<sup>17</sup> E nem o cavalo\nPode dar vitória,\nNão garantirá;\nNem mesmo\\_o cavalo\nCom toda\\_a sua força\nA ninguém livra.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-033-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>18</sup> Os olhos do Senhor se\\_encontram\nSobre\\_os que\\_a Ele têm temor,\nSobre aqueles que se\\_encontram\nEm sua graça\\_a esperar\n<sup>19</sup> Pra livrar a eles,\nSim, a sua alma\nDa morte livrar\nE em meio\\_a fome\nPoder preservá-los\nCom sua vida.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-033-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>20</sup> A nossa alma\\_em Deus espera,\nNosso auxílio\\_e proteção.\n<sup>21</sup> E nosso coração se\\_alegra\nEm Deus Senhor se\\_alegra, sim,\nPois nós confiamos\nNo seu santo nome.\n<sup>22</sup> Seja sobre nós,\nTua misericórdia\nTal como\\_esperamos\nDe ti, Senhor Deus.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}
