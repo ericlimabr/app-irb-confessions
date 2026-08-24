@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "irb:collection",
+  "title": "IRB — Arquivo de coleção (_collection.json)",
+  "description": "Espelha SPEC-FORMATO-FONTE §3. Versão alimenta o manifesto de sync (SPEC-CANAL §3).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "kind", "title", "sortOrder", "version"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Slug kebab-case em inglês. SPEC-CONVENCAO §2."
+    },
+    "kind": {
+      "enum": [
+        "psalm",
+        "hymn",
+        "creed",
+        "confession",
+        "catechism",
+        "canons",
+        "form",
+        "rules",
+        "minutes",
+        "bible"
+      ]
+    },
+    "title": { "type": "string", "minLength": 1 },
+    "subtitle": { "type": ["string", "null"] },
+    "sortOrder": { "type": "integer" },
+    "version": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Monotônico — sobe a cada publicação. Manifesto de sync usa este valor."
+    },
+    "revision": {
+      "type": ["string", "null"],
+      "description": "Rótulo humano (ex.: 'Concílio 2026-05')."
+    }
+  }
+}

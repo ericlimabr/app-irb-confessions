@@ -1,0 +1,42 @@
+name: validar conteúdo (JSON)
+
+# Portão do artefato: valida content/ (JSON gerado) contra os schemas e exige
+# incremento de `version` por coleção alterada em PRs. Complementa validar.yml,
+# que é o portão editorial do Markdown-fonte (Python). Ver SPEC-REPOSITORIO-DE-CONTEUDO.md.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+concurrency:
+  group: validate-content-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  content-json:
+    name: conteúdo JSON
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # check:version-bump compara HEAD contra a base
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      - run: npm ci
+
+      - name: validar content/ contra os schemas
+        run: npm run validate:content
+
+      - name: version bump por coleção (só em PR)
+        if: github.event_name == 'pull_request'
+        env:
+          IRB_BASE_REF: origin/${{ github.base_ref }}
+        run: npm run check:version-bump

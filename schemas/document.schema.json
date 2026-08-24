@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "irb:document",
+  "title": "IRB — Arquivo de documento ({document.id}.json)",
+  "description": "Espelha SPEC-FORMATO-FONTE §4. Campos derivados (title_norm, rowid, índice FTS) **não** aparecem aqui — são do build.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "collection", "title", "sortOrder", "units"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "ID estável e autoral. SPEC-CONVENCAO §3 fixa o padrão por tipo."
+    },
+    "collection": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "number": { "type": ["integer", "null"] },
+    "numberLabel": { "type": ["string", "null"] },
+    "title": { "type": ["string", "null"] },
+    "subtitle": { "type": ["string", "null"] },
+    "variant": {
+      "type": ["string", "null"],
+      "enum": ["gen", "har", null],
+      "description": "Variante de salmo: gen=genebrino, har=harmônico. SPEC-CONVENCAO §4."
+    },
+    "groupKey": {
+      "type": ["string", "null"],
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Agrupa variantes do mesmo conteúdo (ex.: psalm-023 para gen+har)."
+    },
+    "attrs": { "type": "object" },
+    "sortOrder": { "type": "integer" },
+    "units": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "kind", "body", "sortOrder"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "kind": {
+            "enum": [
+              "verse",
+              "refrain",
+              "line",
+              "question",
+              "answer",
+              "article",
+              "rejection",
+              "rubric",
+              "section",
+              "speech",
+              "heading",
+              "bible_verse"
+            ]
+          },
+          "label": { "type": ["string", "null"] },
+          "body": { "type": "string", "minLength": 1 },
+          "attrs": { "type": "object" },
+          "sortOrder": { "type": "integer" }
+        }
+      }
+    }
+  }
+}

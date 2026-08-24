@@ -16,3 +16,6 @@ Thumbs.db
 
 # Bytecode Python
 __pycache__/
+
+# Node — ferramental do pacote @irb/content (validador, schemas)
+node_modules/
