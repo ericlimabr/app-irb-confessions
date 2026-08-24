@@ -1,0 +1,72 @@
+{
+  "id": "psalm-141-gen",
+  "collection": "psalms",
+  "number": 141,
+  "numberLabel": "Salmo 141",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-141",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 265,
+  "units": [
+    {
+      "id": "psalm-141-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus, Senhor, a ti eu imploro.\nSê pressuroso\\_em acudir.\nEscuta quando\\_eu te\\_invocar:\nQuando\\_eu chamar, inclina\\_ouvidos.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-141-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Que a minha prece\\_a ti suba:\nSim, qual incenso chegue\\_a ti.\nSeja o\\_erguer de minhas mãos\nComo\\_oferenda vespertina.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-141-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Ó Senhor, vigia\\_os meus lábios.\n<sup>4</sup> Meu ser não deixes ir ao mal,\nPerverso,\\_em companhia má:\nTais iguarias eu não coma.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-141-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> É mercê se\\_o justo me fere.\nTal repreensão é óleo\\_a mim:\nSem rejeitá-la,\\_eu orarei\nEnquanto\\_os maus fazem maldade.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-141-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>6</sup> Seus juízes, quando\\_atirados,\nOuvir-me-ão a mansa voz,\n<sup>7</sup> Mesmo que\\_os ossos meus se vão\nÀ cova\\_aberta\\_em meio\\_à terra.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-141-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>8</sup> Senhor, eu te olho\\_e confio.\nNão desampares o meu ser:\n<sup>9</sup> Guarda-o dos laços do algoz,\nDo que pratica\\_iniquidade.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-141-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Guarda,\\_ó Deus, de suas ciladas\n<sup>10</sup> Que\\_o ímpio\\_em suas redes vá,\nCaia nas próprias armações!\nPor minha vez, livre me salvo.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

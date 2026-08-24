@@ -1,0 +1,64 @@
+{
+  "id": "psalm-111-har",
+  "collection": "psalms",
+  "number": 111,
+  "numberLabel": "Salmo 111",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-111",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 183,
+  "units": [
+    {
+      "id": "psalm-111-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Graças, de todo\\_o coração,\nO renderei em comunhão\nDos justos ao Senhor Amado.\n<sup>2</sup> Grande\\_é a obra do Senhor.\nQuem se compraz no seu valor\nLhes mostra sua majestade.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-111-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> É grandiosa\\_a sua\\_ação.\nSua glória\\_e justiça são\nEternas e indestrutíveis.\n<sup>4</sup> Benigno\\_e bondoso é Deus,\nAs maravilhas que desceu,\nAs suas obras memoráveis.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-111-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Aos que lhe temem bem nutriu;\nDos filhos seus não desistiu;\nSe lembra da sua\\_aliança.\n<sup>6</sup> Ao povo seu poder mostrou;\nA terra de\\_ídolos doou,\nTornou-a aos seus sua\\_herança.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-111-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Justiça\\_as obras da sua mão,\nFiéis e verdadeiros são,\n<sup>8</sup> Estáveis, bem instituídos.\nSua vontade exprimiu;\nNunca,\\_a razão se discutiu;\nPor todos é obedecido.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-111-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Deu ao seu povo\\_a redenção;\nA aliança lhe\\_é padrão,\nLuz alta,\\_erguido em montanha,\nSanto\\_e tremendo\\_o seu poder.\nSeu nome veio\\_engrandecer;\nSua promessa não barganha.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-111-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Princípio do saber maior\nÉ o temor ao Deus Senhor.\nLhe\\_adore com maior respeito.\nPrudência tem quem pratica.\nCom teu louvor venha\\_o honrar.\nExalte sempre\\_os seus preceitos.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

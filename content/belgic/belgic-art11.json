@@ -1,0 +1,27 @@
+{
+  "id": "belgic-art11",
+  "collection": "belgic",
+  "number": 11,
+  "numberLabel": "Art. 11",
+  "title": "O Espírito Santo: eterno e verdadeiro Deus",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 11,
+  "units": [
+    {
+      "id": "belgic-art11-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos e confessamos também que o Espírito Santo procede do Pai e do Filho desde a eternidade. Ele não foi feito, nem criado, nem gerado; pode-se afirmar apenas que Ele procede de ambos. Ele é, pela ordem, a Terceira Pessoa da Trindade, de igual substância majestade e glória com o Pai e o Filho, verdadeiro e eterno Deus, conforme nos ensina as Sagradas Escrituras.",
+      "attrs": {
+        "refs": [
+          "Jo 14.15-26; Jo 15.26; Rm 8.9.",
+          "Gn 1.2; Mt 28.19; At 5.3, 4; 1Co 2.10; 1Co 3.16; 1Co 6.11; 1Jo 5.7."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

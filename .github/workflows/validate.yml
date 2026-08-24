@@ -32,6 +32,9 @@ jobs:
 
       - run: npm ci
 
+      - name: conversor regenera e bate com o comitado
+        run: npm run convert:check
+
       - name: validar content/ contra os schemas
         run: npm run validate:content
 

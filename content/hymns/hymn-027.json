@@ -1,0 +1,57 @@
+{
+  "id": "hymn-027",
+  "collection": "hymns",
+  "number": 27,
+  "numberLabel": "Hino 27",
+  "title": "NOME ALGUM NO CÉU!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "João Law"
+  },
+  "sortOrder": 27,
+  "units": [
+    {
+      "id": "hymn-027-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Nome algum, no céu, na terra\nSe compara ao de Jesus!\nEle sobre tudo reina,\nEle é minha eterna luz.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-027-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Minhas dores Ele sofre,\nSara o enfermo coração.\nSeu amor me dá alívio\nNa tristeza e na aflição.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-027-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Cristo é o meu tesouro.\nNele encontro todo o bem.\nValem mais que o mundo inteiro\nAs riquezas que Ele tem.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-027-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "É Jesus meu alimento,\nO meu pão celestial.\nDo mais vero e santo gozo\nEle é meu manancial.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-027-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Infinita é sua graça,\nImpossível de sondar.\nCom os santos e anjos quero\nAo Senhor louvores dar.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

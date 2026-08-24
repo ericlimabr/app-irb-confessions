@@ -1,0 +1,40 @@
+{
+  "id": "psalm-004-gen",
+  "collection": "psalms",
+  "number": 4,
+  "numberLabel": "Salmo 4",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-004",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 7,
+  "units": [
+    {
+      "id": "psalm-004-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, responde quando\\_eu clamo.\nDeus da minha justiça és.\nTens dado\\_alívio na angústia.\nOh! Tem de mim misericórdia!\nOuve,\\_ó Deus, minha oração!\n<sup>2</sup> Oh, até quando\\_a minha glória,\nVós homens, envergonhareis\nE amareis a vaidade?\nOh, até quando a mentira,\nOh, até quando\\_a buscareis?",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-004-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Sabei, porém, que\\_ao piedoso,\nPara si Deus o separou.\nEis que\\_o Senhor a mim escuta,\nSim, me escuta quando\\_eu clamo.\n<sup>4</sup> Oh, irai-vos, e não pequeis.\nOh, consultai no travesseiro\nO coração e sossegai.\nDai sacrifícios de justiça,\nSim, sacrifícios de justiça\nE confiai só no Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-004-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Há sempre muitos que afirmam:\n“Quem o bem nos ensinará?”\n<sup>6</sup> Oh! Sobre nós, Senhor, levanta,\nLevanta\\_a luz da tua face.\n<sup>7</sup> Alegraste\\_o meu coração\nMais do que eles se alegram\nCom muito vinho\\_e cereais.\n<sup>8</sup> Em paz me deito\\_e logo durmo,\nPorque, Senhor, só tu me fazes\nEm segurança repousar.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

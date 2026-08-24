@@ -1,0 +1,45 @@
+{
+  "id": "heidelberg-ld38",
+  "collection": "heidelberg",
+  "number": 38,
+  "numberLabel": "Domingo 38",
+  "title": null,
+  "subtitle": "Os Dez Mandamentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 38,
+  "units": [
+    {
+      "id": "heidelberg-q103-q",
+      "kind": "question",
+      "label": "P. 103",
+      "body": "O que exige Deus no quarto mandamento?",
+      "attrs": {
+        "questionNumber": 103
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q103-a",
+      "kind": "answer",
+      "label": "R. 103",
+      "body": "_Primeiro_,  que o ministério do evangelho e as escolas cristãs sejam mantidas e que eu, especialmente no dia de descanso, seja diligente em ir à igreja de Deus para ouvir a Palavra de Deus, participar dos sacramentos, para invocar publicamente ao Senhor e para praticar a caridade cristã para com os necessitados.\n\n_Segundo_, para que em todos os dias da minha vida eu cesse as minhas más obras, deixe o Senhor operar em mim por Seu Espírito Santo, e assim começar nesta vida o descanso eterno.",
+      "attrs": {
+        "questionNumber": 103,
+        "refs": [
+          "Dt 6.4-9; 20-25; 1Co 9.13, 14; 2Tm 2.2; 3.13-17; Tt 1.5.",
+          "Dt 12.5-12; Sl 40.9, 10; 68.26; At 2.42-47; Hb 10.23-25.",
+          "Rm 10.14-17; 1Co 14.26-33; 1Tm 4.13.",
+          "1Co 11.23, 24.",
+          "Cl 3.16; 1Tm 2.1.",
+          "Sl 50.14; 1Co 16.2; 2Co 8; 9.",
+          "Is 66.23; Hb 4.9-11."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

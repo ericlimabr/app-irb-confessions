@@ -1,0 +1,25 @@
+{
+  "id": "hymn-026",
+  "collection": "hymns",
+  "number": 26,
+  "numberLabel": "Hino 26",
+  "title": "JUSTO É O SENHOR!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Atenilde Cunha"
+  },
+  "sortOrder": 26,
+  "units": [
+    {
+      "id": "hymn-026-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Justo é o Senhor em seus santos caminhos,\nBenigno em todas as suas obras.\nJusto é o Senhor em seus santos caminhos,\nBenigno em todas as suas obras.\nPerto está o Senhor,\nPerto está dos que o invocam,\nDe todos os que o invocam\nEm verdade.\nAleluia! Aleluia!",
+      "attrs": {},
+      "sortOrder": 1
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "psalm-064-gen",
+  "collection": "psalms",
+  "number": 64,
+  "numberLabel": "Salmo 64",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-064",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 107,
+  "units": [
+    {
+      "id": "psalm-064-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, a minha voz escuta;\nOuve, ó Deus, meu reclamar.\nVem, ó Senhor, me preservar\nE do terror do inimigo\nGuarda-me\\_a vida.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-064-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Dos malfeitores que conspiram\nE do tumulto dos cruéis\nVem, ó Senhor, me esconder.\n<sup>3</sup> Eles afiam sua língua\nTal como\\_espada.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-064-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Sua palavra, mui amarga,\nQual flecha apontada\\_está\n<sup>4</sup> Para,\\_às ocultas, disparar,\nSubitamente, contra\\_o justo,\nE nada temem.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-064-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Persistem no seu mau intento,\nSempre estão a cogitar\nComo secretamente\\_armar\nSuas ciladas e perguntam:\n“Quem há de ver-nos?”",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-064-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>6</sup> E, projetando\\_a\\_iniquidade,\nInquirem tudo\\_o que\\_há de mal\nE que se pode\\_excogitar.\nSeus corações e pensamentos\nSão um abismo.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-064-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>7</sup> Mas Deus desfere sua seta;\nDe\\_imediato,\\_os ferirá.\n<sup>8</sup> Serão levados a cair;\nHá de voltar-se contra eles\nA própria língua.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-064-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Todos aqueles que os virem\nHão de fugir <sup>9</sup> e temerão.\nDe Deus seus feitos falarão,\nCompreendendo suas obras,\nSim, os seus feitos.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-064-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>10</sup> Em Deus o justo se alegra,\nE nele\\_está seu confiar.\nGloriar-se-á, pois, no Senhor\nQuem no seu coração for reto,\nSim, quem for justo.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hymn-010",
+  "collection": "hymns",
+  "number": 10,
+  "numberLabel": "Hino 10",
+  "title": "NO SANTO DIA DO SENHOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CHAMADO À ADORAÇÃO",
+    "author": "Sarah Poulton Kalley"
+  },
+  "sortOrder": 10,
+  "units": [
+    {
+      "id": "hymn-010-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "No santo dia do Senhor,\nÉ bom, com salmos de louvor,\nO grande, eterno Deus honrar\nE sua graça proclamar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-010-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Ao despertar, me alegrarei\nDa graça que em Jesus provei.\nE, à noite, ardente gratidão\nMe vem encher o coração.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-010-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Minha alma se levantará\nE, jubilosa, cantará,\nEm doces hinos, o louvor\nDo meu benigno Salvador.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-010-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Quão sábias tuas obras são!\nNos causam grande admiração!\nOs teus ensinos, ó Jesus,\nRevelam a divina luz.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-010-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "A igreja fazes florescer,\nPor todo o mundo se estender.\nOs ímpios não subsistirão,\nMas como as ervas secarão.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "hymn-010-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Ó Deus glorioso, nos darás\nContigo, em Cristo, santa paz.\nCantar queremos teu louvor:\nÉs reto e justo, ó bom Senhor.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

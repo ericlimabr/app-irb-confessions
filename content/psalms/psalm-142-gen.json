@@ -1,0 +1,64 @@
+{
+  "id": "psalm-142-gen",
+  "collection": "psalms",
+  "number": 142,
+  "numberLabel": "Salmo 142",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-142",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 267,
+  "units": [
+    {
+      "id": "psalm-142-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Com minha voz, clamo\\_ao Senhor,\nErgo a voz a suplicar.\n<sup>2</sup> Exponho\\_a Deus minha\\_aflição,\nDerramo todo\\_o meu queixar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-142-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> E, quando,\\_aqui, dentro de mim,\nMinha\\_alma\\_esmorecida\\_está,\nTu bem conheces meu andar,\nNo qual procuram me\\_enlaçar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-142-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Olha\\_à minha direita\\_e vê:\nNão há quem reconheça\\_a mim,\nNenhum lugar pra me\\_abrigar;\nNinguém por mim se\\_interessou.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-142-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> A ti eu clamo, meu Senhor:\n“És meu abrigo\\_e protetor,\nÉs meu tesouro, meu quinhão\nNa terra dos que vivos são.”",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-142-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>6</sup> Vem atender ao meu clamor,\nPois muito fraco eu estou.\nDos opressores vem livrar,\nPois são mais fortes do que eu.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-142-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>7</sup> Tira minha\\_alma da prisão,\nPra eu render graças a ti.\nOs justos me rodearão,\nQuando fizeres esse bem.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "psalm-108-har",
+  "collection": "psalms",
+  "number": 108,
+  "numberLabel": "Salmo 108",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-108",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 178,
+  "units": [
+    {
+      "id": "psalm-108-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Meu coração, ó Deus, firmou;\nO teu louvor me alegrou.\n<sup>2</sup> De harpa\\_entoe ao Senhor;\nMeu hino\\_acorde o alvor.\n<sup>3</sup> Senhor, graças te renderei;\nAos povos te proclamarei.\nMeus salmos gratos te dedico;\nTua fieldade\\_exemplifico.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-108-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Mais alto é que\\_o\\_azul do céu\nTua graça\\_e fieldade,\\_ó Deus.\n<sup>5</sup> Te\\_exalte! Teu aparecer\nOs céus de glória vai encher.\nNa terra, brilhe\\_o teu fulgor.\n<sup>6</sup> Arme\\_os amados ao horror.\nA tua destra nos proteja.\nEscute-me, Senhor; almejo.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-108-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7-9</sup> O nosso Deus a nós falou;\nNo santuário, se mostrou.\nJubilo, pois eu vencerei;\nNas margens do Jordão,\\_estarei.\nTodos me reconhecerão.\nO Norte vem em servidão;\nO Sul a ordem minha\\_acata.\nMedir a terra que reparto.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-108-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Quem me conduz, de firme mão,\nA\\_Edom e\\_à fortificação?\n<sup>11</sup> Ó Deus, nos foste rejeitar;\nVenha\\_o exército\\_apoiar.\n<sup>12</sup> Socorro de\\_homem é em vão,\nAgora Deus é salvação.\n<sup>13</sup> Faremos todas as proezas;\nContra\\_adversários és defesa.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

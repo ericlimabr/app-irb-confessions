@@ -1,0 +1,40 @@
+{
+  "id": "psalm-122-har",
+  "collection": "psalms",
+  "number": 122,
+  "numberLabel": "Salmo 122",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-122",
+  "attrs": {
+    "attribution": "CBS - CWM Rhondda"
+  },
+  "sortOrder": 229,
+  "units": [
+    {
+      "id": "psalm-122-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Alegrei-me quando me disseram:\n“Vamos à Casa de Deus.”\n<sup>2</sup> Nossos pés pararam junto\\_às portas,\nTeus portais, Jerusalém,\n<sup>3</sup> Construída bem compacta,\n<sup>4</sup> Onde\\_as tribos vão subir,\nPois convém a Israel.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-122-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Para\\_ao santo nome do Senhor\nRender sua gratidão.\n<sup>5</sup> Lá estão os tronos de justiça,\nOs da casa de Davi.\n<sup>6</sup> Que prospere quem te ama.\nPela sua paz orai,\nPor Jerusalém orai!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-122-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Reine paz entre os teus muros;\nNos palácios, ricos bens.\n<sup>8</sup> Por amor dos meus irmãos,\nPor amor de amigos meus,\n“Haja paz em ti”, eu peço.\n<sup>9</sup> Pela Casa do Senhor,\nBuscarei sempre\\_o teu bem.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

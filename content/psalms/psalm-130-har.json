@@ -1,0 +1,56 @@
+{
+  "id": "psalm-130-har",
+  "collection": "psalms",
+  "number": 130,
+  "numberLabel": "Salmo 130",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-130",
+  "attrs": {
+    "attribution": "CBS - St. Clement"
+  },
+  "sortOrder": 245,
+  "units": [
+    {
+      "id": "psalm-130-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Eu clamo\\_a ti das profundezas.\n<sup>2</sup> Senhor, escuta\\_a minha voz.\nAlertas fiquem teus ouvidos\nÀs minhas súplicas, Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-130-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Se\\_iniquidades observares,\nSenhor, quem há de subsistir?\n<sup>4</sup> Mas o perdão está contigo\nPra que te temam, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-130-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Por meu Senhor minha\\_alma\\_aguarda;\nMinha\\_alma\\_aguarda meu Senhor.\nE eis que na palavra dele\nEu sempre fico\\_a esperar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-130-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Mais do que\\_os guardas pela alva\nMinha\\_alma\\_anseia,\\_ó Deus, por ti.\nMais do que\\_os guardas pela alva,\n<sup>7</sup> Espere,\\_ó Israel, em Deus.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-130-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Pois há misericórdia nele,\nSim, copiosa redenção.\n<sup>8</sup> É Deus quem Israel redime\nDe toda\\_a sua transgressão.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

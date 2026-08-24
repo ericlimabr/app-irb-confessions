@@ -1,0 +1,29 @@
+{
+  "id": "belgic-art05",
+  "collection": "belgic",
+  "number": 5,
+  "numberLabel": "Art. 5",
+  "title": "A autoridade das Sagradas Escrituras",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 5,
+  "units": [
+    {
+      "id": "belgic-art05-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Recebemos todos esses livros - e eles somente - como sagrados e canônicos para regular, fundamentar e confirmar a nossa fé. Cremos, sem dúvida nenhuma, em tudo o que eles contêm, não tanto porque a igreja assim os recebe e aprova, mas principalmente porque o Espírito Santo testifica em nossos corações que eles vêm de Deus, como eles mesmos provam; pois até os cegos podem perceber que as coisas preditas neles estão a se cumprir.",
+      "attrs": {
+        "refs": [
+          "1Ts 2.13.",
+          "2Tm 3.16, 17.",
+          "1Co 12.3; 1Jo 4.6; 1Jo 5.7.",
+          "Dt 18.21, 22; 1Rs 22.28; Jr 28.9; Ez 33.33."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

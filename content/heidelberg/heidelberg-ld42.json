@@ -1,0 +1,66 @@
+{
+  "id": "heidelberg-ld42",
+  "collection": "heidelberg",
+  "number": 42,
+  "numberLabel": "Domingo 42",
+  "title": null,
+  "subtitle": "Os Dez Mandamentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 42,
+  "units": [
+    {
+      "id": "heidelberg-q110-q",
+      "kind": "question",
+      "label": "P. 110",
+      "body": "O que proíbe Deus no oitavo mandamento?",
+      "attrs": {
+        "questionNumber": 110
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q110-a",
+      "kind": "answer",
+      "label": "R. 110",
+      "body": "Deus não apenas proíbe o roubo e o furto que as autoridades punem mas também os esquemas e ciladas malignos como falsos pesos e falsas medidas, negócio enganoso, dinheiro falsificado e usura; não devemos defraudar o nosso próximo de maneira nenhuma, nem pela força nem pela aparência de direito.\n\nAlém disso Deus proíbe toda a avareza e todo o abuso e desperdício de Suas dádivas.",
+      "attrs": {
+        "questionNumber": 110,
+        "refs": [
+          "Êx 22.1; 1Co 5.9, 10; 6.9, 10.",
+          "Dt 25.13-16; Sl 15.5; Pv 11.1; 12.22; Ez 45.9-12; Lc 6.35.",
+          "Mq 6.9-11; Lc 3.14; Tg 5.1-6.",
+          "Lc 12.15; Ef 5.5.",
+          "Pv 21.20; 23.20, 21; Lc 16.10-13."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q111-q",
+      "kind": "question",
+      "label": "P. 111",
+      "body": "O que exige Deus de você nesse mandamento?",
+      "attrs": {
+        "questionNumber": 111
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q111-a",
+      "kind": "answer",
+      "label": "R. 111",
+      "body": "Que  eu  promova  o  bem  do  meu  próximo  sempre  que  for  lícito  e possível; que eu o trate do mesmo modo que desejaria ser tratado pelos outros e que trabalhe fielmente para ter condições de dar aos necessitados.",
+      "attrs": {
+        "questionNumber": 111,
+        "refs": [
+          "Is 58.5-10; Mt 7.12; Gl 6.9, 10; Ef 4.28."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

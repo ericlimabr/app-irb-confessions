@@ -1,0 +1,136 @@
+{
+  "id": "psalm-109-gen",
+  "collection": "psalms",
+  "number": 109,
+  "numberLabel": "Salmo 109",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-109",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 179,
+  "units": [
+    {
+      "id": "psalm-109-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Não te cales, Deus do meu louvor,\n<sup>2</sup> Pois contra mim se desataram\nLábios enganadores e maus,\nLínguas falsas falando de mim.\n<sup>3</sup> Torpes palavras cercam-me;\nSem causa, vêm me atacar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-109-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Meu amor eles pagam com mal,\nMe\\_hostilizando; mas eu oro.\n<sup>5</sup> Pagaram o meu bem com o mal\nE com ódio pagaram o\\_amor.\n<sup>6</sup> Um ímpio contra ele põe;\nÀ sua destra,\\_acusador.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-109-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Condenado\\_ele venha a ser\nQuando trazido\\_a julgamento.\nE que seja a sua\\_oração\nTida como pecado, então.\n<sup>8</sup> Que seja curto\\_o seu viver,\nE outro\\_ocupe\\_o seu lugar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-109-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Fiquem órfãos os filhos que têm,\nFique viúva\\_a sua\\_esposa.\n<sup>10</sup> E que venham seus filhos a ser\nMendicantes, errantes a\\_andar.\nQue venha a lhes expulsar\nDa sua casa, que ruiu.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-109-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>11</sup> E de tudo aquilo que tem\nO usurário tome posse;\nE do fruto do que trabalhar\nVenham estranhos se\\_apropriar.\n<sup>12</sup> Ninguém lhe mostre compaixão\nE nem aos órfãos que deixar.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-109-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>13</sup> E que venha desaparecer\nToda a sua descendência.\nVenha\\_o seu nome se apagar,\n<sup>14</sup> E que Deus venha sempre lembrar\nA\\_iniquidade dos seus pais\nE o pecado da sua mãe.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-109-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>15</sup> Permaneçam aos olhos de Deus\nPra que destrua sua memória,\n<sup>16</sup> Porque não demonstrou compaixão\nE ao pobre veio\\_a perseguir\nE ao que quebrantado\\_está\nBuscou à morte\\_o entregar.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-109-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>17</sup> Visto que\\_ele amou maldição,\nA maldição lhe sobrevenha.\nVenha\\_a bênção também se\\_afastar,\nPorque ele não a desejou.\n<sup>18</sup> Vestiu-se com a maldição\nTal como manto\\_a envolver.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-109-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Maldição venha o penetrar,\nNos ossos dele como\\_azeite\nE, tal água,\\_em seu interior.\n<sup>19</sup> Seja qual roupa a lhe cobrir\nE como cinto a cingir,\nAssim lhe seja\\_a maldição.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-109-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>20</sup> Vem, Senhor, retribuir assim\nAos que contra minha\\_alma falam\nE a todos que são contra mim.\n<sup>21</sup> Ó Senhor, vem e age por mim\nE, por amor do nome teu,\nPor tua graça, vem livrar.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-109-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>22</sup> Pois aflito e pobre\\_eu estou;\nMeu coração está ferido.\n<sup>23</sup> Passo qual sombra a declinar\nE pra longe\\_atirado eu sou.\nQual gafanhoto, sim, eu sou;\nPra longe atirado sou",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-109-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>24</sup> Vacilando\\_os joelhos estão;\nE vai mirrando\\_a minha carne.\nMagro\\_estou de tanto jejuar.\n<sup>25</sup> Um objeto de\\_opróbrio\\_eu virei.\nE, quando eles veem a mim,\nFicam a fronte\\_a menear.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-109-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>26</sup> Me socorre, ó Deus, meu Senhor,\nSegundo\\_a tua misericórdia!\nVem salvar-me, Senhor, ó meu Deus,\n<sup>27</sup> Pra que saibam que foi o Senhor\nQue\\_assim fizeste para mim,\nQue isso vem das tuas mãos.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-109-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>28</sup> Venham eles me\\_amaldiçoar;\nMas tu, Senhor, me abençoes.\nE confunde\\_o meu opositor;\nFaze\\_o teu servo se alegrar.\n<sup>29</sup> Cobre, qual manto\\_a envolver,\nCom ignomínia\\_o\\_opositor.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-109-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>30</sup> Muitas graças darei ao Senhor;\nCom os meus lábios, vou louvá-lo.\nLouvarei entre a multidão,\n<sup>31</sup> Pois à destra do pobre\\_Ele\\_está.\nAo pobre Deus há de livrar\nDe quem deseja\\_o condenar.",
+      "attrs": {},
+      "sortOrder": 15
+    }
+  ]
+}

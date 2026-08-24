@@ -1,0 +1,72 @@
+{
+  "id": "psalm-030-gen",
+  "collection": "psalms",
+  "number": 30,
+  "numberLabel": "Salmo 30",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-030",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 54,
+  "units": [
+    {
+      "id": "psalm-030-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Senhor, eu te\\_exaltarei,\nPois me livraste, ó meu Deus\nE não deixaste\\_o\\_opositor\nVir a\\_alegrar-se contra mim.\n<sup>2</sup> Eu clamei pra me socorreres;\nE me saraste, Deus meu Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-030-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> E da cova, Senhor meu Deus,\nFizeste minha\\_alma subir.\nPara\\_ao abismo não descer,\nTu preservaste\\_o meu viver\n<sup>4</sup> Vós, seus santos, salmodiai-lhe;\nAo santo nome seu graças dai.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-030-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Porque dura\\_um momento só\nA sua ira, seu furor;\nPorém, por todo o viver,\nA sua graça durará.\nPode vir choro pela noite,\nMas a\\_alegria vem de manhã.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-030-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Disse\\_assim em meu prosperar:\n“Eu abalado não serei”.\n<sup>7</sup> Por teu favor, fizeste,\\_ó Deus,\nForte ficar o monte meu.\nEntretanto,\\_ao virar teu rosto,\nMui conturbado, logo, fiquei.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-030-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Eu clamei, ó Senhor, por ti;\nA ti, Senhor, eu implorei.\n<sup>9</sup> Oh! Que proveito tu terás\nNo sangue meu se eu morrer?\nPor acaso, o pó te louva\nOu tua verdade declarará?",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-030-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Ouve,\\_ó Deus, e tem compaixão!\nSê meu auxílio, ó Senhor!\n<sup>11</sup> Tu converteste\\_o pranto meu\nEm regozijo mui feliz.\nMe tiraste\\_o pano de saco\nE alegria puseste\\_em mim.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-030-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Alegria puseste\\_em mim;\nAssim, cingiste-me, Senhor,\n<sup>12</sup> Pra meu espírito cantar\nA ti louvores sem calar.\nGraças eu renderei pra sempre\nA ti, ó meu Senhor e meu Deus.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

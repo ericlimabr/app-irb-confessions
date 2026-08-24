@@ -1,0 +1,224 @@
+{
+  "id": "psalm-106-gen",
+  "collection": "psalms",
+  "number": 106,
+  "numberLabel": "Salmo 106",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-106",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 175,
+  "units": [
+    {
+      "id": "psalm-106-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh, aleluia, graças dai,\nSim, ao Senhor, pois Ele\\_é bom.\nPra sempre, dura sua graça.\n<sup>2</sup> Quem saberá anunciar\nOs poderosos feitos dele\nE\\_anunciar o seu louvor?",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-106-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Quão bem-aventurado é\nQuem sempre guarda\\_a retidão,\nPratica sempre a justiça.\n<sup>4</sup> Lembra de mim, ó meu Senhor\nSegundo a tua bondade\nPra com o povo teu, ó Deus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-106-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "E, com a tua salvação,\nVem, ó Senhor, me visitar,\n<sup>5</sup> Pra que\\_a prosperidade\\_eu veja\nDos escolhidos teus, Senhor,\nE me alegre com teu povo\nE com a\\_herança tua,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-106-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Pecamos como nossos pais;\nDe fato, procedemos mal;\nIniquidade cometemos.\n<sup>7</sup> Quando, no\\_Egito, nossos pais\nNão se lembraram dos prodígios\nQue operaste, ó Senhor,",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-106-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Não lembraram a multidão\nDa tua misericórdia,\\_ó Deus.\nJunto ao mar, foram rebeldes.\n<sup>8</sup> Porém, a eles Deus salvou\nPelo amor do nome dele\nE fez notório seu poder.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-106-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> O Mar Vermelho repreendeu\nE seco,\\_então, o mar ficou.\nDeus fez passarem por abismos\nComo quem por deserto vai.\n<sup>10</sup> Salvou de quem lhes tinha ódio;\nDo inimigo os remiu.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-106-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>11</sup> As águas vieram a cobrir\nTodos os opressores seus;\nE nenhum deles teve\\_escape.\n<sup>12</sup> E, então, creram no Senhor\nE nas palavras que Deus disse.\nLouvor cantaram ao Senhor.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-106-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>13</sup> Mas, logo, vieram a\\_esquecer\nDaquilo que\\_o Senhor lhes fez,\nNão aguardando seus desígnios.\n<sup>14</sup> Quiseram ao Senhor tentar\nE se\\_entregaram à cobiça.\nNa solidão, tentaram-no.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-106-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>15</sup> O que pediram Deus lhes deu,\nMas a\\_alma fez-lhes definhar,\nSim, definhou a sua alma.\n<sup>16</sup> E invejaram a Moisés,\nEm meio ao acampamento,\nE a Arão, santo de Deus",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-106-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>17</sup> Abriu-se\\_a terra e tragou\nDatã e\\_o grupo de\\_Abirão,\nSendo cobertos pela terra.\n<sup>18</sup> Então, um fogo se\\_ateou\nContra\\_o seu grupo e a chama\nAos ímpios veio\\_a abrasar.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-106-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>19</sup> Em Horebe, o povo fez\nBezerro para adorar,\nSim, a um ídolo fundido.\n<sup>20</sup> Trocaram a glória de Deus\nPor uma\\_imagem de novilho\nQue come erva e capim.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-106-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>21</sup> Se esqueceram do Senhor\nQue do Egito os salvou,\nFazendo coisas portentosas:\n<sup>22</sup> Prodígios na terra de Cam;\nTremendos feitos o Senhor Deus,\nNo Mar Vermelho, operou.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-106-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>23</sup> Deus os iria\\_exterminar\nTal como Ele o falou\nNão fosse ter intercedido\nMoisés, o escolhido seu,\nE impedido que sua ira\nViesse a lhes destruir.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-106-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>24</sup> Também vieram desprezar\nA terra boa, que lhes deu.\nNão creram em sua palavra.\n<sup>25</sup> E não ouviram ao Senhor.\nAntes, porém, em suas tendas,\nPuseram-se a murmurar.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-106-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>26</sup> E, por isso, Deus lhes jurou.\nCom mão erguida, Deus jurou\nQue, no deserto,\\_os destruiria\n<sup>27</sup> E que aos descendentes seus,\nEntre\\_as nações, derribaria\nE que iria\\_os dispersar.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-106-gen-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "<sup>28</sup> E se juntaram a Baal,\nJuntaram-se\\_a Baal-Peor.\nDo sacrifício\\_a deuses mortos\nPassaram eles a comer\n<sup>29</sup> E provocaram Deus à ira,\nE\\_a peste\\_entre\\_eles rebentou.",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "psalm-106-gen-v17",
+      "kind": "verse",
+      "label": "17",
+      "body": "<sup>30</sup> E Fineias se levantou\nE o juízo\\_executou.\nEntão, cessou de\\_haver a peste.\n<sup>31</sup> De geração em geração,\nPra sempre lhe foi imputado\nComo justiça o que fez.",
+      "attrs": {},
+      "sortOrder": 17
+    },
+    {
+      "id": "psalm-106-gen-v18",
+      "kind": "verse",
+      "label": "18",
+      "body": "<sup>32</sup> E, nas águas de Meribá,\nO povo veio\\_a se\\_indignar.\nE a Moisés, por causa deles,\nVeio a suceder o mal,\n<sup>33</sup> Que\\_agiu de forma\\_irrefletida.\nForam rebeldes ao Senhor.",
+      "attrs": {},
+      "sortOrder": 18
+    },
+    {
+      "id": "psalm-106-gen-v19",
+      "kind": "verse",
+      "label": "19",
+      "body": "<sup>34</sup> Não destruíram as nações\nComo\\_o Senhor lhes ordenou.\n<sup>35</sup> Antes, com elas se mesclaram,\nPassaram a lhes imitar\n<sup>36</sup> E deram culto aos seus deuses,\nOs quais um laço vieram ser.",
+      "attrs": {},
+      "sortOrder": 19
+    },
+    {
+      "id": "psalm-106-gen-v20",
+      "kind": "verse",
+      "label": "20",
+      "body": "<sup>37</sup> Então, passaram a\\_imolar\nAs filhas e os filhos seus,\nOferecendo a demônios,\n<sup>38</sup> Sangue\\_inocente\\_a derramar.\nSacrificaram os seus filhos\nAos ídolos de Canaã.",
+      "attrs": {},
+      "sortOrder": 20
+    },
+    {
+      "id": "psalm-106-gen-v21",
+      "kind": "verse",
+      "label": "21",
+      "body": "A terra se contaminou,\nCom sangue se contaminou.\n<sup>39</sup> O povo foi contaminado,\nSim, ele se contaminou\nCom os seus feitos, suas obras;\nVieram se prostituir.",
+      "attrs": {},
+      "sortOrder": 21
+    },
+    {
+      "id": "psalm-106-gen-v22",
+      "kind": "verse",
+      "label": "22",
+      "body": "<sup>40</sup> De Deus a ira se\\_acendeu,\nContra\\_o seu povo se\\_acendeu\nE\\_abominou sua própria\\_herança\n<sup>41</sup> E entregou-os às nações.\nAqueles que os odiavam\nPassaram a lhes dominar.",
+      "attrs": {},
+      "sortOrder": 22
+    },
+    {
+      "id": "psalm-106-gen-v23",
+      "kind": "verse",
+      "label": "23",
+      "body": "<sup>42</sup> Então, os inimigos seus\nPassaram a lhes oprimir;\nE foram eles subjugados.\n<sup>43</sup> Deus muitas vezes os livrou,\nMas provocavam-no de novo.\nPor isso, Deus lhes abateu.",
+      "attrs": {},
+      "sortOrder": 23
+    },
+    {
+      "id": "psalm-106-gen-v24",
+      "kind": "verse",
+      "label": "24",
+      "body": "<sup>44</sup> Mas Deus a eles se\\_atentou\nE acudiu ao seu clamor.\n<sup>45</sup> Lembrou-se da sua\\_aliança,\nSim, em favor do povo seu.\nSegundo\\_a sua\\_imensa graça,\nVeio a se compadecer.",
+      "attrs": {},
+      "sortOrder": 24
+    },
+    {
+      "id": "psalm-106-gen-v25",
+      "kind": "verse",
+      "label": "25",
+      "body": "<sup>46</sup> Fez que lograssem compaixão\nDe quem cativo os levou.\n<sup>47</sup> Senhor, nos salva\\_e nos congrega\nDe entre todas as nações,\nPra que venhamos dar-te graças,\nAo santo nome do Senhor.",
+      "attrs": {},
+      "sortOrder": 25
+    },
+    {
+      "id": "psalm-106-gen-v26",
+      "kind": "verse",
+      "label": "26",
+      "body": "Nos gloriemos em teu louvor!\n<sup>48</sup> Bendito seja o Senhor\nDe\\_eternidade\\_a\\_eternidade!\nEle\\_é o Deus de Israel!\nE que o povo todo diga,\nDiga: Amém! Aleluia!",
+      "attrs": {},
+      "sortOrder": 26
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "psalm-021-har",
+  "collection": "psalms",
+  "number": 21,
+  "numberLabel": "Salmo 21",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-021",
+  "attrs": {
+    "attribution": "CBS - Finlandia"
+  },
+  "sortOrder": 40,
+  "units": [
+    {
+      "id": "psalm-021-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Na tua força,\\_ó Deus, o rei se\\_alegra!\nE como\\_exulta com tua salvação!\n<sup>2</sup> Satisfizeste-lhe\\_o desejo da\\_alma,\nNão lhe negaste\\_as orações que fez.\n<sup>3</sup> Das bênçãos de bondade tu o supres;\nCoroa de\\_ouro puro lhe darás.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-021-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> A vida\\_a ti ele pediu, e deste;\nLongevidade para sempre, sim.\n<sup>5</sup> De majestade\\_e esplendor vestiu-lhe;\nGrande\\_é a glória da tua salvação.\n<sup>6</sup> Por bênção para sempre\\_o colocaste;\nCom tua presença\\_o encheste de prazer.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-021-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Do Deus Altíssimo, por sua graça,\nO rei, então, jamais vacilará,\nPois ele no Senhor tem confiança.\n<sup>8</sup> A tua mão, então, alcançará\nTeus inimigos, todos que te\\_odeiam;\nA tua destra os apanhará.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-021-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Os tornarás como\\_em fornalha\\_ardente\nAo te manifestares, ó Senhor.\nNa tua\\_indignação, a todos eles\nConsumirás, e\\_o fogo\\_os tragará.\n<sup>10</sup> Destruirás da terra\\_a sua prole\nE\\_os filhos deles que\\_entre\\_os homens há.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-021-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>11</sup> Se intentarem contra ti maldade,\nTramando\\_intrigas, não consumarão,\n<sup>12</sup> Porquanto lhes farás voltar as costas;\nTeu arco\\_o rosto deles mirarás.\n<sup>13</sup> Senhor, te\\_exalta, pois, na tua força;\nE\\_ao teu poder cantaremos louvor.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

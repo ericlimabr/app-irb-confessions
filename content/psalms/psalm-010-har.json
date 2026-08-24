@@ -1,0 +1,40 @@
+{
+  "id": "psalm-010-har",
+  "collection": "psalms",
+  "number": 10,
+  "numberLabel": "Salmo 10",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-010",
+  "attrs": {
+    "attribution": "CBS - Peace, be still"
+  },
+  "sortOrder": 20,
+  "units": [
+    {
+      "id": "psalm-010-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Por que, Senhor, ficas longe? Te\\_escondes na provação?\n<sup>2</sup> Os ímpios, com grande\\_arrogância, ao pobre vêm perseguir.\nNas próprias tramas que urdiram, presos, pois, venham ser,\n<sup>3</sup> Pois se vangloria\\_o perverso da sua cobiça vil.\nBlasfema\\_o avarento contra\\_o Senhor e\\_o maldiz.\n<sup>4</sup> Não investiga\\_o perverso, pois\nQue Deus não existe é seu cogitar.\n<sup>5</sup> Tem sempre\\_os caminhos a prosperar;\nEstão muito longe\\_os juízos teus;\nE zomba dos oponentes seus, <sup>6</sup> pois pra si diz assim:\n“Abalos nunca jamais terei nas gerações”.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-010-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>7</sup> Tem ele cheia\\_a sua boca de\\_enganos e maldição,\nInsulto debaixo da língua, pecado e transgressão.\n<sup>8</sup> Monta tocaia nas vilas a fim de espreitar,\nTrucida\\_inocentes no ermo <sup>9</sup> qual fera a emboscar.\nNa rede,\\_o pobre já\\_enlaçou e\\_o prendeu.\n<sup>10</sup> Baixa\\_e se\\_arrasta; e,\\_em seu poder,\nCaíram aflitos. <sup>11</sup> Diz ele\\_a pensar:\n“Não lembra\\_o Senhor nem jamais verá,\nO rosto virou e logo\\_esqueceu.”\n<sup>12</sup> Levanta,\\_ó Deus! Ergue\\_a tua mão, ó Senhor, ó Senhor!\nDos pobres não venhas te\\_esquecer, ó meu Senhor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-010-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>13</sup> Por que razão fica\\_o ímpio desprezando ao Senhor,\nPensando que Deus não se\\_importa? <sup>14</sup> Mas, tens visto, ó Senhor,\nAo sofrimento atentas para\\_os tomar nas mãos.\nA ti se entrega o pobre; do órfão és defensor.\n<sup>15</sup> Quebranta o braço do homem mau, transgressor.\nSonda-lhes toda maldade\\_até\nNão mais encontrar. <sup>16</sup> Rei eterno\\_é\\_o Senhor.\nDa terra de Deus somem-se\\_as nações.\n<sup>17</sup> Dos mansos tu tens escutado a voz\nE firmarás os seus corações; seu clamor ouvirás,\n<sup>18</sup> E,\\_assim, ninguém lhes trará terror, pois justo és.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

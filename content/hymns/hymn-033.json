@@ -1,0 +1,41 @@
+{
+  "id": "hymn-033",
+  "collection": "hymns",
+  "number": 33,
+  "numberLabel": "Hino 33",
+  "title": "O MUNDO É TEU, SENHOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Maltbie Davenport Babcock / João Wilson Faustini"
+  },
+  "sortOrder": 33,
+  "units": [
+    {
+      "id": "hymn-033-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "O mundo é teu, Senhor.\nQue grato é perceber\nA natureza a te louvar,\nCantando de prazer!\nO mundo é teu, Senhor,\nApraz-me meditar\nEm tuas sábias criações,\nOs montes, céus e o mar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-033-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "O mundo é teu, ó Pai.\nAs aves na amplidão,\nO lírio branco e a luz do sol\nFeituras tuas são.\nO mundo é teu, ó Pai.\nEm tudo o posso ver.\nAté na folha a farfalhar,\nPercebo o teu poder.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-033-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "O mundo é teu, Senhor.\nJamais me esquecerei\nQue, embora exista o erro e o mal,\nDe tudo és grande Rei.\nO mundo é teu, Senhor.\nVieste aqui morrer,\nMas tu venceste e voltarás\nDo mundo um céu fazer.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

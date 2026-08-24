@@ -1,0 +1,80 @@
+{
+  "id": "psalm-094-har",
+  "collection": "psalms",
+  "number": 94,
+  "numberLabel": "Salmo 94",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-094",
+  "attrs": {
+    "attribution": "CBS - Gott erhalte Franz den Kaiser"
+  },
+  "sortOrder": 154,
+  "units": [
+    {
+      "id": "psalm-094-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Senhor, Deus das vinganças,\nResplandece,\\_ó vingador.\n<sup>2</sup> Ó juiz de toda\\_a terra,\nAos soberbos retribui.\n<sup>3</sup> Até quando, até quando\nOs perversos vencerão,\n<sup>4</sup> Proferindo\\_impiedades,\nVangloriando-se do mal?",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-094-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> E oprimem tua\\_herança,\nO teu povo\\_a esmagar.\n<sup>6</sup> Assassinam estrangeiros,\nÓrfãos e viúvas, sim.\n<sup>7</sup> Inda dizem, inda dizem:\n“Deus não vê nem caso faz.”\n<sup>8</sup> Atendei, ó insensatos,\nQuando sábios vós sereis?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-094-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>9</sup> O que fez o nosso ouvido\nSerá que não ouvirá?\nO que fez os nossos olhos\nTambém não enxergará?\n<sup>10</sup> Será que não puniria\nQuem repreende\\_as nações?\nQuem saber concede\\_aos homens\nSerá que não saberá?",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-094-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>11</sup> Pensamentos vãos dos homens\nConhecidos são de Deus.\n<sup>12</sup> Bem-aventurado\\_o homem\nA quem dás a correção\nE\\_a quem tua lei ensinas,\n<sup>13</sup> Dando\\_alívio\\_em dias maus,\nAté que se abra\\_a cova\nPara\\_o ímpio, transgressor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-094-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>14</sup> Deus seu povo não rejeita\nNem sua\\_herança deixará.\n<sup>15</sup> O juízo em justiça\nEis que se converterá.\nOs de coração correto\nÀ justiça seguirão\n<sup>16</sup> Quem a meu favor comigo\nContra\\_os ímpios lutará?",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-094-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>17</sup> Se não fora o Senhor Deus,\nCom o seu auxílio a mim,\nJá minha\\_alma estaria\nNo lugar da solidão.\n<sup>18</sup> Quando\\_eu digo, quando\\_eu digo:\n“Eis meu pé a resvalar”,\nA benignidade tua\nMe sustém, ó meu Senhor.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-094-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>19</sup> Quando\\_em mim se multiplicam\nMuitas preocupações,\nMinha alma se alegra\nPois me dás consolações.\n<sup>20</sup> Pode,\\_acaso,\\_associar-se\nJunto\\_a ti o trono mau,\nO qual forja\\_a\\_iniquidade,\nTendo por pretexto\\_a lei?",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-094-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>21</sup> Contra\\_o justo se\\_associam,\nO\\_inocente\\_a condenar,\n<sup>22</sup> Mas meu Deus é baluarte,\nE rochedo\\_a me\\_abrigar.\n<sup>23</sup> Sobre\\_os ímpios faz cair, sim,\nO seu mal, seu próprio mal.\nPelos males cometidos,\nNosso Deus os matará.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "hymn-021",
+  "collection": "hymns",
+  "number": 21,
+  "numberLabel": "Hino 21",
+  "title": "ALTAMENTE, OS CÉUS PROCLAMAM",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Sarah Poulton Kalley"
+  },
+  "sortOrder": 21,
+  "units": [
+    {
+      "id": "hymn-021-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Altamente, os céus proclamam\nSeu divino Criador!\nAnuncia o firmamento\nTuas obras, ó Senhor!\nIncessantes, noite e dia,\nDão sinais do teu poder,\nSem palavras, proclamando.\nDeus excelso no saber!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-021-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Majestoso, o sol caminha\nPelos céus, com resplendor!\nExultando, em seu percurso,\nEnche o mundo de calor.\nTodo o vasto universo\nCanta, em coro, teu louvor!\nE a nós vem doce ensino\nDa palavra do Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-021-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Tua lei - quão preciosa!\nBrilha mais que a clara luz,\nEsclarece as nossas mentes,\nGuia as almas a Jesus.\nEm tua graça meditando,\nCantarei, ó bom Senhor,\nE será na minha boca\nAgradável teu louvor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-021-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 4
+    }
+  ]
+}

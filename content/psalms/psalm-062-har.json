@@ -1,0 +1,72 @@
+{
+  "id": "psalm-062-har",
+  "collection": "psalms",
+  "number": 62,
+  "numberLabel": "Salmo 62",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-062",
+  "attrs": {
+    "attribution": "CBS - Neumark"
+  },
+  "sortOrder": 104,
+  "units": [
+    {
+      "id": "psalm-062-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Somente\\_em Deus, ó minha alma,\nSilente,\\_espera no Senhor.\nA minha salvação vem dele.\n<sup>2</sup> A minha rocha\\_é só meu Deus,\nRefúgio alto\\_e salvação.\nMuito\\_abalado não serei.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-062-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Até que ponto vós a\\_um homem\nAtacareis pra derribar\nTal qual parede que pendida\nE muro prestes a cair?\n<sup>4</sup> Só pensam em lhe derribar,\nDa sua honra despojar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-062-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "E na mentira se comprazem;\nDe boca dizem só o bem,\nPorém, no coração, maldizem;\nNo\\_interior, só falam mal.\n<sup>5</sup> Silente,\\_espera,\\_ó alma,\\_em Deus.\nSó dele\\_a esperança vem!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-062-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Só Deus é minha rocha forte,\nRefúgio alto\\_e salvação.\nJamais serei, pois, abalado.\n<sup>7</sup> Refúgio\\_e rocha\\_estão em Deus.\nA minha glória\\_e salvação\nDependem do Senhor, meu Deus.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-062-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Em Deus confiai pra sempre,\\_ó povo,\nE derramai o coração\nPerante Deus, nosso refúgio.\nSomente nele confiai!\n<sup>9</sup> Apenas vaidade são\nOs homens ricos e\\_os plebeus.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-062-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Pesados juntos em balança\nMais leves que vaidade são.\n<sup>10</sup> Não confieis no vosso roubo,\nDo furto não vos ufaneis.\nE, se prosperam vossos bens,\nNão ponhais neles afeição.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-062-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>11</sup> Falou\\_uma vez e\\_ouvi mais duas\nQue o poder pertence a Deus,\n<sup>12</sup> E\\_a ti, Senhor, pertence\\_a graça,\nPois retribuis a cada um;\nSim, recompensas cada um\nSegundo\\_as obras de suas mãos.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

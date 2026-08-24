@@ -1,0 +1,136 @@
+{
+  "id": "psalm-037-gen",
+  "collection": "psalms",
+  "number": 37,
+  "numberLabel": "Salmo 37",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-037",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 64,
+  "units": [
+    {
+      "id": "psalm-037-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Não te revoltes, pois, com malfeitores\nNem queiras invejar quem faz o mal.\n<sup>2</sup> Qual planta verde, murcharão em breve;\nE, como\\_a relva, já definharão.\n<sup>3</sup> Na terra\\_habita\\_e nutre da verdade,\nConfia no Senhor e faze\\_o bem.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-037-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Do teu Senhor e Deus, oh, sim, te\\_agrades,\nE teus desejos Deus satisfará.\n<sup>5</sup> E\\_o teu caminho ao Senhor entrega,\nConfia nele;\\_o mais Ele fará.\n<sup>6</sup> Qual luz, avultará tua justiça;\nE\\_o teu direito, qual sol a brilhar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-037-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Descansa, espera\\_em Deus e não te\\_irrites\nPor causa do\\_homem e seu prosperar\nE que\\_executa seus cruéis desígnios.\n<sup>8</sup> Despreza\\_a ira, deixa o furor.\nNão te enfades, isto\\_acabará mal.\n<sup>9</sup> Será banido todo malfeitor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-037-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "O que espera\\_em Deus terá a terra,\n<sup>10</sup> Mas o\\_ímpio,\\_em breve, não existirá.\nProcurarás por ele\\_em seus lugares\nE, muito\\_em breve, não o\\_encontrarás.\n<sup>11</sup> Porém, os mansos herdarão a terra\nE,\\_em grande paz, irão se deleitar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-037-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Trama o ímpio contra\\_o homem justo\nE contra ele ringe\\_os dentes seus.\n<sup>13</sup> Então, por isso,\\_o Senhor zomba dele,\nPois o seu dia vê se\\_aproximar.\n<sup>14</sup> Com arco\\_e\\_espada,\\_o ímpio\\_ataca\\_o pobre\nPara abater quem anda\\_em retidão.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-037-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> Porém, a\\_espada que pertence\\_ao ímpio\nTraspassará seu próprio coração,\nE os seus arcos lhe serão quebrados.\nDespedaçados todos ficarão.\n<sup>16</sup> Vale bem mais o pouco de\\_um só justo\nDo que\\_a fartura que os ímpios têm.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-037-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>17</sup> Pois os seus braços lhe serão quebrados,\nPorém aos justos o Senhor sustém.\n<sup>18</sup> Dos homens justos Deus conhece\\_os dias,\nE\\_a sua\\_herança se\\_eternizará.\n<sup>19</sup> Nos dias maus, não são envergonhados\nE,\\_em meio\\_à fome, hão de se fartar.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-037-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>20</sup> Os ímpios, no entanto, serão mortos,\nE\\_os inimigos do Senhor serão\nComo\\_as pastagens verdes tão viçosas,\nMas que\\_em fumaça logo\\_acabarão.\n<sup>21</sup> Pede\\_emprestado\\_o ímpio, mas não paga,\nPorém o justo\\_é compassivo\\_e dá.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-037-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>22</sup> Quem Deus bendiz possuirá a terra\nMas os malditos exterminará.\n<sup>23</sup> Ao homem bom Deus firmará os passos\nE,\\_em seu caminho, Ele se compraz;\n<sup>24</sup> E, se cair, não ficará prostrado,\nPois o Senhor segura sua mão.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-037-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>25</sup> Eu já fui moço\\_e,\\_agora, já sou velho.\nDesamparado\\_o justo nunca vi;\nNem mesmo toda\\_a sua descendência\nComo mendigos, a pedir o pão.\n<sup>26</sup> É sempre compassivo e empresta,\nE sua prole bênção há de ser.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-037-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>27</sup> Do mal te\\_aparta e\\_o que\\_é bom pratica.\nSerá perpétua tua habitação.\n<sup>28</sup> Pois o Senhor Deus à justiça ama;\nTambém seus santos nunca deixará;\nE, para sempre, serão preservados,\nMas do perverso\\_a prole matará.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-037-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>29</sup> Os homens justos herdarão a terra\nE, para sempre, nela\\_habitarão.\n<sup>30</sup> O homem justo diz sabedoria;\nFala\\_o que\\_é justo\\_a língua do fiel.\n<sup>31</sup> Tem no seu coração a lei divina;\nNunca seus passos hão de vacilar.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-037-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>32</sup> O ímpio\\_espreita\\_o justo pra matá-lo,\n<sup>33</sup> Mas em suas mãos Deus não o deixará\nNem o condenará quando julgado.\n<sup>34</sup> Em Deus espera\\_e segue\\_o seu andar;\nTe\\_exaltará pra possuir a terra;\nOs ímpios mortos, então, hás de ver.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-037-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>35</sup> Vi um perverso ímpio prepotente\nQual cedro que\\_é do Líbano\\_a crescer.\n<sup>36</sup> Passei, mas eis que desaparecera;\nFui procurá-lo, mas não encontrei.\n<sup>37</sup> Percebe\\_o justo,\\_atenta no\\_homem reto.\nHomem de paz posteridade tem.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-037-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>38</sup> Destruição será o fim dos ímpios,\nSerão exterminados de\\_uma vez.\n<sup>39</sup> Vem do Senhor a salvação dos justos;\nÉ fortaleza na tribulação.\n<sup>40</sup> Deus os ajuda\\_e\\_os livrará dos ímpios,\nPois salva quem nele se refugiar.",
+      "attrs": {},
+      "sortOrder": 15
+    }
+  ]
+}

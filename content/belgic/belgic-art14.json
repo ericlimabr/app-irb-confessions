@@ -1,0 +1,32 @@
+{
+  "id": "belgic-art14",
+  "collection": "belgic",
+  "number": 14,
+  "numberLabel": "Art. 14",
+  "title": "A criação e queda do homem e a sua incapacidade de realizar o que seja verdadeiramente bom",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 14,
+  "units": [
+    {
+      "id": "belgic-art14-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que Deus criou o homem do pó da terra e o fez e o formou à Sua imagem e semelhança: bom, justo e santo. A sua vontade ajustava-se à vontade de Deus em tudo. Mas quando o homem estava naquele estado sublime, ele não o compreendeu nem reconheceu a sua posição excelente, mas acolheu as palavras do diabo e sujeitou-se por livre vontade ao pecado e, assim, à morte e à maldição. Transgrediu o mandamento de vida que recebera,  e  por  seu  pecado  apartou-se  de Deus, que era a sua vida verdadeira, corrompendo toda a sua natureza e tornando-se, pois, merecedor da morte física e espiritual. Havendo se tornado ímpio e perverso, corrupto em todas as suas práticas,  perdeu todos os dons excelentes que  havia  recebido de Deus. Nada  lhe  restou  disso  senão  uns  poucos  vestígios,  suficientes  para torná-lo indesculpável. Logo,  qualquer luz que há em nós transformou-se em trevas, como  nos  ensina  a  Escritura:  _\"A luz  resplandece nas  trevas,  e  as  trevas  não  prevaleceram  contra  ela\"_  (Jo  1.5).  Aqui  o apóstolo João chama a natureza humana de _\"trevas\"_. Rejeitamos,  portanto,  todo  ensinamento  sobre  o  livre-arbítrio  que seja contrário a isso, porque o homem não passa de escravo do pecado (Jo  8.34)  e  ninguém  _\"pode receber coisa alguma se do céu não lhe for dada\"_ (Jo 3.27). Pois, quem é que ousa vangloriar-se de poder por si mesmo fazer algum bem, quando Cristo afirma que: _\"Ninguém pode vir a mim se o Pai, que me enviou, não o trouxer\"_ (Jo 6.44)? Quem se gloriará  da  sua  vontade própria, depois de compreender que _\"o  pendor  da carne é inimizade contra Deus\"_ (Rm 8.7)? Quem pode falar do seu entendimento, quando _\"o homem natural não aceita as coisas do Espírito de Deus\"_ (1Co 2.14)? Em resumo, quem é que ousa reivindicar, seja o que for, quando entende que não somos capazes de pensar alguma coisa, como se partisse de nós mesmos, mas que a nossa capacidade vem de Deus (2Co  3.5)?  Por  isso,  aquilo  que  o  apóstolo  diz  deve  justamente permanecer certo e firme: _\"porque Deus é quem efetua em vós tanto o querer como o realizar, segundo a sua boa vontade\"_  (Fp  2.13).  Porque não  há  entendimento,  nem  vontade  ajustada  ao  entendimento  e  à vontade de Deus, se Cristo não o efetuar em nós, segundo Ele nos ensina: _\"sem mim nada podeis fazer\"_ (Jo 15.5).",
+      "attrs": {
+        "refs": [
+          "Gn 2.7; Gn 3.19; Ec 12.7.",
+          "Gn 1.26, 27; Ef 4.24; Cl 3.10.",
+          "Gn 3.16-19; Rm 5.12.",
+          "Gn 2.17; Ef 2.1; Ef 4.18.",
+          "Sl 94.11; Rm 3.10; Rm 8.6.",
+          "Rm 1.20, 21.",
+          "Ef 5.8."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

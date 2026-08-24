@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-049-056-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.49-56",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-049-056",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 205,
+  "units": [
+    {
+      "id": "psalm-119-049-056-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>49</sup> Lembra-te da promessa\\_ao servo teu,\nNa qual tens feito que\\_eu assim espere.\n<sup>50</sup> Quando\\_em angústia, meu consolo é\nTua palavra, que me vivifica.\n<sup>51</sup> Vejo soberbos sempre\\_a rir de mim,\nPorém da tua lei eu não me afasto.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-049-056-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>52</sup> Eu me conforto,\\_ó Deus, ao me lembrar\nDos teus juízos feitos no passado.\n<sup>53</sup> De mim se\\_apoderou indignação\nPor causa, ó Senhor, dos pecadores\nQue\\_abandonaram tua lei, Senhor,\nQue\\_abandonaram os teus mandamentos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-049-056-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>54</sup> As tuas leis motivam meu cantar;\nEm minha peregrinação, motivam.\n<sup>55</sup> À noite, lembro\\_o nome teu, Senhor,\nE tua lei, então, eu obedeço.\n<sup>56</sup> Tem sido,\\_ó Deus, assim meu proceder,\nPois teus preceitos tenho eu guardado.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

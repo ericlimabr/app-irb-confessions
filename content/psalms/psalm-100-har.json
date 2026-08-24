@@ -1,0 +1,48 @@
+{
+  "id": "psalm-100-har",
+  "collection": "psalms",
+  "number": 100,
+  "numberLabel": "Salmo 100",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-100",
+  "attrs": {
+    "attribution": "CBS - Old Hundredth"
+  },
+  "sortOrder": 164,
+  "units": [
+    {
+      "id": "psalm-100-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Todos os povos celebrai,\nSim, jubilosos ao Senhor!\n<sup>2</sup> Alegres, ao Senhor servi\nE\\_apresentai-vos com louvor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-100-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Sabei que o Senhor é Deus;\nFoi Ele mesmo quem nos fez.\nNós somos dele, povo seu,\nTambém rebanho do pastor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-100-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Por suas portas, adentrai\nE graças ao Senhor rendei.\nNos átrios, hinos entoai.\nSeu nome todos bendizei.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-100-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Porque\\_o Senhor bondoso é;\nSua graça sempre durará.\nDe geração em geração,\nO Senhor sempre é fiel.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

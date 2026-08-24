@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-001-008-har",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.1-8",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-119-001-008",
+  "attrs": {
+    "attribution": "CBS - All The Way"
+  },
+  "sortOrder": 197,
+  "units": [
+    {
+      "id": "psalm-119-001-008-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Bem-aventurado\\_aquele\nQue no seu caminho vai\nIrrepreensivelmente,\nAtendendo\\_à lei de Deus.\n<sup>2</sup> Bem-aventurado\\_aquele\nQue\\_obedece\\_às prescrições\nE, de coração inteiro,\nTem buscado ao Senhor;\n<sup>3</sup> Não pratica\\_a\\_iniquidade,\nMas caminha no Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-001-008-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Ordenaste\\_os mandamentos\nPara que, com precisão,\nOs cumpramos, <sup>5</sup> oh, tomara\nSejam firmes os meus pés,\nPara que os teus preceitos\nEu consiga\\_obedecer.\n<sup>6</sup> Nos teus mandamentos todos,\nQuando,\\_assim, considerar,\nNão terei qualquer vergonha,\nQuando neles ponderar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-001-008-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Muitas graças ao teu nome\nRenderei, Senhor meu Deus.\nCom meu coração inteiro,\nMuitas graças renderei\nQuando\\_os teus juízos retos\nAprendido eu tiver.\n<sup>8</sup> Cumprirei os teus decretos;\nJamais venhas me deixar.\nCumprirei os teus decretos;\nJamais venhas me deixar.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

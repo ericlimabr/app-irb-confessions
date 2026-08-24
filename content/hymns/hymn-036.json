@@ -1,0 +1,41 @@
+{
+  "id": "hymn-036",
+  "collection": "hymns",
+  "number": 36,
+  "numberLabel": "Hino 36",
+  "title": "DAI GRAÇAS TODOS VÓS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Martin Rinkart / Antônio de Campos Gonçalves"
+  },
+  "sortOrder": 36,
+  "units": [
+    {
+      "id": "hymn-036-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Dai graças, todos vós,\nA Deus, humildemente.\nMilagres fez por nós\nNeste universo ingente.\nPois vós deveis saber\nQue muitos bens nos deu,\nQue pelo seu poder\nNos vem a luz do céu.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-036-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "O Deus da redenção\nNos queira dar, na vida,\nAlegre coração\nE auxílio em toda lida.\nMantenha-nos de pé\nPor seu imenso amor\nE nos conserve a fé\nEm Cristo, o Salvador.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-036-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Exaltação, louvor,\nAo Pai, ao Filho amado\nE ao bom Consolador,\nQue foi do céu mandado.\nAo grande e trino Deus\nTribute por igual\nA igreja os hinos seus\nEm glória perenal.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

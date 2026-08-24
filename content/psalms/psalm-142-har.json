@@ -1,0 +1,48 @@
+{
+  "id": "psalm-142-har",
+  "collection": "psalms",
+  "number": 142,
+  "numberLabel": "Salmo 142",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-142",
+  "attrs": {
+    "attribution": "CBS - A New Commandment"
+  },
+  "sortOrder": 268,
+  "units": [
+    {
+      "id": "psalm-142-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A ti, Senhor, eu levanto a voz\nE com ela suplico, clamando\\_ao Senhor.\n<sup>2</sup> Minha queixa derramo perante\\_o meu Deus.\nA minha\\_angústia ao meu Senhor exponho,\nExponho, sim, à sua presença.\n<sup>3</sup> E, quando\\_em mim meu espírito\\_esmorece,\nConheces a minha vereda.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-142-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "E, no caminho\\_em que\\_andando estou,\nMe preparam ciladas ocultas pra mim.\n<sup>4</sup> Olha\\_à minha direita, sim, olha e vê:\nNão há ninguém que a mim me reconheça,\nNão há lugar pra meu refúgio.\nNão há ninguém que por mim se interesse,\nNenhum lugar pra meu refúgio.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-142-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> A ti eu clamo e digo,\\_ó meu Deus:\n“És, Senhor, meu refúgio, a minha porção.\nMeu quinhão nesta terra dos vivos tu és.”\n<sup>6</sup> Ao meu clamor, ó Senhor, meu Deus, atende,\nPois eu me vejo muito frágil.\nÓ Deus, me livra dos meus perseguidores,\nPois, quanto a mim, são bem mais fortes.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-142-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> A minha alma, oh, vem libertar;\nA minha\\_alma liberta, sim, desta prisão;\nE\\_eu, assim, renda graças ao teu nome,\\_ó Deus.\nE, quando\\_a mim este bem, Senhor, fizeres,\nOs justos, pois, vão rodear-me.\nE, quando\\_a mim este bem, Senhor, fizeres,\nOs justos, pois, vão rodear-me.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

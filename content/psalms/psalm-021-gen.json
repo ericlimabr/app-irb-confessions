@@ -1,0 +1,80 @@
+{
+  "id": "psalm-021-gen",
+  "collection": "psalms",
+  "number": 21,
+  "numberLabel": "Salmo 21",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-021",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 39,
+  "units": [
+    {
+      "id": "psalm-021-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Na tua força, ó Senhor,\nO rei se regozija.\nOh, como se alegra!\nE com a tua salvação\nMui exultante\\_está,\nSim, mui feliz está.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-021-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> O que queria\\_o coração,\nO que\\_ele desejava,\nTu lhe satisfizeste.\nO suplicar dos lábios seus,\nO que pediu a ti\nNão lhe negaste,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-021-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Dás bênçãos de bondade\\_ao rei\nE pões em sua cabeça\nCoroa de\\_ouro fino.\n<sup>4</sup> A vida ele te pediu\nE concedeste\\_ao rei\nLongevidade,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-021-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> A tua salvação, Senhor,\nÉ muito gloriosa.\nDeste-lhe majestade.\n<sup>6</sup> Eterna bênção deste\\_ao rei:\nFizeste-o mui feliz\nCom tua presença,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-021-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> O rei jamais vacilará\nPor tua misericórdia,\nPois no Senhor confia.\n<sup>8</sup> A tua destra\\_apanhará\nAos inimigos teus,\nAos que têm ódio\\_a ti.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-021-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Teus inimigos tu farás\nTal qual fornalha\\_ardente\nAo te manifestares.\nEm sua ira, o Senhor,\nCom fogo\\_a devorar,\nAos tais consumirá.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-021-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>10</sup> A sua prole destruirás,\nSim, sua descendência\nDentre\\_os filhos dos homens.\n<sup>11</sup> Se intentarem contra ti,\nArmarem um ardil,\nNão prevalecerão.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-021-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>12</sup> Espantarás teu opressor,\nLhe\\_apontarás no rosto\nCom tua flecha\\_e arco.\n<sup>13</sup> Te\\_exalta\\_em tua força,\\_ó Deus.\nIremos nós cantar,\nLouvando\\_o teu poder.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

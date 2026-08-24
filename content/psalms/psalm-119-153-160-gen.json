@@ -1,0 +1,48 @@
+{
+  "id": "psalm-119-153-160-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.153-160",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-153-160",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 220,
+  "units": [
+    {
+      "id": "psalm-119-153-160-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>153</sup> Vem atentar à minha aflição.\nTambém me livra, sim, ó Deus, me livra,\nPorque eu não me\\_esqueço da tua lei.\n<sup>154</sup> Defende\\_a minha causa\\_e me liberta.\nÓ meu Senhor, vem me vivificar,\nSegundo a promessa que fizeste.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-153-160-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>155</sup> Dos ímpios longe\\_está a salvação,\nPois não procuram pelos teus decretos;\nNão buscam, ó Senhor, a tua lei.\n<sup>156</sup> Mui grande, ó Senhor, é tua graça.\nÓ meu Senhor, vem me vivificar,\nMe vivifica pelos teus juízos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-153-160-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>157</sup> São muitos perseguindo\\_a mim, Senhor.\nSão numerosos os meus adversários,\nPorém, ó Deus, não me desviarei,\nNão me desvio dos teus testemunhos.\n<sup>158</sup> Vi infiéis e,\\_então, me desgostei,\nPorque não guardam a tua palavra.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-119-153-160-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>159</sup> Oh, considera como\\_amo\\_a tua lei,\nSim, ó Senhor, e vem vivificar-me,\nConforme a bondade que tu tens.\n<sup>160</sup> Desde\\_o princípio, as tuas palavras\nEm tudo verdadeiras elas são.\nTeus juízos justos todos são perpétuos.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

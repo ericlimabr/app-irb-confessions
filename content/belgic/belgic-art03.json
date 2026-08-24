@@ -1,0 +1,28 @@
+{
+  "id": "belgic-art03",
+  "collection": "belgic",
+  "number": 3,
+  "numberLabel": "Art. 3",
+  "title": "A Palavra de Deus",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 3,
+  "units": [
+    {
+      "id": "belgic-art03-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Confessamos que a Palavra de Deus não foi enviada nem produzida pela _\"vontade humana; entretanto, homens santos falaram da parte de Deus, movidos pelo Espírito Santo\"_, como afirma o apóstolo Pedro (2Pe 1.21). Após isto Deus, em Seu especial cuidado por nós e nossa salvação, ordenou que os profetas e os apóstolos, Seus servos, registrassem por escrito a Sua Palavra revelada; tendo Ele mesmo escrito com os próprios dedos as duas tábuas da lei. É por isso que chamamos esses escritos de Sagradas e Divinas Escrituras.",
+      "attrs": {
+        "refs": [
+          "Êx 34.27; Sl 102.18; Ap 1.11, 19.",
+          "Êx 31.18.",
+          "2Tm 3.16."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

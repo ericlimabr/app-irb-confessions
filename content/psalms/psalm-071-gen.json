@@ -1,0 +1,144 @@
+{
+  "id": "psalm-071-gen",
+  "collection": "psalms",
+  "number": 71,
+  "numberLabel": "Salmo 71",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-071",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 117,
+  "units": [
+    {
+      "id": "psalm-071-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Tu és o meu refúgio, Senhor.\nNão seja eu jamais\nEnvergonhado, não.\nLivra-me por tua justiça.\n<sup>2</sup> Inclina\\_os teus ouvidos;\nLivra-me,\\_ó Deus, me salva.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-071-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Rocha\\_habitável sejas pra mim,\nPara me acolher,\nQue venha me salvar,\nPorque tu és a minha rocha\nE\\_a minha fortaleza,\nÉs minha fortaleza.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-071-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Das mãos do ímpio livra-me,\\_ó Deus,\nDas garras dos que são\nInjustos e cruéis,\n<sup>5</sup> Porque tu és minha\\_esperança,\nA minha confiança,\nSim, desde\\_a mocidade.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-071-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Eu tenho me\\_apoiado em ti\nDesde\\_o ventre da mãe,\nSim, desde\\_o meu nascer.\nDe lá do ventre, me tiraste.\nPra mim, tu és motivo\nDos meus louvores todos.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-071-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Pra muitos, um portento eu sou,\nMas, meu Senhor, tu és\nRefúgio forte, sim.\n<sup>8</sup> Os lábios meus estão bem cheios\nDo teu louvor e glória,\nSim, sempre\\_e de contínuo.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-071-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Não me rejeites, ó meu Senhor,\nQuando idoso\\_eu for,\nSe\\_a força me faltar,\n<sup>10</sup> Pois contra mim andam falando,\nSim, os meus inimigos,\nTodos os que me\\_espreitam.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-071-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Juntos, meus inimigos, Senhor,\n<sup>11</sup> Consultam, a dizer:\nDeus o desamparou;\nVamos prender e persegui-lo;\nPois não há quem o livre,\nSim, não há quem o livre.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-071-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>12</sup> Não te ausentes de mim, Senhor.\nApressa-te, Deus meu.\nVem, pois, me socorrer.\n<sup>13</sup> Sejam envergonhados todos\nE também consumidos,\nSim, os meus adversários.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-071-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Envergonhados sejam, Senhor,\nQuem planejar fazer\nMaldade contra mim.\n<sup>14</sup> Porém, não cessarei de\\_esperar\nE\\_a ti darei louvores,\nSim, sempre\\_e de contínuo.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-071-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>15</sup> A minha boca relatará\nTua justiça,\\_ó Deus,\nE\\_a tua salvação,\nMesmo que\\_ainda eu não saiba\nDe todos os teus atos\nE nem da soma deles.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-071-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>16</sup> Sinto-me na tua força, Senhor.\nA tua justiça,\\_ó Deus,\nComeço\\_a recordar.\n<sup>17</sup> Tens-me\\_ensinado desde moço;\nE,\\_até agora,\\_eu tenho\nTeus feitos declarado.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-071-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>18</sup> Não desampara\\_o servo que\\_é teu,\nQuando idoso\\_eu for,\nAté eu declarar\nÀ geração que\\_a mim pertence\nE\\_às gerações vindouras\nO teu poder e força.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-071-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>19</sup> Tua justiça se\\_eleva\\_aos céus;\nE grandes coisas faz.\nQuem se\\_assemelha\\_a ti?\n<sup>20</sup> Tu, que me fazes ver tristezas,\nAngústias e problemas,\nRestaurarás teu servo.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-071-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "A minha vida restaurarás;\nTambém me tirarás\nDe grande\\_abismo, sim.\n<sup>21</sup> Aumenta, sim, minha grandeza,\nConforta-me de novo,\nConforta-me de novo.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-071-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>22</sup> Também com lira louvo\\_ao Senhor;\nA ti vou celebrar\nPor tua verdade,\\_ó Deus.\nAo Santo de\\_Israel vou cantar\nLouvores com a harpa.\n<sup>23</sup> Exultarão meus lábios.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-071-gen-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "Quando\\_eu salmodiar ao Senhor,\nMinha\\_alma\\_exultará\nE\\_os lábios meus também.\n<sup>24</sup> Celebrarei a tua justiça,\nPois confundidos foram\nOs que meu mal procuram.",
+      "attrs": {},
+      "sortOrder": 16
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "psalm-130-gen",
+  "collection": "psalms",
+  "number": 130,
+  "numberLabel": "Salmo 130",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-130",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 244,
+  "units": [
+    {
+      "id": "psalm-130-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Das profundezas, clamo\nA ti, ó meu Senhor.\n<sup>2</sup> Ouve, Senhor, minha voz\nE ao meu suplicar\nTeus ouvidos inclina.\n<sup>3</sup> Se atentares, Deus,\nPara\\_as iniquidades\nQuem há de subsistir?",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-130-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Mas há perdão contigo\nPra quem temer a ti.\n<sup>5</sup> Pelo Senhor espero;\nMinha\\_alma\\_aguarda, sim,\nPela sua palavra.\n<sup>6</sup> Por ti minha\\_alma,\\_ó Deus,\nAnseia mais que\\_os guardas\nPelo amanhecer.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-130-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Ó Israel, espere\nEm vosso Deus Javé,\nPois tem misericórdia.\nNele encontrará\nRedenção copiosa.\n<sup>8</sup> Porque é Ele quem\nA Israel redime\nDe toda transgressão.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

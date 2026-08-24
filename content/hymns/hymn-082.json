@@ -1,0 +1,41 @@
+{
+  "id": "hymn-082",
+  "collection": "hymns",
+  "number": 82,
+  "numberLabel": "Hino 82",
+  "title": "CRISTO JÁ RESSUSCITOU",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: RESSURREIÇÃO",
+    "author": "Hino do século XIV / Henry Maxwell Wright"
+  },
+  "sortOrder": 82,
+  "units": [
+    {
+      "id": "hymn-082-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Cristo já ressuscitou. Aleluia!\nSobre a morte triunfou. Aleluia!\nTudo consumado está. Aleluia!\nSalvação de graça dá. Aleluia!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-082-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Sobre a cruz Jesus sofreu. Aleluia!\nE por nós ali morreu. Aleluia!\nMas agora vivo está. Aleluia!\nPara sempre reinará. Aleluia!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-082-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Gratos hinos hoje erguei. Aleluia!\nA Jesus, o grande Rei. Aleluia!\nEle à morte quis baixar. Aleluia!\nPecadores resgatar. Aleluia!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

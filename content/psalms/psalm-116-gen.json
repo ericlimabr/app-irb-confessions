@@ -1,0 +1,104 @@
+{
+  "id": "psalm-116-gen",
+  "collection": "psalms",
+  "number": 116,
+  "numberLabel": "Salmo 116",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-116",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 191,
+  "units": [
+    {
+      "id": "psalm-116-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Amo\\_o Senhor, pois ouve\\_a minha voz;\nA minha súplica\\_o Senhor escuta.\n<sup>2</sup> Pois inclinou pra mim os seus ouvidos;\nA Ele\\_invocarei em meu viver.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-116-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Laços de morte vieram me cercar,\nDe\\_angústias do inferno fui tomado.\nMe\\_entristeci, fiquei atribulado\n<sup>4</sup> E\\_ao nome do Senhor eu invoquei.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-116-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "“Vem, meu Senhor, minha\\_alma libertar!”\n<sup>5</sup> Justo\\_é\\_o Senhor e muito compassivo;\nMisericordioso\\_é\\_o nosso Deus, sim,\n<sup>6</sup> E pelos simples Ele velará.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-116-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Prostrado\\_estava, e Deus me salvou.\n<sup>7</sup> Volta, minha\\_alma, para\\_o teu sossego,\nPois o Senhor contigo\\_é generoso.\n<sup>8</sup> Da morte\\_a minha alma Deus livrou.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-116-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Meus olhos tu poupaste de chorar,\nMeus pés livraste de tropeço\\_e queda.\n<sup>9</sup> Senhor, meu Deus, na terra dos viventes,\nEm tua presença, haverei de\\_andar.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-116-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Eu cria, mesmo\\_estando a dizer\n“Estive sobremodo afligido”.\n<sup>11</sup> Eu disse\\_enquanto\\_estava perturbado:\n“Todos os homens mentirosos são”.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-116-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>12</sup> Ao meu Senhor que devo lhe render\nPor tantos benefícios que me\\_entrega?\n<sup>13</sup> Da salvação o cálice eu tomo;\nAo nome do Senhor invocarei.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-116-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>14</sup> Eu cumprirei meus votos ao Senhor,\nSim, na presença do seu povo todo.\n<sup>15</sup> É preciosa\\_a morte dos seus santos,\nSim, preciosa\\_aos olhos do Senhor.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-116-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>16</sup> Senhor, deveras eu sou servo teu,\nTeu servo, sim, e filho da tua serva.\nMinhas cadeias todas tu quebraste;\nQuebraste todas elas, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-116-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>17</sup> E sacrifícios te\\_oferecerei,\nSim, sacrifícios de ações de graças.\nÓ meu Senhor, teu nome eu invoco;\nSim, ó Senhor, teu nome\\_invocarei.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-116-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>18</sup> Eu cumprirei meus votos ao Senhor,\nSim, na presença do seu povo todo,\n<sup>19</sup> Nos átrios do Senhor, na sua Casa,\nEm ti, Jerusalém. Aleluia!",
+      "attrs": {},
+      "sortOrder": 11
+    }
+  ]
+}

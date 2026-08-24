@@ -1,0 +1,41 @@
+{
+  "id": "hymn-051",
+  "collection": "hymns",
+  "number": 51,
+  "numberLabel": "Hino 51",
+  "title": "GRAÇAS DOU POR ESTA VIDA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "OFERTAS E GRATIDÃO",
+    "author": "August Ludwig Storm / Alice Ostergren Denyszczuk"
+  },
+  "sortOrder": 51,
+  "units": [
+    {
+      "id": "hymn-051-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Graças dou por esta vida,\nPelo bem que revelou;\nGraças dou por meu futuro\nE por tudo que passou.\nPelas bênçãos derramadas,\nPela dor, pela aflição\nPelas graças reveladas,\nGraças dou por teu perdão.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-051-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Graças pelo azul celeste\nE por nuvens que há também,\nPelas rosas do caminho\nE os espinhos que elas têm,\nPela escuridão da noite,\nPela estrela que brilhou,\nPela prece respondida\nE a esperança que falhou.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-051-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Pela cruz e o sofrimento\nE a feliz ressurreição;\nPelo amor que é sem medida,\nPela paz no coração.\nPela lágrima vertida\nE o consolo que é sem par,\nPelo dom da eterna vida,\nSempre graças hei de dar.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

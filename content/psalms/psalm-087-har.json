@@ -1,0 +1,48 @@
+{
+  "id": "psalm-087-har",
+  "collection": "psalms",
+  "number": 87,
+  "numberLabel": "Salmo 87",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-087",
+  "attrs": {
+    "attribution": "CBS - Break bread"
+  },
+  "sortOrder": 143,
+  "units": [
+    {
+      "id": "psalm-087-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Sobre\\_os seus santos montes, Deus fundou;\n<sup>2</sup> O Senhor ama\\_as portas de Sião;\nO Senhor ama mais do que muitas habitações\nDe Jacó, sim, ama bem mais.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-087-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Muitas coisas gloriosas sobre ti\nTêm-se dito,\\_ó cidade do Senhor!\n<sup>4</sup> Dentre\\_os que me conhecem, Raabe farei menção,\nBabilônia direi também.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-087-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Eis aí a Filístia lá nasceu;\nEtiópia e Tiro, lá também.\n<sup>5</sup> De Sião se dirá: “este\\_e\\_aquele nasceram lá”.\nE Deus mesmo a plantará.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-087-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> O Senhor, quando\\_os povos registrar,\n“Este lá é nascido” - Deus dirá.\n<sup>7</sup> Os cantores, em vivas, saltando, entoarão:\n\"São minhas fontes todas em ti\".",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "psalm-140-har",
+  "collection": "psalms",
+  "number": 140,
+  "numberLabel": "Salmo 140",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-140",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 264,
+  "units": [
+    {
+      "id": "psalm-140-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Me guarde,\\_ó Deus, a minha vida,\nPois violência\\_a dominou.\n<sup>2</sup> Detenha\\_a briga combalida,\nQue o perverso provocou.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-140-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Me guarde,\\_ó Deus, nos afazeres.\n<sup>3</sup> De víboras suas bocas são.\nSua língua; peçonhentos seres.\n<sup>4</sup> Dos ímpios salve\\_a tua mão.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-140-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Em altivez, armam ciladas.\nMaldoso é seu coração.\nDas redes seja resguardado,\nPois armadilhas montarão.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-140-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6-7</sup> Meu Deus, detenha\\_os malfeitores.\nÉ minha voz que chora\\_a ti.\nSalvaste-me de traidores.\nAo forte Deus me dirigi.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-140-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Os seus desejos não concede,\nDisperse os anseios maus.\n<sup>9</sup> Hostis me cercam; os impede.\nDestrua\\_os maus, dê salvação.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-140-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Senhor, do mal de que\\_eles sonham,\nProtege do veneno seu.\n<sup>10</sup> Que brasas vivas neles caiam.\nLançados sejam\\_ao fogaréu.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-140-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>11</sup> Capte-os nas redes que nos fazem,\nE faça\\_a cova\\_a própria mão.\nCaluniadores os arrase,\nCastigue\\_os homens vis e maus.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-140-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>12-13</sup> Eu sei que Deus aos ruins condena.\nOs oprimidos louvarão.\nDireito traz, justiça plena.\nPerto de ti habitarão.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

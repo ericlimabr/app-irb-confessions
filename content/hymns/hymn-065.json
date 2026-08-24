@@ -1,0 +1,57 @@
+{
+  "id": "hymn-065",
+  "collection": "hymns",
+  "number": 65,
+  "numberLabel": "Hino 65",
+  "title": "AFLIÇÃO E PAZ",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Horatio Gates Spafford / William Edwin Entzminger"
+  },
+  "sortOrder": 65,
+  "units": [
+    {
+      "id": "hymn-065-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Se paz a mais doce me deres gozar,\nSe dor a mais forte sofrer,\nOh! Seja o que for, tu me fazes saber\nQue feliz com Jesus sempre sou!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-065-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Sou feliz com Jesus,\nSou feliz com Jesus, meu Senhor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-065-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Embora me assalte o cruel Satanás,\nE ataque com vis tentações;\nOh! Certo que estou, apesar de aflições,\nQue feliz eu serei com Jesus!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-065-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Meu triste pecado, por meu Salvador\nFoi pago de um modo cabal!\nValeu-me o Senhor! Oh! Mercê sem igual!\nSou feliz, graças dou a Jesus!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-065-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "A vinda eu anseio do meu Salvador.\nEm breve, virá me levar\nAo céu, onde eu vou junto a Ele morar\nCom remidos na luz do Senhor!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "hymn-079",
+  "collection": "hymns",
+  "number": 79,
+  "numberLabel": "Hino 79",
+  "title": "O VARÃO DE GRANDE DOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: MORTE",
+    "author": "Philip Paul Bliss"
+  },
+  "sortOrder": 79,
+  "units": [
+    {
+      "id": "hymn-079-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "O Varão de grande dor\nÉ o Filho do Senhor.\nVeio ao mundo por amor,\nAleluia! É meu Cristo.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-079-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "A cruenta cruz levou,\nA minh’alma resgatou.\nMinha conta já pagou.\nAleluia! É meu Cristo.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-079-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Ele quis por mim morrer,\nEu para Ele vou viver,\nDele é todo meu querer;\nAleluia! É meu Cristo.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-079-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Quando nosso Rei voltar,\nSua face eu contemplar,\nSua glória vou cantar.\nAleluia! É meu Cristo.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "psalm-149-har",
+  "collection": "psalms",
+  "number": 149,
+  "numberLabel": "Salmo 149",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-149",
+  "attrs": {
+    "attribution": "CBS - Men of Harlech"
+  },
+  "sortOrder": 281,
+  "units": [
+    {
+      "id": "psalm-149-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Aleluia!\\_Um novo canto ao Senhor cantai, louvai-o.\nSim, ó santos, na\\_assembleia, todos entoai.\n<sup>2</sup> Israel se regozije no seu Criador e\\_exultem.\nNo seu Rei exultem sempre\\_os filhos de Sião.\n<sup>3</sup> Cantem-lhe os salmos com adufe\\_e harpa.\nAo nome do Senhor louvai, louvai, sim, com a flauta.\n<sup>4</sup> Pois se\\_agrada do seu povo, do seu povo Deus se\\_agrada,\nAos humildes adornando com a salvação.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-149-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> E, de glória,\\_exultem santos no seu leito, jubilando.\n<sup>6</sup> Ao Senhor louvores altos cantem todos vós,\nCom espadas de dois gumes empunhadas <sup>7</sup> pra vingança,\nSobre\\_os povos e nações castigos exercer,\n<sup>8</sup> Colocar em ferros os seus governantes\nE presos em grilhões os reis e\\_os nobres do seu povo,\n<sup>9</sup> Para\\_executar sentença contra eles já escrita.\nE\\_honra\\_aos santos será isso, sim. Aleluia!",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

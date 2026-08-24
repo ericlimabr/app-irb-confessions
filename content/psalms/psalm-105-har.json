@@ -1,0 +1,48 @@
+{
+  "id": "psalm-105-har",
+  "collection": "psalms",
+  "number": 105,
+  "numberLabel": "Salmo 105",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-105",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 174,
+  "units": [
+    {
+      "id": "psalm-105-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1-4</sup> Cantai ao Senhor, rendei graças,\nNarrai as suas maravilhas.\nCantai-lhe salmos, gloriai-\nVos no seu nome e buscai\nO Senhor e ao seu poder\nVós deveis sempre recorrer.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-105-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5-6</sup> Lembrai de todos os prodígios,\nNão esqueçais os seus juízos.\nVós descendentes de\\_Abraão,\nLembrai, em cada geração,\nAs maravilhas do Senhor,\nQue vos mostravam seu favor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-105-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7-9</sup> Ele, que domina a terra,\nSempre se lembra da\\_aliança,\nA aliança com Abrão,\nQue recebeu confirmação.\nCom todo filho que nasceu\nDeus renovou o pacto seu.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-105-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9-11</sup> O que a Abraão jurara\nE a Isaque confirmara\nTambém a Jacó prometeu;\nIsrael ouviu decreto seu:\nÀ sua descendência\nDarei\\_o país de Canaã!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

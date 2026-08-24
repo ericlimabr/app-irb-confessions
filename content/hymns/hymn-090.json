@@ -1,0 +1,51 @@
+{
+  "id": "hymn-090",
+  "collection": "hymns",
+  "number": 90,
+  "numberLabel": "Hino 90",
+  "title": "FORTALECE A TUA IGREJA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "IGREJA E SACRAMENTOS",
+    "author": "Henry Maxwell Wright / Mário N. Zimmermann"
+  },
+  "sortOrder": 90,
+  "units": [
+    {
+      "id": "hymn-090-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Fortalece a tua Igreja,\nÓ bendito Salvador!\nDá-lhe tua plena graça,\nOh, renova seu vigor.\nVivifica, vivifica\nNossas almas, ó Senhor!\nVivifica, vivifica\nNossas almas, ó Senhor!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-090-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Vem, concede por bondade,\nEm perfeita comunhão\nA pureza na doutrina,\nA constância na oração.\nPurifica, purifica,\nNossas mentes, ó Senhor!\nPurifica, purifica,\nNossas mentes, ó Senhor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-090-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Dá amor, fé e esperança\nAo rebanho, ó bom Jesus,\nAo pregar teu Evangelho\nE viver na eterna luz.\nSantifica, santifica!\nNossas vidas, ó Senhor!\nSantifica, santifica!\nNossas vidas, ó Senhor!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-090-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 4
+    }
+  ]
+}

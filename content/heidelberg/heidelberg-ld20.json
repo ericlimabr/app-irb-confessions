@@ -1,0 +1,43 @@
+{
+  "id": "heidelberg-ld20",
+  "collection": "heidelberg",
+  "number": 20,
+  "numberLabel": "Domingo 20",
+  "title": null,
+  "subtitle": "Deus Espírito Santo e a Nossa Santificação",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 20,
+  "units": [
+    {
+      "id": "heidelberg-q053-q",
+      "kind": "question",
+      "label": "P. 53",
+      "body": "O que você crê sobre o Espírito Santo?",
+      "attrs": {
+        "questionNumber": 53
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q053-a",
+      "kind": "answer",
+      "label": "R. 53",
+      "body": "Primeiro:  Creio  que  Ele  é  verdadeiro  e  eterno  Deus,  juntamente com o Pai e o Filho.\n\nSegundo: Creio que Ele foi dado também a mim para - pela verdadeira fé - me tornar participante de Cristo e de todos os Seus benefícios, para me consolar e para permanecer comigo para sempre.",
+      "attrs": {
+        "questionNumber": 53,
+        "refs": [
+          "Gn 1.1, 2; Mt 28.19; At 5.3, 4; 1Co 3.16.",
+          "1Co 6.19; 2Co 1.21, 22; Gl 4.6; Ef 1.13.",
+          "Gl 3.14; 1Pe 1.2.",
+          "Jo 15.26; At 9.31.",
+          "Jo 14.16, 17; 1Pe 4.14."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

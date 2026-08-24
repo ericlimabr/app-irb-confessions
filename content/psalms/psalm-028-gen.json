@@ -1,0 +1,64 @@
+{
+  "id": "psalm-028-gen",
+  "collection": "psalms",
+  "number": 28,
+  "numberLabel": "Salmo 28",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-028",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 52,
+  "units": [
+    {
+      "id": "psalm-028-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Clamo\\_a ti, meu rochedo, Senhor.\nNão sejas surdo pra comigo,\nPra que não aconteça, então,\nAo calares acerca de mim,\nQue semelhante seja eu\nAos que à cova descem, pois.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-028-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Ouve,\\_ó Deus, a voz do meu clamor\nQuando a ti pedir socorro\nE\\_ao santuário\\_erguer minhas mãos.\n<sup>3</sup> Com iníquos não leves a mim;\nFalam de paz ao seu irmão,\nMas têm o mal no coração.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-028-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Dá-lhes pago por seu proceder,\nPela malícia dos seus atos\nE conforme o seu merecer,\nSegundo\\_a obra das suas mãos.\nOh, retribui-lhes, sim, ó Deus.\nDá-lhes o pago, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-028-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Não se\\_atentam aos feitos de Deus\nNem ao que\\_as suas mãos operam.\nPor isso, Deus os derribará\nE não há de os reconstruir.\n<sup>6</sup> Seja bendito Deus Senhor,\nPois atendeu ao meu clamor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-028-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Minha força e\\_escudo\\_é\\_o Senhor.\nNele meu coração confia,\nPois foi Ele que me socorreu;\nPor isso,\\_exulta\\_o meu coração.\nPortanto,\\_a Ele louvarei;\nCom meu cantar, sim, louvarei.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-028-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>8</sup> Eis que\\_a força do seu povo\\_é Deus;\nSalva\\_e protege\\_o seu ungido.\n<sup>9</sup> Do teu povo tu és salvador;\nTua\\_herança\\_abençoa, Senhor.\nTeu povo vem apascentar\nE para sempre\\_o exaltar.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

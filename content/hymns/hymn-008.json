@@ -1,0 +1,41 @@
+{
+  "id": "hymn-008",
+  "collection": "hymns",
+  "number": 8,
+  "numberLabel": "Hino 8",
+  "title": "MEU ÚNICO CONSOLO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CONFISSÃO DE FÉ",
+    "author": "Vítor Olivier"
+  },
+  "sortOrder": 8,
+  "units": [
+    {
+      "id": "hymn-008-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Qual é o consolo único pra mim\nEm minha vida e quando eu morrer?\nQue não pertenço propriamente a mim,\nMas eu pertenço a Cristo.\nTanto em meu corpo como em minha alma,\nTanto na vida como em minha morte,\nDe fato, eu pertenço a Jesus Cristo,\nMeu Salvador fiel.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-008-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Cristo pagou os pecados todos meus,\nSim, com o sangue precioso seu\nE, assim, de Satanás me libertou,\nDe todo o seu domínio.\nE Cristo guarda a mim de tal maneira\nQue nem sequer um fio de cabelo\nSem a vontade do meu Pai Celeste\nPode cair de mim.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-008-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "E, na verdade, tudo o que há\nCoopera para a minha salvação.\nSeu Santo Espírito garante a mim\nQue terei vida eterna.\nSeu Santo Espírito me faz disposto,\nMe faz disposto para que eu viva\nDe agora em diante para Ele\nDe todo o coração.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

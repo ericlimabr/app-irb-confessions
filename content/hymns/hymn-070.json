@@ -1,0 +1,57 @@
+{
+  "id": "hymn-070",
+  "collection": "hymns",
+  "number": 70,
+  "numberLabel": "Hino 70",
+  "title": "SURGEM ANJOS PROCLAMANDO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: NASCIMENTO",
+    "author": "Hino francês / Isaac Nicolau Salum"
+  },
+  "sortOrder": 70,
+  "units": [
+    {
+      "id": "hymn-070-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Surgem anjos proclamando\nPaz à terra e a Deus louvor.\nVão seus hinos ecoando\nNas montanhas ao redor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-070-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Glória, glória a Deus nas alturas!\nGlória, glória a Deus nas alturas!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-070-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Vão-se alegres os pastores\nVer o infante celestial;\nE acrescentam seus louvores\nAo louvor angelical.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-070-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Berço rude lhe foi dado,\nMas do céu lhe vem louvor.\nEle é o Salvador amado;\nBem merece o nosso amor!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-070-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Povos, tribos, celebrai-o;\n“Glória a Deus” também dizei.\nDe joelhos, adorai-o;\nEle é o Cristo, o grande Rei!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

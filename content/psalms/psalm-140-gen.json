@@ -1,0 +1,112 @@
+{
+  "id": "psalm-140-gen",
+  "collection": "psalms",
+  "number": 140,
+  "numberLabel": "Salmo 140",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-140",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 263,
+  "units": [
+    {
+      "id": "psalm-140-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Do ímpio\\_e mau, Senhor, me livra\nE de quem violência faz\n<sup>2</sup> E\\_o mal no coração maquina,\nContendas vive a forjar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-140-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Aguça\\_a língua qual serpente;\nVeneno de\\_áspide\\_eles têm\nSob os seus lábios. Oh! Me guarda\nDas mãos dos ímpios, ó Senhor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-140-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Guarda-me,\\_ó Deus, das mãos dos ímpios\nE do que violência faz,\nOs quais se\\_empenham de tal modo\nPara meus passos desviar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-140-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Soberbos ocultaram cordas\nE armadilhas contra mim,\nRede à beira do caminho,\nCiladas prontas contra mim.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-140-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>6</sup> Ao meu Senhor assim eu digo:\nAcode,\\_ó Deus, à minha voz,\nÀs minhas súplicas atende,\n<sup>7</sup> Porque, Senhor, tu és meu Deus.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-140-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Ó meu Senhor, tu és a força,\nForça da minha salvação.\nMinha cabeça protegeste\nNo dia da batalha,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-140-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>8</sup> Peço, Senhor, que não concedas\nAo ímpio os desejos seus.\nOh! Não permitas que o ímpio\nSuceda\\_em seu desígnio mau!",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-140-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>9</sup> E, quanto\\_àqueles que me cercam\nE à cabeça\\_a se\\_exaltar,\nSejam cobertos com a própria\nMaldade que\\_há nos lábios seus.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-140-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>10</sup> Sobre\\_eles caiam brasas vivas.\nAo fogo\\_atira-os, Senhor!\nSejam lançados em abismos,\nPara não mais se levantar!",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-140-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>11</sup> Na terra não se\\_estabeleça\nO homem que\\_é caluniador.\nE\\_ao homem que é violento\nPersiga\\_o mal a golpear.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-140-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>12</sup> Sei que\\_o Senhor sustém a causa\nDo homem que\\_oprimido for\nE o Senhor sustém a causa\nDe quem necessitado for.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-140-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>13</sup> Assim, os justos hão de render\nGraças ao nome teu, Senhor.\nE todo\\_aquele que for reto,\nEm tua presença,\\_habitará.",
+      "attrs": {},
+      "sortOrder": 12
+    }
+  ]
+}

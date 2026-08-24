@@ -1,0 +1,48 @@
+{
+  "id": "psalm-061-gen",
+  "collection": "psalms",
+  "number": 61,
+  "numberLabel": "Salmo 61",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-061",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 101,
+  "units": [
+    {
+      "id": "psalm-061-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ouve,\\_ó meu Deus, minha prece!\nVem, atende!\n<sup>2</sup> Abatido\\_é\\_o coração:\nDesde os confins da terra,\nPor ti clamo:\nDá-me\\_ajuda no\\_escalar!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-061-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Contra\\_inimigo\\_és refúgio,\nTorre forte!\n<sup>4</sup> Que pra sempre\\_eu vá servir.\nNa morada onde\\_habitas,\nEu me\\_abrigo:\nTuas asas, proteção.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-061-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Deus, atentaste\\_aos meus votos,\nDando\\_herança\nDo que teme\\_ao nome teu.\n<sup>6</sup> Para\\_o rei concedes dias,\nVida longa:\nGerações pós gerações.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-061-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Perante Deus permaneça\nPara sempre:\nProtegido, bom, fiel.\n<sup>8</sup> Salmodiarei teu nome\nPara sempre,\nOs meus votos a cumprir.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

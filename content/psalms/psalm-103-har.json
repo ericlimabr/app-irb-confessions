@@ -1,0 +1,88 @@
+{
+  "id": "psalm-103-har",
+  "collection": "psalms",
+  "number": 103,
+  "numberLabel": "Salmo 103",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-103",
+  "attrs": {
+    "attribution": "CBS - Redeemed"
+  },
+  "sortOrder": 170,
+  "units": [
+    {
+      "id": "psalm-103-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Bendize\\_ao Senhor, ó minha\\_alma,\nE tudo que\\_existe em mim\nBendiga, pois seu nome é santo.\n<sup>2</sup> Bendize,\\_ó minha\\_alma,\\_ao Senhor.\nDos seus benefícios\nNão\\_te esqueças de nem um só.\n<sup>3</sup> É Deus quem perdoa\nAs tuas mais vis transgressões.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-103-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "As tuas doenças Deus cura,\n<sup>4</sup> Da cova redime\\_o teu ser\nE tua cabeça coroa,\nCoroa de graça e\\_amor.\n<sup>5</sup> A tua velhice\nCumula de bens a fartar.\nTeus dias de jovem\nComo\\_águia se renovarão.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-103-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> A todos que\\_estão oprimidos\nJustiça e juízo Deus faz.\n<sup>7</sup> Deus manifestou seus caminhos,\nAo servo Moisés revelou.\nSeus feitos notáveis\nAos israelitas mostrou.\n<sup>8</sup> É bom, compassivo;\nGracioso\\_e paciente\\_é\\_o\\_Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-103-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Pra sempre Deus não repreende\nE nem manterá seu furor\n<sup>10</sup> E não tem nos retribuído\nConforme requer nosso mal.\n<sup>11</sup> Àqueles que\\_o temem\nMui grande\\_é de Deus seu favor\nTal como\\_elevado\nO céu sobre\\_a terra está.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-103-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> E quanto\\_o\\_Oriente\\_e\\_o\\_Ocidente\nDistantes estão entre si,\nDeus nossos pecados afasta.\n<sup>13</sup> Tal pai que do filho tem dó,\nAssim aos que\\_o temem\nDemonstra\\_o Senhor compaixão,\n<sup>14</sup> Pois Deus nos conhece\nE sabe que nós somos pó.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-103-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> E, quanto\\_aos seus dias, o homem\nÉ tal como\\_a relva\\_a brotar.\nAssim como\\_as flores do campo,\nO homem floresce também,\n<sup>16</sup> Mas, soprando\\_o vento,\nJá vem a desaparecer.\nDaí em diante,\nNão se sabe mais seu lugar.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-103-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>17</sup> Mas sobre\\_os que temem seu nome\nA misericórdia de Deus\nÉ de\\_eternidade a outra,\nJustiça sobre as gerações\n<sup>18</sup> A todos que guardam\nO pacto firmado por Deus\nE seus mandamentos\nConhecem e\\_os cumprem também.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-103-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>19</sup> Nos céus, Deus firmou o seu trono,\nReinando em tudo que há.\n<sup>20</sup> Vós todas as hostes de anjos,\nA Deus, o Senhor, bendizei,\nGrandiosos em força,\nQue sua palavra cumpris,\nSempre\\_obedecendo\nA todas as ordens de Deus.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-103-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>21</sup> A Deus bendizei suas hostes,\nQue sua vontade cumpris.\nVós todos que sois seus ministros,\nA Deus, o Senhor, bendizei.\n<sup>22</sup> A Deus bendizei vós,\nEm todo\\_o domínio de Deus,\nVós todas suas obras.\nBendize,\\_ó minha\\_alma,\\_ao Senhor.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

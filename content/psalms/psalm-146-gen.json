@@ -1,0 +1,56 @@
+{
+  "id": "psalm-146-gen",
+  "collection": "psalms",
+  "number": 146,
+  "numberLabel": "Salmo 146",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-146",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 274,
+  "units": [
+    {
+      "id": "psalm-146-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Aleluia! Aleluia!\nMinha\\_alma, louva\\_ao Senhor.\n<sup>2</sup> Louvarei por minha vida,\nLouvarei ao meu Senhor.\nCantarei louvor a Deus,\nSim, por todo\\_o meu viver.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-146-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Oh! Não confieis em homens\nNem nos príncipes daqui:\nDe salvar são incapazes!\n<sup>4</sup> Seu espírito lhes sai,\nE se tornam como pó:\nSeu desígnio\\_a perecer.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-146-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Bem-aventurado\\_aquele\nQue espera no Senhor,\nNo Deus de Jacó, auxílio,\n<sup>6</sup> Que fez céus, a terra,\\_o mar\nE\\_o que mais que neles há.\nOh! Pra sempre,\\_Ele\\_é fiel!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-146-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Deus é justo\\_aos oprimidos;\nAos famintos dá o pão;\nO Senhor liberta\\_os presos;\n<sup>8</sup> O Senhor faz cegos ver\nE levanta quem caiu;\nAma\\_os justos o Senhor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-146-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> O Senhor ampara\\_o órfão;\nA viúva,\\_assim, também;\nE protege\\_o peregrino.\n<sup>10</sup> Para sempre,\\_é\\_o reino seu,\nÓ Sião, por gerações!\nAleluia!\\_Aleluia!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "psalm-073-har",
+  "collection": "psalms",
+  "number": 73,
+  "numberLabel": "Salmo 73",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-073",
+  "attrs": {
+    "attribution": "CBS - Old German"
+  },
+  "sortOrder": 121,
+  "units": [
+    {
+      "id": "psalm-073-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> De fato,\\_é\\_o Senhor bondoso\\_a\\_Israel,\nCom aqueles que têm limpo\\_o seu coração.\n<sup>2</sup> Porém, quanto\\_a mim, bem pouco faltou\nPara se desviarem meus passos, meus pés.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-073-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Porque os soberbos eu invejei\nQuando vi os perversos em seu prosperar.\n<sup>4</sup> Apertos na sua morte não têm;\nO seu corpo\\_é saudável, tem muito vigor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-073-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Cansaço não têm tal qual os mortais\nE nem são afligidos igual aos demais.\n<sup>6</sup> Soberba os cinge como\\_um colar;\nViolência os cobre qual manto\\_a\\_envolver.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-073-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Gordura lhes faz os olhos saltar;\nFantasias lhes brotam do seu coração.\n<sup>8</sup> Da sua\\_opressão estão a falar,\nCom malícia, zombando em sua\\_altivez.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-073-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> A boca desandam contra os céus;\nSua língua percorre a terra\\_a falar.\n<sup>10</sup> Seu povo se volta\\_a eles e\\_os têm\nComo fonte da qual bebem água\\_a fartar.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-073-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Perguntam se\\_acaso sabe\\_o Senhor:\n“Porventura,\\_o Altíssimo conhecerá?”\n<sup>12</sup> Assim são os ímpios e sempre vão,\nBem tranquilos, crescendo\\_as riquezas que têm.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-073-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Em vão, conservei o meu coração\nNa pureza e\\_as mãos na\\_inocência lavei.\n<sup>14</sup> Estou, de contínuo,\\_em tribulação;\nTambém sou castigado a cada manhã.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-073-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>15</sup> Se,\\_acaso,\\_eu assim pensasse\\_em falar,\nJá teria traído teus filhos, Senhor.\n<sup>16</sup> Só em refletir pra compreender,\nAchei muito pesada tarefa pra mim.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-073-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>17</sup> Até que\\_eu entrei no templo de Deus;\nCom o fim dos perversos, então, atinei.\n<sup>18</sup> Em destruição os fazes cair.\nEm lugares escorregadios tu os pões.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-073-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>19</sup> Aterrorizados todos serão.\nComo ficam de súbito\\_em desolação!\n<sup>20</sup> Assim como\\_ao sonho ao se\\_acordar,\nTambém sua imagem tu desprezarás.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-073-har-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "Sim, quando vieres a despertar,\nÓ Senhor, sua\\_imagem tu desprezarás.\n<sup>21</sup> Ao se\\_amargurar o meu coração,\nComoveram-se\\_as minhas entranhas também.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-073-har-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>22</sup> Um bruto\\_ignorante,\\_então, me tornei;\nInsensato diante de ti eu fiquei.\n<sup>23</sup> Contigo, Senhor, eu sempre estou.\nPela destra seguras a mim, ó Deus meu.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-073-har-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>24</sup> E com teu conselho vens me guiar\nE, depois, em tua glória, me receberás.\n<sup>25</sup> Quem mais tenho eu no céu, ó Senhor?\nNem na terra há outro\\_em quem tenho prazer.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-073-har-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>26</sup> Ainda que venha desfalecer\nMinha carne\\_e meu coração esmorecer,\nA minha herança\\_eterna tu és!\nÉs, Senhor, fortaleza do meu coração!",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-073-har-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>27</sup> Perecem os que se\\_afastam de ti.\nQuem te for infiel tu destróis, ó Senhor.\n<sup>28</sup> É bom para mim em Deus me\\_abrigar,\nPara todas as obras de Deus proclamar.",
+      "attrs": {},
+      "sortOrder": 15
+    }
+  ]
+}

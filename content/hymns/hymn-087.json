@@ -1,0 +1,49 @@
+{
+  "id": "hymn-087",
+  "collection": "hymns",
+  "number": 87,
+  "numberLabel": "Hino 87",
+  "title": "QUANDO LÁ DO CÉU DESCENDO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: RETORNO DE CRISTO",
+    "author": "Henry Maxwell Wright"
+  },
+  "sortOrder": 87,
+  "units": [
+    {
+      "id": "hymn-087-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Quando, lá do céu descendo,\nPara os seus Jesus voltar\nE o clarim de Deus a todos proclamar\nQue chegou o grande dia\nDo regresso do meu Rei,\nEu, por sua imensa graça, lá estarei!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-087-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Quando, enfim, chegar o dia\nDo regresso do meu Rei,\nQuando, enfim, chegar o dia,\nPela graça de Jesus eu lá estarei!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-087-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Nesse dia, quando os mortos\nHão de a voz de Cristo ouvir,\nE, dos seus sepulcros hão de ressurgir,\nOs remidos, transformados,\nLogo aclamarão seu Rei,\nE, por sua imensa graça, lá estarei!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-087-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Pelo mundo rejeitado\nFoi Jesus, meu Salvador!\nDesprezaram, insultaram meu Senhor!\nMas, glorioso, vem o dia\nDo regresso do meu Rei,\nE, por sua imensa graça, lá estarei!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

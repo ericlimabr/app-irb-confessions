@@ -1,0 +1,59 @@
+{
+  "id": "hymn-041",
+  "collection": "hymns",
+  "number": 41,
+  "numberLabel": "Hino 41",
+  "title": "FONTE DA CELESTE VIDA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LEITURA E PREGAÇÃO DA PALAVRA",
+    "author": "Sarah Poulton Kalley"
+  },
+  "sortOrder": 41,
+  "units": [
+    {
+      "id": "hymn-041-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Fonte da Celeste Vida,\nManifesta o teu poder.\nVivifica os sem alento,\nFaze os mortos renascer!\nVida eterna, vida eterna\nNos vieste conceder;\nNos vieste conceder.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-041-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Ao abrirmos o teu Livro,\nDele emane a luz dos céus!\nEsclarece todo engano\nE dos erros livra os teus.\nIlumina, ilumina\nNossas almas, grande Deus;\nNossas almas, grande Deus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-041-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Na leitura desta Bíblia,\nDá-nos gozo, ó Senhor!\nTendo, pelo teu ensino,\nComunhão em santo amor.\nExultamos, exultamos\nEntoando o teu louvor;\nEntoando o teu louvor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-041-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Pelo estudo da Palavra\nAprendemos de Jesus.\nOh! Concede os belos frutos\nQue esta instrução produz!\nDesfrutemos, desfrutemos\nAlegria, vida e luz;\nAlegria, vida e luz.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-041-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 5
+    }
+  ]
+}

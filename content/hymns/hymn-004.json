@@ -1,0 +1,42 @@
+{
+  "id": "hymn-004",
+  "collection": "hymns",
+  "number": 4,
+  "numberLabel": "Hino 4",
+  "title": "O CÂNTICO DE ZACARIAS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CÂNTICOS DE TEXTOS BÍBLICOS",
+    "bibleRef": "Lucas 1.68-79",
+    "author": "Autor desconhecido"
+  },
+  "sortOrder": 4,
+  "units": [
+    {
+      "id": "hymn-004-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>68</sup> Bendito seja o Senhor,\nDeus de Israel, Deus nosso,\nPois ao seu povo visitou\nE redimiu seus santos.\n<sup>69</sup> Na casa de Davi, o Senhor\nNos suscitou a salvação\nPlena e poderosa\n<sup>70</sup> Conforme prometera Deus\nDiretamente da boca\nDos seus profetas santos.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-004-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>71</sup> Para nos libertar das mãos\nDos nossos inimigos,\n<sup>72-73</sup> Para usar de compaixão\nCom nossos pais, lembrando\nDa aliança santa que jurou\nAo patriarca Abraão:\n<sup>74-75</sup> Que, livres de inimigos,\nPossamos, justos, sem temor,\nEm santidade o cultuar\nPerante Ele sempre.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-004-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>76</sup> João Batista, tu serás\nProfeta do Deus Santo.\nPrecederás o teu Senhor,\nPrepararás a senda.\n<sup>77</sup> Ensinarás ao povo seu\nA redenção do vil pecar,\n<sup>78</sup> Pois Deus é gracioso!\nSol nas alturas a nascer,\n<sup>79</sup> Guiando à paz os nossos pés,\nIluminando as trevas.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

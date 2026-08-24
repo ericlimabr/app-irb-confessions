@@ -1,0 +1,41 @@
+{
+  "id": "heidelberg-ld49",
+  "collection": "heidelberg",
+  "number": 49,
+  "numberLabel": "Domingo 49",
+  "title": null,
+  "subtitle": "A Oração",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 49,
+  "units": [
+    {
+      "id": "heidelberg-q124-q",
+      "kind": "question",
+      "label": "P. 124",
+      "body": "Qual é a terceira petição?",
+      "attrs": {
+        "questionNumber": 124
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q124-a",
+      "kind": "answer",
+      "label": "R. 124",
+      "body": "_\"Faça-se a tua vontade, assim na terra como no céu\"_.\n\nIsto é:\n\nQue nós e todos os homens renunciemos à nossa própria vontade, e sem murmuração obedeçamos à Tua vontade, a única que é boa.\n\nTambém que concedas que todos cumpram os deveres de seus ofícios e vocações tão espontânea e fielmente como os anjos no céu.",
+      "attrs": {
+        "questionNumber": 124,
+        "refs": [
+          "Mt 7.21; 16.24-26; Lc 22.42; Rm 12.1, 2; Tt 2.11, 12.",
+          "1Co 7.17-24; Ef 6.5-9.",
+          "Sl 103.20, 21."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "hymn-092",
+  "collection": "hymns",
+  "number": 92,
+  "numberLabel": "Hino 92",
+  "title": "DISPOSTA A MESA, Ó SALVADOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "IGREJA E SACRAMENTOS",
+    "author": "Sarah Poulton Kalley"
+  },
+  "sortOrder": 92,
+  "units": [
+    {
+      "id": "hymn-092-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Disposta a mesa, ó Salvador,\nEstás presente aqui!\nMinistra o vinho, parte o pão,\nTipos, Jesus, de ti.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-092-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Juntos, lembramos tua cruz;\nPor nós sofreste ali.\nPor tua graça divinal,\nVivemos para ti.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-092-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Desperta, anima, enleva os teus,\nFazendo-os discernir\nQue tu presente, ó Cristo, estás\nTeu povo a dirigir.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-092-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Na Santa Ceia, ó grande Deus,\nBuscamos comunhão\nContigo, nosso Benfeitor,\nCom todo vero irmão.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-092-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Sabemos que regressarás\nEm majestade e luz!\nJuiz Supremo, eterno Rei,\nOh! Vem, Senhor Jesus!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

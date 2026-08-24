@@ -1,0 +1,41 @@
+{
+  "id": "hymn-011",
+  "collection": "hymns",
+  "number": 11,
+  "numberLabel": "Hino 11",
+  "title": "CULTO À TRINDADE",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CHAMADO À ADORAÇÃO",
+    "author": "João Gomes da Rocha"
+  },
+  "sortOrder": 11,
+  "units": [
+    {
+      "id": "hymn-011-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Deus está na igreja!\nPai Onipotente!\nA seus pés nos humilhamos.\nServos consagrados,\nReverentemente,\nAo Deus santo adoramos.\nPor favor, com amor,\nEspiritualmente,\nDeus está na igreja!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-011-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Cristo está na igreja!\nSumo benefício\nPor seu sangue nos foi dado.\nEle, o bom Cordeiro,\nFoi o sacrifício\nQue expiou o vil pecado.\nEscolheu e sofreu\nO cabal suplício.\nCristo está na igreja!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-011-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Tu, que estás na igreja,\nPreceptor divino,\nE os corações habitas;\nTu, paciente Mestre,\nDá-nos teu ensino,\nAclarando as leis benditas.\nQue prazer conhecer\nA graça infinita!\nSim, estás na igreja!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "psalm-120-har",
+  "collection": "psalms",
+  "number": 120,
+  "numberLabel": "Salmo 120",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-120",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 225,
+  "units": [
+    {
+      "id": "psalm-120-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Eu levantei a voz ansiosa\nA Deus, que respondeu, bondoso.\nAflito,\\_assim o suplicava:\n<sup>2</sup> \"Senhor, acuda!\"\\_e libertava\nDos que retorcem a verdade;\nSeus lábios falam só maldade.\n<sup>3-4</sup> À língua que me difamou\nFlechas agudas disparou.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-120-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Ai, compaixão, sou desviado;\nEm Quedar, triste, exilado.\nSofro\\_em Meseque, deprimido,\n<sup>6</sup> E com quem paz odeia lido.\n<sup>7</sup> A harmonia\\_e\\_a paz na vida\nÉ toda por mim preferida.\nPor mais que eu procuro paz,\nÓdio e desavença traz.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

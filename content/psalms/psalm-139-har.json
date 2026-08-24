@@ -1,0 +1,120 @@
+{
+  "id": "psalm-139-har",
+  "collection": "psalms",
+  "number": 139,
+  "numberLabel": "Salmo 139",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-139",
+  "attrs": {
+    "attribution": "CBS - Kremser"
+  },
+  "sortOrder": 262,
+  "units": [
+    {
+      "id": "psalm-139-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, tu me sondas e tu me conheces.\n<sup>2</sup> Tu sabes do meu levantar e sentar.\nDe longe, penetras os meus pensamentos.\n<sup>3</sup> Tu cercas meu andar, também meu deitar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-139-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "As minhas veredas, ó Deus, tu conheces.\nTu sabes de todos meus passos, Senhor.\n<sup>4</sup> Ainda\\_a palavra nem chegou à língua,\nE por completo já conheces, Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-139-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Me cercas por trás e também por diante.\nColocas tua mão, ó Senhor, sobre mim.\n<sup>6</sup> Tal conhecimento é maravilhoso,\nÉ sobremodo alto para\\_atingir.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-139-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Do teu Santo\\_Espírito como\\_esconder-me?\nOu como fugir da tua face, Senhor?\n<sup>8</sup> Se\\_aos céus eu subir, tu ali te encontras.\nSe\\_eu deito no abismo,\\_estás lá também.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-139-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Se da alvorada\\_eu tomar suas asas\nE nos fins dos mares ali eu ficar,\n<sup>10</sup> Ainda ali, tua mão vai guiar-me;\nSenhor, a tua destra me susterá.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-139-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Se\\_eu digo “As trevas irão encobrir-me\nE,\\_então, será noite\\_a luz ao meu redor”,\n<sup>12</sup> Nem mesmo as trevas a ti são escuras;\nPra ti, a\\_escuridão é\\_o mesmo que\\_a luz.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-139-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Porque o meu íntimo tu o formaste,\nTeceste-me dentro do ventre da mãe.\n<sup>14</sup> A ti rendo graças, pois tu me fizeste\nMaravilhosamente,\\_ó Deus, meu Senhor.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-139-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "Por certo, teus feitos são mui admiráveis;\nMinha\\_alma o sabe mui bem, ó Senhor.\n<sup>15</sup> Tu viste meus ossos quando\\_eu fui formado\nNo\\_oculto, nos abismos da terra,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-139-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>16</sup> Meu corpo ainda sem forma tu viste.\nMeus dias escritos no teu livro\\_estão\nE cada um deles já determinado\nBem antes mesmo\\_até de\\_haver qualquer um.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-139-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>17</sup> Quão grande\\_é a soma dos teus pensamentos!\nSão mui preciosos pra mim, ó Deus meu!\n<sup>18</sup> Se\\_eu fosse contá-los, não terminaria,\nPorque são mais que\\_os grãos de\\_areia, Senhor.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-139-har-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>19</sup> Tomara, Senhor, desses cabo do ímpio!\nVós homens de sangue,\\_apartai-vos de mim!\n<sup>20</sup> Porque são rebeldes, são teus inimigos\nE falam com malícia contra\\_o Senhor.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-139-har-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>21</sup> Senhor, eu detesto a quem te odeia\nE\\_a quem se levanta,\\_ó meu Deus, contra ti.\n<sup>22</sup> A eles detesto com ódio completo;\nDeveras, inimigos são para mim.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-139-har-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>23</sup> Me sonda,\\_ó Deus meu, e conhece minha\\_alma.\nMe prova\\_e conhece, Senhor, meu pensar.\n<sup>24</sup> Oh! Vê se\\_há em mim um caminho perverso\nE, no caminho\\_eterno, vem me guiar.",
+      "attrs": {},
+      "sortOrder": 13
+    }
+  ]
+}

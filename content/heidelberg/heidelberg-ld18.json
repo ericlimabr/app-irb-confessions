@@ -1,0 +1,116 @@
+{
+  "id": "heidelberg-ld18",
+  "collection": "heidelberg",
+  "number": 18,
+  "numberLabel": "Domingo 18",
+  "title": null,
+  "subtitle": "Deus Filho e a Nossa Redenção",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 18,
+  "units": [
+    {
+      "id": "heidelberg-q046-q",
+      "kind": "question",
+      "label": "P. 46",
+      "body": "O que você confessa quando diz que Cristo \"subiu ao céu\"?",
+      "attrs": {
+        "questionNumber": 46
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q046-a",
+      "kind": "answer",
+      "label": "R. 46",
+      "body": "Que Cristo, à vista dos Seus discípulos, foi levado da terra ao céu, e que lá está para o nosso benefício até  que  venha novamente para julgar os vivos e os mortos.",
+      "attrs": {
+        "questionNumber": 46,
+        "refs": [
+          "Mc 16.19; Lc 24.50, 51; At 1.9-11.",
+          "Rm 8.34; Hb 4.14; 7.23-25; 9.24.",
+          "Mt 24.30; At 1.11."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q047-q",
+      "kind": "question",
+      "label": "P. 47",
+      "body": "Quer dizer, então, que Cristo não está conosco até a consumação dos séculos, conforme Ele nos havia prometido?",
+      "attrs": {
+        "questionNumber": 47
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q047-a",
+      "kind": "answer",
+      "label": "R. 47",
+      "body": "Cristo é verdadeiro homem e verdadeiro Deus. Segundo Sua natureza humana, Ele não está mais na terra, mas segundo a Sua divindade, majestade, graça e Espírito, Ele jamais se ausentou de nós.",
+      "attrs": {
+        "questionNumber": 47,
+        "refs": [
+          "Mt 28.20.",
+          "Mt 26.11; Jo 16.28; 17.11; At 3.19-21; Hb 8.4.",
+          "Mt 28.18-20; Jo 14.16-19; 16.13."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q048-q",
+      "kind": "question",
+      "label": "P. 48",
+      "body": "Mas, se a natureza humana não estiver presente onde quer que a natureza Divina esteja, não estariam as duas naturezas de Cristo separadas uma da outra?",
+      "attrs": {
+        "questionNumber": 48
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q048-a",
+      "kind": "answer",
+      "label": "R. 48",
+      "body": "De maneira nenhuma, pois a Sua Divindade é ilimitada e está presente em toda parte. Por isso, conclui-se que apesar da Sua natureza Divina ultrapassar a natureza humana que Ele assumiu, ela está dentro dessa natureza humana e a ela permanece unida como pessoa.",
+      "attrs": {
+        "questionNumber": 48,
+        "refs": [
+          "Jr 23.23, 24; At 7.48, 49.",
+          "Jo 1.14; 3.13; Cl 2.9."
+        ]
+      },
+      "sortOrder": 6
+    },
+    {
+      "id": "heidelberg-q049-q",
+      "kind": "question",
+      "label": "P. 49",
+      "body": "De que modo somos abençoados com a ascensão de Cristo ao céu?",
+      "attrs": {
+        "questionNumber": 49
+      },
+      "sortOrder": 7
+    },
+    {
+      "id": "heidelberg-q049-a",
+      "kind": "answer",
+      "label": "R. 49",
+      "body": "Primeiro: Ele é o nosso Advogado no céu diante do Pai.\n\nSegundo: temos a nossa carne no céu como a garantia segura de que Ele, o nosso Cabeça, também nos levará para Si, como membros Seus.\n\nTerceiro: Ele nos enviou o Seu Espírito como garantia, pelo poder do qual buscamos as coisas do alto - onde Cristo está assentado à direita de Deus - e não as que são da terra.",
+      "attrs": {
+        "questionNumber": 49,
+        "refs": [
+          "Rm 8.34; 1Jo 2.1.",
+          "Jo 14.2; 17.24; Ef 2.4-6.",
+          "Jo 14.16; At 2.33; 2Co 1.21, 22; 5.5; Ef 1.13, 14.",
+          "Cl 3.1-4."
+        ]
+      },
+      "sortOrder": 8
+    }
+  ]
+}

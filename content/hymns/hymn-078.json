@@ -1,0 +1,65 @@
+{
+  "id": "hymn-078",
+  "collection": "hymns",
+  "number": 78,
+  "numberLabel": "Hino 78",
+  "title": "Ó FRONTE ENSANGUENTADA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: MORTE",
+    "author": "Paul Gerhardt / Isaac Nicolau Salum"
+  },
+  "sortOrder": 78,
+  "units": [
+    {
+      "id": "hymn-078-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Ó fronte ensanguentada, ferida pela dor,\nDe espinhos coroada, marcada pelo horror!\nÓ fronte, outrora ornada de eterna glória e luz,\nAgora desprezada. Adoro-te, Jesus!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-078-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Ó rosto glorioso, que sempre fez tremer.\nO mundo poderoso: fizeram-te sofrer!\nOh, quanto estás mudado o teu sublime olhar!\nDe tão atormentado, não vejo mais brilhar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-078-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "O que tens suportado foi minha própria dor;\nEu mesmo sou culpado de tua cruz, Senhor.\nOh! Vê-me, aflito e pobre: só ira mereci;\nCom tua graça encobre o mal que cometi!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-078-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Penhor tão precioso me vem da tua cruz!\nPor este dom gracioso te louvo, meu Jesus.\nConcede: fiel me apegue a ti no meu final\nE nunca te renegue, amigo sem igual.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-078-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Momentos de alegria e grande bem-estar,\nÓ meu divino guia, eu sinto ao meditar\nNo que por mim fizeste a fim de me remir.\nA própria vida deste. É bom a ti seguir.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "hymn-078-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Consola-me na morte, lembrando a tua dor;\nÉs meu escudo forte, Glorioso Vencedor.\nEstando a contemplar-te, confiante vou dizer,\nFeliz, ao abraçar-te: assim é bom morrer.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

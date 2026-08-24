@@ -1,0 +1,64 @@
+{
+  "id": "psalm-066-gen",
+  "collection": "psalms",
+  "number": 66,
+  "numberLabel": "Salmo 66",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-066",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 109,
+  "units": [
+    {
+      "id": "psalm-066-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A Deus aclame toda\\_a terra,\n<sup>2</sup> Salmodiando\\_ao nome seu,\nLouvando\\_a glória do seu nome,\nGlorificando com louvor!\n<sup>3</sup> Dizei a Deus bem admirados:\n“Tremendos são os feitos teus!\nTeus inimigos já vencidos\nPor tua destra de poder!”",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-066-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> A terra prostra\\_em tua presença,\nSalmodiando\\_ao nome teu.\n<sup>5</sup> Vinde pra ver tremendos feitos\nDeus operou conosco\\_aqui!\n<sup>6</sup> Águas verteu em terra seca;\nAtravessaram, sem nadar:\nAndando\\_a pé foi que passaram.\nAlegres somos no Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-066-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Deus, em poder, governa tudo;\nReina pra sempre nas nações.\nNão se exaltem os rebeldes.\n<sup>8</sup> Ó povos, vinde bendizer:\nLouvai a Deus com voz audível,\n<sup>9</sup> Pois guia\\_o nosso caminhar:\nEle preserva nossa vida;\nA nossa alma faz viver.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-066-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Eis, nosso Deus, tu nos provaste\nQual prata\\_em purificação.\n<sup>11</sup> Tu perseguiste\\_as nossas costas\nPara\\_em cilada nos deixar.\n<sup>12</sup> Fizeste que\\_homens cavalgassem\nPor nossa fronte\\_a esmagar.\nPassamos pelo fogo\\_e água,\nMas nos fizeste descansar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-066-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>13</sup> “Com holocausto,\\_em tua casa,\nEu pagarei os votos meus,\n<sup>14</sup> Que proferiram os meus lábios,\nQue, na angústia,\\_eu prometi.\n<sup>15</sup> Cabritos como sacrifício,\nAroma de carneiros bons;\nImolarei, assim, novilhos;\nEm holocausto\\_ofertarei”.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-066-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>16</sup> Eis o que Deus fez à minha\\_alma:\n<sup>17</sup> Com minha boca\\_o exaltei.\n<sup>18</sup> Se\\_em coração vaidoso fora,\nNão ouviria\\_o meu clamor.\n<sup>19</sup> Porém, me\\_escuta\\_a voz que ora.\n<sup>20</sup> Bendito, pois não rejeitou\nNem apartou de mim a graça!\nA minha prece\\_Ele\\_atendeu!",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

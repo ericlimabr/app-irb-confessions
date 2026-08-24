@@ -1,0 +1,240 @@
+{
+  "id": "psalm-078-gen",
+  "collection": "psalms",
+  "number": 78,
+  "numberLabel": "Salmo 78",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-078",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 126,
+  "units": [
+    {
+      "id": "psalm-078-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Minha lei escutai, sim, ó meu povo.\nPrestai ouvidos para\\_o que\\_eu vos disser,\nDa minha boca todas as palavras.\n<sup>2</sup> Pois em parábolas eu vou falar-lhes,\nSim, os meus lábios eu hei de abrir.\nMistérios bem antigos falarei.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-078-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> O que nós escutamos e\\_aprendemos,\nO que contaram nossos pais para nós\n<sup>4</sup> A nossos filhos não encobriremos.\nÀ geração futura contaremos\nOs louvores e o poder de Deus\nE\\_as maravilhas que\\_Ele operou.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-078-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Em Jacó, Deus firmou seu testemunho,\nInstituiu em Israel sua lei\nE ordenou que\\_os pais os transmitissem\nPra que\\_uma nova geração soubesse\nE filhos que ainda vão nascer\nOs referisse\\_aos descendentes seus,",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-078-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Para que\\_em Deus pusessem confiança,\nNão se\\_esquecendo do que Deus operou,\nMas observassem os seus mandamentos\n<sup>8</sup> E que não fossem como os pais deles:\nRebeldes, inconstantes, e\\_a teimar,\nCujo espírito não foi fiel.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-078-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Mesmo\\_armados, no dia do combate,\nOs filhos de\\_Efraim voltaram atrás.\n<sup>10</sup> A aliança de Deus não guardaram,\nAndar na sua lei não desejaram\n<sup>11</sup> E se\\_esqueceram do que Deus mostrou,\nDas maravilhas que realizou.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-078-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Na presença dos pais, Deus fez prodígios\nLá no Egito, no campo de Zoã.\n<sup>13</sup> Tu dividiste\\_o mar; e,\\_então, seguiram.\nAs águas aprumou como num dique.\n<sup>14</sup> De dia, com a nuvem os guiou\nE,\\_à noite, com o fogo\\_em um clarão.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-078-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>15</sup> No deserto, fendeu rochas ao povo.\nCom abundância, tu lhes deste\\_a beber.\n<sup>16</sup> Fizeste manar água como\\_os rios,\nTorrentes de\\_águas a manar das pedras.\n<sup>17</sup> Mas contra Deus tornaram a pecar,\nContra\\_o Altíssimo\\_a se rebelar.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-078-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>18</sup> Ao Senhor em seu coração tentaram,\nPedindo alimento ao gosto seu.\n<sup>19</sup> Falaram eles contra Deus, dizendo:\nAcaso, pode preparar-nos mesa?\n<sup>20</sup> Feriu a rocha,\\_e água transbordou.\nAcaso, pode nos dar pão também?",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-078-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Por acaso, Deus poderá nos dar pão?\nAcaso, carne ao seu povo dará?\n<sup>21</sup> Ouvindo isso, Deus ficou irado\nE acendeu contra Jacó o fogo.\nTambém contra\\_Israel se\\_enfureceu,\n<sup>22</sup> Porque não confiaram no Senhor.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-078-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "Porque na sua salvação não creram,\nNão confiaram e não creram em Deus,\n<sup>23</sup> Então, Deus ordenou às altas nuvens,\nFez que as portas dos céus se abrissem.\n<sup>24</sup> Choveu maná, o cereal do céu,\nPara poderem se alimentar.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-078-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>25</sup> Todos eles comeram pão dos anjos,\nPois a comida Deus mandou a fartar.\n<sup>26</sup> Soprou no céu o vento do\\_Oriente,\nVento do sul Deus trouxe com sua força.\n<sup>27</sup> E fez chover a carne como pó\nE aves como\\_areia que\\_é do mar.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-078-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>28</sup> Fez caírem em meio\\_ao arraial seu;\nSim, ao redor das tendas, Deus fez cair.\n<sup>29</sup> Eles comeram, eles se fartaram,\nPorque Deus fez o que\\_eles desejavam.\n<sup>30</sup> Porém, não conseguiram reprimir,\nNão dominaram o\\_apetite seu.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-078-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "Quando\\_ainda estavam mastigando,\n<sup>31</sup> Foi que se levantou a ira de Deus.\nEntre\\_os mais fortes, semeou a morte;\nProstrou também de Israel seus jovens.\n<sup>32</sup> Porém, continuaram a pecar;\nNão creram nos tremendos feitos seus.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-078-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>33</sup> E, por isso, Deus fez que os seus dias\nSe dissipassem como\\_o vento\\_a soprar.\nE, no terror, seus anos se passassem.\n<sup>34</sup> E, quando Deus fazia que morressem,\nEntão é que buscavam ao Senhor.\nArrependidos, procuravam Deus.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-078-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>35</sup> E lembravam que Deus era sua rocha\nE\\_o Deus Altíssimo\\_era\\_o seu redentor.\n<sup>36</sup> Lisonjeavam-no, porém de boca,\nE com a língua ao Senhor mentiam\n<sup>37</sup> Não tinham firmes os seus corações;\nNem à\\_aliança foram, pois, fiéis.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-078-gen-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "<sup>38</sup> Porém, Deus é misericordioso,\nPerdoa\\_a\\_iniquidade e não destrói.\nPor muitas vezes, seu furor desvia\nE não desperta toda\\_a sua ira.\n<sup>39</sup> E lembra que de carne\\_os homens são,\nVento\\_a passar e que não voltará.",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "psalm-078-gen-v17",
+      "kind": "verse",
+      "label": "17",
+      "body": "<sup>40</sup> Quantas vezes rebeldes eles foram\nE, no deserto, provocaram a Deus.\n<sup>41</sup> E ao Senhor tornaram a tentá-lo.\nAo Santo de\\_Israel, pois, agravaram.\n<sup>42</sup> Não se lembraram mais do seu poder\nE nem do dia que os resgatou.",
+      "attrs": {},
+      "sortOrder": 17
+    },
+    {
+      "id": "psalm-078-gen-v18",
+      "kind": "verse",
+      "label": "18",
+      "body": "<sup>43</sup> Dos sinais no Egito não lembraram\nNem dos prodígios no campo de Zoã.\n<sup>44</sup> Os rios deles converteu em sangue,\nPra não poderem beber das correntes.\n<sup>45</sup> Pra devorá-los, moscas enviou;\nPra destruí-los, enviou as rãs.",
+      "attrs": {},
+      "sortOrder": 18
+    },
+    {
+      "id": "psalm-078-gen-v19",
+      "kind": "verse",
+      "label": "19",
+      "body": "<sup>46</sup> Entregou para\\_as larvas as colheitas;\nO seu trabalho\\_ao gafanhoto\\_entregou.\n<sup>47</sup> E com saraiva destruiu as vinhas\nE os sicômoros, com a geada.\n<sup>48</sup> Seu gado à saraiva entregou;\nAos raios seu rebanho Ele deu.",
+      "attrs": {},
+      "sortOrder": 19
+    },
+    {
+      "id": "psalm-078-gen-v20",
+      "kind": "verse",
+      "label": "20",
+      "body": "<sup>49</sup> Contra eles lançou a sua ira:\nIndignação, calamidade\\_e furor,\nAnjos em legião portando males.\n<sup>50</sup> Deu livre curso para sua ira:\nDa morte\\_as suas almas não poupou;\nÀ pestilência Deus os entregou.",
+      "attrs": {},
+      "sortOrder": 20
+    },
+    {
+      "id": "psalm-078-gen-v21",
+      "kind": "verse",
+      "label": "21",
+      "body": "<sup>51</sup> E feriu primogênitos do\\_Egito,\nHomens viris nas tendas de Cam feriu.\n<sup>52</sup> Tal como\\_ovelhas, fez sair seu povo,\nGuiou-os no deserto qual rebanho.\n<sup>53</sup> Em segurança, Deus os dirigiu.\nNo mar, seus inimigos afundou.",
+      "attrs": {},
+      "sortOrder": 21
+    },
+    {
+      "id": "psalm-078-gen-v22",
+      "kind": "verse",
+      "label": "22",
+      "body": "<sup>54</sup> E levou-os até a terra santa,\nAo monte que a sua destra\\_adquiriu.\n<sup>55</sup> E expulsou nações diante deles\nE repartiu a terra por herança.\nNas suas tendas, Deus fez habitar,\nAs tribos de\\_Israel fez habitar.",
+      "attrs": {},
+      "sortOrder": 22
+    },
+    {
+      "id": "psalm-078-gen-v23",
+      "kind": "verse",
+      "label": "23",
+      "body": "<sup>56</sup> Mesmo\\_assim, ao Altíssimo tentaram\nE resistiram, sim, tentaram a Deus.\nE não guardaram os seus testemunhos.\n<sup>57</sup> Retrocederam e\\_ao Senhor traíram,\nComo também fizeram os seus pais,\nQual arco\\_enganoso\\_a desviar.",
+      "attrs": {},
+      "sortOrder": 23
+    },
+    {
+      "id": "psalm-078-gen-v24",
+      "kind": "verse",
+      "label": "24",
+      "body": "<sup>58</sup> Ao Senhor provocaram com seus altos\nE, com imagens, incitaram a Deus.\n<sup>59</sup> Ouvindo isso, Deus ficou irado;\nCom Israel ficou aborrecido.\n<sup>60</sup> Deixou o tabernáculo\\_em Siló,\nEm meio\\_aos homens sua\\_habitação.",
+      "attrs": {},
+      "sortOrder": 24
+    },
+    {
+      "id": "psalm-078-gen-v25",
+      "kind": "verse",
+      "label": "25",
+      "body": "<sup>61</sup> Sua arca passou ao cativeiro;\nAo inimigo\\_a sua glória passou.\n<sup>62</sup> E entregou seu povo à espada;\nIrou-se contra sua própria herança.\n<sup>63</sup> Aos jovens seus o fogo devorou;\nAs moças não puderam se casar.",
+      "attrs": {},
+      "sortOrder": 25
+    },
+    {
+      "id": "psalm-078-gen-v26",
+      "kind": "verse",
+      "label": "26",
+      "body": "<sup>64</sup> Sacerdotes caíram à espada;\nSuas viúvas não puderam chorar.\n<sup>65</sup> Deus despertou tal como de um sono\nComo\\_um valente que,\\_animado, grita.\n<sup>66</sup> Seus adversários Ele golpeou;\nPerpetuamente,\\_a eles desprezou.",
+      "attrs": {},
+      "sortOrder": 26
+    },
+    {
+      "id": "psalm-078-gen-v27",
+      "kind": "verse",
+      "label": "27",
+      "body": "<sup>67</sup> Rejeitou de José a sua tenda;\nA tribo de\\_Efraim Deus não elegeu,\n<sup>68</sup> Mas escolheu Judá por sua tribo,\nO monte de Sião, que Deus amava.\n<sup>69</sup> E construiu o santuário seu\nFirme\\_e durável como terra\\_e céus.",
+      "attrs": {},
+      "sortOrder": 27
+    },
+    {
+      "id": "psalm-078-gen-v28",
+      "kind": "verse",
+      "label": "28",
+      "body": "<sup>70</sup> Escolheu a Davi, o servo dele,\nE dos redis de\\_ovelhas Deus o tirou.\n<sup>71</sup> Tirou-o do cuidado das ovelhas,\nPra\\_apascentar Jacó, a sua\\_herança.\n<sup>72</sup> E, com integridade,\\_apascentou,\nGuiando com perícia pelas mãos.",
+      "attrs": {},
+      "sortOrder": 28
+    }
+  ]
+}

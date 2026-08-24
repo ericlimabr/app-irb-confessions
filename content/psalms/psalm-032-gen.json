@@ -1,0 +1,56 @@
+{
+  "id": "psalm-032-gen",
+  "collection": "psalms",
+  "number": 32,
+  "numberLabel": "Salmo 32",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-032",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 56,
+  "units": [
+    {
+      "id": "psalm-032-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> É bem-aventurado\\_aquele cuja\nIniquidade lhe foi perdoada.\nCoberta foi a sua transgressão;\nSim, foi coberto todo\\_o seu pecar.\n<sup>2</sup> Mui bem-aventurado é o homem\nA quem Javé não atribui pecado.\nDolo em seu espírito não há;\nMui bem-aventurado ele é.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-032-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Enquanto\\_os meus pecados eu calava,\nEnvelheceram todos os meus ossos.\nO dia todo,\\_estava a gemer;\nConstantemente,\\_estava a gemer\n<sup>4</sup> Porque, Senhor, a tua mão pesava;\nSim, dia\\_e noite, sobre mim pesava.\nEm sequidão de\\_estio se tornou\nA minha força, todo\\_o meu vigor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-032-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> A ti eu confessei o meu pecado,\nParei de esconder a\\_iniquidade.\nDisse: “Confessarei ao meu Senhor”;\nE perdoaste\\_a minha transgressão.\n<sup>6</sup> Por isso, todo homem piedoso\nSuplicará em tempo de\\_encontrar-te.\nAo transbordarem águas a jorrar,\nElas decerto não o\\_atingirão.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-032-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> És meu esconderijo, meu abrigo\nE da tribulação tu me preservas.\nE tu me cercas, ó Senhor meu Deus,\nDe\\_alegres cantos de libertação.\n<sup>8</sup> Eis que darei a ti o meu conselho\nAnte\\_os meus olhos, ante\\_as minhas vistas.\nEnsinarei por onde deves ir,\nA minha instrução darei a ti.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-032-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> E não sejais qual mula ou cavalo,\nQue são domados com cabresto\\_e freio,\nPorque não têm entendimento\\_algum\nE de\\_outra sorte não te\\_atenderão.\n<sup>10</sup> Muito sofrer há de curtir o ímpio,\nE\\_a graça\\_assiste\\_a quem em Deus confia.\n<sup>11</sup> Regozijai-vos, justos, no Senhor!\nPuros de coração, oh, exultai!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

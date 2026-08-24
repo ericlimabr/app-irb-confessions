@@ -1,0 +1,56 @@
+{
+  "id": "psalm-087-gen",
+  "collection": "psalms",
+  "number": 87,
+  "numberLabel": "Salmo 87",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-087",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 142,
+  "units": [
+    {
+      "id": "psalm-087-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Por Deus fundada sobre\\_os montes santos,\n<sup>2</sup> O Senhor ama\\_as portas de Sião\nMais do que todas as habitações,\nMais que\\_as moradas de Jacó, portanto.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-087-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Gloriosas coisas se têm dito de ti,\nAo teu respeito, cidade de Deus.\n<sup>4</sup> E, dentre\\_os que nasceram, pois, ali\nExistem vários de nações gentias.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-087-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Mencionarei alguns que me conhecem:\nRaabe cito e também Babel,\nFilístia, Etiópia\\_e Tiro, sim.\nFoi bem ali que esses, pois, nasceram.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-087-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Dirão acerca de Sião, portanto:\n“Nasceram este e aquele\\_ali”.\nFirmada pelo\\_Altíssimo será,\nOu seja, Ele\\_há de\\_estabelecê-la.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-087-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>6</sup> O Senhor diz, ao registrar os povos:\n“Sim, foi ali que este, pois, nasceu”.\n<sup>7</sup> Saltando\\_em júbilo, entoarão:\n“De ti provêm as minhas fontes todas!”",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

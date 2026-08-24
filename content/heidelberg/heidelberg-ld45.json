@@ -1,0 +1,111 @@
+{
+  "id": "heidelberg-ld45",
+  "collection": "heidelberg",
+  "number": 45,
+  "numberLabel": "Domingo 45",
+  "title": null,
+  "subtitle": "A Oração",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 45,
+  "units": [
+    {
+      "id": "heidelberg-q116-q",
+      "kind": "question",
+      "label": "P. 116",
+      "body": "Por que a oração é necessária aos cristãos?",
+      "attrs": {
+        "questionNumber": 116
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q116-a",
+      "kind": "answer",
+      "label": "R. 116",
+      "body": "Porque a oração é a parte mais importante da gratidão que Deus exige de nós.\n\nAlém disso, Deus só concederá a Sua graça e o Espírito Santo àqueles que, constante e sinceramente, Lhe pedem esses dons e O agradecem por eles.",
+      "attrs": {
+        "questionNumber": 116,
+        "refs": [
+          "Sl 50.14, 15; 116.12-19; 1Ts 5.16-18.",
+          "Mt 7.7, 8; Lc 11.9-13."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q117-q",
+      "kind": "question",
+      "label": "P. 117",
+      "body": "O que é preciso para que nossa oração agrade a Deus e por Ele seja ouvida?",
+      "attrs": {
+        "questionNumber": 117
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q117-a",
+      "kind": "answer",
+      "label": "R. 117",
+      "body": "_Primeiro_, devemos invocar de coração apenas o único e verdadeiro Deus - que se revelou em Sua Palavra - por tudo aquilo que Ele nos ordenou orar.\n\n_Segundo_, devemos ter plena consciência da nossa necessidade e miséria, para que possamos nos humilhar diante de Deus.\n\n_Terceiro_, devemos descansar no fundamento inabalável - do qual não somos merecedores - de que Deus com certeza ouvirá às nossas orações por causa de Cristo, nosso Senhor, conforme Ele nos prometeu na Sua Palavra.",
+      "attrs": {
+        "questionNumber": 117,
+        "refs": [
+          "Sl 145.18-20; Jo 4.22-24; Rm 8.26, 27; Tg 1.5; 1Jo 5.14, 15; Ap 19.10.",
+          "2Cr 7.14; 20.12; Sl 2.11; 34.18; 62.8; Is 66.2; Ap 4.",
+          "Dn 9.17-19; Mt 7.8; Jo 14.13, 14; 16.23; Rm 10.13; Tg 1.6."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q118-q",
+      "kind": "question",
+      "label": "P. 118",
+      "body": "O que foi que Deus ordenou que Lhe pedíssemos?",
+      "attrs": {
+        "questionNumber": 118
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q118-a",
+      "kind": "answer",
+      "label": "R. 118",
+      "body": "Tudo aquilo que necessitamos para nossos corpos e almas, conforme à oração que o próprio Cristo, nosso Senhor, nos ensinou.",
+      "attrs": {
+        "questionNumber": 118,
+        "refs": [
+          "Mt 6.33; Tg 1.17."
+        ]
+      },
+      "sortOrder": 6
+    },
+    {
+      "id": "heidelberg-q119-q",
+      "kind": "question",
+      "label": "P. 119",
+      "body": "Qual é a oração do Senhor?",
+      "attrs": {
+        "questionNumber": 119
+      },
+      "sortOrder": 7
+    },
+    {
+      "id": "heidelberg-q119-a",
+      "kind": "answer",
+      "label": "R. 119",
+      "body": "_\"Pai nosso, que estás nos céus,_\n\n   _santificado seja o teu nome;\n   venha o teu reino;\n   faça-se a tua vontade, assim na terra como no céu;\n   o pão nosso de cada dia dá-nos hoje;\n   e perdoa-nos as nossas dívidas, assim como nós temos perdoado aos nossos devedores;\n   e não nos deixes cair em tentação;\n   mas livra-nos do mal\n   pois teu é o reino,\n   o poder\n   e a glória para sempre. Amém!\"_",
+      "attrs": {
+        "questionNumber": 119,
+        "refs": [
+          "Mt 6.9-13; Lc 11.2-4."
+        ]
+      },
+      "sortOrder": 8
+    }
+  ]
+}

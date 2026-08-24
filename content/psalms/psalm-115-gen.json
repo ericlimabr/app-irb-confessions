@@ -1,0 +1,64 @@
+{
+  "id": "psalm-115-gen",
+  "collection": "psalms",
+  "number": 115,
+  "numberLabel": "Salmo 115",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-115",
+  "attrs": {
+    "attribution": "LFG / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 190,
+  "units": [
+    {
+      "id": "psalm-115-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus, não a nós, mas glória\\_ao nome teu\nPor tua fieldade e mercê\n<sup>2</sup> Por que\\_as nações diriam:\n“Aquele Deus, onde\\_é que Ele\\_está?”\n<sup>3</sup> No céu, está o nosso Deus e faz\nTudo como lhe\\_agrada.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-115-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Seus deuses de\\_ouro são fabricações;\n<sup>5</sup> De olhos cegos, boca sem falar;\n<sup>6</sup> Não ouvem seus ouvidos;\nTêm olhos, mas não podem enxergar;\n<sup>7</sup> Mãos que não tocam, pés sem caminhar;\nSua garganta\\_é muda.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-115-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>8</sup> Quem serve\\_e faz imagens pra\\_adorar\nTal como elas possa se tornar!\n<sup>9</sup> Mas Israel confia\nNo seu Senhor, amparo\\_e proteção.\n<sup>10</sup> A casa de Arão protege,\\_assim,\nPois no Senhor confia.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-115-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>11</sup> Confia no Senhor quem teme\\_a Deus;\nEle\\_é o seu amparo\\_e proteção.\n<sup>12</sup> De nós tem-se lembrado.\nAssim, nos abençoará\\_o Senhor;\nA casa de\\_Israel e de Arão;\n<sup>13</sup> Tanto\\_o pequeno\\_e\\_o grande.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-115-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>14</sup> Que o Senhor aumente\\_o bendizer\nPor sobre vós e vossas gerações.\n<sup>15</sup> De Deus vós sois benditos,\nQue fez o céu e\\_a terra fez também.\n<sup>16</sup> O céu é do Senhor, e\\_a terra Deus\nLegou aos filhos de\\_homens.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-115-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>17</sup> Os mortos, no lugar que não tem som,\nNão podem dar o seu louvor a Deus.\n<sup>18</sup> Porém, não somos assim:\nNós bendiremos sempre ao Senhor\nAgora\\_e para todo\\_o sempre,\\_enfim!\nLouvai, oh, aleluia!",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

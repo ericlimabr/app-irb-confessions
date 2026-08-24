@@ -1,0 +1,49 @@
+{
+  "id": "hymn-020",
+  "collection": "hymns",
+  "number": 20,
+  "numberLabel": "Hino 20",
+  "title": "GRANDIOSO ÉS TU",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Carl Boberg / Paulo de Tarso Prado da Cunha"
+  },
+  "sortOrder": 20,
+  "units": [
+    {
+      "id": "hymn-020-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Senhor meu Deus, quando eu, maravilhado,\nContemplo a tua imensa criação,\nO céu e a terra, os vastos oceanos,\nFico a pensar em tua perfeição.\nEntão, minh’alma canta a ti, Senhor:\n“Grandioso és tu! Grandioso és tu!”\nEntão, minh’alma canta a ti, Senhor:\n“Grandioso és tu! Grandioso és tu!”",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-020-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Ao caminhar nas matas e florestas,\nEscuto as aves todas a cantar.\nOlhando os montes, vales e campinas,\nEm tudo vejo o teu poder sem par.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-020-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Quando eu medito em teu amor tão grande,\nQue ofereceu teu filho sobre o altar,\nMaravilhado e agradecido, venho\nTambém a minha vida te ofertar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-020-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "E quando, enfim, Jesus vier em glória\nE ao lar celeste, então, me transportar,\nAdorarei prostrado e, para sempre,\n“Grandioso és tu”, meu Deus, hei de cantar.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-105-112-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.105-112",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-105-112",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 214,
+  "units": [
+    {
+      "id": "psalm-119-105-112-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>105</sup> Tua palavra\\_é lâmpada\\_aos meus pés,\nTua palavra\\_é luz aos meus caminhos.\n<sup>106</sup> Jurei e\\_o juramento confirmei:\nIrei guardar os teus juízos retos.\n<sup>107</sup> Aflito\\_estou; vem me vivificar,\nÓ meu Senhor, conforme\\_a tua palavra.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-105-112-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>108</sup> Aceita minha\\_oferta, ó Senhor,\nAceita\\_a oferenda espontânea\nQue os meus lábios vêm oferecer.\nÓ Deus, ensina\\_a mim os teus juízos.\n<sup>109</sup> Mortais perigos sempre sofro eu,\nMas da tua lei não me esqueço nunca.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-105-112-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>110</sup> Ciladas ímpios armam contra mim,\nMas dos preceitos teus não me desvio.\n<sup>111</sup> Como legado\\_eterno\\_os recebi,\nPois ao meu coração são prazerosos.\n<sup>112</sup> Meu coração induzo a guardar,\nAté o fim, pra sempre, teus decretos.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

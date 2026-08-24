@@ -1,0 +1,59 @@
+{
+  "id": "hymn-045",
+  "collection": "hymns",
+  "number": 45,
+  "numberLabel": "Hino 45",
+  "title": "EU CREIO, SENHOR, NA DIVINA PROMESSA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ORAÇÃO E SÚPLICA",
+    "author": "Antonio de Campos Gonçalves"
+  },
+  "sortOrder": 45,
+  "units": [
+    {
+      "id": "hymn-045-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Eu creio, Senhor, na divina promessa,\nVitórias já tive nas lutas aqui;\nContudo, é mui certo que a gente tropeça;\nPor isso, Senhor, eu preciso de ti.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-045-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "A luz que me guia no escuro caminho\nFulgura de cima, do sol Criador;\nContudo, não posso segui-la sozinho;\nPor isso eu preciso de ti, meu Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-045-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Bem sei que nas preces eu posso buscar-te,\nJamais dessa bênção na vida eu descri;\nContudo, é possível que dela me afaste;\nPor isso, Senhor, eu preciso de ti.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-045-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Esforços da terra, precário destino,\nEmpenho dos homens, riqueza, o que for,\nNão valem a bênção do reino divino;\nPor isso eu preciso de ti, meu Senhor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-045-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 5
+    }
+  ]
+}

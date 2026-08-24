@@ -1,0 +1,64 @@
+{
+  "id": "psalm-108-gen",
+  "collection": "psalms",
+  "number": 108,
+  "numberLabel": "Salmo 108",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-108",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 177,
+  "units": [
+    {
+      "id": "psalm-108-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Firme\\_o meu coração está;\nLouvores eu entoarei\nDe toda\\_a minha alma,\\_ó Deus.\n<sup>2</sup> Saltério\\_e harpa, despertai;\nA alva\\_eu quero acordar.\n<sup>3</sup> Graças eu renderei a ti\nEntre os povos, ó Senhor meu;\nEntre\\_as nações, a ti louvarei",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-108-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Pois tua graça, ó Senhor,\nEla se\\_eleva sobre\\_os céus;\nE tua fidelidade,\\_ó Deus,\nPara além das nuvens vai.\n<sup>5</sup> Sê exaltado, ó Senhor,\nSim, exaltado sobre\\_os céus.\nÓ Deus, esplenda\\_a tua glória\nPor toda\\_a terra, sim, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-108-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Salva com tua destra,\\_ó Deus.\nVem, ó Senhor, nos responder,\nA fim de que\\_os amados teus\nSejam libertos, ó Senhor.\n<sup>7</sup> Em sua santidade, Deus\nDisse: “me regozijarei,\nDividirei Siquém e\\_o vale\nQue\\_é de Sucote eu medirei.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-108-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Gileade\\_e Manassés são meus;\nJudá é meu legislador;\nA minha força\\_é Efraim,\nSim, da cabeça minha é.\n<sup>9</sup> Eis que Moabe\\_é, para mim,\nMinha bacia de lavar.\nE sobre\\_Edom eu hei de lançar,\nMinha sandália\\_eu hei de lançar",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-108-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "E sobre a Filístia,\\_então,\nSobre\\_ela\\_eu hei de jubilar.\n<sup>10</sup> Quem há de conduzir a mim,\nÀ fortaleza me levar?\nQuem vai guiar-me\\_até Edom?\n<sup>11</sup> Não rejeitaste\\_a nós, Senhor?\nTu que não sais com nossas tropas?\nNão sais com nossas tropas, Senhor.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-108-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Na\\_angústia, vem nos ajudar.\nSê nosso\\_auxílio, Deus Senhor,\nPois o socorro que provém\nDo próprio homem sempre\\_é vão.\n<sup>13</sup> Proezas vamos nós fazer\nEm nome do Senhor Javé,\nPois Ele mesmo é quem calca\nAos pés do nosso opositor.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

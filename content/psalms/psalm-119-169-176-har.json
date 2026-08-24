@@ -1,0 +1,32 @@
+{
+  "id": "psalm-119-169-176-har",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.169-176",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-119-169-176",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 223,
+  "units": [
+    {
+      "id": "psalm-119-169-176-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>169-170</sup> O meu clamor chegue\\_aos ouvidos teus;\nDe tua lei me dá ensinamentos;\nEnsina-me, procuro-te, ó Deus!\nPois teu decreto me traz livramento.\n<sup>171-172</sup> Louvor proclamem-te os lábios meus;\nJustiça é todo teu mandamento!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-169-176-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>173</sup> Vem socorrer-me, Deus, pois encontrei\nNa tua lei o único caminho.\n<sup>174-175</sup> Por tua salvação eu suspirei.\nDiante do juízo teu me\\_inclino.\n<sup>176</sup> Como\\_uma ovelha, eu me desgarrei.\nProcura-me, pois guardo teu ensino.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

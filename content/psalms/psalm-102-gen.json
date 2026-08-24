@@ -1,0 +1,88 @@
+{
+  "id": "psalm-102-gen",
+  "collection": "psalms",
+  "number": 102,
+  "numberLabel": "Salmo 102",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-102",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 167,
+  "units": [
+    {
+      "id": "psalm-102-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ouve-me,\\_ó Senhor, a prece;\nQue te\\_alcancem meus clamores.\n<sup>2</sup> Quando\\_angustiado\\_estou,\nQuando\\_é tempo de clamor,\nNão me\\_ocultes o teu rosto,\nDá-te pressa\\_em acudir-me.\n<sup>3</sup> Minha vida se\\_esfumaça;\nOssos ardem qual fornalha.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-102-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4-5</sup> De comer o pão me\\_esqueço;\nOs meus ossos já grudaram.\nComo\\_a erva é\\_o meu ser;\nDolorido\\_é\\_o meu gemer.\n<sup>6</sup> Qual coruja das ruínas,\nPelicano no deserto,\n<sup>7</sup> Sem dormir, bem solitário,\nComo\\_o pássaro\\_em telhado.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-102-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>8</sup> Toda hora\\_os inimigos,\nFuriosos, como\\_insultam!\nCom meu nome\\_a praguejar.\n<sup>9</sup> Bebo lágrimas sem par;\nCinzas são meu alimento.\n<sup>10</sup> É porque, com tua ira,\nIndignado,\\_assim fizeste:\nMe\\_elevaste\\_e rebaixaste.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-102-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>11</sup> Como\\_a sombra que declina,\nSão meus dias, como\\_a relva!\n<sup>12</sup> Tu, Senhor, pra sempre és;\nSempiterno\\_é\\_o nome teu!\n<sup>13</sup> De Sião terás piedade;\nJá é hora de clemência!\n<sup>14</sup> A Sião teus servos amam,\nO seu pó e\\_as suas pedras.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-102-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>15</sup> Do Senhor o nome\\_excelso\nHonrarão os reis diversos.\nCada povo e nação\nSua glória temerão.\n<sup>16</sup> A Sião edificando,\nO Senhor em glória veio.\n<sup>17</sup> Atendeu ao oprimido,\nEscutou ao seu anseio.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-102-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>18</sup> Ficará bem registrado\nPara\\_um povo\\_a ser criado;\nGeração pós geração\nAo Senhor fará canção:\n<sup>19</sup> “O Senhor, do santuário,\nSeu olhar baixou à terra,\n<sup>20</sup> Dando\\_ouvido\\_ao réu que berra,\nLibertando-o, pois, da morte.”",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-102-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Para\\_ouvir quem é cativo,\nResgatar o condenado,\n<sup>21</sup> Para proclamar louvor\nAo bom nome do Senhor,\nEm Sião anunciado,\nEm Jerusalém falado\n<sup>22</sup> Quando\\_os povos reunirem\nPara\\_o Senhor Deus servirem.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-102-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>23</sup> Ele me\\_abateu a força,\nMeu caminho abreviou.\n<sup>24</sup> Eu dizia: “Ó Deus meu,\nQue não queiras me levar\nNa metade desta vida,\nTu que\\_és sempiterno assim,\nCujos anos se estendem\nUma geração pós outra.”",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-102-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>25</sup> No princípio desta terra,\nTu lançaste\\_os fundamentos.\nE do céu és criador.\n<sup>26</sup> Ambos hão de perecer;\nComo\\_a roupa velha, mudam.\n<sup>27</sup> És, porém, o mesmo sempre!\n<sup>28</sup> Os teus servos, que seguros!\nConsagrada\\_é sua prole.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "hymn-035",
+  "collection": "hymns",
+  "number": 35,
+  "numberLabel": "Hino 35",
+  "title": "CRISTO DIVINO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Münster / França Campos"
+  },
+  "sortOrder": 35,
+  "units": [
+    {
+      "id": "hymn-035-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Cristo divino, ó Rei da Terra,\nTu és igual a Deus Senhor;\nÉs de minh’alma sol, alegria,\nCoroa, glória, luz, amor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-035-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Vergéis e prados ou verdes bosques\nBelezas mil vêm revelar.\nMais belo e puro és tu, que fazes\nO triste coração cantar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-035-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "O sol e a lua são quais estrelas,\nNos altos céus a refulgir.\nMais resplendente, Cristo, refulges,\nDivina luz a difundir.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-035-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Dos céus a glória, a majestade\nEm ti, Senhor, eu posso ver.\nDe mim mais perto ou mais querido,\nÓ meu Senhor, ninguém vou ter.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-035-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Cristo Amado, ó Rei Glorioso,\nAo pecador só queres bem,\nPois, seja sempre louvor e glória\nA ti, ó Salvador. Amém.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

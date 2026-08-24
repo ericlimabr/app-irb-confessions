@@ -1,0 +1,57 @@
+{
+  "id": "hymn-060",
+  "collection": "hymns",
+  "number": 60,
+  "numberLabel": "Hino 60",
+  "title": "QUERO O SALVADOR COMIGO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Frances Jane Crosby / Robert Hawkey Moreton"
+  },
+  "sortOrder": 60,
+  "units": [
+    {
+      "id": "hymn-060-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Quero o Salvador comigo,\nAo seu lado sempre andar.\nQuero tê-lo muito perto,\nNo seu braço descansar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-060-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Confiando no Senhor,\nProtegido em seu amor,\nSeguirei o meu caminho\nSem tristeza e sem temor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-060-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Quero o Salvador comigo,\nPorque fraca é minha fé;\nSua voz me dá conforto\nQuando me vacila o pé.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-060-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Quero o Salvador comigo,\nDia a dia, em meu viver;\nAtravés de luz ou sombras,\nNo desgosto e no prazer.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-060-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Quero o Salvador comigo,\nSábio Guia e Bom Pastor,\nNesta vida e além da morte,\nLonge do perigo e dor.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "psalm-107-gen",
+  "collection": "psalms",
+  "number": 107,
+  "numberLabel": "Salmo 107",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-107",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 176,
+  "units": [
+    {
+      "id": "psalm-107-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ao Senhor rendei graças,\nPois o Senhor é bom.\nSua misericórdia\nPra sempre durará.\n<sup>2</sup> Venham dizer assim\nDe Deus os seus remidos,\nQue Ele resgatou\nDa mão do inimigo.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-107-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> O Senhor, dentre\\_as terras,\nA eles congregou:\nDo\\_Oriente\\_e\\_Ocidente,\nDo Norte e do mar.\n<sup>4</sup> Errantes a andar\nPelo deserto\\_estavam,\nSozinhos, sem achar\nCidade\\_em que\\_habitassem.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-107-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Eis que\\_estavam famintos,\nSem ter o que comer,\nE também mui sedentos,\nAlma\\_a desfalecer.\n<sup>6</sup> Então, na aflição,\nAo Senhor Deus clamaram;\nE das tribulações\nDeus deu-lhes livramento.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-107-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Por caminho correto,\nA eles conduziu.\nOs guiou à cidade\nDa sua\\_habitação.\n<sup>8</sup> Graças rendei a Deus,\nPois Ele\\_é mui bondoso,\nPorque prodígios fez\nPara\\_os filhos dos homens.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-107-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Pois à alma sedenta\nDeus a dessedentou.\nE à alma faminta\nCom muitos bens fartou,\n<sup>10</sup> Tal como\\_a que ficou\nEm trevas assentada,\nEm sombras tão mortais,\nEm aflição e ferro.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-107-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Porque se rebelaram\nContra\\_o que Deus falou,\nDesprezando\\_o conselho\nVindo do\\_Altíssimo,\n<sup>12</sup> De modo que\\_o Senhor\nLhes abateu a alma\nCom muita\\_ocupação.\nCaíram sem socorro!",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-107-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Então, na sua\\_angústia,\nClamaram ao Senhor;\nE Deus deu livramento,\nSim, das tribulações.\n<sup>14</sup> Das trevas os tirou\nE das sombras da morte\nE lhes despedaçou\nSuas cadeias todas.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-107-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>15</sup> Ao Senhor rendei graças,\nPois o Senhor é bom.\nPara\\_os filhos dos homens\nProdígios Ele fez.\n<sup>16</sup> Pois portas arrombou,\nSim, as portas de bronze.\nE trancas Deus quebrou,\nSim, as trancas de ferro.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-107-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>17</sup> Eis que\\_os estultos sofrem\nPor sua transgressão,\nPelas iniquidades;\nPassam por aflição.\n<sup>18</sup> Sua\\_alma\\_aborreceu\nTudo que é comida.\nVieram se\\_encontrar\nÀs portas de morrerem.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-107-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>19</sup> Então, na sua\\_angústia,\nClamaram ao Senhor;\nE Deus deu livramento,\nSim, das tribulações.\n<sup>20</sup> Sua palavra deu\nE também lhes deu cura.\nO Senhor os livrou\nDo que os mataria.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-107-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>21</sup> Ao Senhor rendei graças,\nPois o Senhor é bom.\nPara\\_os filhos dos homens\nProdígios Ele fez.\n<sup>22</sup> E sacrifícios dai,\nSim, de ações de graças.\nCom grande jubilar,\nProclamem suas obras.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-107-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>23</sup> Os que descem aos mares,\nTomando seus navios\nPra fazer seu comércio\nNa\\_imensidão do mar,\n<sup>24</sup> Estes as obras veem\nDo\\_Altíssimo Senhor Deus\nE os prodígios seus\nNo mais profundo\\_abismo.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-107-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>25</sup> Ao falar o Senhor Deus,\nO vento levantou\nE fez com que as ondas\nViessem se erguer.\n<sup>26</sup> Subiram para\\_os céus,\nDesceram aos abismos,\nAlma\\_a desfalecer\nEm meio à angústia.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-107-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>27</sup> Como ébrios andaram,\nVindo\\_a cambalear\nE o discernimento\nVieram a perder.\n<sup>28</sup> Então, na aflição,\nAo Senhor Deus clamaram;\nE das tribulações\nDeus deu-lhes livramento.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-107-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>29</sup> Fez cessar a tormenta,\nSim, Deus a fez cessar.\nE as ondas dos mares\nVieram se\\_acalmar.\n<sup>30</sup> Veio\\_a bonança, então;\nE eles se\\_alegraram.\nA eles Deus levou\nAo desejado porto.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-107-gen-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "<sup>31</sup> Ao Senhor rendei graças,\nPois o Senhor é bom.\nPara\\_os filhos dos homens\nProdígios Ele fez.\n<sup>32</sup> E, na congregação,\nO povo\\_a Ele\\_exalte,\nE, entre\\_os anciãos,\nAo Senhor glorifiquem.",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "psalm-107-gen-v17",
+      "kind": "verse",
+      "label": "17",
+      "body": "<sup>33</sup> O Senhor em deserto\nOs rios faz tornar.\nE as fontes de água,\nEle as faz secar.\n<sup>34</sup> A terra fértil faz\nTornar-se um deserto\nPela maldade que\nTêm os seus habitantes.",
+      "attrs": {},
+      "sortOrder": 17
+    },
+    {
+      "id": "psalm-107-gen-v18",
+      "kind": "verse",
+      "label": "18",
+      "body": "<sup>35</sup> Ao deserto converte\nEm água a fartar\nE da terra que\\_é seca\nFaz um manancial.\n<sup>36</sup> Aí Deus fez morar\nO que faminto\\_estava\nE\\_ali edificar\nCidade\\_em que morasse.",
+      "attrs": {},
+      "sortOrder": 18
+    },
+    {
+      "id": "psalm-107-gen-v19",
+      "kind": "verse",
+      "label": "19",
+      "body": "<sup>37</sup> Semearam os campos,\nColheram a fartar.\nTambém vinhas plantaram,\nColheram a fartar.\n<sup>38</sup> Deus os abençoou\nE se multiplicaram;\nE o seu gado não\nVeio\\_a ser reduzido",
+      "attrs": {},
+      "sortOrder": 19
+    },
+    {
+      "id": "psalm-107-gen-v20",
+      "kind": "verse",
+      "label": "20",
+      "body": "<sup>39</sup> Entretanto, voltaram\nA se diminuir\nE também se\\_abateram,\nSofrendo\\_humilhação.\nLhes veio\\_a opressão,\nLhes veio a tristeza,\nPassaram aflições,\nForam atribulados.",
+      "attrs": {},
+      "sortOrder": 20
+    },
+    {
+      "id": "psalm-107-gen-v21",
+      "kind": "verse",
+      "label": "21",
+      "body": "<sup>40</sup> Lança Deus o desprezo\nSobre os príncipes,\nFaz que andem errantes\nOnde trilha não há.\n<sup>41</sup> Mas tira da\\_opressão\nAo que\\_é necessitado\nE,\\_em alto ermo, Deus\nLhe dá prosperidade.",
+      "attrs": {},
+      "sortOrder": 21
+    },
+    {
+      "id": "psalm-107-gen-v22",
+      "kind": "verse",
+      "label": "22",
+      "body": "<sup>42</sup> Vendo isso, os retos\nHão de se alegrar,\nPorém todo iníquo\nA boca fechará.\n<sup>43</sup> Que venha se\\_atentar\nO sábio\\_a estas coisas\nE venha ponderar\nDe Deus a sua graça.",
+      "attrs": {},
+      "sortOrder": 22
+    }
+  ]
+}

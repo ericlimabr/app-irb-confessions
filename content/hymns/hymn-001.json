@@ -1,0 +1,130 @@
+{
+  "id": "hymn-001",
+  "collection": "hymns",
+  "number": 1,
+  "numberLabel": "Hino 1",
+  "title": "OS DEZ MANDAMENTOS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CÂNTICOS DE TEXTOS BÍBLICOS",
+    "bibleRef": "Êxodo 20.1-17",
+    "author": "Vítor Olivier"
+  },
+  "sortOrder": 1,
+  "units": [
+    {
+      "id": "hymn-001-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Disse o Senhor estas palavras:\n<sup>2</sup> Eu sou o teu Senhor, teu Deus.\nFui eu que te livrei do Egito,\nCasa da tua servidão.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-001-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Diante da minha presença,\nNão tenhas outros deuses, não.\n<sup>4</sup> Tampouco imagens de escultura\nHás de fazê-las para ti.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-001-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Nem faça semelhança alguma\nDo que existe sobre os céus\nNem do que está aqui na terra\nOu águas que abaixo estão.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-001-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Tu não adorarás a elas\nTampouco a elas servirás\nPorque eu sou teu Deus zeloso.\nEu sou teu Deus e teu Senhor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-001-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "A iniquidade eu visito\nTerceira e quarta geração\nDaqueles que me aborrecem,\nAos filhos seus visitarei.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "hymn-001-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>6</sup> Porém, também misericórdia\nMostro até mil gerações\nDaqueles que amor revelam\nE obedecem minha lei.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "hymn-001-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>7</sup> Não tomarás em vão o nome\nDo teu Senhor, que é teu Deus,\nPois não terá por inocente\nA quem tomar seu nome em vão.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "hymn-001-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>8</sup> Lembra do dia do descanso;\nA ele santificarás.\n<sup>9</sup> Seis dias são pra teu trabalho\nE toda obra executar.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "hymn-001-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>10</sup> Porém, o sétimo é meu dia.\nNenhuma obra tu farás,\nNem os teus filhos ou teus servos,\nTeu estrangeiro ou animal.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "hymn-001-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>11</sup> Pois o Senhor fez em seis dias\nOs céus, a terra e o mar\nE tudo que existe neles\nE, então, no sétimo, cessou.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "hymn-001-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "Por isso, ao dia do descanso\nDeu sua bênção o Senhor.\nSim, Ele deu a sua bênção\nE também o santificou.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "hymn-001-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>12</sup> E ao teu pai e mãe dê honra\nE, então, eu hei de prolongar\nOs dias teus, sim, nesta terra,\nTerra que o Senhor te dá.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "hymn-001-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>13</sup> É proibido o homicídio,\n<sup>14</sup> O adultério <sup>15</sup> e o furtar.\n<sup>16</sup> Contra o teu próximo não digas\nMentiras ao testificar.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "hymn-001-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>17</sup> E não cobice do vizinho\nA sua casa ou mulher,\nSeu servo, serva, boi, jumento,\nNada daquilo que tiver.",
+      "attrs": {},
+      "sortOrder": 14
+    }
+  ]
+}

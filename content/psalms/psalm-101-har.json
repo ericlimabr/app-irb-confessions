@@ -1,0 +1,48 @@
+{
+  "id": "psalm-101-har",
+  "collection": "psalms",
+  "number": 101,
+  "numberLabel": "Salmo 101",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-101",
+  "attrs": {
+    "attribution": "CBS - Trust in Jesus"
+  },
+  "sortOrder": 166,
+  "units": [
+    {
+      "id": "psalm-101-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A bondade\\_e a justiça cantarei a ti, Senhor,\n<sup>2</sup> E\\_ao caminho que\\_é perfeito sabiamente\\_atentarei.\nQuando\\_encontrarás comigo para estar, ó meu Senhor?\nPois em minha casa quero coração sincero ter.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-101-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> E, diante dos meus olhos, coisa\\_injusta não porei\nE daqueles que se\\_afastam aborreço\\_o proceder.\nNada disso\\_a mim se\\_apegue, <sup>4</sup> mal não quero conhecer.\nE de mim bem longe\\_esteja um perverso coração.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-101-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> O que tem olhar altivo, este não suportarei.\nDestruirei quem, às ocultas, calunia seu irmão.\n<sup>6</sup> E\\_os fiéis da terra busco pra comigo habitar.\nO que\\_em retidão caminha, este há de me servir.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-101-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Não há de permanecer em minha casa\\_o fraudador;\nNem, diante dos meus olhos, mentirosos ficarão.\n<sup>8</sup> E vou destruindo\\_os ímpios; dia\\_a dia,\\_assim, farei.\nNa cidade do Senhor, pois, nenhum ímpio ficará.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hymn-069",
+  "collection": "hymns",
+  "number": 69,
+  "numberLabel": "Hino 69",
+  "title": "VINDE, CANTAI",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: NASCIMENTO",
+    "author": "Guaraci Silveira"
+  },
+  "sortOrder": 69,
+  "units": [
+    {
+      "id": "hymn-069-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Vinde, cantai: Jesus nasceu!\nÀ terra a luz desceu!\nA graça infinda ao mundo vem\nNa vila de Belém, na vila de Belém,\nJesus, o Amado, o Sumo Bem!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-069-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Sim, proclamai em derredor,\nQue foi por grande amor\nQue à terra veio o Sumo Bem,\nNa vila de Belém, na vila de Belém,\nJesus, humilde, ao mundo vem.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

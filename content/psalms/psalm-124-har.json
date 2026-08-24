@@ -1,0 +1,48 @@
+{
+  "id": "psalm-124-har",
+  "collection": "psalms",
+  "number": 124,
+  "numberLabel": "Salmo 124",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-124",
+  "attrs": {
+    "attribution": "CBS - Crucifer"
+  },
+  "sortOrder": 233,
+  "units": [
+    {
+      "id": "psalm-124-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Não fosse Deus, que\\_o diga Israel,\nQue\\_esteve\\_ao nosso lado, sim, junto\\_a nós.\n<sup>2</sup> Quando se\\_ergueram homens contra nós,\n<sup>3</sup> Com todo\\_o furor, iriam nos tragar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-124-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Águas viriam a nos submergir.\nTorrente passaria por sobre nós.\n<sup>5</sup> Águas impetuosas, com furor,\nTeriam passado, sim, por sobre nós.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-124-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Bendito seja Deus, que não nos deu\nPor presa\\_aos dentes deles, Deus não nos deu.\n<sup>7</sup> Salvou-se\\_a nossa alma, que\\_escapou,\nQual ave do laço do seu caçador.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-124-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Quebrou-se\\_o laço,\\_e livres fomos nós,\nQual ave que se livra do caçador.\n<sup>8</sup> Nosso socorro\\_é\\_o nome do Senhor.\nFoi Ele que\\_a terra e o céu criou.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

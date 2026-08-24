@@ -1,0 +1,48 @@
+{
+  "id": "psalm-112-gen",
+  "collection": "psalms",
+  "number": 112,
+  "numberLabel": "Salmo 112",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-112",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 184,
+  "units": [
+    {
+      "id": "psalm-112-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Louvai a Deus, oh, aleluia!\nBendito é quem ao Senhor teme\nE se compraz nos mandamentos.\n<sup>2</sup> Seus filhos serão poderosos.\n<sup>3</sup> Na sua casa, tem riqueza.\nSua justiça\\_é para sempre.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-112-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Ao justo nasce luz nas trevas.\nÉ compassivo, bom e justo.\n<sup>5</sup> Ditoso\\_é\\_o homem que empresta;\nDefende\\_a causa em juízo.\nSua memória permanece.\n<sup>6</sup> Jamais será, pois, abalado.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-112-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> O justo não se\\_atemoriza;\nDe más notícias não tem medo.\n<sup>8</sup> Seu coração é bem firmado;\nNo seu Senhor é confiante.\nNão teme até que,\\_enfim, se cumpra\nNos adversários seu desejo.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-112-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> O justo distribui aos pobres;\nSua justiça\\_é para sempre.\nO seu poder se\\_exalta\\_em glória.\n<sup>10</sup> Com isso,\\_o ímpio se\\_enraivece,\nRange seus dentes, consumido.\nPerecerá o seu desejo.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

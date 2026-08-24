@@ -1,0 +1,72 @@
+{
+  "id": "psalm-059-gen",
+  "collection": "psalms",
+  "number": 59,
+  "numberLabel": "Salmo 59",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-059",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 99,
+  "units": [
+    {
+      "id": "psalm-059-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Livra-me,\\_ó Deus, dos inimigos;\nPõe-me acima do alcance\nDos adversários meus, Senhor.\n<sup>2</sup> Dos homens ímpios vem livrar;\nDos sanguinários, Deus, me salva.\n<sup>3</sup> Armam ciladas à minha\\_alma;\nFortes se juntam contra mim\nSem que\\_eu cometa transgressão.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-059-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Mesmo sem que eu tenha culpa,\n<sup>4</sup> Pra me\\_atacar eles se\\_apressam.\nOh, te desperta, meu Senhor!\nVem ao encontro meu e vê!\n<sup>5</sup> Deus dos Exércitos, desperta,\nTu que\\_és o Deus de Israel, sim,\nE vem de\\_encontro às nações\nA todas as nações, Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-059-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Ó Senhor, não te compadeças\nDe quem pratica\\_iniquidade,\nOs quais traiçoeiros são.\n<sup>6</sup> À noite, uivam como cães;\nÀ volta da cidade, uivam\n<sup>7</sup> E alardeiam com suas bocas.\nEspadas têm nos lábios seus;\nDizem: “quem nos escutará?”",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-059-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Mas tu, Senhor, vais zombar deles,\nSim, zombarás das nações todas.\n<sup>9</sup> Em ti, Senhor, esperarei.\nAlto refúgio és pra mim.\n<sup>10</sup> Meu Deus virá ao meu encontro\nCom sua graça e bondade.\nFará o meu desejo ver\nSobre os inimigos meus.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-059-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>11</sup> Senhor, não mate\\_os inimigos,\nPra que meu povo não se\\_esqueça.\nPor teu poder, dispersa\\_os tais.\nAbate-os, pois escudo\\_és, Deus.\n<sup>12</sup> Pelo pecado de sua boca,\nPelas palavras dos seus lábios,\nPrende-os por sua altivez,\nMentiras e\\_abominações.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-059-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>13</sup> Com teu furor, consome\\_a eles\nDe sorte que jamais existam.\nSaibam que reinas em Jacó\nE\\_até\\_os confins da terra,\\_ó Deus.\n<sup>14</sup> À noite, uivam quais cachorros,\nÀ volta da cidade, uivam.\n<sup>15</sup> Em busca de\\_alimento vão,\nMas não conseguem se fartar.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-059-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>16</sup> Porém, eu canto\\_a tua força.\nPelas manhãs, alegre, louvo\nTua misericórdia,\\_ó Deus.\nAlto refúgio\\_e proteção\nTens sido no dia da\\_angústia.\n<sup>17</sup> A ti eu cantarei louvores.\nAlto refúgio\\_e força és,\nDeus que misericórdia tem.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

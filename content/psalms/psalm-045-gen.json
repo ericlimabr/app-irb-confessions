@@ -1,0 +1,56 @@
+{
+  "id": "psalm-045-gen",
+  "collection": "psalms",
+  "number": 45,
+  "numberLabel": "Salmo 45",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-045",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 76,
+  "units": [
+    {
+      "id": "psalm-045-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Meu coração transborda\\_em bons dizeres;\nMinha canção ao grande Rei consagro.\nA minha língua\\_é pena de\\_escritor:\n<sup>2</sup> “Por entre\\_os homens, o mais belo\\_és tu.\nPelos teus lábios derramou-se\\_a graça;\nPor isso, Deus te\\_abençoou pra sempre.\n<sup>3</sup> Espada cinge no teu flanco,\\_herói:\nVeste de glória\\_e majestade\\_assim.”",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-045-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> “Por causa da verdade\\_e da justiça,\nCavalga, vence;\\_a destra faz proezas.\n<sup>5</sup> As tuas setas bem agudas são:\nPenetra\\_o inimigo\\_ao coração.\nPovos que\\_opõem ao Rei, submissos, caem.\n<sup>6</sup> Teu trono,\\_ó Deus, subsiste para sempre;\nO cetro de teu reino\\_é justo\\_e bom.\n<sup>7</sup> Amas justiça\\_e te opões ao mal”.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-045-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Por isso,\\_ó Rei, teu Deus te\\_ungiu com óleo,\nAlegre\\_unção, que\\_exclui teus companheiros.\n<sup>8</sup> Todas as vestes com perfume\\_estão:\nRecendem mirra, cássia\\_e aloés.\nComo palácios de marfim, ressoam\nO som dos instrumentos que te\\_alegram.\n<sup>9</sup> Filhas de nobres reis te honrarão:\nDamas de honra\\_e companhia\\_a ti.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-045-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "À tua destra\\_está bem adornada\nCom ouro puro de Ofir – que bela! –\nTua rainha. <sup>10</sup> Ouve, filha\\_e vê:\n“Teu povo\\_esquece\\_e\\_a casa de teu pai.\n<sup>11</sup> O Rei se\\_encantará da formosura:\nÉ teu Senhor, inclina diante dele.\n<sup>12</sup> Presentes ganharás de Tiro\\_até!\nRicos daqui favores pedirão”.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-045-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>13</sup> Formosa\\_é a princesa no palácio;\nA sua veste\\_é costurada\\_em ouro.\n<sup>14</sup> Bordadas roupas para ver seu Rei.\nDonzelas companheiras vão também,\n<sup>15</sup> Com alegria,\\_entrando no palácio.\n<sup>16</sup> Em vez dos pais, serão teus filhos nobres.\n<sup>17</sup> Teu nome\\_eu faço\\_honrado\\_às gerações.\nPovos te louvarão pra sempre!\\_Amém!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

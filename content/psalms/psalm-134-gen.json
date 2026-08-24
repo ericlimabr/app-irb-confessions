@@ -1,0 +1,32 @@
+{
+  "id": "psalm-134-gen",
+  "collection": "psalms",
+  "number": 134,
+  "numberLabel": "Salmo 134",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-134",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 252,
+  "units": [
+    {
+      "id": "psalm-134-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Vós todos, servos do Senhor,\nVinde\\_ao Senhor e bendizei,\nSim, vós que\\_à noite assistis\nNa Casa do Senhor Javé!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-134-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Ao santuário\\_as mãos erguei,\nPara\\_o Senhor e bendizei.\n<sup>3</sup> Que te\\_abençoe, de Sião,\nDeus, criador da terra\\_e céu!",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

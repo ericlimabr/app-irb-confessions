@@ -1,0 +1,56 @@
+{
+  "id": "psalm-095-har",
+  "collection": "psalms",
+  "number": 95,
+  "numberLabel": "Salmo 95",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-095",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 156,
+  "units": [
+    {
+      "id": "psalm-095-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Vinde, cantemos ao Senhor,\nLouvor ao nosso Salvador.\n<sup>2</sup> De\\_encontro, bem alegres, vamos.\nAções de graças lhe trazei\nAo grande e supremo Rei.\nLhe entoai gloriosos salmos.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-095-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Grandioso Deus, nosso Senhor,\nOs deuses devem-lhe louvor.\n<sup>4</sup> Montanhas são lhe reverentes.\n<sup>5</sup> À profundeza a formou,\nA terra fez e\\_o mar chamou,\nSuas obras são os continentes.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-095-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Vinde,\\_adoremos ao Senhor,\nProstremo-nos ao Criador.\n<sup>7</sup> Nós somos povo do seu pasto.\nA sua voz, hoje,\\_escutai.\nÀ nossa frente, Ele vai.\nOvelhas somos. Não te\\_afastes.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-095-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Não te perverte\\_o coração.\nEm Meribá, houve\\_a questão\nE,\\_em Massá, quando discutiram.\n<sup>9</sup> Foi quando\\_o povo me provou,\nMinha bondade desprezou,\nTeus pais, que\\_as minhas obras viram.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-095-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Me deste povo desgostei;\nRepúdio\\_e ira,\\_os aguentei,\nDe coração tão transviado.\nLonge de mim perambulou,\nDos meus caminhos desviou.\n<sup>11</sup> Do meu descanso afastados!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

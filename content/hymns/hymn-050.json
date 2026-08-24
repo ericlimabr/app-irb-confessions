@@ -1,0 +1,57 @@
+{
+  "id": "hymn-050",
+  "collection": "hymns",
+  "number": 50,
+  "numberLabel": "Hino 50",
+  "title": "GRAÇAS TE DOU POR TUDO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "OFERTAS E GRATIDÃO",
+    "author": "João Chrysóstomo de Oliveira"
+  },
+  "sortOrder": 50,
+  "units": [
+    {
+      "id": "hymn-050-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Graças te dou por tudo que me deste,\nPrimeiro a salvação em meu Jesus.\nGraças te dou por tudo que fizeste,\nPor este pecador salvo na cruz!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-050-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Graças, graças, mil graças\nA ti, meu Salvador!\nGraças, graças, mil graças\nPor teu precioso amor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-050-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Eu te agradeço a bênção do trabalho\nE do meu lar, que alegra o meu viver;\nA correção paterna quando falho,\nProvando o teu amor pelo meu ser.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-050-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Eu te agradeço o pão de cada dia,\nA água que alivia a sede dura,\nE o sol que aquece a pobre gente fria,\nSão bênçãos que enchem a terra de fartura.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-050-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Eu te agradeço, ó Pai, os meus amigos,\nE os inimigos também te agradeço.\nSou grato por vitórias em perigos\nE outras bênçãos que eu não mereço.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

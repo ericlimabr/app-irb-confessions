@@ -1,0 +1,64 @@
+{
+  "id": "heidelberg-ld11",
+  "collection": "heidelberg",
+  "number": 11,
+  "numberLabel": "Domingo 11",
+  "title": null,
+  "subtitle": "Deus Filho e a Nossa Redenção",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 11,
+  "units": [
+    {
+      "id": "heidelberg-q029-q",
+      "kind": "question",
+      "label": "P. 29",
+      "body": "Por que razão é o Filho de Deus chamado de Jesus, que quer dizer, Salvador?",
+      "attrs": {
+        "questionNumber": 29
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q029-a",
+      "kind": "answer",
+      "label": "R. 29",
+      "body": "Porque Ele nos salva de todos os nossos pecados, e porque em ninguém mais devemos buscar ou podemos encontrar salvação.",
+      "attrs": {
+        "questionNumber": 29,
+        "refs": [
+          "Mt 1.21; Hb 7.25.",
+          "Is 43.11; Jo 15.4, 5; At 4.11, 12; 1Tm 2.5."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q030-q",
+      "kind": "question",
+      "label": "P. 30",
+      "body": "Aqueles que buscam com fervor a sua salvação ou bem-estar nos santos, em si mesmos ou em outra coisa qualquer, também creem no único Salvador Jesus?",
+      "attrs": {
+        "questionNumber": 30
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q030-a",
+      "kind": "answer",
+      "label": "R. 30",
+      "body": "Não. Embora gloriem-se nEle com palavras, eles na verdade negam a Jesus como o único Salvador. Ou Jesus não é um salvador perfeito, ou aqueles que na verdadeira fé aceitam esse salvador têm nele tudo o que precisam para sua salvação.",
+      "attrs": {
+        "questionNumber": 30,
+        "refs": [
+          "1Co 1.12, 13; Gl 5.4 2.",
+          "Cl 1.19, 20; 2.10; 1Jo 1.7."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

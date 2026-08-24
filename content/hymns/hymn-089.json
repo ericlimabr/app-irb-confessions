@@ -1,0 +1,41 @@
+{
+  "id": "hymn-089",
+  "collection": "hymns",
+  "number": 89,
+  "numberLabel": "Hino 89",
+  "title": "DA IGREJA O FUNDAMENTO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "IGREJA E SACRAMENTOS",
+    "author": "Samuel John Stone / Robert Hawkey Moreton"
+  },
+  "sortOrder": 89,
+  "units": [
+    {
+      "id": "hymn-089-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Da Igreja o fundamento\nÉ Cristo, o Salvador!\nEm seu poder descansa\nE é forte em seu amor.\nEm Cristo, bem firmada\nSegura sempre está\nE sobre a Rocha Eterna\nJamais se abalará.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-089-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "A pedra preciosa,\nQue Deus predestinou\nSustenta pedras vivas\nQue a graça trabalhou.\nE quando o monumento\nSurgir em plena luz,\nA glória do edifício\nSerá do Rei Jesus!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-089-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Senhor, nós te rogamos,\nQue, erguido por amor,\nO templo consagrado\nRedunde em teu louvor;\nE que almas redimidas\nAqui, em comunhão,\nSe tornem templo santo\nDa tua habitação.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

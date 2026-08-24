@@ -1,0 +1,48 @@
+{
+  "id": "psalm-046-gen",
+  "collection": "psalms",
+  "number": 46,
+  "numberLabel": "Salmo 46",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-046",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 77,
+  "units": [
+    {
+      "id": "psalm-046-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Nosso refúgio\\_e fortaleza\nÉ Deus, nas aflições presente.\n<sup>2</sup> Assim, não temeremos, pois,\nMesmo que\\_a terra trema,\\_então,\nNo mar se\\_abalem as montanhas,\n<sup>3</sup> Mesmo que\\_as águas tumultuem\nE fiquem a espumejar,\nE\\_os montes todos a tremer.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-046-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Existe\\_um rio cujas águas\nCidade divinal alegram.\nÉ santuário do Senhor,\nHabitação do\\_Altíssimo.\n<sup>5</sup> Eis Deus está no meio dela;\nJamais será, pois, abalada.\nDesde\\_o começo da manhã,\nQuem sempre\\_ajuda é\\_o Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-046-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Bramam nações, reinos se\\_abalam;\nDeus fala,\\_e sua voz ressoa;\nFaz, pois, a terra dissolver.\n<sup>7</sup> Deus, o Senhor de\\_Exércitos,\nDeus de Jacó, está conosco;\nÉ Ele\\_o nosso bom refúgio.\n<sup>8</sup> Vinde suas obras contemplar:\nQue\\_assolações efetuou!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-046-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Deus põe um termo\\_à guerra\\_armada\nAté\\_os confins do vasto mundo.\nO arco\\_e\\_a lança quebrará;\nNo fogo,\\_os carros queimará.\n<sup>10</sup> “Quietos! Sabei: sou Deus louvado\nPor entre\\_os povos e na terra.”\n<sup>11</sup> Eis que\\_o Senhor conosco\\_está,\nDeus de Jacó, refúgio\\_a nós!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

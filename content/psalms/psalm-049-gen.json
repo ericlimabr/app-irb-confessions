@@ -1,0 +1,56 @@
+{
+  "id": "psalm-049-gen",
+  "collection": "psalms",
+  "number": 49,
+  "numberLabel": "Salmo 49",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-049",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 83,
+  "units": [
+    {
+      "id": "psalm-049-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó povos todos, escutai aqui;\nSim, moradores desta terra,\\_ouvi.\n<sup>2</sup> Aos homens, sejam nobres ou plebeus,\nDe um em um, quem rico\\_ou pobre é:\n<sup>3</sup> Meus lábios com saber dissertarão;\nJudicioso é\\_o meu coração.\n<sup>4</sup> A um provérbio\\_inclinarei o\\_ouvido;\nDecifrarei o\\_enigma\\_ao som da harpa.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-049-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Por que temer nos dias de\\_aflição\nQuando\\_o iníquo me persegue,\\_então?\n<sup>6</sup> O qual se vangloria nos seus bens.\n<sup>7</sup> Ninguém consegue pelo seu irmão\nComprar de Deus a sua remissão,\n<sup>8</sup> Pois muito cara\\_é\\_a sua redenção.\nPagá-la tentariam, para sempre,\n<sup>9</sup> Pra vida\\_eterna ter sem ver a cova.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-049-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>10</sup> Vemos que\\_os sábios vão a perecer;\nTambém o\\_estulto,\\_inepto\\_a falecer;\nSua riqueza deixa\\_a quem sobrar.\n<sup>11</sup> Seu pensamento vive\\_a cobiçar;\nCasas perpétuas pelas gerações;\nSeu próprio nome vão à terra dar.\n<sup>12</sup> Mas, apesar de\\_ostentação, o homem\nMorre; qual animal, eis que perece.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-049-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>13</sup> São néscios, mas têm seguidores maus;\nSua palavra\\_aplaudem com ardor.\n<sup>14</sup> São como\\_ovelha, postos a jazer.\nA morte\\_é seu pastor; e descerão\nÀ cova, onde\\_a formosura\\_esvai;\nEsta\\_é seu lar, <sup>15</sup> mas Deus me remirá.\nMinha\\_alma salva do poder da morte,\nPois há de me levar consigo mesmo.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-049-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>16</sup> Não temas quando\\_alguém se\\_enriquecer\nSe,\\_em glória,\\_a sua casa for crescer:\n<sup>17</sup> Pra si da morte nada levará;\nA sua glória não o seguirá.\n<sup>18</sup> Na vida, mesmo se\\_indulgente for,\n<sup>19</sup> Um dia,\\_irá ter com seus pais, sem luz;\n<sup>20</sup> Tal homem, mesmo que honrado fosse,\nÉ néscio\\_e, como\\_os animais, perece.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

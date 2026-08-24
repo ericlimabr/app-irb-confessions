@@ -1,0 +1,41 @@
+{
+  "id": "hymn-028",
+  "collection": "hymns",
+  "number": 28,
+  "numberLabel": "Hino 28",
+  "title": "A CRISTO ADORAI",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Mathew Bridges e Godfrey Thring / João Wilson Faustini"
+  },
+  "sortOrder": 28,
+  "units": [
+    {
+      "id": "hymn-028-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "A Cristo adorai,\nCordeiro vencedor!\nOuvidos coros celestiais,\nDos anjos o louvor.\nErguei vibrante voz\nDe todo o coração,\nLouvando àquele que morreu\nE deu-vos salvação.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-028-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "A Cristo adorai,\nSeu lado e mãos olhai,\nDas suas chagas o esplendor\nE a glória contemplai.\nNem anjos lá do céu\nO podem compreender:\nQue o próprio filho de Deus Pai\nPelo homem quis morrer.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-028-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "A Cristo adorai!\nA vida nos doou,\nE, a fim de dar-nos salvação,\nDa tumba triunfou.\nCantemos seu poder:\nMorreu, mas ressurgiu.\nA vida eterna conquistou\nE a morte destruiu.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

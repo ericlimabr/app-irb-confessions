@@ -1,0 +1,91 @@
+{
+  "id": "heidelberg-ld52",
+  "collection": "heidelberg",
+  "number": 52,
+  "numberLabel": "Domingo 52",
+  "title": null,
+  "subtitle": "A Oração",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 52,
+  "units": [
+    {
+      "id": "heidelberg-q127-q",
+      "kind": "question",
+      "label": "P. 127",
+      "body": "Qual é a sexta petição?",
+      "attrs": {
+        "questionNumber": 127
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q127-a",
+      "kind": "answer",
+      "label": "R. 127",
+      "body": "_\"E não nos deixes cair em tentação; mas livra-nos do mal\"_.\n\nIsto é:\n\nQue somos tão fracos em nós mesmos que não podemos permanecer firmes por um momento sequer. Além disso, os nossos inimigos declarados - o diabo, o mundo e a nossa própria carne - não cessam de nos atacar.\n\nQueiras, portanto, sustentar-nos e fortalecer-nos pelo poder do Teu Espírito Santo, para que não sejamos derrotados nessa batalha espiritual, mas que sempre resistamos a nossos inimigos, até que alcancemos finalmente a vitória total.",
+      "attrs": {
+        "questionNumber": 127,
+        "refs": [
+          "Sl 103.14-16; Jo 15.1-5.",
+          "2Co 11.14; Ef 6.10-13; 1Pe 5.8.",
+          "Jo 15.18-21.",
+          "Rm 7.13; Gl 5.17.",
+          "Mt 10.19, 20; 26.41; Mc 13.33; Rm 5.3-5.",
+          "1Co 10.13; 1Ts 3.13; 5.23."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q128-q",
+      "kind": "question",
+      "label": "P. 128",
+      "body": "Como é que você conclui a sua oração?",
+      "attrs": {
+        "questionNumber": 128
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q128-a",
+      "kind": "answer",
+      "label": "R. 128",
+      "body": "_\"Pois teu é o reino, o poder e a glória para sempre\"_.\n\nIsto é:\n\nTudo isso Te pedimos porque, como nosso Rei com poder sobre todas as coisas, tanto queres quanto podes nos dar tudo o que é bom, e por essa causa não nós, mas o Teu santo Nome é digno de receber toda a glória para sempre.",
+      "attrs": {
+        "questionNumber": 128,
+        "refs": [
+          "Rm 10.11-13; 2Pe 2.9.",
+          "Sl 115.1; Jr 33.8, 9; Jo 14.13."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q129-q",
+      "kind": "question",
+      "label": "P. 129",
+      "body": "O que significa a palavra \"Amém\"?",
+      "attrs": {
+        "questionNumber": 129
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q129-a",
+      "kind": "answer",
+      "label": "R. 129",
+      "body": "_Amém_ significa: é verdadeiro e certo. Pois é mais certo e verdadeiro que Deus ouviu a minha oração, do que o sentimento que tenho em meu coração de desejar isso dEle.",
+      "attrs": {
+        "questionNumber": 129,
+        "refs": [
+          "Is 65.24; 2Co 1.20; 2Tm 2.13."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

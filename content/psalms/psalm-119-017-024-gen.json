@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-017-024-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.17-24",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-017-024",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 200,
+  "units": [
+    {
+      "id": "psalm-119-017-024-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>17</sup> Sê generoso com o servo teu,\nPara que\\_eu viva\\_e cumpra\\_a tua palavra.\n<sup>18</sup> Abre meus olhos e contemplarei\nAs maravilhas da tua palavra.\n<sup>19</sup> Por essa terra, peregrino sou.\nNão me escondas os teus mandamentos",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-017-024-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>20</sup> E consumida minha alma\\_está\nPor desejar tua lei em todo\\_o tempo.\n<sup>21</sup> Maus e soberbos increpaste,\\_ó Deus,\nQue se desviam dos teus mandamentos.\n<sup>22</sup> Todo\\_o desprezo\\_e\\_opróbrio sobre mim\nTira, pois guardo os teus testemunhos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-017-024-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>23</sup> E assentados contra mim estão\nGovernadores, que de mim conspiram;\nMas o teu servo já considerou\nNos teus decretos, nos teus testemunhos.\n<sup>24</sup> São, com efeito, todo\\_o meu prazer;\nSão eles todos os meus conselheiros.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "belgic-art19",
+  "collection": "belgic",
+  "number": 19,
+  "numberLabel": "Art. 19",
+  "title": "As duas naturezas na única pessoa de Cristo",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 19,
+  "units": [
+    {
+      "id": "belgic-art19-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que, por essa concepção, a pessoa do Filho de Deus está inseparavelmente unida e ligada à natureza humana, de modo que não há dois filhos de Deus, nem duas pessoas, mas duas naturezas unidas em uma única pessoa. Cada uma delas mantém as suas características distintas: a Sua natureza Divina permaneceu sempre não-criada, sem começo de dias nem fim de vida (Hb 7.3), preenchendo céu e terra. A Sua natureza humana não perdeu as suas características: tem começo de dias e continua criada; é finita e conserva todos os atributos de um corpo verdadeiro. No  entanto,  pela  Sua  ressurreição,  concedeu  Ele imortalidade à Sua natureza humana, não havendo modificado a realidade dela, pois a nossa salvação e ressurreição dependem também da realidade do Seu corpo. Contudo, essas duas naturezas estão tão intimamente unidas em uma única pessoa que não foram separadas nem mesmo por Sua morte. Ao morrer,  portanto,  Ele  rendeu  nas  mãos  do  Pai  um  espírito  humano verdadeiro que se apartou do Seu corpo. Entretanto a Sua divindade permaneceu sempre unida à Sua natureza humana, até mesmo quando Ele jazia na sepultura. A natureza divina sempre esteve presente nEle,  exatamente  como quando era uma criancinha, embora por algum tempo não se tivesse manifestado. Por isso confessamos que Ele é verdadeiro Deus e verdadeiro homem: verdadeiro Deus a fim de vencer a morte pelo Seu poder; e verdadeiro homem a fim de morrer por nós segundo as fraquezas da Sua carne.",
+      "attrs": {
+        "refs": [
+          "Jo 1.14; Jo 10.30; Rm 9.5; Fp 2.6, 7.",
+          "Mt 28.20.",
+          "1Tm 2.5.",
+          "Mt 26.11; Lc 24.39; Jo 20.25; At 1.3, 11; At 3.21; Hb 2.9.",
+          "1Co 15.21; Fp 3.21.",
+          "Mt 27.50.",
+          "Rm 1.4."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

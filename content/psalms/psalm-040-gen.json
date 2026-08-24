@@ -1,0 +1,80 @@
+{
+  "id": "psalm-040-gen",
+  "collection": "psalms",
+  "number": 40,
+  "numberLabel": "Salmo 40",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-040",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 68,
+  "units": [
+    {
+      "id": "psalm-040-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Com confiança,\\_eu esperei em Deus;\nE para mim Deus se\\_inclinou.\nEle me\\_ouviu quando\\_eu clamei.\n<sup>2</sup> De\\_um tremedal de lama me tirou;\nDa perdição tirou-me\nE colocou os meus pés\nSobre\\_uma rocha, sim.\nOs passos meus firmou\n<sup>3</sup> E nos meus lábios pôs,\nUm novo canto pôs.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-040-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Um novo canto nos meus lábios pôs\nPara\\_o louvor do nosso Deus.\nAo virem isso, muitos vão\nTemer e confiar em ti, Senhor.\n<sup>4</sup> É bem-aventurado\nQuem no Senhor confia,\nNão tem inclinação\nAos que soberbos são\nNem aos que ao mentir\nNutrem a afeição.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-040-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> São muitas maravilhas, meu Senhor,\nQue tu tens operado, sim,\nE teus desígnios para nós.\nNão há ninguém que se iguale\\_a Deus.\nQuisera eu contá-los,\nTambém anunciá-los.\nTão numerosos são\nNão posso eu contar.\nTão numerosos são\nNão posso eu contar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-040-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Não queres holocaustos, ó Senhor,\nAbriste\\_os meus ouvidos, sim.\nOferta\\_e sacrifícios tu\nPelo pecado não requeres, não.\n<sup>7</sup> Eu disse,\\_então: eis-me\\_aqui.\nEstá lá no teu livro\nEscrito sobre mim.\n<sup>8</sup> Agrada-me fazer\nTua vontade,\\_ó Deus,\nSim, ó Senhor, Deus meu.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-040-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Lá no meu coração, tua lei está.\n<sup>9</sup> As boas-novas proclamei\nEm meio à congregação;\nJamais cerrei os lábios, meu Senhor.\n<sup>10</sup> Eu não deixei oculta,\nSenhor, a tua justiça,\nPorém eu proclamei\nA tua salvação,\nQue verdadeiro és,\nGracioso e fiel.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-040-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Não venhas a reter de mim, Senhor,\nA tua grande compaixão.\nPeço que venhas me guardar\nCom tua verdade\\_e tua graça,\\_ó Deus.\n<sup>12</sup> Não tem em conta\\_os males\nQue vivem me cercando,\nPois os pecados meus\nVieram me\\_alcançar;\nMui numerosos são.\nMeu coração se\\_esvai.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-040-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Oh, tem prazer, Senhor, em me livrar.\nTe\\_apressa em me socorrer.\n<sup>14</sup> Sejam envergonhados, pois,\nQuem minha vida quer que chegue\\_ao fim.\nSe cubram de vergonha\nTodos que se comprazem\nEm vislumbrar meu mal.\n<sup>15</sup> Sofram perturbação\nQuem vive a dizer:\nBem-feito! Muito bem!",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-040-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>16</sup> Folguem e rejubilem sempre\\_em ti\nQuem te procura, ó meu Deus.\nDiga quem ama\\_a salvação:\n“Magnificado seja o Senhor!”\n<sup>17</sup> Sou pobre\\_e miserável,\nPorém de mim tu cuidas;\nTu és o\\_amparo meu\nE meu libertador.\nNão venhas te deter,\nÓ meu Senhor e Deus!",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

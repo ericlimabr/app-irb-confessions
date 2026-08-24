@@ -1,0 +1,89 @@
+{
+  "id": "heidelberg-ld15",
+  "collection": "heidelberg",
+  "number": 15,
+  "numberLabel": "Domingo 15",
+  "title": null,
+  "subtitle": "Deus Filho e a Nossa Redenção",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 15,
+  "units": [
+    {
+      "id": "heidelberg-q037-q",
+      "kind": "question",
+      "label": "P. 37",
+      "body": "O que você confessa quando diz que Ele \"padeceu\"?",
+      "attrs": {
+        "questionNumber": 37
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q037-a",
+      "kind": "answer",
+      "label": "R. 37",
+      "body": "Durante todo o tempo em que viveu sobre a terra, e especialmente no final, Cristo suportou no corpo e na alma a ira de Deus contra o pecado de toda a raça humana.\n\nAssim, por Seu sofrimento, como o único sacrifício de expiação, Ele redimiu o nosso corpo e a nossa alma da condenação eterna e  conquistou para nós a graça de Deus, a justiça e a vida eterna.",
+      "attrs": {
+        "questionNumber": 37,
+        "refs": [
+          "Is 53; 1Tm 2.6; 1Pe 2.24; 3.18.",
+          "Rm 3.25; 1Co 5.7; Ef 5.2; Hb 10.14; 1Jo 2.2; 4.10.",
+          "Rm 8.1-4; Gl 3.13; Cl 1.13; Hb 9.12; 1Pe 1.18, 19.",
+          "Jo 3.16; Rm 3.24-26; 2Co 5.21; Hb 9.15."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q038-q",
+      "kind": "question",
+      "label": "P. 38",
+      "body": "Por que Ele 'padeceu sob' o julgamento de 'Pôncio Pilatos'?",
+      "attrs": {
+        "questionNumber": 38
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q038-a",
+      "kind": "answer",
+      "label": "R. 38",
+      "body": "Embora inocente, Cristo foi condenado por um juiz terreno, e assim Ele nos livrou do severo juízo de Deus que haveria de cair sobre nós.",
+      "attrs": {
+        "questionNumber": 38,
+        "refs": [
+          "Lc 23.13-24; Jo 19.4, 12-16.",
+          "Is 53.4, 5; 2Co 5.21; Gl 3.13."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q039-q",
+      "kind": "question",
+      "label": "P. 39",
+      "body": "Há algum sentido especial em Cristo ter sido crucificado e não ter morrido de outro modo?",
+      "attrs": {
+        "questionNumber": 39
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q039-a",
+      "kind": "answer",
+      "label": "R. 39",
+      "body": "Sim.  Por  causa  disso  tenho  a  certeza  de  que  Ele  levou  sobre  Si  a maldição que estava sobre mim, pois quem era crucificado era maldito de Deus.",
+      "attrs": {
+        "questionNumber": 39,
+        "refs": [
+          "Dt 21.23; Gl 3.13."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

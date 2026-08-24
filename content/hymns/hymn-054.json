@@ -1,0 +1,49 @@
+{
+  "id": "hymn-054",
+  "collection": "hymns",
+  "number": 54,
+  "numberLabel": "Hino 54",
+  "title": "NADA MEREÇO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "James Martin Gray / tradutor desconhecido"
+  },
+  "sortOrder": 54,
+  "units": [
+    {
+      "id": "hymn-054-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Nada mereço, eu só recebi.\nSó pela graça eu me converti.\nEu não me orgulho; sou pecador.\nSou salvo no sangue remidor!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-054-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Sou um humilde pecador\nSalvo na graça do Senhor!\nCristo me salva, e só pela graça,\nSou salvo no sangue Remidor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-054-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Era perdido, no mundo andei\nCheio de vícios; de Deus desviei.\nCristo achou-me e me livrou!\nE só pelo sangue remidor!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-054-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Misericórdia eu não mereci.\nSó pela graça foi que recebi.\nE do pecado me resgatou;\nFoi pelo seu sangue remidor.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

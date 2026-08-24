@@ -1,0 +1,42 @@
+{
+  "id": "hymn-006",
+  "collection": "hymns",
+  "number": 6,
+  "numberLabel": "Hino 6",
+  "title": "BUSCAI PRIMEIRO O REINO DE DEUS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CÂNTICOS DE TEXTOS BÍBLICOS",
+    "bibleRef": "Mateus 6.33; 4.4; 7.7",
+    "author": "Karen Lafferty / Guilherme Kerr Neto"
+  },
+  "sortOrder": 6,
+  "units": [
+    {
+      "id": "hymn-006-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Buscai primeiro o reino de Deus\nE a sua justiça.\nAs demais coisas vos serão acrescentadas.\nAleluia, aleluia!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-006-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Não só de pão o homem viverá,\nMas de toda palavra\nQue procede da boca de Deus.\nAleluia, aleluia!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-006-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Batei, batei e abrir-se-vos-á.\nBuscai e achareis.\nPedi, pedi e dar-se-vos-á.\nAleluia, aleluia!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

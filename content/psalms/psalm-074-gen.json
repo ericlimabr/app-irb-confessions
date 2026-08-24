@@ -1,0 +1,120 @@
+{
+  "id": "psalm-074-gen",
+  "collection": "psalms",
+  "number": 74,
+  "numberLabel": "Salmo 74",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-074",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 122,
+  "units": [
+    {
+      "id": "psalm-074-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Por que pra sempre nos rejeitas, Deus?\nPor que se\\_acende contra nós tua ira?\n<sup>2</sup> Lembra-te da congregação que\\_é tua,\nA qual compraste muito tempo\\_atrás.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-074-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Lembra-te,\\_ó Deus, da tua congregação,\nQue tu remiste para ser tua tribo.\nLembra-te de Sião, que é\\_o teu monte,\nMonte, Senhor, da tua\\_habitação.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-074-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Dirige\\_os passos às ruínas, sim,\nAo mal que\\_os inimigos teus têm feito.\n<sup>4</sup> Os adversários teus, na assembleia,\nGritam, erguendo\\_os seus próprios sinais.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-074-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Parecem quais os homens a quebrar,\nCom seu machado,\\_as árvores do bosque.\n<sup>6</sup> Obras de\\_entalhe,\\_agora,\\_estão quebrando,\nMachados e martelos a quebrar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-074-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> E deitam fogo\\_ao santuário teu,\nProfanam e arrasam tua morada.\n<sup>8</sup> Disseram: “vamos destruí-los logo.”\nQueimaram teus lugares divinais.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-074-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Não enxergamos mais nossos sinais;\nNão há profeta que\\_entre nós esteja.\n<sup>10</sup> Té quando\\_afrontará nosso\\_inimigo?\nTé quando\\_o nome teu blasfemará?",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-074-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>11</sup> Por que retrais a tua destra mão\nE a conservas perto do teu seio?\n<sup>12</sup> Deus, tu és Rei desde\\_a antiguidade,\nCom feitos, operando\\_a salvação.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-074-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>13</sup> Tu dividiste\\_o mar com teu poder;\nMonstros do mar calcaste-os nas águas.\n<sup>14</sup> Despedaçaste, sim, o crocodilo;\nÀs alimárias deste-o pra comer.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-074-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>15</sup> Abriste\\_as fontes e ribeiros, sim;\nImpetuosos rios tu secaste.\n<sup>16</sup> Teu é o dia, tua é a noite;\nA luz e\\_o sol formaste-os, Senhor.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-074-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>17</sup> Firmaste os confins da terra,\\_ó Deus;\nVerão e\\_inverno tu é que\\_os fizeste.\n<sup>18</sup> O inimigo tem te ultrajado,\nPovo\\_insensato a te blasfemar.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-074-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>19</sup> Não dê tua pomba\\_ao roubo, meu Senhor,\nNem para sempre\\_esqueças do aflito.\n<sup>20</sup> Oh! Considera\\_a tua aliança!\nCheia de violência\\_a terra\\_está.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-074-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>21</sup> Não envergonha\\_o oprimido,\\_ó Deus.\nLouvem a ti o pobre e\\_o aflito.\n<sup>22</sup> Levanta\\_e luta pela tua causa;\nLembra do ímpio por te afrontar.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-074-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>23</sup> Não te esqueças do tanto gritar\nQue fazem sempre\\_os teus opositores\nE do tumulto dos teus inimigos,\nSempre crescente\\_o seu tumultuar.",
+      "attrs": {},
+      "sortOrder": 13
+    }
+  ]
+}

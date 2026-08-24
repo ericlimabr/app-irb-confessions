@@ -1,0 +1,32 @@
+{
+  "id": "psalm-133-gen",
+  "collection": "psalms",
+  "number": 133,
+  "numberLabel": "Salmo 133",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-133",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 250,
+  "units": [
+    {
+      "id": "psalm-133-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh! Como\\_é bom, deveras agradável\nQuando\\_os irmãos em união convivem!\n<sup>2</sup> É qual óleo precioso\\_e bom;\nSobre\\_a cabeça esse óleo vai,\nDescendo para\\_a barba de Arão;\nSim, pra gola das vestes cai.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-133-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> É como\\_orvalho que provém do Hermom,\nPor sobre\\_os montes de Sião descendo,\nEm Sião, monte do Senhor,\nOnde Javé assim quis conceder,\nE\\_a sua bênção, estabelecer:\nUma vida pra sempre!\\_Amém!",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

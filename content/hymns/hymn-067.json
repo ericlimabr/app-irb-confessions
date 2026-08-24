@@ -1,0 +1,41 @@
+{
+  "id": "hymn-067",
+  "collection": "hymns",
+  "number": 67,
+  "numberLabel": "Hino 67",
+  "title": "EM JESUS AMIGO TEMOS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Joseph Medlicott Scriven / Robert Hawkey Moreton"
+  },
+  "sortOrder": 67,
+  "units": [
+    {
+      "id": "hymn-067-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Em Jesus amigo temos,\nQue sofreu a nossa dor\nE nos manda que levemos\nOs cuidados ao Senhor.\nFalta ao coração dorido\nGozo, paz, consolação?\nLeva, ó coração ferido,\nTudo a Deus em oração.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-067-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Andas fraco e carregado\nDe cuidados e temor?\nVai ao Salvador amado,\nVai com fé teu mal expor.\nBusca o teu melhor amigo,\nFala a Cristo em oração;\nNele encontra terno abrigo\nE repouso na aflição.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-067-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Cristo é verdadeiro amigo;\nDisto prova nos mostrou,\nQuando para ter consigo\nOs culpados, se humanou.\nVeio, com seu sangue puro,\nDos pecados nos lavar;\nPaz na terra e, no futuro,\nVida eterna vai nos dar.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

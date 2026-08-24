@@ -1,0 +1,48 @@
+{
+  "id": "psalm-014-har",
+  "collection": "psalms",
+  "number": 14,
+  "numberLabel": "Salmo 14",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-014",
+  "attrs": {
+    "attribution": "CBS - Diademata"
+  },
+  "sortOrder": 28,
+  "units": [
+    {
+      "id": "psalm-014-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Que não existe Deus o tolo diz pra si.\nPraticam corrupções e muitas abominações.\nNão há quem faça o bem. <sup>2</sup> Do céu, olha\\_o Senhor\nA ver se há entendimento\\_e quem busque\\_ao Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-014-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Extraviados vão e corrompidos são.\nNão há ninguém que faça\\_o bem, não há nenhum sequer.\n<sup>4</sup> Acaso,\\_os homens maus não têm compreensão?\nDevoram como pão meu povo\\_e não invocam Deus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-014-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Tais homens ficarão tomados de pavor\nPorque com a linhagem justa sempre Deus está.\n<sup>6</sup> Do pobre\\_escarneceis e do conselho seu,\nMas seu refúgio\\_é Deus Senhor, refúgio\\_é Deus Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-014-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Quem dera de Sião viesse\\_a salvação,\nTomara já viesse\\_a Israel a redenção.\nE, quando\\_o Senhor Deus seu povo restaurar,\nEntão, exultará Jacó, se\\_alegrará\\_Israel.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

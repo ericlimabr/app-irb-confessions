@@ -1,0 +1,50 @@
+{
+  "id": "belgic-art28",
+  "collection": "belgic",
+  "number": 28,
+  "numberLabel": "Art. 28",
+  "title": "O dever de juntar-se à Igreja",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 28,
+  "units": [
+    {
+      "id": "belgic-art28-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que essa santa assembleia e congregação é a assembleia dos remidos e que fora dela não há salvação; por isso ninguém, seja qual for a sua posição ou reputação, deve se retirar dela e contentar-se com sua própria pessoa. Todos, porém, são obrigados a se juntar e a se unir a ela, conservando a unidade da Igreja. Devem se submeter à sua instrução e disciplina, curvar suas cabeças sob o jugo de Jesus Cristo, e servir  a  edificação  dos  irmãos, conforme  os  talentos  que  Deus  lhes concedeu como membros do mesmo corpo.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "belgic-art28-p2",
+      "kind": "article",
+      "label": null,
+      "body": "Para que isso se cumpra eficazmente, é dever de todos os crentes, segundo a Palavra de Deus, se separar dos que não pertencem à Igreja e se juntar a essa assembleia em todo lugar onde Deus a tenha estabelecido. Devem fazê-lo mesmo que governos, leis e autoridades lhe sejam  contrários,  e  mesmo  que  sejam  punidos  fisicamente  ou  com  a morte.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "belgic-art28-p3",
+      "kind": "article",
+      "label": null,
+      "body": "Portanto, todo o que se aparta da Igreja ou não se junta a ela contraria a ordenança de Deus.",
+      "attrs": {
+        "refs": [
+          "Mt 16.18, 19; At 2.47; Gl 4.26; Ef 5.25-27; Hb 2.11, 12; Hb 12.23.",
+          "2Cr 30.8; Jo 17.21; Cl 3.15.",
+          "Hb 13.17.",
+          "Mt 11.28-30.",
+          "Ef 4.12.",
+          "1Co 12.7, 27; Ef 4.16.",
+          "Nm 16.23-26; Is 52.11, 12; At 2.40; Rm 16.17; Ap 18.4.",
+          "Sl 122.1; Is 2.3; Hb 10.25.",
+          "At 4.19, 20."
+        ]
+      },
+      "sortOrder": 3
+    }
+  ]
+}

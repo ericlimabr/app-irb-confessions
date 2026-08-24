@@ -1,0 +1,56 @@
+{
+  "id": "psalm-119-009-016-har",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.9-16",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-119-009-016",
+  "attrs": {
+    "attribution": "CBS - Forgive blessed shade"
+  },
+  "sortOrder": 199,
+  "units": [
+    {
+      "id": "psalm-119-009-016-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>9</sup> De que maneira\\_o jovem poderá\nGuardar em santidade\\_o seu andar?\nConsiderando todo\\_o caminhar\nConforme\\_a tua santa lei mandar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-009-016-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>10</sup> De todo\\_o coração, eu te busquei.\nNão me permitas desprezar a lei.\n<sup>11</sup> No coração, tua lei guardada\\_está;\nE contra ti não venha eu pecar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-009-016-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>12</sup> Bendito\\_és tu; me\\_ensina, ó Senhor,\nOs teus preceitos, tuas santas leis.\n<sup>13</sup> Declaro todos os juízos teus,\nQue vêm da tua boca, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-119-009-016-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>14</sup> Mais regozijo tenho\\_em caminhar\nNos testemunhos que provêm de ti.\nMe\\_alegrarei na tua lei bem mais\nDo que em ricas possessões sem fim.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-119-009-016-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>15</sup> Nos teus preceitos eu meditarei,\nRespeito\\_aos teus caminhos manterei.\n<sup>16</sup> Nos teus decretos eu terei prazer\nE não me\\_esquecerei da tua lei.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "heidelberg-ld39",
+  "collection": "heidelberg",
+  "number": 39,
+  "numberLabel": "Domingo 39",
+  "title": null,
+  "subtitle": "Os Dez Mandamentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 39,
+  "units": [
+    {
+      "id": "heidelberg-q104-q",
+      "kind": "question",
+      "label": "P. 104",
+      "body": "O que exige Deus no quinto mandamento?",
+      "attrs": {
+        "questionNumber": 104
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q104-a",
+      "kind": "answer",
+      "label": "R. 104",
+      "body": "Que eu demonstre toda honra, amor e fidelidade a meu pai e à minha mãe, e a todos os meus superiores; que eu me submeta devidamente às suas boas instrução e disciplina e que também seja paciente com as suas fraquezas e defeitos, pois é a vontade de Deus nos governar pelas mãos deles.",
+      "attrs": {
+        "questionNumber": 104,
+        "refs": [
+          "Êx 21.17; Pv 1.8; 4.1; Rm 13.1, 2; Ef 5.21, 22; 6.1-9; Cl 3.18-4.1.",
+          "Pv 20.20; 23.22; 1Pe 2.18.",
+          "Mt 22.21; Rm 13.1-8; Ef 6.1-9; Cl 3.18-21."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

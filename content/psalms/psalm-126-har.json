@@ -1,0 +1,48 @@
+{
+  "id": "psalm-126-har",
+  "collection": "psalms",
+  "number": 126,
+  "numberLabel": "Salmo 126",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-126",
+  "attrs": {
+    "attribution": "CBS - Cradle song"
+  },
+  "sortOrder": 237,
+  "units": [
+    {
+      "id": "psalm-126-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ao restaurar a sorte de Sião o Senhor,\nNós ficamos iguais a quem está a sonhar.\n<sup>2</sup> Assim, a nossa boca de sorrisos se\\_encheu;\nE, com alegria, nossa língua cantou.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-126-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Então, entre\\_as nações, já se\\_ouvia dizer:\n“Grandes coisas por eles, sim, tem feito\\_o Senhor.”\n<sup>3</sup> De fato, grandes coisas Deus tem feito por nós.\nPor isso, alegre o teu povo está.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-126-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Assim, a nossa sorte vem, Senhor, restaurar,\nComo\\_as fortes torrentes do Neguebe\\_a correr.\n<sup>5</sup> Quem sai em grande pranto pra semente lançar,\nCom grande\\_alegria, a colheita fará.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-126-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> O que sai semeando caminhando\\_a chorar\nVoltará, jubilante, com seus molhos nas mãos.\nO que sai semeando caminhando\\_a chorar,\nCom gozo, retorna com seus molhos nas mãos.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

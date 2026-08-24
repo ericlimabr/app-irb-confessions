@@ -1,0 +1,88 @@
+{
+  "id": "psalm-077-gen",
+  "collection": "psalms",
+  "number": 77,
+  "numberLabel": "Salmo 77",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-077",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 125,
+  "units": [
+    {
+      "id": "psalm-077-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Minha voz a Deus elevo;\nClamo para que me\\_atenda.\n<sup>2</sup> Na angústia,\\_eu busco\\_a Deus\nE levanto\\_as minhas mãos.\nSim, à noite, as levanto,\nTodavia não se cansam.\nMinha alma já não quer,\nJá não quer se consolar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-077-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Desfalece\\_a minha alma\nQuando\\_eu estou meditando;\nE eu passo a gemer\nAo lembrar-me do Senhor.\n<sup>4</sup> E não prego os meus olhos,\nPorque tu não me permites.\nE tão perturbado\\_estou\nQue nem posso mais falar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-077-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Penso nos dias de\\_outrora,\nLembro dos passados tempos,\n<sup>6</sup> Minha alma\\_a perscrutar,\nPela noite,\\_a me\\_indagar.\n<sup>7</sup> Para sempre Deus rejeita?\nNão se tornará propício?\n<sup>8</sup> Sua graça acabou?\nPara sempre, já cessou?",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-077-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Será que está caduca\nA promessa que foi feita\nPara toda geração?\n<sup>9</sup> Eis que Deus se esqueceu,\nEsqueceu da sua bondade?\nOu, acaso,\\_em sua ira,\nO Senhor já reprimiu,\nSua graça reprimiu?",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-077-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Disse: eu estou aflito;\nDeus mudou a sua destra.\n<sup>11</sup> Mas, então, eu recordei\nDos seus feitos que\\_operou\nE das suas maravilhas\nQue são desde\\_a\\_antiguidade.\n<sup>12</sup> Penso nos prodígios seus,\nSim, nas obras do Senhor.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-077-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>13</sup> Teu caminho,\\_ó Deus, é santo.\nOh, que deus é\\_assim tão grande\nComo é o nosso Deus?\n<sup>14</sup> Tu demonstras teu poder,\nOperando maravilhas\nEntre\\_os povos, <sup>15</sup> e remiste\nCom teu braço\\_o povo teu,\nFilhos de Jacó\\_e José.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-077-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>16</sup> Viram-te,\\_ó Senhor, as águas,\nSim, te viram e temeram;\nE\\_até mesmo se\\_abalou,\nSim, o\\_abismo se\\_abalou.\n<sup>17</sup> E as nuvens mais espessas\nDesfizeram-se em água.\nTu lançaste\\_os raios teus,\nE, no\\_espaço, trovejou.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-077-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "E cruzaram tuas setas\nDe\\_uma parte para outra.\n<sup>18</sup> Teu relâmpago, Senhor,\nTodo\\_o mundo\\_iluminou.\nTeu trovão e seu estrondo\nEcoou na redondeza.\nToda\\_a terra se\\_abalou,\nSim, tremeu e se\\_abalou.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-077-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>19</sup> Pelo mar foi teu caminho;\nTuas sendas, pelas águas;\nE jamais se descobriu\nO teu rastro, ó Senhor.\n<sup>20</sup> Ao teu povo tu guiaste\nQual rebanho, sim, guiaste.\nConduziste-o pelas mãos\nDe Moisés e de Arão.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

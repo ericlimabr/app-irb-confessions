@@ -1,0 +1,71 @@
+{
+  "id": "heidelberg-ld01",
+  "collection": "heidelberg",
+  "number": 1,
+  "numberLabel": "Domingo 1",
+  "title": null,
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 1,
+  "units": [
+    {
+      "id": "heidelberg-q001-q",
+      "kind": "question",
+      "label": "P. 1",
+      "body": "Qual é o seu único consolo na vida e na morte?",
+      "attrs": {
+        "questionNumber": 1
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q001-a",
+      "kind": "answer",
+      "label": "R. 1",
+      "body": "Que não pertenço a mim mesmo, mas pertenço de corpo e alma, tanto na vida quanto na morte, ao meu fiel Salvador Jesus Cristo.\n\nEle pagou completamente todos os meus pecados com o Seu sangue precioso e libertou-me de todo o domínio do diabo.\n\nEle também me guarda de tal maneira que sem a vontade do meu Pai celeste nem um fio de cabelo pode cair da minha cabeça; na verdade, todas as coisas cooperam para a minha salvação. Por isso, pelo Seu Espírito Santo, Ele também me assegura a vida eterna e faz-me disposto e pronto de coração para viver para Ele de agora em diante.",
+      "attrs": {
+        "questionNumber": 1,
+        "refs": [
+          "1Co 6.19, 20.",
+          "Rm 14.7-9.",
+          "1Co 3.23; Tt 2.14.",
+          "1Pe 1.18, 19; 1Jo 1.7; 2.2.",
+          "Jo 8.34-36; Hb 2.14, 15; 1Jo 3.8.",
+          "Jo 6.39, 40; 10.27-30; 2Ts 3.3; 1Pe 1.5.",
+          "Mt 10.29-31; Lc 21.16-18.",
+          "Rm 8.28.",
+          "Rm 8.15, 16; 2Co 1.21, 22; 5.5; Ef 1.13, 14.",
+          "Rm 8.14."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q002-q",
+      "kind": "question",
+      "label": "P. 2",
+      "body": "O que é que você precisa saber para viver e morrer nessa consolação?",
+      "attrs": {
+        "questionNumber": 2
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q002-a",
+      "kind": "answer",
+      "label": "R. 2",
+      "body": "_Primeiro_, como são grandes meus pecados e miséria;\n\n_segundo_, de  que modo sou liberto de todos os meus pecados e miséria;\n\n_terceiro_, de que modo devo ser grato a Deus por uma tal libertação.",
+      "attrs": {
+        "questionNumber": 2,
+        "refs": [
+          "Rm 3.9, 10; 1Jo 1.10.",
+          "Jo 17.3; At 4.12; 10.43.",
+          "Mt 5.16; Rm 6.13; Ef 5.8-10; 1Pe 2.9, 10."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

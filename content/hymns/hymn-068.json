@@ -1,0 +1,49 @@
+{
+  "id": "hymn-068",
+  "collection": "hymns",
+  "number": 68,
+  "numberLabel": "Hino 68",
+  "title": "GRAÇA DE DEUS, INFINITO AMOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Julia Harriette Johnston"
+  },
+  "sortOrder": 68,
+  "units": [
+    {
+      "id": "hymn-068-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Graça de Deus, infinito amor,\nGraça que excede todo o meu mal,\nPelo sofrer em amarga dor\nProva me deu desse amor real.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-068-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Graça, graça,\nFonte de paz que Jesus me deu.\nGraça, graça,\nGraça maior que o pecado meu.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-068-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Pesam os fardos de angústia e dor,\nQuando me encobrem ondas do mal,\nMas pela graça do meu Senhor,\nTenho poder para ser leal.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-068-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Quão insondável o amor de Deus!\nGraça que salva todo que crê.\nLouvo a graça que vem dos céus,\nPreciosa graça que traz prazer.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

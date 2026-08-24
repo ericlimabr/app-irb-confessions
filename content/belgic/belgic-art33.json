@@ -1,0 +1,30 @@
+{
+  "id": "belgic-art33",
+  "collection": "belgic",
+  "number": 33,
+  "numberLabel": "Art. 33",
+  "title": "Os sacramentos",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 33,
+  "units": [
+    {
+      "id": "belgic-art33-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que o nosso Deus gracioso, atento à nossa insensibilidade e fraqueza, ordenou os sacramentos para selar em nós as Suas promessas, para servirem como penhor da Sua boa-vontade e graça para conosco, e para alimentarem e sustentarem a nossa fé. Ele os acrescentou  à  Palavra  do  evangelho para  apresentarem  melhor  diante  dos nossos sentidos externos aquilo que Ele nos declara em Sua Palavra e o que faz interiormente em nossos corações; confirmando em nós, assim, a salvação que nos concede. Os sacramentos são os sinais e os selos visíveis de algo interior e invisível, por meio dos quais Deus opera em nós pelo poder do Espírito Santo. Por  isso,  esses  sinais  não  são vãos nem vazios para nos enganar, porque Jesus Cristo é a verdade deles; sem Cristo, não seriam nada. Além  disso,  nos  contentamos  com  o  número  dos  sacramentos  que Cristo, nosso Mestre, nos ordenou: sendo somente dois, a saber, o sacramento do batismo e da Santa Ceia de Jesus Cristo.",
+      "attrs": {
+        "refs": [
+          "Gn 17.9-14; Êx 12; Rm 4.11.",
+          "Mt 28.19; Ef 5.26.",
+          "Rm 2.28, 29; Cl 2.11, 12.",
+          "Mt 28.19.",
+          "Mt 26.26-28; 1Co 11.23-26."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

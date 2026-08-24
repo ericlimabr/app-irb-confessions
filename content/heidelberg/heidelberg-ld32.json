@@ -1,0 +1,65 @@
+{
+  "id": "heidelberg-ld32",
+  "collection": "heidelberg",
+  "number": 32,
+  "numberLabel": "Domingo 32",
+  "title": null,
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 32,
+  "units": [
+    {
+      "id": "heidelberg-q086-q",
+      "kind": "question",
+      "label": "P. 86",
+      "body": "Se fomos libertados da nossa miséria somente pela graça através de Cristo, sem nenhum mérito nosso, por que então devemos praticar boas obras?",
+      "attrs": {
+        "questionNumber": 86
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q086-a",
+      "kind": "answer",
+      "label": "R. 86",
+      "body": "Porque Cristo, tendo nos remido pelo Seu sangue, também nos renova por Seu Espírito Santo à Sua imagem para que, com toda a nossa vida, mostremo-nos gratos a Deus por Seus benefícios e para que Ele seja louvado por nós.\n\nAlém disso, para que tenhamos a certeza da nossa fé por causa dos seus frutos, e que pelo novo viver piedoso possamos ganhar os nossos próximos para Cristo.",
+      "attrs": {
+        "questionNumber": 86,
+        "refs": [
+          "Rm 6.13; 12.1, 2; 1Pe 2.5-10.",
+          "Mt 5.16; 1Co 6.19, 20.",
+          "Mt 7.17, 18; Gl 5.22-24; 2Pe 1.10, 11.",
+          "Mt 5.14-16; Rm 14.17-19; 1Pe 2.12; 3.1, 2."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q087-q",
+      "kind": "question",
+      "label": "P. 87",
+      "body": "Podem ser salvos aqueles que não abandonam o modo de viver ingrato e impenitente e não se convertem a Deus?",
+      "attrs": {
+        "questionNumber": 87
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q087-a",
+      "kind": "answer",
+      "label": "R. 87",
+      "body": "Não, de modo nenhum.\n\nA Escritura diz que nenhum impuro, idólatra, adúltero, ladrão, avarento, bêbado, maldizente, assaltante ou semelhante herdará o reino do céu.",
+      "attrs": {
+        "questionNumber": 87,
+        "refs": [
+          "1Co 6.9, 10; Gl 5.19-21; Ef 5.5, 6; 1Jo 3.14."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

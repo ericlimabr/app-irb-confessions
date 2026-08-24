@@ -1,0 +1,96 @@
+{
+  "id": "psalm-038-gen",
+  "collection": "psalms",
+  "number": 38,
+  "numberLabel": "Salmo 38",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-038",
+  "attrs": {
+    "attribution": "Lucas Freire / Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 65,
+  "units": [
+    {
+      "id": "psalm-038-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Senhor, não me repreendas\nNa tua ira.\nEm furor, não castigues.\n<sup>2</sup> Tuas setas em mim cravam,\nOh, machucam!\nTua mão recai em mim.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-038-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Não há parte sã no corpo\nPor tua ira\nNem saúde nos ossos;\nIsso pelo meu pecado,\n<sup>4</sup> Que\\_é pesado!\nNão o posso suportar!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-038-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Minhas chagas infeccionam,\nPois sou louco.\n<sup>6</sup> Encurvado,\\_abatido,\nAndo\\_em luto\\_o dia todo.\n<sup>7</sup> Dói-me\\_a perna;\nNão há parte sã em mim.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-038-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Ando\\_aflito\\_e quebrantado;\nDou gemidos\nSem sossego na alma.\n<sup>9</sup> Deus, coloco\\_em tua presença\nMeus desejos;\nMeu sofrer não te\\_ocultei.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-038-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Coração bate,\\_excitado;\nFaltam forças!\nFalta luz nos meus olhos!\n<sup>11</sup> Meus amigos, companheiros\nSe afastam.\nMeus parentes longe\\_estão.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-038-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Arma contra mim ciladas\nO\\_inimigo,\nQue planeja matar-me.\nQuem quer ver meu mal inventa,\nTodo\\_o dia,\nMuito\\_engano,\\_a maldizer.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-038-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13-14</sup> Eu ignoro como surdo\nE, qual mudo,\nEu não abro a boca.\n<sup>15</sup> Pois em ti, Senhor, espero:\nTu me\\_atendes,\nÓ meu Deus e meu Senhor.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-038-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>16</sup> Eu dizia: “não se\\_alegrem,\nNão me zombem\nQuando\\_o pé me resvala”.\n<sup>17</sup> Estou quase no tropeço;\nDói-me sempre!\n<sup>18</sup> Estou triste por pecar.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-038-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Eu confesso\\_a\\_iniquidade,\nEstou triste!\nDo pecado\\_é a culpa.\n<sup>19</sup> Mas os inimigos meus são\nVigorosos.\nMuitos querem mal em vão.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-038-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>20</sup> Quem faz mal em vez do bem é\nAdversário,\nPois eu sigo\\_o que é bom.\n<sup>21</sup> Ó Senhor Deus, não me deixes,\nNão te\\_ausentes!\n<sup>22</sup> Vem, socorre,\\_ó Salvador!",
+      "attrs": {},
+      "sortOrder": 10
+    }
+  ]
+}

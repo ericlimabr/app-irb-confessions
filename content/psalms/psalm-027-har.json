@@ -1,0 +1,88 @@
+{
+  "id": "psalm-027-har",
+  "collection": "psalms",
+  "number": 27,
+  "numberLabel": "Salmo 27",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-027",
+  "attrs": {
+    "attribution": "CBS - Purpose"
+  },
+  "sortOrder": 51,
+  "units": [
+    {
+      "id": "psalm-027-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> O Senhor é a minha luz e\\_a minha salvação;\nDa minha vida\\_é fortaleza;\\_a quem eu temerei?\nDa minha vida\\_Ele\\_é a força;\\_a quem eu temerei?\n<sup>2</sup> Vindo\\_a mim malfeitores pra me destruir, hão de tropeçar e cair.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-027-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Mesmo que tropas se acampem vindo contra mim,\nNão há de se\\_atemorizar, então, meu coração.\nMesmo que\\_a guerra contra mim vier a estourar,\nInda\\_assim confiança terei no Senhor, confiança nele terei.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-027-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Uma só coisa peço\\_a Deus e,\\_então, a buscarei:\nQue\\_eu possa sempre\\_ali morar na casa do Senhor\nTodos os dias do viver, podendo contemplar\nA beleza de Deus e, assim, meditar, meditar no templo de Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-027-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Pois Deus, no dia mau, me\\_ocultará no pavilhão.\nNo\\_interior da sua casa, Deus me\\_acolherá.\nMe\\_elevará sobre\\_uma rocha\\_<sup>6</sup> e,\\_agora,\\_exaltará\nSobre\\_os meus inimigos a minha cabeça, porque cercado\\_eu estou.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-027-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Na tenda da congregação, eu oferecerei\nUm sacrifício jubiloso\\_e salmodiarei.\n<sup>7</sup> Tem compaixão, Senhor; eu clamo\\_a ti; vem responder.\n<sup>8</sup> Buscarei tua presença, pois buscar-te,\\_ó Deus, ao meu coração me\\_ocorreu.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-027-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Não me rejeites com tua ira, pois teu servo sou.\nA tua face não me\\_escondas, pois auxílio\\_és meu.\nNão me recuses nem a mim venhas desamparar.\nNão recuses nem venhas me desamparar; salvação, meu Deus, és pra mim.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-027-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>10</sup> Se\\_a mim desampararem, pois, meu pai e minha mãe,\nO Senhor Deus me\\_acolherá, Deus me acolherá.\n<sup>11</sup> Ensina teu caminho\\_a mim e guia-me, Senhor,\nPor um plano caminho por causa daqueles que vivem a me\\_espreitar.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-027-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>12</sup> Nas mãos dos inimigos não me\\_entregues, ó Senhor,\nPois se levantam falsas testemunhas contra mim\nE\\_os que apenas crueldade\\_estão a respirar.\n<sup>13</sup> Creio eu que\\_a bondade de Deus, nesta terra dos vivos, sim, hei de ver.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-027-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Eis que, na terra dos viventes, creio que\\_hei de ver,\nSim, a bondade do meu Deus ainda hei de ver.\n<sup>14</sup> E, animado, pois, em Deus, espera no Senhor.\nSeja fortificado, pois, teu coração; sim, espera pelo Senhor.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

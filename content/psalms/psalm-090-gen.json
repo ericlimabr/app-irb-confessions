@@ -1,0 +1,64 @@
+{
+  "id": "psalm-090-gen",
+  "collection": "psalms",
+  "number": 90,
+  "numberLabel": "Salmo 90",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-090",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 147,
+  "units": [
+    {
+      "id": "psalm-090-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, tens sido\\_o nosso\\_esconderijo\nDe geração em geração, abrigo.\n<sup>2</sup> Antes que\\_os altos montes existissem,\nQue\\_a terra,\\_o mundo se constituíssem,\nPerpetuamente, para sempre,\\_és Deus;\nEternamente, tu, pra sempre,\\_és Deus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-090-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Tu fazes o varão ao pó retornar.\nAos filhos dos humanos dizes: “tornai!”\n<sup>4</sup> Mil anos são, pra ti, um dia findo,\n<sup>4-5</sup> Sono\\_inundado, noite de vigília.\n<sup>5</sup> Qual erva que floresce de manhã,\n<sup>6</sup> Cresce bem cedo\\_e, logo, murchará.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-090-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Por tua ira, somos fulminados;\nCom teu furor, ficamos transtornados!\n<sup>8</sup> Tu te\\_expuseste\\_a nossa\\_iniquidade;\nNosso pecado,\\_à luz da tua face.\n<sup>9</sup> A cada dia, baixo\\_a teu irar,\nVão nossos anos como\\_um suspirar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-090-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> A nossa vida chega\\_até\\_os setenta;\nSe for robusta, vai até oitenta.\nO melhor deles é canseira,\\_enfado.\nVoamos; tudo\\_é rápido passado.\n<sup>11</sup> Quem sabe\\_a força quando\\_irado\\_estás\nOu tem temor que\\_a ti devemos dar?",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-090-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Ensina-nos contar os nossos dias,\nPra que tenhamos corações sabidos.\n<sup>13</sup> Senhor, té quando? Volta, compassivo.\n<sup>14</sup> Vem; de manhã, teus servos já bendize;\nSacia, pra que, na jubilação,\nFolguemos, todo dia, com canção.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-090-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> Vem, nos alegra pelos tantos dias,\nPor anos em que nos fizeste\\_aflitos.\n<sup>16</sup> Aos servos teus revela tuas obras;\nE tua glória, sobre\\_a nossa prole!\n<sup>17</sup> Graça divina seja sobre nós!\nConfirma\\_a obra, sim, das nossas mãos.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "heidelberg-ld21",
+  "collection": "heidelberg",
+  "number": 21,
+  "numberLabel": "Domingo 21",
+  "title": null,
+  "subtitle": "Deus Espírito Santo e a Nossa Santificação",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 21,
+  "units": [
+    {
+      "id": "heidelberg-q054-q",
+      "kind": "question",
+      "label": "P. 54",
+      "body": "O que você crê sobre a \"santa Igreja universal\" de Cristo?",
+      "attrs": {
+        "questionNumber": 54
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q054-a",
+      "kind": "answer",
+      "label": "R. 54",
+      "body": "Creio que o Filho de Deus, desde o começo até o fim do mundo, reúne para Si mesmo, de  entre  todo  o  gênero  humano, uma igreja eleita para a vida eterna a qual protege e preserva na unidade da verdadeira fé pelo Seu Espírito e pela Sua Palavra. E creio que eu sou e serei para sempre um membro vivo dela.",
+      "attrs": {
+        "questionNumber": 54,
+        "refs": [
+          "Jo 10.11; At 20.28; Ef 4.11-13; Cl 1.18.",
+          "Is 59.21; 1Co 11.26.",
+          "Sl 129.1-5; Mt 16.18; Jo 10.28-30.",
+          "Gn 26.4; Ap 5.9.",
+          "Rm 8.29; Ef 1.3-14.",
+          "At 2.42-47; Ef 4.1-6.",
+          "Rm 1.16; 10.14-17; Ef 5.26.",
+          "1Jo 3.14, 19-21.",
+          "Sl 23.6; Jo 10.27, 28; 1Co 1.4-9; 1Pe 1.3-5."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q055-q",
+      "kind": "question",
+      "label": "P. 55",
+      "body": "O que você crê sobre a \"comunhão dos santos\"?",
+      "attrs": {
+        "questionNumber": 55
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q055-a",
+      "kind": "answer",
+      "label": "R. 55",
+      "body": "Primeiro: creio que todos os crentes, juntos e cada um em particular, como membros de Cristo, têm comunhão com Ele e participam de todos os Seus tesouros e dons.\n\nSegundo: creio que cada um tem o dever de usar os seus dons com disposição e alegria para o benefício e o bem-estar dos outros membros.",
+      "attrs": {
+        "questionNumber": 55,
+        "refs": [
+          "Rm 8.32; 1Co 6.17; 12.4-7, 12, 13; 1Jo 1.3.",
+          "Rm 12.4-8; 1Co 12.20-27; 13.1-7; Fp 2.4-8."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q056-q",
+      "kind": "question",
+      "label": "P. 56",
+      "body": "O que você crê sobre a \"remissão dos pecados\"?",
+      "attrs": {
+        "questionNumber": 56
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q056-a",
+      "kind": "answer",
+      "label": "R. 56",
+      "body": "Creio que Deus, por causa da satisfação que Cristo realizou, não se lembrará mais dos meus pecados nem da minha natureza pecaminosa, contra a qual devo lutar durante toda a minha vida, mas me concederá graciosamente a justiça de Cristo, para que eu jamais entre em condenação.",
+      "attrs": {
+        "questionNumber": 56,
+        "refs": [
+          "Sl 103.3, 4, 10, 12; Mq 7.18, 19; 2Co 5.18-21; 1Jo 1.7; 2.2.",
+          "Rm 7.21-25.",
+          "Jo 3.17, 18; 5.24; Rm 8.1, 2."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "psalm-076-gen",
+  "collection": "psalms",
+  "number": 76,
+  "numberLabel": "Salmo 76",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-076",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 124,
+  "units": [
+    {
+      "id": "psalm-076-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Conhecido\\_é Deus em Judá;\nGrande\\_é\\_o seu nome\\_em Israel,\n<sup>2</sup> Seu tabernáculo\\_em Salém,\nSua morada em Sião;\n<sup>3</sup> Onde Deus destroçou a guerra,\nAs flechas, o\\_arco,\\_a\\_espada\\_e\\_o broquel.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-076-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Mais ilustre\\_e glorioso\\_és tu\nDo que os montes eternais.\n<sup>5</sup> Os fortes despojaste,\\_ó Deus,\nSeu sono jazem a dormir.\nE nenhum dentre os valentes\nPode valer-se das próprias mãos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-076-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Ante\\_a tua repreensão,\nDeus de Jacó, fazes parar\nOs carros e cavalos, sim.\n<sup>7</sup> Tu és terrível, ó Senhor!\nSe te iras, quem permanece\nPerante\\_a tua vista, Senhor?",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-076-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Fazes o teu juízo\\_ouvir;\nDesde os céus, fazes ouvir.\nTremeu a terra\\_e se\\_aquietou\n<sup>9</sup> Ao levantar-se o Senhor\nPra\\_exercer seu juízo\\_e salvar\nOs mansos que na terra estão.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-076-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Pois até mesmo louvará\nA ira\\_humana ao Senhor\nE o restante do furor\nTu o restringirás, ó Deus.\n<sup>11</sup> Fazei votos e os pagai, sim,\nAo vosso Deus, que é o Senhor.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-076-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Fazei votos e os pagai,\nTrazei presentes ao Senhor,\nTodos vós que o rodeais,\nÀquele que deveis temer.\n<sup>12</sup> Aos reis Deus quebra a soberba;\nTremendo\\_aos reis da terra\\_Ele é.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

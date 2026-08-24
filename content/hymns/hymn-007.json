@@ -1,0 +1,41 @@
+{
+  "id": "hymn-007",
+  "collection": "hymns",
+  "number": 7,
+  "numberLabel": "Hino 7",
+  "title": "CREDO APOSTÓLICO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CONFISSÃO DE FÉ",
+    "author": "Vítor Olivier"
+  },
+  "sortOrder": 7,
+  "units": [
+    {
+      "id": "hymn-007-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Creio em Deus Pai, Onipotente,\nDeus que da terra e dos céus é o Criador,\nE em Jesus, seu único Filho,\nEm Jesus Cristo, que é nosso Senhor,\nCristo, o qual foi concebido\nPor meio do Espírito Santo\nE que nasceu da virgem Maria e\nSob o poder de Pilatos padeceu.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-007-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Cristo Jesus foi crucificado,\nMorto e também sepultado Ele foi.\nCristo Jesus desceu ao inferno e, ao\nDia terceiro, dos mortos ressurgiu.\nSubiu aos céus e está assentado à\nDestra de Deus Pai, Onipotente,\nDe onde há de vir pra julgar, os\nVivos e os mortos Jesus virá julgar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-007-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Creio também no Espírito Santo.\nCreio na santa igreja universal,\nSim, na igreja de Jesus Cristo,\nNa comunhão que os santos todos têm.\nCreio também na remissão, sim,\nCreio na remissão dos pecados.\nCreio na ressurreição do corpo,\nCreio na vida eterna, sim. Amém.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

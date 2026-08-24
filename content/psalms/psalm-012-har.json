@@ -1,0 +1,56 @@
+{
+  "id": "psalm-012-har",
+  "collection": "psalms",
+  "number": 12,
+  "numberLabel": "Salmo 12",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-012",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 24,
+  "units": [
+    {
+      "id": "psalm-012-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Socorro, ó Deus! Não há mais piedade;\nDentre os homens, sumiram-se\\_os fiéis.\nDa boca deles só sai falsidade;\nDe coração são falsos e cruéis.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-012-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Corte, Senhor, e\\_arranque\\_os lábios deles\nE\\_a língua que fala com elação.\n“Nós prevaleceremos”, dizem eles,\n“Quem, sobre nós, tem a dominação?”.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-012-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "“Erguer-me-ei”, diz o Deus Poderoso,\n“Porque o pobre sofre opressão;\nE dos carentes o gemido ouço;\nE\\_ao que me busca darei salvação”.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-012-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Como\\_a prata\\_em crisol, bem refinada,\nPuras são as palavras do Senhor,\nSete vezes no fogo depurada.\nSua promessa\\_a nós nunca falhou.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-012-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Por toda parte, andam os maldosos,\nMas tu, decerto, nos protegerás.\nNa terra sobram os maliciosos,\nMas desta estirpe tu nos livrarás.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

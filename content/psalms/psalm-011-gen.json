@@ -1,0 +1,40 @@
+{
+  "id": "psalm-011-gen",
+  "collection": "psalms",
+  "number": 11,
+  "numberLabel": "Salmo 11",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-011",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 21,
+  "units": [
+    {
+      "id": "psalm-011-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> O meu refúgio no Senhor se\\_encontra.\nComo, pois, à minha\\_alma vós dizeis:\n“Oh, foge, como pássaro,\\_ao teu monte”?\n<sup>2</sup> Pois eis os ímpios arcos a armar,\nDispondo\\_em seus cordéis as suas flechas\nPara\\_atirarem às ocultas, sim,\nNos homens que de coração são retos.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-011-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Se\\_os fundamentos forem destruídos,\nO que\\_o justo conseguirá fazer?\n<sup>4</sup> Mas o Senhor está no santo templo\nSim, Ele\\_está no santo templo seu.\nNos céus, tem o Senhor lugar do trono,\nSeus olhos bem atentos a sondar,\nSondando sempre aos filhos dos homens.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-011-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> À prova Deus coloca\\_o justo\\_e\\_o ímpio,\nMas sua alma\\_abomina ao cruel,\nAquele que a violência ama.\n<sup>6</sup> Fogo\\_e enxofre faz chover aos maus,\nVento abrasador será sua taça.\n<sup>7</sup> Ama\\_a justiça: Justo é\\_o Senhor.\nOs retos lhe contemplarão a face.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

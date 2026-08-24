@@ -1,0 +1,120 @@
+{
+  "id": "psalm-102-har",
+  "collection": "psalms",
+  "number": 102,
+  "numberLabel": "Salmo 102",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-102",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 168,
+  "units": [
+    {
+      "id": "psalm-102-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ouve-me, Senhor, a prece,\nMeus clamores reconheça.\n<sup>2</sup> Não te\\_envolva\\_a\\_escuridão.\nMedo me\\_enche\\_o coração.\nDá-me, Deus, os teus ouvidos.\nTe dirijo\\_os meus gemidos.\nOuve-me, Senhor, ajude.\nPressa,\\_a vida se desnuda.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-102-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Minha vida se\\_enfraquece;\nComo nuvem, se\\_esvanece.\nOs meus ossos, em fervor,\nArdem com o seu calor.\n<sup>4-5</sup> Como\\_a erva,\\_o sol secara;\nO meu coração murchara.\nDefinhado\\_e esquecido,\nSó lamento, desnutrido.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-102-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6-7</sup> Como\\_a ave do deserto,\nApreensivo, me desperto;\nPelicano branco\\_igual,\nLonge do seu arraial;\nQual coruja nos escombros,\nAngustiado, me assombro;\nSolitário\\_e assustado\nComo\\_o pássaro\\_em telhado.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-102-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Ouça:\\_os inimigos zombam,\nDe insultos me carregam.\nToda hora, frustração,\nDores e difamação.\n<sup>9</sup> Cinzas são meu alimento;\nLágrimas, quando sedento.\n<sup>10</sup> Esquecido\\_e perturbado,\nPor tua mão fui castigado.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-102-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Sim, tua mão atenta\\_à vida.\nAlto fui por ti erguido.\nAbatido em furor,\nOs meus dias são só dor.\n<sup>11</sup> Como\\_a sombra se declina,\nNos a\\_escuridão encima.\nComo\\_a relva que resseca,\nMinha força se afeta.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-102-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Tu, Senhor, sempre\\_entronado,\nO teu nome\\_é memoriado\nGeração pós geração.\n<sup>13</sup> Chegarás para\\_a ação.\nHaja tua piedade.\nLembre-te\\_o Sião amado.\nTempo pra compadeceres,\nCom tua graça lhe\\_envolveres.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-102-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>14-16</sup> Seu entulho nós amamos;\nNossa dor, ó Deus, clamamos,\nEsperando\\_a construção,\nPor mandado teu, ação,\nPra que fique bem sabido:\nDeus não tem lhes esquecido;\nO Sião edificado\\_e\nSua glória adotado.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-102-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>17-18</sup> Sim, Deus volta-se\\_ao lamento\nDos que pedem que atende,\nNão despreza\\_a oração.\nDiga\\_a nova geração,\nQue se\\_anote\\_e se escreve,\nE\\_os que vivem, dentro\\_em breve,\nDa sua bondade ouvem\nE durante\\_os tempos louvam.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-102-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>19-20</sup> Desde\\_os céus, baixou as vistas\nE observa\\_a terra\\_e\\_a vida.\nDo seu santuário, vê\nAos seus servos com mercê.\nPois virá o Grandioso,\nAos cativos é bondoso.\nE\\_os à morte condenados\nSão por Ele libertados.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-102-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>20-22</sup> O Senhor vem libertá-los;\nEm Sião anunciado\nA sua grande salvação;\nEm Jerusalém, canção.\nOs libertos retornando,\nAo seu nome exultando.\nPovos todos e seus reinos\nRendem honra ao Supremo.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-102-har-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>23-24</sup> Cândido fui meus caminhos.\nDe repente, Deus me tinha\nAbatido\\_o meu vigor.\nMeu lamento ao Senhor:\nNa metade desta vida\nVéu me\\_envolve, esquecido.\nTu, que\\_os séculos perduras,\nMe\\_uma geração segure.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-102-har-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>25</sup> No início bem remoto,\nCéus e terra te adotas,\nE formaste-os tua mão.\n<sup>26</sup> Passam todos, mas tu não.\nTuas obras corroídas,\nGastam-se igual vestidos.\nComo\\_a roupa é trocada,\nDesatento,\\_os pões de lado.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-102-har-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>27-28</sup> Tu, o mesmo, como\\_outrora,\nO futuro não ignora,\nImutável Santo Ser,\nMajestade vem descer.\nMostra\\_a tua fieldade\nAo teu povo na herdade.\nPara\\_as gerações futuras,\nTua paz fica segura.",
+      "attrs": {},
+      "sortOrder": 13
+    }
+  ]
+}

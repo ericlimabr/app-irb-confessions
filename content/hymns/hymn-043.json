@@ -1,0 +1,49 @@
+{
+  "id": "hymn-043",
+  "collection": "hymns",
+  "number": 43,
+  "numberLabel": "Hino 43",
+  "title": "MESTRE, O MAR SE REVOLTA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ORAÇÃO E SÚPLICA",
+    "author": "Mary Ann Baker / William Edwin Entzminger"
+  },
+  "sortOrder": 43,
+  "units": [
+    {
+      "id": "hymn-043-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Mestre, o mar se revolta\nE as ondas nos dão pavor!\nO céu se reveste de trevas,\nNão temos um Salvador!\nNão se te dá que morramos?\nPodes assim dormir?\nSe a cada momento nos vemos\nJá prestes a submergir?",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-043-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "“As ondas atendem ao meu mandar:\nSossegai!\nSeja o encapelado mar,\nA ira dos homens, o gênio do mal;\nTais águas não podem a nau tragar,\nQue leva o Senhor, rei do céu e mar!\nPois todos ouvem o meu mandar:\nSossegai! Sossegai!\nConvosco estou para vos salvar;\nSossegai!”.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-043-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Mestre, tão grande tristeza\nMe quer hoje consumir!\nNa dor que perturba minha alma\nTe imploro: “Vem me acudir!”\nDe ondas do mal que me encobrem,\nQuem me virá valer?\nNão tardes, não tardes, bom Mestre,\nEstou quase a perecer!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-043-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Mestre, chegou a bonança;\nEm paz vejo o céu e o mar!\nO meu coração goza calma\nQue não poderá findar.\nFirme, ao teu lado, ó Mestre,\nDono da terra e céu,\nEu hei de chegar, bem seguro,\nAo porto, destino meu.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

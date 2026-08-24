@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-169-176-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.169-176",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-169-176",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 222,
+  "units": [
+    {
+      "id": "psalm-119-169-176-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>169</sup> Chegue a ti, Senhor, o meu clamor.\nDá-me entendimento, eu te peço,\nConforme a palavra do Senhor.\n<sup>170</sup> Chegue minha petição à tua presença.\nConforme tua palavra, livra-me.\n<sup>171</sup> E teu louvor profiram os meus lábios.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-169-176-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Pois teus decretos ensinas a mim.\n<sup>172</sup> Celebre\\_a minha língua tua lei, pois\nJustos são os teus mandamentos, sim.\n<sup>173</sup> Venha tua mão trazer-me teu socorro,\nPois teus preceitos eu os escolhi.\n<sup>174</sup> Por tua salvação, ó Deus, suspiro.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-169-176-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Senhor, a tua lei é meu prazer.\n<sup>175</sup> Viva minha\\_alma, pois, para louvar-te\nE me ajudem os juízos teus.\n<sup>176</sup> Me desgarrei qual ovelha perdida.\nVem, ó Senhor, teu servo procurar,\nPois não me\\_esqueço dos teus mandamentos.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

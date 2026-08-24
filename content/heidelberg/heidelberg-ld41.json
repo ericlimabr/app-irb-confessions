@@ -1,0 +1,65 @@
+{
+  "id": "heidelberg-ld41",
+  "collection": "heidelberg",
+  "number": 41,
+  "numberLabel": "Domingo 41",
+  "title": null,
+  "subtitle": "Os Dez Mandamentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 41,
+  "units": [
+    {
+      "id": "heidelberg-q108-q",
+      "kind": "question",
+      "label": "P. 108",
+      "body": "O que nos ensina o sétimo mandamento?",
+      "attrs": {
+        "questionNumber": 108
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q108-a",
+      "kind": "answer",
+      "label": "R. 108",
+      "body": "Que toda a impureza sexual é amaldiçoada por Deus. Por isso devemos abominá-la de todo coração e  viver  vidas  puras  e disciplinadas, tanto dentro quanto fora do santo matrimônio.",
+      "attrs": {
+        "questionNumber": 108,
+        "refs": [
+          "Lv 18.30; Ef 5.3-5.",
+          "Jd 22, 23.",
+          "1Co 7.1-9; 1Ts 4.3-8; Hb 13.4."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q109-q",
+      "kind": "question",
+      "label": "P. 109",
+      "body": "Neste mandamento, Deus só proíbe o adultério e pecados vergonhosos semelhantes?",
+      "attrs": {
+        "questionNumber": 109
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q109-a",
+      "kind": "answer",
+      "label": "R. 109",
+      "body": "Desde que somos, corpo e alma, templos do Espírito Santo, é a vontade de Deus que nos conservemos puros e santos. Por isso Ele proíbe todas as ações impuras, gesticulações, palavras, pensamentos, desejos, e tudo aquilo que possa nos induzir à impureza.",
+      "attrs": {
+        "questionNumber": 109,
+        "refs": [
+          "Mt 5.27-29; 1Co 6.18-20; Ef 5.3, 4.",
+          "1Co 15.33; Ef 5.18."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

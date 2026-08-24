@@ -1,0 +1,48 @@
+{
+  "id": "psalm-013-har",
+  "collection": "psalms",
+  "number": 13,
+  "numberLabel": "Salmo 13",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-013",
+  "attrs": {
+    "attribution": "CBS - Heilig, heilig, heilig"
+  },
+  "sortOrder": 26,
+  "units": [
+    {
+      "id": "psalm-013-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, até quando tu te\\_esquecerás?\nDe mim, para sempre,\\_o rosto\\_ocultarás?\n<sup>2</sup> Até quando na\\_alma eu relutarei?\nTriste cada dia em meu coração?",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-013-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Até quando contra mim se erguerá\nO meu inimigo? <sup>3</sup> Ouve-me,\\_ó Senhor!\nMe\\_ilumina\\_os olhos e responde-me!\nQue\\_eu da morte\\_o sono não venha dormir.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-013-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Para que não diga o\\_inimigo meu:\n“Indo contra ele, eu prevaleci”.\nNão se regozijem adversários meus.\nNão se\\_alegrem eles vindo\\_eu vacilar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-013-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Quanto\\_a mim, na tua graça confiarei\nE exultarei na tua salvação.\n<sup>6</sup> Com grande\\_alegria no meu coração,\nCanto\\_a Deus, pois tem me feito muito bem.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

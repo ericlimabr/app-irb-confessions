@@ -1,0 +1,49 @@
+{
+  "id": "hymn-076",
+  "collection": "hymns",
+  "number": 76,
+  "numberLabel": "Hino 76",
+  "title": "RUDE CRUZ SE ERIGIU",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: MORTE",
+    "author": "George Bennard / Antônio Almeida"
+  },
+  "sortOrder": 76,
+  "units": [
+    {
+      "id": "hymn-076-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Rude cruz se erigiu,\nDela o dia fugiu\nComo emblema de vergonha e dor.\nMas eu sei que, na cruz,\nNesse dia, Jesus\nDeu a vida por mim, pecador.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-076-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Sim, eu amo a mensagem da cruz;\nSeu triunfo alegria será!\nPois um dia, em lugar de uma cruz,\nA coroa Jesus me dará!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-076-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Desde a glória dos céus,\nO cordeiro de Deus\nAo Calvário humilhante baixou.\nNessa cruz, para mim,\nHá mistério sem fim,\nPorque nela Jesus me salvou.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-076-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Nessa cruz padeceu,\nDesprezado morreu,\nMeu Jesus, para dar-me perdão.\nEu me alegro na cruz.\nDela vêm graça e luz\nPara minha santificação.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

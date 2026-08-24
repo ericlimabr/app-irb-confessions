@@ -1,0 +1,65 @@
+{
+  "id": "hymn-095",
+  "collection": "hymns",
+  "number": 95,
+  "numberLabel": "Hino 95",
+  "title": "OUTRA VEZ, O TEU LOUVOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ENCERRAMENTO E DESPEDIDA",
+    "author": "Sarah Poulton Kalley"
+  },
+  "sortOrder": 95,
+  "units": [
+    {
+      "id": "hymn-095-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Outra vez, o teu louvor\nDesejamos entoar,\nDar-te graças, ó Senhor,\nNeste culto a terminar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-095-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Com proveito e com prazer,\nNesta casa de oração,\nCostumamos receber\nA divina exortação.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-095-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Nossas almas vem nutrir\nCom teu pão celestial,\nFaze-as mais e mais fruir\nTua graça divinal.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-095-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Faze os nossos corações,\nDia a dia, recordar\nTuas sábias instruções,\nE teu mando executar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-095-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Nos trabalhos que virão,\nNão nos desampare a fé.\nGuarde o nosso coração,\nNão resvale o nosso pé.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "hymn-095-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Na palavra que nos dás,\nTeus ensinos, ó Jesus,\nVem a graça, que refaz,\nE o poder da tua luz.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

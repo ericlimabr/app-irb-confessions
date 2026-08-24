@@ -1,0 +1,56 @@
+{
+  "id": "psalm-095-gen",
+  "collection": "psalms",
+  "number": 95,
+  "numberLabel": "Salmo 95",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-095",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 155,
+  "units": [
+    {
+      "id": "psalm-095-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Vinde\\_ao Senhor e cantemos,\nRochedo, nosso salvador.\nRejubilando, celebremos.\n<sup>2</sup> Vamos a Ele com graças,\nCom salmos a comemorar,\n<sup>3</sup> Pois o Senhor é\\_o Deus supremo!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-095-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "É grande Rei sobre\\_os deuses,\n<sup>4</sup> As profundezas tem nas mãos;\nEis que\\_altos montes lhe pertencem;\n<sup>5</sup> Criou o mar; este\\_é dele,\nPorque\\_o Senhor, supremo Deus,\nFez com as mãos os continentes.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-095-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Prostrados, vinde,\\_adoremos,\nDe joelhos, diante do Senhor,\nQue nos criou <sup>7</sup> e é Deus nosso.\nDa sua mão somos pasto,\nOvelhas, povo do Senhor.\nÉ nosso Deus; e nós, seu povo",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-095-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Se\\_a voz de Deus, hoje,\\_ouvirdes,\n<sup>8</sup> Não torneis duro\\_o coração\nComo fizestes no deserto:\nEm Meribá, sim, em Massá.\n<sup>9</sup> Lá, me tentaram vossos pais,\nInda que vendo minhas obras.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-095-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Durante quarenta anos,\nTal geração me desgostou,\nPovo de coração rebelde,\nQue meus caminhos não sabe.\n<sup>11</sup> Jurei na minha ira, pois:\n“Não entrarão no meu descanso.”",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "heidelberg-ld27",
+  "collection": "heidelberg",
+  "number": 27,
+  "numberLabel": "Domingo 27",
+  "title": null,
+  "subtitle": "O Santo Batismo",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 27,
+  "units": [
+    {
+      "id": "heidelberg-q072-q",
+      "kind": "question",
+      "label": "P. 72",
+      "body": "Então, esse lavar exterior com água por si mesmo remove os pecados?",
+      "attrs": {
+        "questionNumber": 72
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q072-a",
+      "kind": "answer",
+      "label": "R. 72",
+      "body": "Não, somente o sangue de Jesus Cristo e o Espírito Santo nos purificam de todo o pecado.",
+      "attrs": {
+        "questionNumber": 72,
+        "refs": [
+          "Mt 3.11; 1Pe 3.21; 1Jo 1.7."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q073-q",
+      "kind": "question",
+      "label": "P. 73",
+      "body": "Então, por que o Espírito Santo chama o batismo de \"lavar regenerador\" e de \"purificação de pecados\"?",
+      "attrs": {
+        "questionNumber": 73
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q073-a",
+      "kind": "answer",
+      "label": "R. 73",
+      "body": "Deus fala assim por uma razão importante.\n\nEle nos quer ensinar que o sangue e o Espírito de Cristo removem os nossos pecados assim como a água remove a sujeira do corpo.\n\nPorém, ainda mais importante, Ele nos quer assegurar por meio dessa garantia  e  sinal  divinos  que  somos  tão  verdadeiramente  purificados espiritualmente dos nossos pecados, assim como somos fisicamente lavados com a água.",
+      "attrs": {
+        "questionNumber": 73,
+        "refs": [
+          "1Co 6.11; Ap 1.5; 7.14.",
+          "Mt 16.16; At 2.38; Rm 6.3, 4; Gl 3.27."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q074-q",
+      "kind": "question",
+      "label": "P. 74",
+      "body": "As crianças pequenas devem ser batizadas?",
+      "attrs": {
+        "questionNumber": 74
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q074-a",
+      "kind": "answer",
+      "label": "R. 74",
+      "body": "Sim.\n\nAs crianças, assim como os adultos, pertencem à aliança e à igreja de Deus.\n\nAtravés  do  sangue  de  Cristo  lhes  são  prometidos,  da  mesma  forma que aos adultos, a redenção do pecado e o Espírito Santo, que opera a fé.\n\nAssim as crianças, por meio do batismo como sinal da aliança, devem ser enxertadas na igreja de Cristo e distinguidas dos filhos dos incrédulos.\n\nNa velha aliança isso era feito pela circuncisão, que, na nova aliança, foi substituída pela instituição do batismo.",
+      "attrs": {
+        "questionNumber": 74,
+        "refs": [
+          "Gn 17.7; Mt 19.14.",
+          "Sl 22.10; Is 44.1-3; At 2.38, 39; 16.31.",
+          "At 10.47; 1Co 7.14.",
+          "Gn 17.9-14.",
+          "Cl 2.11-13."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

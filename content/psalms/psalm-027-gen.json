@@ -1,0 +1,72 @@
+{
+  "id": "psalm-027-gen",
+  "collection": "psalms",
+  "number": 27,
+  "numberLabel": "Salmo 27",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-027",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 50,
+  "units": [
+    {
+      "id": "psalm-027-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A minha luz e salvação é\\_o meu Deus.\nPortanto, quem é que eu temerei?\nDa minha vida é a fortaleza.\nPortanto, de quem me recearei?\n<sup>2</sup> E quando\\_os malfeitores sobrevêm\nCom o intento de me destruir,\nOs opressores e\\_inimigos meus\nÉ que tropeçam e vêm a cair.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-027-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Mesmo que um exército se\\_acampe\nContra mim para vir me destruir,\nMeu coração não ficará com medo,\nPois eu, ainda,\\_em ti confiarei.\nE, se a guerra contra mim romper,\nAinda\\_assim, confiarei em ti.\n<sup>4</sup> Algo te peço\\_e buscarei, Senhor:\nQue\\_em tua casa eu possa lá morar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-027-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Algo te peço\\_e buscarei, Senhor meu:\nQue\\_em tua casa eu possa habitar\nDurante\\_a minha vida, todo dia,\nPara\\_a beleza tua contemplar\nE no teu santo templo meditar.\n<sup>5</sup> Pois no meu dia mau, me\\_acolherá.\nEm tua tenda, hás de me\\_ocultar;\nSobre\\_uma rocha me elevará.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-027-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Minha cabeça vai ser exaltada\nSobre\\_os meus inimigos, sim, será.\nDarei um sacrifício jubiloso\nNo santuário\\_e cantarei a ti.\n<sup>7</sup> Ouve, Senhor, a voz do meu clamor;\nResponde\\_e compadece-te de mim.\n<sup>8</sup> Buscai a mim; me\\_ocorre\\_ao coração.\nTua presença buscarei, Senhor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-027-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Senhor, a tua face não me\\_escondas.\nTeu servo não rejeites com furor;\nNão me recuses; tu és meu auxílio\nDeus meu, não me\\_abandone,\\_ó Salvador.\n<sup>10</sup> Se me desampararem pai e mãe,\nAinda\\_assim, Deus há de me\\_acolher.\n<sup>11</sup> Ensina-me, Senhor, teu caminhar.\nEm plana senda guia-me, Senhor.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-027-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Me\\_ensina, meu Senhor, o teu caminho\nE, por vereda plana, guia-me,\nPois numerosos são meus inimigos\nE\\_estão bem prontos espreitando\\_a mim.\n<sup>12</sup> Oh, não me\\_entregue\\_ao inimigo meu,\nPois já se levantaram contra mim\nHomens que só respiram o que\\_é mau,\nE falsas testemunhas vêm falar.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-027-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Eu creio que verei a tua bondade,\nSim, na terra dos que viventes são.\n<sup>14</sup> Espera, pois, com fé pelo Senhor Deus;\nTem valência\\_e coragem no viver.\nE o Senhor te fortalecerá,\nSim, ao teu coração vigor dará.\nEspera sempre, pois, pelo Senhor.\nEspera, pois, pelo Senhor teu Deus.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

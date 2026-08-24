@@ -1,0 +1,56 @@
+{
+  "id": "psalm-024-gen",
+  "collection": "psalms",
+  "number": 24,
+  "numberLabel": "Salmo 24",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-024",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 45,
+  "units": [
+    {
+      "id": "psalm-024-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A Deus pertence a terra,\nTudo que nela se contém,\nO mundo\\_e os que nele\\_habitam.\n<sup>2</sup> Deus a fundou sobre\\_os mares,\nSim, sobre\\_os mares a fundou\nE a firmou sobre\\_as correntes.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-024-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Quem subirá\\_ao monte de Deus?\nQuem poderá permanecer\nNo lugar santo do Senhor Deus?\n<sup>4</sup> O que possui as mãos limpas\nE puro tem o coração,\nNão se\\_entregando\\_à falsidade.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-024-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Tal homem recebe\\_a bênção\nE a justiça do Senhor,\nDo Deus que salva sua alma.\n<sup>6</sup> Tais são os homens que buscam\nA face do Deus de Jacó,\nA geração dos que o buscam.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-024-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Erguei as vossas cabeças,\nPortais eternos, sim, erguei,\nPara que entre\\_o Rei da Glória.\n<sup>8</sup> Quem é o tal Rei da Glória?\nÉ\\_o Senhor forte\\_em poder,\nDeus poderoso nas batalhas.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-024-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Erguei as vossas cabeças,\nPortais eternos, sim, erguei,\nPara que entre\\_o Rei da Glória.\n<sup>10</sup> Quem é o tal Rei da Glória?\nDeus, que das hostes é\\_o Senhor,\nÉ\\_o poderoso Rei da Glória.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "heidelberg-ld25",
+  "collection": "heidelberg",
+  "number": 25,
+  "numberLabel": "Domingo 25",
+  "title": null,
+  "subtitle": "A Palavra e os Sacramentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 25,
+  "units": [
+    {
+      "id": "heidelberg-q065-q",
+      "kind": "question",
+      "label": "P. 65",
+      "body": "Visto que somente a fé é o que nos torna participantes de Cristo e de todos os Seus benefícios, de onde vem essa fé?",
+      "attrs": {
+        "questionNumber": 65
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q065-a",
+      "kind": "answer",
+      "label": "R. 65",
+      "body": "Vem do Espírito Santo, que a opera em nossos corações pela pregação do evangelho, e a fortalece pelo uso dos sacramentos.",
+      "attrs": {
+        "questionNumber": 65,
+        "refs": [
+          "Jo 3.5; 1Co 2.10-14; Ef 2.8; Fp 1.29.",
+          "Rm 10.17; 1Pe 1.23-25.",
+          "Mt 28.19, 20; 1Co 10.16."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q066-q",
+      "kind": "question",
+      "label": "P. 66",
+      "body": "O que são sacramentos?",
+      "attrs": {
+        "questionNumber": 66
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q066-a",
+      "kind": "answer",
+      "label": "R. 66",
+      "body": "Os sacramentos são sinais e selos santos e visíveis. Foram  instituídos  por  Deus  para  que  pelo  uso  deles  Ele  pudesse,  o mais claramente possível, nos declarar e selar a promessa do evangelho.\n\nE esta é a promessa: que Deus nos concede graciosamente perdão de pecados e vida eterna por causa do sacrifício de Cristo ofertado na cruz.",
+      "attrs": {
+        "questionNumber": 66,
+        "refs": [
+          "Gn 17.11; Dt 30.6; Rm 4.11.",
+          "Mt 26.27, 28; At 2.38; Hb 10.10."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q067-q",
+      "kind": "question",
+      "label": "P. 67",
+      "body": "Então, tanto a Palavra quanto os sacramentos têm por objetivo direcionar a nossa fé para o sacrifício de Jesus Cristo na cruz, como a única base para a nossa salvação?",
+      "attrs": {
+        "questionNumber": 67
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q067-a",
+      "kind": "answer",
+      "label": "R. 67",
+      "body": "Sim, de fato.\n\nO Espírito Santo nos ensina no Evangelho e nos garante pelos sacramentos  que  toda  a  nossa  salvação  baseia-se  no  sacrifício  único  de Cristo por nós na cruz.",
+      "attrs": {
+        "questionNumber": 67,
+        "refs": [
+          "Rm 6.3; 1Co 11.26; Gl 3.27."
+        ]
+      },
+      "sortOrder": 6
+    },
+    {
+      "id": "heidelberg-q068-q",
+      "kind": "question",
+      "label": "P. 68",
+      "body": "Quantos sacramentos Cristo instituiu na nova aliança?",
+      "attrs": {
+        "questionNumber": 68
+      },
+      "sortOrder": 7
+    },
+    {
+      "id": "heidelberg-q068-a",
+      "kind": "answer",
+      "label": "R. 68",
+      "body": "Dois: O santo batismo e a santa ceia.",
+      "attrs": {
+        "questionNumber": 68,
+        "refs": [
+          "Mt 28.19, 20; 1Co 11.23-26."
+        ]
+      },
+      "sortOrder": 8
+    }
+  ]
+}

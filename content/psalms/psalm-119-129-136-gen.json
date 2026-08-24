@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-129-136-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.129-136",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-129-136",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 217,
+  "units": [
+    {
+      "id": "psalm-119-129-136-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>129</sup> Teus testemunhos admiráveis são.\nPor isso, é que minha alma\\_os guarda.\n<sup>130</sup> Entendimento\\_até aos simples dão\nTuas palavras, quando reveladas.\n<sup>131</sup> Abro a boca e aspiro,\\_então,\nPorque anelo por teus mandamentos.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-129-136-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>132</sup> Torna-te\\_a mim, Senhor, tem compaixão\nComo a quem teu nome ama fazes.\n<sup>133</sup> Em tua palavra, firma\\_os passos meus.\nNão me domine\\_iniquidade\\_alguma.\n<sup>134</sup> Da opressão do homem livra-me\nE,\\_então, eu guardarei os teus preceitos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-129-136-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>135</sup> Sobre teus servos faz resplandecer,\nSobre\\_o teu servo, ó Senhor, teu rosto\nE me ensina os decretos teus.\n<sup>136</sup> Nascem torrentes de\\_água dos meus olhos,\nPorque os homens não guardam tua lei,\nPorque não guardam os teus mandamentos.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

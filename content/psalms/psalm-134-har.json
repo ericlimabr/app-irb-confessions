@@ -1,0 +1,40 @@
+{
+  "id": "psalm-134-har",
+  "collection": "psalms",
+  "number": 134,
+  "numberLabel": "Salmo 134",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-134",
+  "attrs": {
+    "attribution": "CBS - Irene"
+  },
+  "sortOrder": 253,
+  "units": [
+    {
+      "id": "psalm-134-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Bendizei, pois, ao Senhor,\nVós que servos dele sois,\nQue, na casa do Senhor,\nÀ noite,\\_assistis!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-134-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Para\\_o santuário\\_erguei,\nSim, as vossas mãos erguei.\nBendizendo ao Senhor,\nLevantai as mãos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-134-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Te\\_abençoe o Senhor,\nCriador da terra\\_e céu!\nDe Sião, o nosso Deus\nSua bênção dê!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

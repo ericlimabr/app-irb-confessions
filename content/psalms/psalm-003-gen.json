@@ -1,0 +1,32 @@
+{
+  "id": "psalm-003-gen",
+  "collection": "psalms",
+  "number": 3,
+  "numberLabel": "Salmo 3",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-003",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 5,
+  "units": [
+    {
+      "id": "psalm-003-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, como cresceu\nO inimigo meu.\nSão muitos adversários!\n<sup>2</sup> Muitos falam de mim:\n\"Não pode Deus livrar\nNem salvar sua alma\".\n<sup>3</sup> Porém, Senhor, tu és\nEscudo\\_e glória meus.\nExaltas-me\\_a cabeça.\n<sup>4</sup> Com minha voz, clamei,\nE\\_o Senhor me ouviu\nDesde\\_o seu santo monte.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-003-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Logo\\_ao deitar, dormi.\nSeguro, acordei.\nJavé a mim sustenta.\n<sup>6</sup> Dez mil não temerei\nQue tramam contra mim\nE vêm de todo lado.\n<sup>7</sup> Levanta-te, Senhor!\nSalva-me, ó Deus meu,\nPois feres nas queixadas.\nOs dentes quebrarás.\n<sup>8</sup> De Deus é\\_a salvação;\nSobre teu povo,\\_a bênção.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

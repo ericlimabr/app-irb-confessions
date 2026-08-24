@@ -1,0 +1,31 @@
+{
+  "id": "belgic-art16",
+  "collection": "belgic",
+  "number": 16,
+  "numberLabel": "Art. 16",
+  "title": "A eleição divina",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 16,
+  "units": [
+    {
+      "id": "belgic-art16-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos  que  quando  toda  a  descendência  de  Adão  se  precipitou  na perdição e na ruína pela transgressão do primeiro homem, Deus mostrou-se como realmente é: misericordioso e justo. Misericordioso por socorrer  e  salvar  desta  perdição  aos  que,  em  Seu  conselho  eterno  e imutável Ele  elegeu por  pura  bondade  em  Jesus  Cristo  nosso  Senhor, sem levar em consideração nenhuma das obras deles. Justo por deixar os outros na queda e na perdição nas quais eles mesmos se precipitaram.",
+      "attrs": {
+        "refs": [
+          "Rm 3.12.",
+          "Jo 6.37, 44; Jo 10.29; Jo 17.2, 9, 12; Jo 18.9.",
+          "1Sm 12.22; Sl 65.4; At 13.48; Rm 9.16; Rm 11.5; Tt 1.1.",
+          "Jo 15.16, 19; Rm 8.29; Ef 1.4, 5.",
+          "Ml 1.2, 3; Rm 9.11-13; 2Tm 1.9; Tt 3.4, 5.",
+          "Rm 9.19-22; 1Pe 2.8."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

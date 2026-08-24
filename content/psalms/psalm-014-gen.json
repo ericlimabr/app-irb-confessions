@@ -1,0 +1,64 @@
+{
+  "id": "psalm-014-gen",
+  "collection": "psalms",
+  "number": 14,
+  "numberLabel": "Salmo 14",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-014",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 27,
+  "units": [
+    {
+      "id": "psalm-014-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Diz o\\_insensato no seu coração:\n“Deus não existe”, sim, “Deus não existe”.\nSão corrompidos e abomináveis.\nJá não há mais ninguém que faça\\_o bem,\nQue faça\\_o bem.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-014-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Eis o Senhor a observar do céu\nSe, dentre\\_os filhos de todos os homens,\nSe\\_existe quem possui entendimento\nPra ver se\\_encontra\\_alguém que busque\\_a Deus,\nQue busque\\_a Deus.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-014-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Todos se\\_extraviaram do Senhor,\nE, juntamente,\\_então, se corromperam.\nSim, corrompidos todos se fizeram.\nNão há nenhum sequer que faça\\_o bem,\nNenhum sequer.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-014-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>4</sup> Acaso, não conseguem entender\nOs praticantes da iniquidade,\nQue feito pão devoram ao meu povo,\nQue não invocam, não invocam Deus,\nDeus, o Senhor?",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-014-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>5</sup> Pavor imenso,\\_então, os tomará,\nPois Deus é com a geração dos justos.\n<sup>6</sup> Escarneceis dos pobres o conselho,\nPorém o seu refúgio é\\_o Senhor,\nÉ Deus Senhor.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-014-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>7</sup> Quem dera já viesse\\_a Israel\nA salvação que de Sião procede.\nOh, quando Deus lhe restaurar a sorte,\nJacó exultará, sim, Israel\nSe\\_alegrará.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

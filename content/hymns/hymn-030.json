@@ -1,0 +1,25 @@
+{
+  "id": "hymn-030",
+  "collection": "hymns",
+  "number": 30,
+  "numberLabel": "Hino 30",
+  "title": "A DEUS SUPREMO BENFEITOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Thomas Ken / Sarah Poulton Kalley"
+  },
+  "sortOrder": 30,
+  "units": [
+    {
+      "id": "hymn-030-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "A Deus, supremo benfeitor,\nA Deus, o Filho, a Deus, o Pai,\nA Deus Espírito, entoai\nÓ céus e terra o seu louvor!",
+      "attrs": {},
+      "sortOrder": 1
+    }
+  ]
+}

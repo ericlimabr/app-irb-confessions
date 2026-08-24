@@ -1,0 +1,40 @@
+{
+  "id": "psalm-097-har",
+  "collection": "psalms",
+  "number": 97,
+  "numberLabel": "Salmo 97",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-097",
+  "attrs": {
+    "attribution": "CBS - Ash Grove"
+  },
+  "sortOrder": 159,
+  "units": [
+    {
+      "id": "psalm-097-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Alegre-se\\_a terra, porque\\_o Senhor reina;\nExultem as ilhas, pois reina\\_o Senhor.\n<sup>2</sup> As nuvens e\\_as trevas a Ele rodeiam;\nDo seu trono\\_a base é\\_o justo julgar.\n<sup>3</sup> À frente de Deus, vai um fogo que queima\nOs seus inimigos que\\_estão ao redor.\n<sup>4</sup> Seus raios brilhantes clareiam o mundo;\nA terra\\_os enxerga com grande temor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-097-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Derretem-se\\_os montes assim como\\_a cera\nDiante do Deus que da terra\\_é\\_o Senhor.\n<sup>6</sup> Os céus anunciam a sua justiça,\nE\\_os povos contemplam a glória de Deus.\n<sup>7</sup> Confundam-se todos que\\_adoram imagens,\nSe prostrem os deuses perante\\_o Senhor.\n<sup>8</sup> Escuta Sião e, por isso, se\\_alegra;\nPor tua justiça se\\_alegra Judá.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-097-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>9</sup> Pois tu és supremo, Senhor, sobre\\_a terra\nE\\_acima de todos os deuses estás.\n<sup>10</sup> Vós que\\_a Deus amais, detestai a maldade.\nDeus guarda\\_os seus santos e\\_os livra dos maus.\n<sup>11</sup> Difunde-se\\_ao justo a luz; e\\_a\\_alegria,\nÀqueles que são puros de coração.\n<sup>12</sup> Ó justos, se\\_alegrem em Deus, sim, se\\_alegrem\nE\\_ao seu nome santo\\_ofereçam louvor.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "psalm-075-gen",
+  "collection": "psalms",
+  "number": 75,
+  "numberLabel": "Salmo 75",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-075",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 123,
+  "units": [
+    {
+      "id": "psalm-075-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Invocamos ao Senhor,\nRendemos graças a ti,\nDeclarando\\_os feitos teus,\n<sup>2</sup> Pois disseste, ó Senhor:\nRetamente, vou julgar\nQuando\\_o tempo meu chegar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-075-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Pode\\_a terra vacilar\nE todos que nela\\_estão.\nMesmo\\_assim, a firmarei,\nSeus pilares firmarei.\n<sup>4</sup> Aos soberbos digo\\_assim:\nArrogantes não sejais.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-075-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Para\\_o ímpio digo\\_assim:\nA força não levanteis.\n<sup>5</sup> Com soberba\\_e altivez,\nVossa força não ergais.\nContra\\_a Rocha não faleis\nCom audácia e\\_altivez.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-075-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Não é do deserto, não,\nQue\\_o meu auxílio provém\nNem da banda\\_oriental\nNem da banda\\_ocidental.\n<sup>7</sup> O Senhor é o juiz;\nAbate\\_e\\_exalta\\_a quem quer.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-075-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Pois existe\\_um cálice\nNa mão de Deus, o Senhor,\nCom o vinho\\_a espumar;\nCheio de mistura\\_está.\nDele\\_os ímpios beberão;\nAs escórias sorverão.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-075-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Para sempre,\\_exultarei,\nLouvores eu cantarei\nAo Senhor, Deus de Jacó,\n<sup>10</sup> E ao ímpio\\_abaterei.\nQuanto\\_ao justo, seu poder,\nSeu poder aumentará.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

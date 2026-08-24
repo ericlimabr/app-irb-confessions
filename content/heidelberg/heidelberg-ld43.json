@@ -1,0 +1,42 @@
+{
+  "id": "heidelberg-ld43",
+  "collection": "heidelberg",
+  "number": 43,
+  "numberLabel": "Domingo 43",
+  "title": null,
+  "subtitle": "Os Dez Mandamentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 43,
+  "units": [
+    {
+      "id": "heidelberg-q112-q",
+      "kind": "question",
+      "label": "P. 112",
+      "body": "O que se exige no nono mandamento?",
+      "attrs": {
+        "questionNumber": 112
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q112-a",
+      "kind": "answer",
+      "label": "R. 112",
+      "body": "Que eu não devo levantar falso testemunho contra ninguém, nem distorcer as palavras de ninguém, não fazer fofoca nem difamar, não condenar nem me ajuntar com ninguém para condenar a outrem precipitadamente e sem o ter ouvido.\n\nAntes devo repudiar toda mentira e engano, obras próprias do diabo, para não trazer sobre mim a pesada ira de Deus. No  tribunal  ou  em  qualquer  outro  lugar  eu  devo  amar  à  verdade, dizê-la e confessá-la com honestidade e fazer tudo o que puder para defender e promover a honra e a reputação do meu próximo.",
+      "attrs": {
+        "questionNumber": 112,
+        "refs": [
+          "Sl 15; Pv 19.5, 9; 21.28; Mt 7.1; Lc 6.37; Rm 1.28-32.",
+          "Lv 19.11, 12; Pv 12.22; 13.5; Jo 8.44; Ap 21.8.",
+          "1Co 13.6; Ef 4.25.",
+          "1Pe 3.8, 9; 4.8."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

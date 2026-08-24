@@ -1,0 +1,41 @@
+{
+  "id": "hymn-018",
+  "collection": "hymns",
+  "number": 18,
+  "numberLabel": "Hino 18",
+  "title": "VÓS CRIATURAS DE DEUS PAI",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Francisco de Assis/ William Henry Draper / Jorge César Mota e Manoel da Silveira Porto Filho"
+  },
+  "sortOrder": 18,
+  "units": [
+    {
+      "id": "hymn-018-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Vós, criaturas de Deus Pai,\nTodos erguei a voz, cantai!\nOh! Louvai-o! Aleluia!\nTu, sol dourado a refulgir,\nTu, lua em prata a reluzir,\nOh! Louvai-o! Oh! Louvai-o!\nAleluia! Aleluia! Aleluia!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-018-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Oh! Terra, mares, céus, cantai\nLouvor a Deus e exclamai!\nOh! louvai-o! Aleluia!\nFrutos e flores, juntos dai\nA glória a Deus, Senhor e Pai!\nOh! Louvai-o! Oh! Louvai-o!\nAleluia! Aleluia! Aleluia!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-018-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Vós, homens todos, em temor,\nProstrai-vos ante o Criador!\nAdorai-o! Aleluia!\nLouvor ao Filho, glória ao Pai,\nE ao Santo Espírito louvai!\nOh! Louvai-o! Oh! Louvai-o!\nAleluia! Aleluia! Aleluia!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

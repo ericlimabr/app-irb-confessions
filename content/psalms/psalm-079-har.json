@@ -1,0 +1,64 @@
+{
+  "id": "psalm-079-har",
+  "collection": "psalms",
+  "number": 79,
+  "numberLabel": "Salmo 79",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-079",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 129,
+  "units": [
+    {
+      "id": "psalm-079-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Deus, nações vizinhas invadiram,\nOh, tua herança\\_e tudo destruíram!\nA tua casa\\_até foi profanada,\nJerusalém inteira\\_arruinada!\n<sup>2</sup> Os corpos ao redor\nEntregues - que horror! -\nÀs aves por comida!\nRepara,\\_ó nosso Deus:\nCarne dos santos teus\nÀs feras oferecida!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-079-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Sim, como água eles derramaram\nO sangue de teus servos e deixaram\nOs corpos seus no campo espalhados;\nE lá estão: nem foram enterrados!\n<sup>4</sup> E eles, ó Senhor,\nCom todo\\_o seu furor,\nEstão escarnecendo.\nOuve a sua voz\nZombetear de nós,\nTeu nome ofendendo.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-079-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Quando, Senhor, termina tua ira?\nO fogo de teu zelo se retira?\n<sup>6</sup> Derrama-o sobre\\_os reinos que não querem\nTe conhecer, teu nome não proferem\n<sup>7</sup> E, num furor sem dó,\nAo povo de Jacó\nDe todo devoraram.\nTodas as casas são\nCompleta destruição:\nEles as assolaram.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-079-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> O mal dos pais não queiras creditar-nos.\nSenhor, apressa-te em encontrar-nos\nCom tua compaixão, porque estamos\nMui abatidos e te imploramos:\n<sup>9</sup> “Assiste-nos, Senhor,\nÉs nosso Salvador,\nTeu povo te suplica.\nDá-lhe libertação,\nPerdoa\\_a transgressão;\nTeu nome glorifica!”",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-079-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Por que os povos escarneceriam:\n“Onde está seu Deus?” a nós diriam?\nÀ nossa vista, seja-lhes mostrado\nComo tu vingas sangue derramado.\n<sup>11</sup> Teus servos que estão\nGemendo na prisão\nSejam por ti lembrados!\nSalva por teu poder\nOs que hão de morrer,\nQue\\_estão sentenciados.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-079-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> Senhor, que paguem sete vezes tanto\nNossos vizinhos, que teu nome santo\nDe todas as maneiras profanaram,\nCom seu opróbrio te vituperaram.\n<sup>13</sup> Quanto a nós, ó Deus,\nPovo dos pastos teus,\nGraças a ti daremos.\nEm cada geração,\nEterna gratidão\nApresentar-te-emos!",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

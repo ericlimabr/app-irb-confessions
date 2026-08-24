@@ -1,0 +1,104 @@
+{
+  "id": "psalm-044-gen",
+  "collection": "psalms",
+  "number": 44,
+  "numberLabel": "Salmo 44",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-044",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 75,
+  "units": [
+    {
+      "id": "psalm-044-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Os nossos pais nos têm contado\nO que fizeste nos seus dias.\nOuvimos, sim, os pais dizer\n<sup>2</sup> Como, por tuas próprias mãos,\nDesapossaste as nações\nE\\_a eles estabeleceste.\nTu oprimiste\\_os povos, sim,\nE\\_aos nossos pais largueza deste.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-044-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Porque não foi por sua\\_espada\nQue possuíram sua terra,\nE nem o braço forte foi\nQue lhes deu a vitória,\\_ó Deus,\nMas a tua destra,\\_o braço teu\nE\\_o brilhantismo do teu rosto,\nPois deles te\\_agradaste,\\_ó Deus.\n<sup>4</sup> Tu és meu rei e dás vitória.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-044-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Com teu auxílio, nós vencemos\nTodos os nossos inimigos;\nPor causa do teu nome,\\_ó Deus,\nOs que são contra nós, Senhor,\nCalcamos, sim, aos nossos pés.\n<sup>6</sup> Eu não confio no meu arco\nE\\_eu sei que\\_a minha salvação\nNão me virá por minha\\_espada.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-044-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Dos inimigos nos salvaste,\nQuem nos odeia\\_envergonhaste.\n<sup>8</sup> Em Deus, nos gloriamos, sim;\nE, para sempre, louvarei\nAo nome teu, Senhor e Rei.\n<sup>9</sup> Agora, nos lançaste fora,\nE à vergonha nos expôs;\nTu já não sais com nossas tropas.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-044-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>10</sup> Agora, pois, tu nos dispersas\nAo virem nossos inimigos;\nOs que têm ódio contra nós\nTomam-nos por despojo seu.\n<sup>11</sup> Nos espalhaste\\_entre\\_as nações,\nNos entregaste como\\_ovelhas;\n<sup>12</sup> Vendes por nada\\_o povo teu\nE nada lucras com seu preço.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-044-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>13</sup> Fez-nos opróbrio dos vizinhos,\nEscárnio\\_e vaia nos rodeiam.\n<sup>14</sup> Eu sou ditado\\_entre\\_as nações\nPovos meneiam contra nós.\n<sup>15</sup> O meu opróbrio sempre\\_está\nLogo diante dos meus olhos.\nNa minha frente,\\_está meu mal;\nMeu rosto\\_eu cubro de vergonha.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-044-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Meu rosto\\_eu cubro de vergonha\n<sup>16</sup> Perante\\_os gritos do que\\_afronta,\nAo ver o inimigo meu,\nSim, o blasfemo\\_e vingador.\n<sup>17</sup> Isto nos veio\\_a suceder,\nPorém de ti não esquecemos.\nNão fomos infiéis a ti\nE nem à tua aliança.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-044-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>18</sup> O teu caminho nós trilhamos;\nNão desviamos nossos passos.\nE nem o nosso coração\nVeio a se tornar atrás.\n<sup>19</sup> E,\\_agora, esmagaste\\_a nós\nLá onde os chacais habitam\nE com as sombras mais mortais\nTu envolveste nossas vidas.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-044-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>20</sup> Se não lembrássemos teu nome\nOu se tivéssemos erguido\nNossas mãos a\\_um estranho deus,\n<sup>21</sup> Acaso o Senhor Javé\nNão nos teria feito bem?\nTeria\\_agido com acerto\nO que perscruta\\_o coração\nE sabe de todo segredo.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-044-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>22</sup> Mas, por amor de ti, nós somos\nÀ morte\\_entregues noite\\_e dia;\nTais como\\_ovelhas somos nós,\nAs quais ao matadouro vão.\n<sup>23</sup> Desperta, meu Senhor e Deus!\nPor que tu dormes? Não nos deixe!\n<sup>24</sup> Por que tua face\\_oculta\\_está\nE\\_esqueces da miséria nossa?",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-044-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "Por que teu rosto tu encobres\nE\\_esqueces que opressos fomos?\n<sup>25</sup> Porque a nossa alma\\_está,\nSim, abatida\\_até ao pó.\nComo que apegado\\_ao chão\nÉ como\\_está o nosso corpo.\n<sup>26</sup> Levanta pra nos socorrer;\nVem resgatar-nos por bondade.",
+      "attrs": {},
+      "sortOrder": 11
+    }
+  ]
+}

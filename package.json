@@ -19,6 +19,8 @@
     "./package.json": "./package.json"
   },
   "scripts": {
+    "convert": "node ./scripts/convert.mjs",
+    "convert:check": "node ./scripts/convert.mjs --check",
     "validate:content": "node ./scripts/validate-content.mjs",
     "check:version-bump": "node ./scripts/check-version-bump.mjs"
   },

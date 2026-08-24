@@ -1,0 +1,41 @@
+{
+  "id": "heidelberg-ld47",
+  "collection": "heidelberg",
+  "number": 47,
+  "numberLabel": "Domingo 47",
+  "title": null,
+  "subtitle": "A Oração",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 47,
+  "units": [
+    {
+      "id": "heidelberg-q122-q",
+      "kind": "question",
+      "label": "P. 122",
+      "body": "Qual é a primeira petição?",
+      "attrs": {
+        "questionNumber": 122
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q122-a",
+      "kind": "answer",
+      "label": "R. 122",
+      "body": "_\"Santificado seja o teu nome\"_.\n\nIsto é:\n\nQue nos concedas, antes de mais nada, que possamos Te conhecer da maneira correta, e  que  Te  santifiquemos, glorifiquemos e louvemos em todas as Tuas obras, das quais brilham o Teu poder infinito, sabedoria, bondade, justiça, misericórdia e verdade.\n\nTambém que nos concedas que dirijamos toda a nossa vida - ou pensamentos, palavras e ações - de tal maneira que o Teu nome não seja blasfemado por nossa causa, mas que seja sempre honrado e glorificado.",
+      "attrs": {
+        "questionNumber": 122,
+        "refs": [
+          "Jr 9.23, 24; 31.33, 34; Mt 16.17; Jo 17.3.",
+          "Êx 34.5-8; Sl 145; Jr 32.16-20; Lc 1.46-55, 68-75; Rm 11.33-36.",
+          "Sl 115.1; Mt 5.16."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

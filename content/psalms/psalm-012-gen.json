@@ -1,0 +1,64 @@
+{
+  "id": "psalm-012-gen",
+  "collection": "psalms",
+  "number": 12,
+  "numberLabel": "Salmo 12",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-012",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 23,
+  "units": [
+    {
+      "id": "psalm-012-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Socorro,\\_ó Deus, pois não há piedosos.\nDesaparecem todos os fiéis.\n<sup>2</sup> Falam com falsidade uns aos outros:\nBajuladores, falso coração.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-012-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Corte\\_o Senhor os lábios que bajulam\nE\\_a língua que soberbamente diz,\n<sup>4</sup> Pois dizem: “Com a língua venceremos;\nNossa\\_é a boca. Quem é sobre nós?”",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-012-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Por causa,\\_então, da opressão dos pobres\nE do necessitado\\_em sua dor,\nDiz o Senhor: “Agora\\_eu me levanto;\nA quem anseia, sim, eu salvarei.”",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-012-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Pois as palavras do Senhor são puras\nTal prata\\_em fogo refinada é,\nPor sete vezes sendo depurada.\nPuras são as palavras do Senhor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-012-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> Sim, guardarás a nós, Senhor, é certo,\nE para todo\\_o sempre livrarás.\nSim, desta geração, Senhor, nos guarda.\nÓ nosso Deus, tu hás de nos livrar.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-012-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>8</sup> Por todo canto, andam os perversos\nQuando\\_a vileza exaltada é,\nQuando,\\_entre todos os filhos dos homens,\nSim, a vileza exaltada é.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

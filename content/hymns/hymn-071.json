@@ -1,0 +1,57 @@
+{
+  "id": "hymn-071",
+  "collection": "hymns",
+  "number": 71,
+  "numberLabel": "Hino 71",
+  "title": "OH, VINDE, FIÉIS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: NASCIMENTO",
+    "author": "Hino latino / James Theodore Houston"
+  },
+  "sortOrder": 71,
+  "units": [
+    {
+      "id": "hymn-071-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Oh, vinde, fiéis, triunfantes, alegres!\nSim, vinde a Jesus, já movidos de amor;\nNasceu vosso Rei, o Messias prometido.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-071-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Oh, vinde, adoremos, oh, vinde, adoremos,\nOh, vinde, adoremos ao nosso Senhor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-071-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Olhai, admirados, a sua humildade,\nOs anjos o louvam com grande fervor,\nPois veio conosco habitar encarnado.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-071-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Por nós, das alturas celestes baixando\nEm forma de servo se fez, por amor.\nE em glória a vida nos dá, sempiterna.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-071-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Nos céus, adorai-o, vós anjos, em coro,\nE todos na terra lhe rendam louvor!\nA Deus honra e glória contentes, rendamos!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

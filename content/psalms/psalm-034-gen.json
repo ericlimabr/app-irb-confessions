@@ -1,0 +1,80 @@
+{
+  "id": "psalm-034-gen",
+  "collection": "psalms",
+  "number": 34,
+  "numberLabel": "Salmo 34",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-034",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 60,
+  "units": [
+    {
+      "id": "psalm-034-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A Deus, o meu Senhor,\nEm todo\\_o tempo\\_eu bendirei.\nOh, seu louvor pra sempre vai\nEstar nos lábios meus.\n<sup>2</sup> Minha\\_alma\\_exultará\nE no Senhor gloriar-se-á.\nOs mansos tudo ouvirão;\nSim, alegrar-se-ão!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-034-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Comigo,\\_a uma voz,\nLouvai o nome do Senhor.\n<sup>4</sup> Busquei a Deus, que me\\_acolheu;\nLivrou-me do pavor.\n<sup>5</sup> Oh, vinde contemplar;\nEle\\_há de vos iluminar.\nVexame, confusão jamais\nNo rosto sofrereis.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-034-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Um pobre fez clamor;\nE Deus Senhor lhe quis ouvir,\nLivrou-o da tribulação.\n<sup>7</sup> O anjo do Senhor\nAcampa-se\\_ao redor\nDaqueles que lhe têm temor.\nO anjo do Senhor também\nSocorre\\_os no temor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-034-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Oh, vinde,\\_pois, provai\nE vede que\\_o Senhor é bom.\nÉ bem-aventurado quem\nRefúgio busca\\_em Deus.\n<sup>9</sup> Temei a Deus Senhor.\nAos santos nada\\_há de faltar\n<sup>10</sup> Leões famintos podem ser,\nMas não quem busca\\_a Deus.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-034-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>11</sup> Ó filhos, escutai!\nTemor de Deus ensinarei:\n<sup>12</sup> Quem ama\\_a vida\\_e quer viver\nPara\\_observar o bem?\n<sup>13</sup> Refreia\\_a língua má\nE\\_os lábios, do seu maldizer.\n<sup>14</sup> Rejeita\\_o mal, pratica\\_o bem,\nPromove\\_e busca\\_a paz.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-034-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> Os olhos do Senhor\nRepousam nos que justos são.\nO\\_ouvido seu dá atenção,\nAberto\\_ao seu clamor.\n<sup>16</sup> Seu rosto se opõe\nAos que só querem mal fazer.\nDa terra vai eliminar\nO seu legado vil.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-034-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>17</sup> Os justos em clamor,\nEscuta-lhes o Deus Senhor\nE\\_os livra das tribulações.\n<sup>18</sup> Mui perto\\_está\\_o Senhor\nCom sua salvação\nDo quebrantado coração\nCom sua alma\\_em aflição.\nSim, perto\\_está\\_o Senhor.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-034-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>19</sup> O justo\\_é sofredor,\nMas sempre\\_o livra o Senhor:\n<sup>20</sup> Jamais os ossos quebrará.\n<sup>21</sup> O ímpio morrerá\nSe\\_ao justo odiar.\n<sup>22</sup> Javé resgata\\_os servos seus:\nNinguém que nele confiar\nPerdido ficará.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

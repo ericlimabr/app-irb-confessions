@@ -1,0 +1,68 @@
+{
+  "id": "heidelberg-ld14",
+  "collection": "heidelberg",
+  "number": 14,
+  "numberLabel": "Domingo 14",
+  "title": null,
+  "subtitle": "Deus Filho e a Nossa Redenção",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 14,
+  "units": [
+    {
+      "id": "heidelberg-q035-q",
+      "kind": "question",
+      "label": "P. 35",
+      "body": "Que confessa você quando diz que Cristo: 'foi concebido por obra do Espírito Santo; nasceu da virgem Maria'?",
+      "attrs": {
+        "questionNumber": 35
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q035-a",
+      "kind": "answer",
+      "label": "R. 35",
+      "body": "O  eterno  Filho  de  Deus,  o  qual  é  e  permanece  Deus  verdadeiro e eterno, tomou sobre Si a verdadeira natureza humana da carne e do sangue da virgem Maria, pela operação do Espírito Santo.\n\nPor isso, Ele é também a verdadeira semente de Davi, semelhante a Seus irmãos em tudo, porém, sem pecado.",
+      "attrs": {
+        "questionNumber": 35,
+        "refs": [
+          "Jo 1.1; 10.30-36; Rm 1.3; 9.5; Cl 1.15-17; 1Jo 5.20.",
+          "Mt 1.18-23; Jo 1.14; Gl 4.4; Hb 2.14.",
+          "Lc 1.35.",
+          "2Sm 7.12-16; Sl 132.11; Mt 1.1; Lc 1.32; Rm 1.3.",
+          "Fp 2.7; Hb 2.17.",
+          "Hb 4.15; 7.26, 27."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q036-q",
+      "kind": "question",
+      "label": "P. 36",
+      "body": "Que benefício você recebe de Cristo ter sido concebido e nascido sem pecado?",
+      "attrs": {
+        "questionNumber": 36
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q036-a",
+      "kind": "answer",
+      "label": "R. 36",
+      "body": "Ele é o nosso Mediador, e com a Sua inocência e perfeita santidade cobre aos olhos de Deus o meu pecado, no qual fui concebido e nascido.",
+      "attrs": {
+        "questionNumber": 36,
+        "refs": [
+          "1Tm 2.5, 6; Hb 9.13-15.",
+          "Rm 8.3, 4; 2Co 5.21; Gl 4.4, 5; 1Pe 1.18, 19."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

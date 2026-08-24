@@ -1,0 +1,40 @@
+{
+  "id": "psalm-119-137-144-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.137-144",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-137-144",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 218,
+  "units": [
+    {
+      "id": "psalm-119-137-144-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>137</sup> Justo\\_és, Senhor, teus juízos retos são.\n<sup>138</sup> Teus testemunhos que tu ordenaste\nSão retos e também muito fiéis.\n<sup>139</sup> E consumido eu já me encontro\nDe zelo, pois os inimigos meus\nSe esqueceram da tua palavra.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-137-144-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>140</sup> Mui pura é\\_a palavra do Senhor.\nPor isso, é que o teu servo\\_a ama.\n<sup>141</sup> Pequeno\\_e desprezado, sim, sou eu,\nMas não me\\_esqueço dos teus mandamentos.\n<sup>142</sup> Eterna é\\_a justiça do Senhor;\nE tua lei, tua lei é a verdade.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-137-144-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>143</sup> Veio angústia e tribulação,\nSim, sobre mim eis que elas vieram,\nMas meu prazer são os preceitos teus.\n<sup>144</sup> E a justiça dos teus testemunhos\nEterna é. Te peço, ó Deus meu:\nSabedoria dá-me pra que\\_eu viva.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

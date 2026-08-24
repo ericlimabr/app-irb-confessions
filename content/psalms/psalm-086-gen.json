@@ -1,0 +1,72 @@
+{
+  "id": "psalm-086-gen",
+  "collection": "psalms",
+  "number": 86,
+  "numberLabel": "Salmo 86",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-086",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 141,
+  "units": [
+    {
+      "id": "psalm-086-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus, inclina\\_os teus ouvidos.\nÓ Senhor, me dá respostas,\nPois necessitado\\_estou\nE me\\_encontro\\_em aflição.\n<sup>2</sup> Deus, preserva\\_a minha alma,\nPois, Senhor, sou piedoso.\nSalva este servo teu,\nServo que confia\\_em ti.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-086-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Ó Senhor, te compadece,\nSim, de mim te compadece.\nPois continuamente\\_estou\nA clamar a ti, meu Deus.\n<sup>4</sup> Do teu servo\\_a alma\\_alegra,\nPois a ti, Senhor, elevo,\nSim, elevo\\_a alma\\_a ti,\n<sup>5</sup> Pois és compassivo\\_e bom.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-086-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Tu és bom e compassivo.\nTu, Senhor, és mui benigno\nPara todo\\_aquele que\nAo teu nome invocar.\n<sup>6</sup> Minha oração escuta,\nMinha súplica atende.\n<sup>7</sup> Na angústia,\\_eu clamo a ti,\nPois respondes-me, Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-086-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Dentre\\_os deuses não existe\nUm, Senhor, que\\_a ti se\\_iguale.\nQuanto\\_às obras do Senhor,\nNada semelhante há.\n<sup>9</sup> Tu fizeste\\_os povos todos,\nQue te louvarão, prostrados.\n<sup>10</sup> Grande\\_és, maravilhas dás\nE somente tu és Deus!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-086-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>11</sup> Teu caminho,\\_ó Deus, me\\_ensina\nE\\_andarei na tua verdade.\nO meu coração dispõe:\nQue\\_ele tema\\_ao nome teu.\n<sup>12</sup> Graças te darei, Senhor meu,\nDo meu ser, glória\\_ao teu nome!\n<sup>13</sup> Mui gracioso\\_és para mim,\nMe livraste de morrer.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-086-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>14</sup> Violentos e soberbos\nContra mim já se levantam,\nMinha vida\\_a\\_ameaçar\nSem considerar a ti.\n<sup>15</sup> Mas tu és Deus compassivo,\nMui gracioso\\_e paciente.\nVerdadeiro\\_és tu, Senhor,\nE misericórdia tens.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-086-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>16</sup> Ó Senhor, pra mim te volta\nE de mim te compadece.\nDá tua força\\_ao servo teu,\nVem trazer-lhe salvação.\n<sup>17</sup> Dá-me um sinal da graça,\nPra que\\_o veja\\_o que me\\_oprime\nE se envergonhe, pois\nTu és meu ajudador.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

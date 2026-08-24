@@ -1,0 +1,48 @@
+{
+  "id": "psalm-119-081-088-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.81-88",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-081-088",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 210,
+  "units": [
+    {
+      "id": "psalm-119-081-088-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>81</sup> A minha alma\\_está\\_a desfalecer\nEnquanto\\_a tua salvação aguardo,\nMas na palavra tua\\_esperarei.\n<sup>82</sup> Esmorecidos já estão meus olhos\nDe tanto\\_em tua promessa esperar.\nPergunto: “Quando me trarás consolo?”",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-081-088-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>83</sup> Pois a um odre\\_em meio ao vapor\nJá me\\_assemelho. Tal é meu aspecto,\nMas não me\\_esqueço dos decretos teus.\n<sup>84</sup> Quantos serão os dias do teu servo?\nQuando, Senhor, farás justiça\\_a mim\nE punirás os meus perseguidores?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-081-088-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>85</sup> Abriram covas pra me colocar\nSoberbos homens, os quais não se\\_importam\nEm caminhar segundo\\_a tua lei.\n<sup>86</sup> Teus mandamentos todos são verdade\nOh! Me socorre, me socorre, pois\nInjustamente eu sou perseguido.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-119-081-088-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>87</sup> Na terra, quase consumido fui;\nDa minha vida, quase deram cabo,\nMas teus preceitos não abandonei.\n<sup>88</sup> Conforme teu favor, me vivifica;\nE,\\_então, teus mandamentos guardarei,\nSim, tudo que sair da tua boca.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

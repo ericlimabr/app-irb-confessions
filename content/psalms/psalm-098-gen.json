@@ -1,0 +1,48 @@
+{
+  "id": "psalm-098-gen",
+  "collection": "psalms",
+  "number": 98,
+  "numberLabel": "Salmo 98",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-098",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 160,
+  "units": [
+    {
+      "id": "psalm-098-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A Deus cantai um novo canto\nPois maravilhas Ele fez.\nPor sua destra\\_e braço santo,\nVitória Ele alcançou.\n<sup>2</sup> O Senhor Deus já fez notória,\nNotória\\_a sua salvação;\nManifestou sua justiça\nPerante os olhos das nações.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-098-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Lembrou-se da misericórdia\nPra com a casa de\\_Israel;\nLembrou-se da fidelidade\nPra com a casa de\\_Israel.\nVós todos os confins da terra,\nVistes a sua salvação.\n<sup>4</sup> Cantai a Deus mui jubilosos;\nLouvai, alegres, e\\_aclamai.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-098-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Cantai com harpas os louvores;\nA Deus com harpa\\_e voz cantai.\n<sup>6</sup> Tocai trombetas e buzinas\nPerante\\_o Senhor Deus, que\\_é Rei;\nSim, exultai perante Ele.\n<sup>7</sup> Ruja\\_em sua plenitude o mar;\nO mundo com seus habitantes\nBramem ao nome do Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-098-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Os montes cantem jubilosos;\nOs rios palmas, sim, batei\n<sup>9</sup> Perante Deus, porque a terra\nO Senhor Deus virá julgar.\nDeus julgará o mundo todo,\nSim, com justiça julgará\nE, com a sua equidade,\nOs povos todos julgará.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

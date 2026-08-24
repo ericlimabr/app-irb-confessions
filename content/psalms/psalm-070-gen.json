@@ -1,0 +1,32 @@
+{
+  "id": "psalm-070-gen",
+  "collection": "psalms",
+  "number": 70,
+  "numberLabel": "Salmo 70",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-070",
+  "attrs": {
+    "attribution": "Lucas Freire / Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 115,
+  "units": [
+    {
+      "id": "psalm-070-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Deus, te\\_apressa\\_em me livrar!\nSenhor, vem, logo, socorrer-me.\n<sup>2</sup> Sejam cobertos de vexame\nQuem minha vida quer tirar.\nRecue, bem envergonhado,\nQuem se compraz no meu sofrer.\n<sup>3</sup> Quem diz “Bem-feito, muito bem”\nJá volte\\_atrás embaraçado.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-070-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Quem te procura, ó Senhor,\nFolgue\\_e jubile\\_em ti pra sempre.\n“Que seja Deus magnificado”\nDiga quem ama\\_a salvação.\n<sup>5</sup> Sou pobre e necessitado.\nÓ Deus, te\\_apressa\\_em me valer,\nNão te detenhas, ó Senhor!\nÉs meu libertador e\\_amparo!",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

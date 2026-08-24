@@ -1,0 +1,60 @@
+{
+  "id": "heidelberg-ld08",
+  "collection": "heidelberg",
+  "number": 8,
+  "numberLabel": "Domingo 8",
+  "title": null,
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 8,
+  "units": [
+    {
+      "id": "heidelberg-q024-q",
+      "kind": "question",
+      "label": "P. 24",
+      "body": "Como se dividem esses artigos?",
+      "attrs": {
+        "questionNumber": 24
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q024-a",
+      "kind": "answer",
+      "label": "R. 24",
+      "body": "Em três partes.\n- a primeira é sobre Deus o Pai e a nossa criação;\n- a segunda é sobre Deus o Filho e a nossa redenção;\n- a terceira é sobre Deus o Espírito Santo e a nossa santificação.",
+      "attrs": {
+        "questionNumber": 24
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q025-q",
+      "kind": "question",
+      "label": "P. 25",
+      "body": "Por que é que você fala em três Pessoas: Pai, Filho e Espírito Santo; visto que só existe um único Deus?",
+      "attrs": {
+        "questionNumber": 25
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q025-a",
+      "kind": "answer",
+      "label": "R. 25",
+      "body": "Porque o próprio Deus se revelou de tal maneira em Sua Palavra que essas três Pessoas distintas são o único, verdadeiro e eterno Deus.",
+      "attrs": {
+        "questionNumber": 25,
+        "refs": [
+          "Dt 6.4; Is 44.6; 45.5; 1Co 8.4, 6.",
+          "Gn 1.2, 3; Is 61.1; 63.8-10; Mt 3.16, 17; 28.18, 19; Lc 4.18; Jo 14.26; 15.26; 2Co 13.14; Gl 4.6; Tt 3.5, 6."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

@@ -39,7 +39,8 @@ export const DOC_ID_PATTERNS = {
   creeds: /^creed-[a-z0-9]+(-[a-z0-9]+)*$/,
   belgic: /^belgic-art\d{2}$/,
   heidelberg: /^heidelberg-ld\d{2}$/,
-  dort: /^dort-h[1-5]$/,
+  // Dort: 4 documentos de capítulo (o 3º/4º combinados → dort-h3-4) + a Conclusão.
+  dort: /^dort-(h[1-5]|h3-4|conclusion)$/,
   forms: /^form-[a-z0-9]+(-[a-z0-9]+)*$/,
   'church-order': /^church-order-art\d{3}$/,
   minutes: /^minutes-\d{4}-\d{2}$/,

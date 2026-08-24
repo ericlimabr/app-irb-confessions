@@ -1,0 +1,33 @@
+{
+  "id": "belgic-art30",
+  "collection": "belgic",
+  "number": 30,
+  "numberLabel": "Art. 30",
+  "title": "O governo da igreja",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 30,
+  "units": [
+    {
+      "id": "belgic-art30-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que a verdadeira igreja deve ser governada conforme a ordem espiritual que o nosso Senhor nos ensinou em Sua Palavra. Deve haver ministros ou pastores para pregarem a Palavra de Deus e para administrarem os sacramentos; deve haver também presbíteros e diáconos para  formarem  com  os  pastores  o  conselho  da  igreja.  Assim preservam eles a verdadeira religião e zelam para que a sã doutrina siga o seu curso, para que os maus sejam disciplinados de forma espiritual e sejam contidos e também para que os pobres e todos os aflitos sejam socorridos e consolados segundo as suas necessidades. Assim tudo será bem feito e com boa ordem quando tais homens fiéis são escolhidos segundo a regra que o apóstolo Paulo deu a Timóteo.",
+      "attrs": {
+        "refs": [
+          "At 20.28; Ef 4.11, 12; 1Tm 3.15; Hb 13.20, 21.",
+          "Lc 1.2; Lc 10.16; Jo 20.23; Rm 10.14; 1Co 4.1; 2Co 5.19, 20; 2Tm 4.2.",
+          "At 14.23; Tt 1.5.",
+          "1Tm 3.8-10.",
+          "Fp 1.1; 1Tm 4.14.",
+          "At 6.1-4; Tt 1.7-9.",
+          "1Co 4.2.",
+          "1Tm 3."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

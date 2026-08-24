@@ -1,0 +1,96 @@
+{
+  "id": "psalm-042-har",
+  "collection": "psalms",
+  "number": 42,
+  "numberLabel": "Salmo 42",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-042",
+  "attrs": {
+    "attribution": "CBS - Lauda Anima"
+  },
+  "sortOrder": 72,
+  "units": [
+    {
+      "id": "psalm-042-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Como\\_a corça que suspira\nPelas águas a correr,\nMinha alma\\_assim suspira,\nSim, por ti suspira,\\_ó Deus.\n<sup>2</sup> A minha\\_alma\\_está sedenta\nDo Deus vivo, do Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-042-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Quando\\_irei me ver presente\nAnte\\_a face do Senhor?\n<sup>3</sup> Minhas lágrimas de dia\nE de noite me sustêm,\nPois me dizem, de contínuo:\n“O teu Deus onde\\_estará?”",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-042-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Dentro\\_em mim, minha\\_alma chora\nQuando lembro\\_a multidão\nQue\\_eu, alegre, conduzia,\nPara\\_a casa do Senhor\nEntre gritos de\\_alegria,\nFestejando em louvor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-042-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>5</sup> Por que\\_estás tão triste,\\_ó alma?\nPerturbada dentro\\_em mim?\nNo Senhor, teu Deus, espera,\nPois ainda\\_o louvarei.\nAo meu Deus, o meu auxílio,\nEu ainda louvarei.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-042-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>6</sup> Abatida\\_está minha\\_alma,\nAbatida dentro\\_em mim.\nE de ti, então, me lembro,\nLá nas terras do Jordão,\nEm Hermom, ali no monte\nE no\\_outeiro de Mizar.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-042-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>7</sup> Ao fragor das catadupas,\nUm abismo\\_ao outro\\_atrai.\nÓ Senhor, as tuas vagas\nTêm passado sobre mim.\nSim, ó Deus, as tuas ondas\nTêm passado sobre mim.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-042-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>8</sup> Porém, Deus, durante\\_o dia,\nMe dispensa\\_o seu favor,\nE, de noite, está comigo\nO seu canto,\\_e,\\_então, a Deus,\nO Senhor da minha vida,\nFaço\\_a minha oração.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-042-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>9</sup> Digo a Deus, a minha rocha:\n“Ó Senhor, por qual razão\nMe\\_olvidaste, me\\_esqueceste?\nPor que hei de lamentar\nSob os meus opositores,\nSob a sua opressão?”",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-042-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>10</sup> Esmigalham-se\\_os meus ossos\nAo insultos receber,\nQuando meus opositores\nVêm dizer perante mim:\n“Onde está, onde se\\_encontra\nO teu Deus, o teu Senhor?”",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-042-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>11</sup> Por que\\_estás tão triste,\\_ó alma?\nPerturbada dentro\\_em mim?\nNo Senhor, teu Deus, espera,\nPois ainda\\_o louvarei.\nAo meu Deus, o meu auxílio,\nEu ainda louvarei.",
+      "attrs": {},
+      "sortOrder": 10
+    }
+  ]
+}

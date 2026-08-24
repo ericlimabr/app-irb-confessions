@@ -1,0 +1,48 @@
+{
+  "id": "psalm-063-gen",
+  "collection": "psalms",
+  "number": 63,
+  "numberLabel": "Salmo 63",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-063",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 105,
+  "units": [
+    {
+      "id": "psalm-063-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Deus, tu és meu forte Deus;\nAnsiosamente, eu te busco.\nSede de ti tem minha alma;\nO corpo meu te\\_almeja,\\_ó Deus,\nQual terra seca e cansada.\n<sup>2</sup> Assim, contemplo\\_a ti, ó Deus,\nNo santuário teu, Senhor,\nPra ver a tua força\\_e glória.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-063-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Melhor que\\_a vida\\_a graça é.\nA ti meus lábios dão louvores.\n<sup>4</sup> Assim, me cumpre bendizer-te\nEnquanto vivo\\_eu estiver.\nAs mãos levanto em teu nome.\n<sup>5</sup> Tal qual gordura a fartar,\nAssim minha\\_alma farta\\_está.\nMeus lábios louvam jubilosos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-063-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Quando no leito meu estou,\nDurante a noite, acordado,\nDe ti recordo\\_e\\_em ti medito,\n<sup>7</sup> Porque tens sido\\_auxílio meu.\nSenhor, à sombra de tuas asas,\nEu, jubiloso, cantarei.\n<sup>8</sup> Minha\\_alma se apega\\_a ti;\nA tua destra me ampara.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-063-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Porém, quem minha alma quer,\nBuscando destruir-me\\_a vida,\nVai se\\_abismar nas profundezas.\n<sup>10</sup> Serão o pasto dos chacais,\nEntregues ao poder da\\_espada.\n<sup>11</sup> Porém, o rei se\\_alegra\\_em Deus\nE todo que por Deus jurar,\nPois calará os mentirosos.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

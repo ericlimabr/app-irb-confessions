@@ -1,0 +1,91 @@
+{
+  "id": "heidelberg-ld40",
+  "collection": "heidelberg",
+  "number": 40,
+  "numberLabel": "Domingo 40",
+  "title": null,
+  "subtitle": "Os Dez Mandamentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 40,
+  "units": [
+    {
+      "id": "heidelberg-q105-q",
+      "kind": "question",
+      "label": "P. 105",
+      "body": "O que exige Deus no sexto mandamento?",
+      "attrs": {
+        "questionNumber": 105
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q105-a",
+      "kind": "answer",
+      "label": "R. 105",
+      "body": "Que eu não devo desonrar, odiar, injuriar nem matar o meu próximo por pensamentos, palavras, ou gestos e muito menos por ações, por mim mesmo ou através de outros; antes, devo fazer morrer todo desejo de vingança.\n\nAlém disso, não devo me fazer mal nem me expor levianamente ao perigo.\n\nPor isso também o governo empunha a espada para impedir homicídios.",
+      "attrs": {
+        "questionNumber": 105,
+        "refs": [
+          "Gn 9.6; Lv 19.17, 18; Mt 5.21, 22; 26.52.",
+          "Pv 25.21, 22; Mt 18.35; Rm 12.19; Ef 4.26.",
+          "Mt 4.7; 26.52; Rm 13.11-14.",
+          "Gn 9.6; Êx 21.14; Rm 13.4."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q106-q",
+      "kind": "question",
+      "label": "P. 106",
+      "body": "Mas, esse mandamento fala somente de matar?",
+      "attrs": {
+        "questionNumber": 106
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q106-a",
+      "kind": "answer",
+      "label": "R. 106",
+      "body": "Ao nos proibir de matar Deus nos ensina que detesta a raiz do homicídio, a saber: a inveja, o ódio, a ira e o desejo de vingança e que Ele considera tudo isso como homicídio.",
+      "attrs": {
+        "questionNumber": 106,
+        "refs": [
+          "Pv 14.30; Rm 1.29; 12.19; Gl 5.19-21; Tg 1.20; 1Jo 2.9-11.",
+          "1Jo 3.15."
+        ]
+      },
+      "sortOrder": 4
+    },
+    {
+      "id": "heidelberg-q107-q",
+      "kind": "question",
+      "label": "P. 107",
+      "body": "Então, basta que não matemos o nosso próximo dessa maneira?",
+      "attrs": {
+        "questionNumber": 107
+      },
+      "sortOrder": 5
+    },
+    {
+      "id": "heidelberg-q107-a",
+      "kind": "answer",
+      "label": "R. 107",
+      "body": "Não.\n\nDeus ao condenar a inveja, o ódio, a ira e o desejo de vingança nos ordena a amar os nossos inimigos como a nós mesmos, a  demonstrar paciência,  paz,  mansidão,  misericórdia  e  amizade  para  com  ele, a protegê-lo do mal o tanto que pudermos e a fazer o bem até mesmo aos nossos inimigos.",
+      "attrs": {
+        "questionNumber": 107,
+        "refs": [
+          "Mt 7.12; 22.39; Rm 12.10.",
+          "Mt 5.5; Lc 6.36; Rm 12.10, 18; Gl 6.1, 2; Ef 4.2; Cl 3.12; 1Pe 3.8.",
+          "Êx 23.4, 5; Mt 5.44, 45; Rm 12.20."
+        ]
+      },
+      "sortOrder": 6
+    }
+  ]
+}

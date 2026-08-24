@@ -1,0 +1,48 @@
+{
+  "id": "psalm-036-gen",
+  "collection": "psalms",
+  "number": 36,
+  "numberLabel": "Salmo 36",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-036",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 62,
+  "units": [
+    {
+      "id": "psalm-036-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A voz da transgressão está\nNo coração do pecador,\nE diante dos seus olhos\nNão há nenhum temor de Deus,\n<sup>2</sup> Porque a sua transgressão\nSeus olhos lisonjeia\nE diz que todo o seu mal\nNunca achado há de ser\nE nem é detestável.\n<sup>3</sup> Malícia é o seu falar,\nDiscernimento renegou\nE\\_a prática correta.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-036-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> No leito seu, planeja\\_o mal;\nDetém-se no caminho mau;\nDo mal não desapega.\n<sup>5</sup> Tua bondade chega\\_aos céus,\nE tua fieldade,\\_ó Deus,\nChega até as nuvens.\n<sup>6</sup> Como\\_as montanhas do Senhor,\nAssim tua justiça é;\nE, qual profundo\\_abismo,\nSão teus juízos, ó Senhor.\nOs homens e os animais,\nSenhor, tu os preservas.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-036-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Quão preciosa, ó Senhor,\nTua benignidade é;\nE os filhos dos homens\nBuscam se acolher em ti,\nSim, eles buscam se\\_acolher,\nÀ sombra das tuas asas.\n<sup>8</sup> Farta a tua casa\\_está\nCom abundância, e\\_a beber,\nBeber tuas delícias,\n<sup>9</sup> Porque está em ti, Senhor,\nDa vida o manancial.\nEm ti a luz nós vemos.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-036-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Aos que conhecem ao Senhor\nTua bondade tu darás\nSempre continuamente.\nE a justiça do Senhor\nAos retos em seu coração\nPra sempre permanece.\n<sup>11</sup> Não venha sobre mim o pé\nDa insolência\\_a me calcar\nNem venha\\_a mão do ímpio.\n<sup>12</sup> Caídos todos já estão\nE já não podem levantar\nOs ímpios, malfeitores.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "psalm-145-gen",
+  "collection": "psalms",
+  "number": 145,
+  "numberLabel": "Salmo 145",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-145",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 273,
+  "units": [
+    {
+      "id": "psalm-145-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus meu e Rei, eu te exaltarei.\nTeu nome para sempre bendirei.\n<sup>2</sup> Todos os dias, eu te bendirei,\nPra sempre o teu nome louvarei\n<sup>3</sup> Mui digno de louvor é o Senhor Deus,\nGrandioso; sua grandeza\\_é insondável\n<sup>4</sup> Contar-se-á de geração a outra\nAs tuas obras, feitos poderosos.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-145-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Meditarei no glorioso\\_esplendor\nDa tua majestade, ó Senhor.\nMeditarei no glorioso\\_esplendor\nDas tuas maravilhas, ó Senhor.\n<sup>6</sup> Falar-se-á dos teus tremendos feitos;\nE falarei, ó Deus, da tua grandeza.\n<sup>7</sup> Tua bondade vai ser divulgada;\nE tua justiça vai ser celebrada.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-145-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>8</sup> Bom e misericordioso\\_é Deus;\nClemente\\_é Deus, tardio em se irar.\n<sup>9</sup> E pra com todos bom é o Senhor;\nSuas obras, permeadas de mercê;\nTodas as suas obras, permeadas\nCom as suas misericórdias ternas.\n<sup>10</sup> Graças te renderão as tuas obras;\nE os teus santos bendirão teu nome.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-145-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>11</sup> Da glória do teu reino falarão\nE teu poder também confessarão,\n<sup>12</sup> Pra que notórios venham se tornar\nTeus grandiosos feitos de poder,\nE\\_a glória do teu reino majestoso\nSeja visível aos filhos dos homens\n<sup>13</sup> Ó Deus, teu reino é um reino\\_eterno;\nDominas de\\_uma geração a outra.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-145-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>14</sup> Aos que vacilam o Senhor sustém;\nApruma todo que prostrado\\_está.\n<sup>15</sup> Esperam todos os olhos em ti;\nA todos o\\_alimento dá\\_o Senhor.\n<sup>16</sup> Abres a mão a todo ser vivente\nE\\_o satisfazes de benevolência.\n<sup>17</sup> Justo\\_é\\_o Senhor em seus caminhos todos;\nBenigno\\_é Deus em todos os seus feitos.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-145-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>18</sup> Perto\\_está Deus de quem o invocar,\nDos que,\\_em verdade,\\_invocam ao Senhor.\n<sup>19</sup> Aos que o temem Deus atenderá;\nOuve\\_o clamor e há de os salvar.\n<sup>20</sup> O Senhor guarda\\_a todos que o amam,\nPorém os ímpios vão ser destruídos.\n<sup>21</sup> Profira\\_a minha boca\\_os seus louvores,\nE todo ser seu santo nome louve.",
+      "attrs": {},
+      "sortOrder": 6
+    }
+  ]
+}

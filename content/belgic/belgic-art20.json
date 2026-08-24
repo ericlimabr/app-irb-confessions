@@ -1,0 +1,29 @@
+{
+  "id": "belgic-art20",
+  "collection": "belgic",
+  "number": 20,
+  "numberLabel": "Art. 20",
+  "title": "A justiça e misericórdia de Deus em Cristo",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 20,
+  "units": [
+    {
+      "id": "belgic-art20-p1",
+      "kind": "article",
+      "label": null,
+      "body": "Cremos que Deus, que é perfeitamente misericordioso e justo, enviou o Seu Filho para assumir a mesma natureza em que se cometera a desobediência, para fazer satisfação nessa mesma natureza e suportar o castigo do pecado através de Seu sofrimento e morte mui amargos. Deus, assim, manifestou a Sua justiça contra o Seu Filho quando colocou sobre Ele as nossas iniquidades e sobre nós, que éramos culpados e merecedores da condenação eterna, derramou a Sua bondade e misericórdia. Por amor perfeitíssimo Ele entregou o Seu Filho para morrer por nós e o ressuscitou para a nossa justificação, a fim de que por Ele possamos obter imortalidade e vida eterna.",
+      "attrs": {
+        "refs": [
+          "Rm 8.3.",
+          "Hb 2.14.",
+          "Rm 3.25, 26; Rm 8.32.",
+          "Rm 4.25."
+        ]
+      },
+      "sortOrder": 1
+    }
+  ]
+}

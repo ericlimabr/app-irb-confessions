@@ -1,0 +1,24 @@
+{
+  "id": "hymn-097",
+  "collection": "hymns",
+  "number": 97,
+  "numberLabel": "Hino 97",
+  "title": "AMÉM TRÍPLICE",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ENCERRAMENTO E DESPEDIDA"
+  },
+  "sortOrder": 97,
+  "units": [
+    {
+      "id": "hymn-097-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Amém, amém, amém.",
+      "attrs": {},
+      "sortOrder": 1
+    }
+  ]
+}

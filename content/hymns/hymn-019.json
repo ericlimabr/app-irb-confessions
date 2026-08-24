@@ -1,0 +1,49 @@
+{
+  "id": "hymn-019",
+  "collection": "hymns",
+  "number": 19,
+  "numberLabel": "Hino 19",
+  "title": "TU ÉS FIEL, SENHOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Thomas Obediah Chisholm / Joan Sutton, Lídia Bueno e Hope Silva"
+  },
+  "sortOrder": 19,
+  "units": [
+    {
+      "id": "hymn-019-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Tu és fiel, Senhor, meu Pai celeste!\nPleno poder aos teus filhos darás.\nNunca mudaste, tu nunca faltaste.\nTal como eras tu sempre serás.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-019-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Tu és fiel, Senhor! Tu és fiel, Senhor!\nDia após dia, com bênçãos sem fim,\nTua mercê me sustenta e guarda.\nTu és fiel, Senhor, fiel assim.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-019-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Flores e frutos, montanhas e mares,\nSol, lua, estrelas no céu a brilhar,\nTudo criaste na terra e nos ares.\nTodo o universo vem, pois, te louvar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-019-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Pleno perdão tu dás, paz, segurança!\nCada momento, me guias, Senhor!\nE, no porvir, oh, que doce esperança,\nDesfrutarei do teu rico favor.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

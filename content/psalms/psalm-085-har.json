@@ -1,0 +1,48 @@
+{
+  "id": "psalm-085-har",
+  "collection": "psalms",
+  "number": 85,
+  "numberLabel": "Salmo 85",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-085",
+  "attrs": {
+    "attribution": "CBS - Veni Emmanuel"
+  },
+  "sortOrder": 140,
+  "units": [
+    {
+      "id": "psalm-085-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Favoreceste\\_a tua terra, Deus,\nE restauraste\\_as posses de Jacó.\n<sup>2</sup> Teu povo perdoaste do mal,\nCobrindo\\_a multidão do seu pecar,\n<sup>3</sup> E contiveste todo\\_o teu furor.\n<sup>4</sup> Ó Deus, tu és a nossa salvação!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-085-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "De sobre nós retira\\_o teu furor\nE vem teu povo restabelecer.\n<sup>5</sup> O teu furor se prolongará\nNo povo\\_e nas futuras gerações?\n<sup>6</sup> Não voltarás a nos vivificar,\nE\\_em ti o povo venha se\\_alegrar?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-085-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>7</sup> Misericórdia mostra\\_e vem salvar.\n<sup>8</sup> Escutarei, pois falarás de paz.\nJamais cometam insensatez.\n<sup>9</sup> A salvação dos justos perto\\_está,\nSim, tua salvação bem perto\\_está,\nPra que tua glória\\_assista\\_a terra,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-085-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> Verdade\\_e graça vieram se\\_encontrar;\nBeijaram-se\\_a justiça e a paz.\n<sup>11</sup> Do céu, justiça baixe\\_o olhar.\nVerdade, sim, da terra vem brotar.\n<sup>12</sup> E fruto bom da terra Deus dará.\n<sup>13</sup> Pegadas justas, sendas se farão.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

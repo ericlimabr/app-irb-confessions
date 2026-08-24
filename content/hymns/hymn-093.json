@@ -1,0 +1,41 @@
+{
+  "id": "hymn-093",
+  "collection": "hymns",
+  "number": 93,
+  "numberLabel": "Hino 93",
+  "title": "Ó CRISTO, PÃO DA VIDA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "IGREJA E SACRAMENTOS",
+    "author": "Richard Holden"
+  },
+  "sortOrder": 93,
+  "units": [
+    {
+      "id": "hymn-093-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Ó Cristo, Pão da Vida,\nDescido lá do céu,\nO Pão de nossas almas\nQue o Pai de amor nos deu!\nEm ti nos alegramos,\nProvando, mesmo aqui,\nDo alento e da bondade\nQue achamos sempre em ti.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-093-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Da eterna e santa vida,\nDa qual tu és o Autor,\nSustento e fortaleza\nÉs tu, também, Senhor!\nSem ti não nos assistem\nNem forças nem poder;\nDe ti, nosso alimento,\nQueremos nós viver.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-093-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Ó Cristo, Pão da Vida,\nA ti louvamos nós!\nE ao Pai também erguemos\nA nossa alegre voz.\nAgradecemos sempre\nO amor que aqui nos deu\nSustento verdadeiro,\nNo santo Pão do Céu.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "psalm-080-har",
+  "collection": "psalms",
+  "number": 80,
+  "numberLabel": "Salmo 80",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-080",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 131,
+  "units": [
+    {
+      "id": "psalm-080-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1-3</sup> Deus de\\_Israel, teu povo guie\nE ouve-nos, vem, auxilie.\nRevele-nos teu esplendor.\nDesperte,\\_herói, nosso Senhor!\nVem sobre nós resplandecer\nE salve-nos com teu poder.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-080-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Levante,\\_ó Deus, e nos liberte.\nTeu povo vive\\_em tanto aperto.\nEntronizado\\_em querubim,\nLevante\\_e mostra\\_a Efraim\nTodo\\_o poder e esplendor.\nRestaura-nos, nosso Senhor!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-080-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4-7</sup> Deus dos Exércitos, clemência!\nPor que não ouve\\_a penitência?\nSão lágrimas o nosso pão,\nSacias-nos de\\_humilhação.\nVem sobre nós resplandecer\nE salve-nos com teu poder.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-080-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8-11</sup> Videira tu desenterraste;\nCom todo\\_o zelo, o cuidaste.\nCrescido no Egito,\\_o\\_amou;\nPra Canaã o transplantou.\nBeleza plena\\_e\\_em seu vigor,\nOs montes cobre, todo\\_em flor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-080-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12-13</sup> Por que a cerca o quebraste,\nRoubado\\_o fruto\\_o despojaste?\nÉ dada\\_a toda destruição,\nÉ\\_o javali sua perdição,\nRepasto vira\\_aos animais.\nSenhor, por que não o salvais?",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-080-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>14-17</sup> Dos altos céus, nossos caminhos\nVês e proteges tua vinha.\nVês que a tua mão plantou;\nAqui, teu filho se criou.\nNão o\\_extermine\\_em teu furor;\nE\\_às cinzas volte, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-080-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>18-19</sup> Então, de ti não apartamos;\nTeu nome\\_à fronte nós gravamos.\nTua grandeza vem brilhar,\nQue\\_aurora, pra te gloriar.\nVem sobre nós resplandecer\nE salve-nos por teu poder.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

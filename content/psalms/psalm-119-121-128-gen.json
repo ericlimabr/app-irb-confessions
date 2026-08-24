@@ -1,0 +1,48 @@
+{
+  "id": "psalm-119-121-128-gen",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.121-128",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-119-121-128",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 216,
+  "units": [
+    {
+      "id": "psalm-119-121-128-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>121</sup> Juízo e justiça pratiquei.\nOh, não me\\_entregues aos meus opressores.\n<sup>122</sup> Fica por fiador do servo teu;\nPara o bem sê, pois, o fiador meu\nE não permitas minha opressão\nPor parte dos homens que são soberbos.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-121-128-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>123</sup> Meus olhos desfalecem a\\_esperar\nA salvação, que é tua promessa,\nTua promessa de justiça,\\_ó Deus.\n<sup>124</sup> Trata teu servo com misericórdia,\nSegundo tua misericórdia,\\_ó Deus,\nE\\_a mim ensina, pois, os teus decretos.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-121-128-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>125</sup> Sou o teu servo, faz-me entender,\nPra que\\_eu conheça os teus testemunhos.\nDá-me entendimento, ó Senhor.\n<sup>126</sup> Ó meu Senhor, é tempo de\\_intervires,\nPois violada sendo já está,\nA tua lei tem sido violada.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-119-121-128-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>127</sup> Pelos teus mandamentos tenho\\_amor\nMais do que\\_ao puro ouro refinado.\nPelos teus mandamentos tenho\\_amor.\n<sup>128</sup> Creio que todos os teus mandamentos\nEm tudo retos sempre eles são\nE aborreço\\_a senda da mentira.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "psalm-082-har",
+  "collection": "psalms",
+  "number": 82,
+  "numberLabel": "Salmo 82",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-082",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 135,
+  "units": [
+    {
+      "id": "psalm-082-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus, na congregação divina,\nOs réus ao julgamento\\_intima.\n<sup>2</sup> Poderes que vos corrompeis\nE\\_ao malfeitor favoreceis,\n<sup>3</sup> Ouvi: do órfão e\\_o franzino\nPleiteie\\_as causas e destino.\n<sup>4</sup> De\\_encontro\\_ao pobre\\_e\\_aflito vai.\nContra\\_o perverso o guardai.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-082-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Tu que reside nas alturas,\nVesgo\\_e de consciência dura.\nÓ poderosos, teu dever\nNão sabes; não há entender.\n<sup>6</sup> Falei que deuses sois a todos\nE filhos meus de todo modo,\n<sup>7</sup> Mas causas um caos total.\nPreparo-lhes morte banal.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-082-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>8</sup> Levante,\\_ó Deus, e julgue\\_a terra!\nJustiça\\_em tudo se espera.\nQuem se levanta como deus\nCastigue-os pelos lapsos seus.\nDe ti, pois, são nações imensas.\nA tua glória\\_e brilho intenso,\nTua majestade\\_e\\_o teu poder\nNos ilumine\\_o proceder.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

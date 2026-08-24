@@ -1,0 +1,72 @@
+{
+  "id": "psalm-032-har",
+  "collection": "psalms",
+  "number": 32,
+  "numberLabel": "Salmo 32",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-032",
+  "attrs": {
+    "attribution": "CBS - Vox Dilecti"
+  },
+  "sortOrder": 57,
+  "units": [
+    {
+      "id": "psalm-032-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> É mui feliz quem tem perdão da sua transgressão,\nE cuja\\_iniquidade vil, assim, coberta foi.\n<sup>2</sup> Feliz aquele\\_em quem não há engano no seu ser,\nA quem Javé não imputou jamais pecado algum.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-032-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Enquanto\\_eu me calei acerca dos pecados meus,\nOs ossos dentro\\_em mim envelheceram de gemer.\n<sup>4</sup> Pois, dia\\_e noite,\\_a tua mão pesava sobre mim,\nE\\_o meu vigor tornou-se qual estio\\_em sequidão.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-032-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Então, a ti eu confessei o meu pecado\\_e não\nDeixei oculto mal algum e teu perdão ganhei.\nEu disse,\\_então: “confessarei a Deus minha transgressão”;\nE perdoaste\\_a iniquidade do pecado meu.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-032-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> Por isso, todo piedoso\\_a ti suplicará,\nSim, rogará em tempo de poder te encontrar.\nAo transbordarem muitas águas, não o atingirão.\n<sup>7</sup> Tu és esconderijo meu quando\\_em tribulação.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-032-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Com júbilos de salvação, me cercas, ó Senhor.\nTu cercas-me de\\_alegres cantos de libertação.\n<sup>8</sup> “Eu te darei a instrução da senda que deves ir\nE sob as minhas vistas, pois, conselhos te darei”.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-032-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Cavalo\\_e mula não sejais na sua estupidez,\nPois só com freios e cabrestos vão te\\_obedecer.\n<sup>10</sup> O ímpio muito sofrimento\\_ainda irá curtir,\nMas quem confia no Senhor misericórdia tem.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-032-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "O ímpio muito sofrimento\\_ainda\\_irá passar,\nMas quem confia no Senhor misericórdia tem.\n<sup>11</sup> Oh! Alegrai-vos no Senhor, vós justos de coração;\nCantai alegremente\\_a Deus. Ó santos, exultai.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "hymn-037",
+  "collection": "hymns",
+  "number": 37,
+  "numberLabel": "Hino 37",
+  "title": "CRER E OBSERVAR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LEI, CONFISSÃO E PERDÃO",
+    "author": "John Henry Sammis / Salomão Luís Ginsburg"
+  },
+  "sortOrder": 37,
+  "units": [
+    {
+      "id": "hymn-037-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Em Jesus confiar, sua lei observar.\nQue alegria, que bênção, que paz!\nSatisfeito, guardar tudo quanto ordenar\nAlegria perene nos traz.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-037-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Crer e observar tudo quanto ordenar!\nO fiel obedece ao que Cristo mandar!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-037-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "O inimigo falaz, a calúnia mordaz,\nO Senhor saberá desfazer.\nNem tristeza, nem dor, nem intriga maior\nPode o crente fiel abater.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-037-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Grande prova de amor, comunhão no Senhor\nTem o crente zeloso e leal.\nO seu rosto mirar, seus segredos privar!\nÉ consolo que não tem igual.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-037-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Resolutos, Senhor, e com zelo e fervor,\nOs teus passos queremos seguir.\nTeus preceitos guardar, o teu nome exaltar!\nTeu querer temos gosto em cumprir.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

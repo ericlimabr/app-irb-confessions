@@ -1,0 +1,32 @@
+{
+  "id": "psalm-122-gen",
+  "collection": "psalms",
+  "number": 122,
+  "numberLabel": "Salmo 122",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-122",
+  "attrs": {
+    "attribution": "CBS - Saltério de Genebra"
+  },
+  "sortOrder": 228,
+  "units": [
+    {
+      "id": "psalm-122-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Fiquei alegre quando\\_ouvi:\n“Vamos à Casa do Senhor.”\n<sup>2</sup> Pararam, pois, os nossos pés\nÀs portas de Jerusalém.\n<sup>3</sup> Jerusalém, construída\\_estás\nCompacta,\\_<sup>4</sup> aonde sobem, pois,\nAs tribos que são de Deus, Senhor,\nTal como\\_a Israel convém,\nPra graças ao Senhor render,\nAo nome do Senhor dar graças.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-122-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Os tronos justos lá estão,\nTronos da casa de Davi.\n<sup>6</sup> Orai por paz: “Jerusalém,\nQuem te\\_ama possa prosperar!”\n<sup>7</sup> Dentro\\_aos teus muros, reine paz.\nProsperem os palácios teus.\n<sup>8</sup> Pelo amor de\\_amigos e\\_irmãos,\nEu peço: “Haja paz em ti!”\n<sup>9</sup> Eu sempre buscarei teu bem\nPelo amor da Casa de Deus.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

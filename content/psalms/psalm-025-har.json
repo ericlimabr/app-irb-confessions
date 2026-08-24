@@ -1,0 +1,40 @@
+{
+  "id": "psalm-025-har",
+  "collection": "psalms",
+  "number": 25,
+  "numberLabel": "Salmo 25",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-025",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 48,
+  "units": [
+    {
+      "id": "psalm-025-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> A ti minha\\_alma elevo.\n<sup>2</sup> Confio, Senhor, em ti.\nNão seja\\_eu envergonhado\nNem alegrem-se de mim\nMeus contrários. <sup>3</sup> Sei que não\nDeixarás os que te temem.\nEm vergonha\\_acabarão\nOs que falsamente agem.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-025-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Ó Senhor, o teu caminho,\nA palavra dê-me\\_a luz,\nAs veredas indicando,\nPara onde me conduz.\n<sup>5</sup> Guia-me na tua lei\nE ensina fieldade.\nDeus da salvação, eu sei,\nTe espero em verdade.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-025-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Da tua benignidade,\nNão te\\_esqueças, ó Senhor,\nQue desde\\_a antiguidade\nA tua mão nos mostrou\n<sup>7</sup> Não te lembres, ó meu Deus,\nDas minhas iniquidades,\nNem de todos\\_os erros meus\nPor causa da tua bondade.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

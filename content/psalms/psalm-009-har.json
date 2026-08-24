@@ -1,0 +1,104 @@
+{
+  "id": "psalm-009-har",
+  "collection": "psalms",
+  "number": 9,
+  "numberLabel": "Salmo 9",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-009",
+  "attrs": {
+    "attribution": "CBS - Joanna"
+  },
+  "sortOrder": 18,
+  "units": [
+    {
+      "id": "psalm-009-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, eu te louvo com todo\\_o meu ser;\nE tuas proezas todas contarei.\n<sup>2</sup> Em ti exultando, alegrar-me-ei;\nAo teu nome\\_excelso louvor cantarei.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-009-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Ao retrocederem inimigos meus,\nTropeçam e caem diante de ti,\n<sup>4</sup> Pois firmas minha causa, o direito meu.\nNo trono, te\\_assentas com justo julgar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-009-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Censuras nações e o ímpio destróis,\nApagas seu nome por tempos sem fim.\n<sup>6</sup> Quanto\\_aos inimigos, consumidos são;\nRuínas perpétuas, cidades no chão.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-009-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Nenhuma memória deles perdurou,\n<sup>7</sup> Mas fica no trono pra sempre\\_o Senhor,\n<sup>8</sup> No trono erguido, com\\_o fim de julgar,\nO mundo e\\_os povos com justo padrão.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-009-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Refúgio\\_é\\_o Senhor ao opresso também,\nRefúgio nas horas de tribulação.\n<sup>10</sup> Confia em ti quem teu nome detém,\nPorque tu, Senhor, nunca deixas os teus.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-009-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Cantai os louvores ao Deus de Sião,\nDizei entre\\_os povos os feitos de Deus,\n<sup>12</sup> Pois lembra-se\\_aquele que\\_o sangue requer\nE não se esquece do aflito\\_o clamor.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-009-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Tem misericórdia de mim, ó Senhor,\nE vê quantas dores me deram os maus.\nOs que me odeiam me fazem sofrer.\nDas portas da morte me salvas, ó Deus.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-009-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>14</sup> E,\\_assim, entrarei com louvor em Sião,\nCantando nas portas tua salvação.\n<sup>15</sup> Na cova que\\_abriram, nações cairão;\nO laço que\\_armaram prendeu-lhes o pé.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-009-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>16</sup> E bem conhecido se torna\\_o Senhor\nPor causa dos seus julgamentos que faz.\nEnlaçado\\_o ímpio, envolto está\nNas obras traçadas pela própria mão.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-009-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>17</sup> Os ímpios no\\_inferno lançados serão;\nTambém as nações que se\\_esquecem de Deus.\n<sup>18</sup> O pobre pra sempre\\_esquecido não é,\nNem se frustrará sempre\\_o seu esperar.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-009-har-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>19</sup> Levanta-te,\\_ó Deus! Que não vença\\_o mortal!\nE julgues na tua presença\\_as nações.\n<sup>20</sup> Infunde-lhes medo, Senhor, e\\_as nações\nCientes serão que são simples mortais.",
+      "attrs": {},
+      "sortOrder": 11
+    }
+  ]
+}

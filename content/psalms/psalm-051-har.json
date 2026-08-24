@@ -1,0 +1,32 @@
+{
+  "id": "psalm-051-har",
+  "collection": "psalms",
+  "number": 51,
+  "numberLabel": "Salmo 51",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-051",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 87,
+  "units": [
+    {
+      "id": "psalm-051-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ó Deus, meu Deus, de mim tem compaixão.\nBenigno Deus, misericordioso,\nApaga tu a minha\\_iniquidade\n<sup>2</sup> E purifica-me da transgressão.\n<sup>3</sup> Confesso\\_a ti todo\\_o pecado meu,\nPois ele\\_está diante de mim sempre.\n<sup>4</sup> Foi contra ti, Senhor, que eu pequei;\nTu serás justo\\_e puro em julgar-me.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-051-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Foi na iniquidade que\\_eu nasci;\n<sup>6</sup> Sei que tu queres coração bem limpo.\n<sup>7</sup> Pois, lava-me e fico como\\_a neve,\nMais alvo, sim, <sup>8</sup> e\\_ouvindo júbilo.\n<sup>10</sup> Renova o espírito em mim;\n<sup>11-12</sup> Restitui-me, Senhor, a alegria.\nDa tua salvação sustenta-me;\nNão me repulses da tua presença.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

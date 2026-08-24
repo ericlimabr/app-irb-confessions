@@ -1,0 +1,88 @@
+{
+  "id": "psalm-132-gen",
+  "collection": "psalms",
+  "number": 132,
+  "numberLabel": "Salmo 132",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-132",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 248,
+  "units": [
+    {
+      "id": "psalm-132-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Senhor, te lembra de Davi,\nDe todas suas provações;\n<sup>2</sup> De como quis jurar a Deus,\nO Poderoso de Jacó,\nFazendo votos ao Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-132-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> “À minha tenda não irei\nNem vou ao leito repousar\n<sup>4</sup> Nem sono dar aos olhos meus,\n<sup>5</sup> Até que\\_encontre um lugar\nPro Poderoso de Jacó!”.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-132-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Efrata\\_é onde\\_a arca\\_está?\nNo campo\\_achamos, em Jaar.\n<sup>7</sup> Entremos na habitação,\nAos pés, rendendo\\_adoração.\n<sup>8</sup> Senhor, na arca vem entrar!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-132-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Teus sacerdotes vão vestir\nDe justo\\_aspecto a cingir.\nExultem todos teus fiéis!\n<sup>10</sup> Oh, por Davi, o servo teu,\nO\\_ungido\\_aceita, ó Senhor",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-132-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>11</sup> Promessa firme fez Javé,\nCom juramento,\\_ao rei Davi\nQue dele não se\\_apartará:\n“Da tua carne\\_o sucessor\nFarei subir ao trono teu.”",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-132-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>12</sup> “Se\\_a tua geração guardar\nO pacto que\\_eu testemunhar,\nPromessa que\\_eu vou ensinar,\nEntão, pra sempre,\\_assentarão\nNo trono teu; herdeiros são!”",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-132-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> Eis que\\_o Senhor quis ter Sião,\nQue preferiu e escolheu\nPra ser a sua\\_habitação:\n<sup>14</sup> “Pra sempre\\_é este\\_o meu lugar\nDe\\_habitação e repousar.”",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-132-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>15</sup> “Com abundância, bendirei:\nDe pão seus pobres fartarei.\n<sup>16</sup> Revestirei de salvação,\nOs sacerdotes todos lá.\nFiéis, alegres, cantarão.”",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-132-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>17</sup> “Ali, a força de Davi\nFarei brotar e\\_iluminar;\nA luz pro\\_ungido\\_eu preparei.\n<sup>18</sup> Vexame\\_é da oposição,\nMas sobre si coroa vem!”",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

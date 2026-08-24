@@ -1,0 +1,88 @@
+{
+  "id": "psalm-039-gen",
+  "collection": "psalms",
+  "number": 39,
+  "numberLabel": "Salmo 39",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-039",
+  "attrs": {
+    "attribution": "Arthur Pires e Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 67,
+  "units": [
+    {
+      "id": "psalm-039-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Comigo mesmo\\_eu disse bem assim:\n“Os meus caminhos guardarei;\nPra com a minha língua não pecar,\nMordaça\\_à boca eu porei;\nFarei assim enquanto estiver\nO homem ímpio junto\\_a mim”.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-039-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Quando,\\_em silêncio, eu emudeci,\nCalei-me\\_em relação ao bem;\nEntão, a minha dor se agravou.\n<sup>3</sup> Pôs-se em brasa\\_o coração;\nAteou fogo na meditação;\nEntão, a minha língua\\_abriu:",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-039-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Dá-me, Senhor, a conhecer meu fim\nE\\_a soma, pois, dos dias meus\nPara que\\_eu saiba\\_o quanto frágil sou.\n<sup>5</sup> Tu deste\\_aos dias meus, Senhor,\nO comprimento de\\_alguns palmos só;\nÀ tua presença, nada sou.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-039-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Mas, na verdade, todo homem é,\nMesmo que firme venha\\_estar,\nPura vaidade é\\_o que ele é.\n<sup>6</sup> Tal como sombra, passará.\nEm vão, se\\_agita para bens juntar,\nSem saber quem os levará.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-039-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>7</sup> E eu, Senhor, o que espero, pois?\nMinha\\_esperança é\\_o Senhor.\n<sup>8</sup> Da minha\\_iniquidade vem livrar;\nSenhor, me livra do meu mal.\nNão faças que eu venha me tornar\nAfronta\\_ao tolo, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-039-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Não abro\\_a boca, mudo ficarei,\nPorque fizeste\\_assim a mim.\n<sup>10</sup> O teu flagelo tira já, Senhor,\nPois, pelo golpe da tua mão,\nSenhor, por causa do teu golpear,\nAgora consumido\\_estou.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-039-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>11</sup> Quando castigas com repreensões\nAos homens, por causa do mal,\nTal como\\_a traça, nele tu destróis\nO que de precioso tem.\nSim, com efeito, todo homem é,\nPura vaidade\\_o homem é.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-039-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>12</sup> Ouve, Senhor, a minha oração,\nQuando “socorro” eu gritar.\nNão te\\_emudeças quando podes ver\nAs minhas lágrimas correr.\nÀ tua presença, forasteiro sou\nE peregrino com meus pais.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-039-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>13</sup> Desvia teu olhar, Senhor, de mim\nPara alento eu tomar.\nAntes que\\_eu venha deixar de\\_existir,\nQue\\_alento possa eu tomar,\nAntes que\\_a vida venha me deixar,\nAntes que\\_eu deixe de\\_existir.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

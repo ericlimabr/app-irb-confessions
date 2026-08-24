@@ -1,0 +1,57 @@
+{
+  "id": "hymn-063",
+  "collection": "hymns",
+  "number": 63,
+  "numberLabel": "Hino 63",
+  "title": "LOUVAMOS-TE, Ó DEUS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "William Paton Mackay / James Theodore Houston"
+  },
+  "sortOrder": 63,
+  "units": [
+    {
+      "id": "hymn-063-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Louvamos-te, ó Deus, pelo dom de Jesus,\nQue, por nós, pecadores, morreu sobre a cruz.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-063-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Aleluia! Toda glória te rendemos, Senhor.\nAleluia! Tua graça imploramos. Amém.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-063-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Louvamos-te, ó Deus, pois nos mandas a luz,\nQue, brilhando nas trevas, a Cristo conduz.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-063-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Louvamos-te, ó Deus, por teu Filho Jesus,\nQue foi morto, mas vive no reino da luz.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-063-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Louvamos-te, ó Deus, e rogamos, Senhor:\nDá-nos sempre sentir teu poder, teu amor.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

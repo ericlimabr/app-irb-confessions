@@ -1,0 +1,67 @@
+{
+  "id": "heidelberg-ld29",
+  "collection": "heidelberg",
+  "number": 29,
+  "numberLabel": "Domingo 29",
+  "title": null,
+  "subtitle": "A Santa Ceia",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 29,
+  "units": [
+    {
+      "id": "heidelberg-q078-q",
+      "kind": "question",
+      "label": "P. 78",
+      "body": "Então, o pão e o vinho são transformados no corpo e no sangue reais de Cristo?",
+      "attrs": {
+        "questionNumber": 78
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q078-a",
+      "kind": "answer",
+      "label": "R. 78",
+      "body": "Não.\n\nDo mesmo modo que a água do batismo não se transforma no sangue de Cristo nem é a própria purificação dos pecados, mas é simplesmente um sinal e uma garantia disso da parte de Deus, assim também o pão na Ceia do Senhor não se torna no próprio corpo de Cristo, embora seja chamado de corpo de Cristo conforme a natureza e o uso dos sacramentos.",
+      "attrs": {
+        "questionNumber": 78,
+        "refs": [
+          "Ef 5.26; Tt 3.5.",
+          "Mt 26.26-29.",
+          "1Co 10.16, 17; 11.26-28.",
+          "Gn 17.10, 11; Êx 12.11, 13; 1Co 10.3, 4; 1Pe 3.21."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q079-q",
+      "kind": "question",
+      "label": "P. 79",
+      "body": "Por que, então, Cristo chama o pão de \"Seu corpo\" e o cálice de \"Seu sangue\", ou de a \"nova aliança no Seu sangue\", e por que Paulo fala da comunhão do corpo e do sangue de Cristo?",
+      "attrs": {
+        "questionNumber": 79
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q079-a",
+      "kind": "answer",
+      "label": "R. 79",
+      "body": "Cristo fala dessa maneira por um motivo importante:\n\nEle quer nos ensinar pela Sua ceia que do mesmo modo como o pão e o  vinho  nos  sustentam  a  vida  temporal,  assim  também  o  Seu  corpo crucificado e o Seu sangue derramado são o verdadeiro alimento e a verdadeira bebida das nossas almas para a vida eterna.\n\nE, ainda mais, Ele nos quer assegurar por esse sinal e garantia visíveis, primeiramente, que pela operação do Espírito Santo nós participamos do Seu verdadeiro corpo e sangue tão certo quanto recebemos com a nossa boca esses santos sinais em memória dEle; e em segundo lugar, que  todo  o  Seu  sofrimento  e  obediência  são  tão  certamente  nossos como se  nós  mesmos  tivéssemos  sofrido  e  pago  pelos  nossos  pecados.",
+      "attrs": {
+        "questionNumber": 79,
+        "refs": [
+          "Jo 6.51, 55.",
+          "1Co 10.16, 17; 11.26.",
+          "Rm 6.5-11."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

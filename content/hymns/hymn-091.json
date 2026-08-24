@@ -1,0 +1,41 @@
+{
+  "id": "hymn-091",
+  "collection": "hymns",
+  "number": 91,
+  "numberLabel": "Hino 91",
+  "title": "MULTIDÃO QUE NINGUÉM ENUMERA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "IGREJA E SACRAMENTOS",
+    "author": "autor desconhecido"
+  },
+  "sortOrder": 91,
+  "units": [
+    {
+      "id": "hymn-091-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Multidão que ninguém enumera\nDe toda parte e línguas mil,\nEm pé, ante o trono divino,\nEu vi com as palmas nas mãos\nAo Cordeiro erguendo seu louvor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-091-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "São os salvos que foram opressos,\nPassaram por tribulação,\nSofreram, mas perseveraram.\nE agora de vestes brancas,\nCantam cheios de alegria e paz.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-091-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Não terão nunca mais fome ou sede\nNão cairá sobre eles o sol.\nO próprio Cordeiro os dirige\nÀs fontes das águas vivas,\nE Deus mesmo os vai reconfortar.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

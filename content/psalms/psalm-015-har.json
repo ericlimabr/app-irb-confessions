@@ -1,0 +1,40 @@
+{
+  "id": "psalm-015-har",
+  "collection": "psalms",
+  "number": 15,
+  "numberLabel": "Salmo 15",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-015",
+  "attrs": {
+    "attribution": "CBS - Something for Jesus"
+  },
+  "sortOrder": 30,
+  "units": [
+    {
+      "id": "psalm-015-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Quem vai morar, Senhor, no teu santo templo?\nQuem há de residir no teu monte,\\_ó Deus?\n<sup>2</sup> Quem vive\\_em retidão, tem justo proceder,\nSó a verdade diz no seu coração.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-015-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Não vive\\_a difamar, não faz mal a outrem;\nAo seu vizinho não quer injuriar.\n<sup>4</sup> Despreza\\_o homem vil, honra\\_ao que teme\\_a Deus;\nJura com perda\\_até, mas não volta\\_atrás.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-015-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> O seu dinheiro não cede com usura,\nSuborno\\_algum jamais pensa receber\nPara incriminar quem inocente é.\nQuem assim proceder não se\\_abalará.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

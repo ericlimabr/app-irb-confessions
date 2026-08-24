@@ -1,0 +1,72 @@
+{
+  "id": "psalm-138-har",
+  "collection": "psalms",
+  "number": 138,
+  "numberLabel": "Salmo 138",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-138",
+  "attrs": {
+    "attribution": "CBS - Sine Nomine"
+  },
+  "sortOrder": 260,
+  "units": [
+    {
+      "id": "psalm-138-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Render-te-ei a minha gratidão;\nLouvores cantarei a ti, Senhor.\nDe todo\\_o coração, eu cantarei,\nEm meio\\_à presença de\\_homens poderosos.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-138-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Prostrar-me-ei ao santo templo teu\nE louvarei teu nome, ó meu Deus,\nPela verdade\\_e graça do Senhor,\nPor tua verdade e misericórdia.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-138-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Pois exaltaste sobre tudo,\\_ó Deus,\nTua palavra\\_e\\_o nome teu, Senhor.\n<sup>3</sup> Quando clamei, tu socorreste\\_a mim\nE\\_a força\\_alentaste, sim, da minha alma.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-138-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>4</sup> Os reis da terra louvarão a ti\nAo escutarem teu falar, Senhor.\n<sup>5</sup> E teus caminhos eles cantarão,\nPorque grandiosa é a tua glória.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-138-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Sim, grandiosa\\_é\\_a glória do Senhor.\n<sup>6</sup> Excelso\\_é Deus, porém atentará,\nPara\\_os humildes Ele\\_atentará;\nMas, quanto\\_aos soberbos, Deus os vê de longe.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-138-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>7</sup> Se\\_eu caminhar em meio\\_às aflições,\nA minha vida tu restaurarás.\nContra\\_o furor de\\_opositores meus\nEstendes a destra e, assim, me salvas.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-138-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>8</sup> O que concerne\\_a mim Deus cumprirá;\nA tua graça sempre durará.\nAs obras que fizeram tuas mãos,\nSenhor, nunca venhas a desampará-las.",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

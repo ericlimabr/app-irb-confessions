@@ -1,0 +1,120 @@
+{
+  "id": "psalm-022-gen",
+  "collection": "psalms",
+  "number": 22,
+  "numberLabel": "Salmo 22",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-022",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 41,
+  "units": [
+    {
+      "id": "psalm-022-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus meu, por que desamparaste\\_a mim?\nE as palavras do meu bramido\nDa minha salvação tão longe\\_estão\nPor que motivo?\n<sup>2</sup> Deus meu, de dia, clamo\\_e não respondes;\nTambém de noite, mas sem ter sossego.\n<sup>3</sup> Mas tu és santo\\_e\\_habitas nos louvores\nDe Israel.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-022-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Eis que em ti confiaram nossos pais,\nSim, confiaram e os livraste.\n<sup>5</sup> Clamaram nossos pais a ti, Senhor,\nE os livraste.\nA confiança no Senhor puseram\nE não vieram a ser confundidos.\nNão vieram a sofrer qualquer vergonha\nOs nossos pais.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-022-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Mas eu sou verme, homem eu não sou;\nEu sou opróbrio dentre os homens.\nE pelo povo desprezado sou,\nSim, desprezado.\n<sup>7</sup> Zombam de mim todos os que me veem,\nMeneiam a cabeça e,\\_então, dizem:\n<sup>8</sup> Confiou em Deus. Que Ele\\_o salve, pois tem\nNele prazer.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-022-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Mas tu és quem fizeste\\_a mim nascer,\nGuardaste\\_a mim no ventre materno.\n<sup>10</sup> Desde\\_o meu nascimento,\\_eu me\\_entreguei\nA ti, ó meu Deus.\nÉs o meu Deus desde\\_o ventre materno.\n<sup>11</sup> Eis que\\_a tribulação está bem perto,\nE não há mais ninguém que me acuda.\nNão te\\_afastes!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-022-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>12</sup> Me cercam fortes touros de Basã\n<sup>13</sup> E contra mim eis que\\_abrem\\_a boca.\nComo leão pronto\\_a despedaçar,\nFicam rugindo.\n<sup>14</sup> Meus ossos todos se desconjuntaram.\nTal como água, eu fui derramado.\nMeu coração se derreteu qual cera\nDentro de mim.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-022-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>15</sup> Tal como\\_um caco, meu vigor secou.\nNo céu da boca, grudou-se\\_a língua.\nEis que, então, fizeste-me deitar\nNo pó da morte.\n<sup>16</sup> Eis que os cães estão a rodear-me,\nSúcia de malfeitores a cercar-me.\nE transpassaram minhas mãos e meus pés,\nAs mãos e\\_os pés.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-022-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>17</sup> Meus ossos todos posso eu contar;\nEstão me\\_olhando e me\\_encarando.\n<sup>18</sup> Querem a minha roupa repartir\nE lançam sortes.\n<sup>19</sup> Porém, Senhor, de mim não te afastes.\nÉs minha força,\\_apressa\\_em socorrer-me.\n<sup>20</sup> Livra da\\_espada\\_a minha alma\\_e\\_a vida\nLivra do cão.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-022-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>21</sup> Das fauces do leão vem me salvar,\nLivra dos chifres dos bois selvagens.\n<sup>22</sup> Porque, Senhor, respondes meu clamor,\nSim, tu respondes.\nA meus irmãos declararei teu nome\nNo meio da congregação, cantando.\n<sup>23</sup> Vós que temeis a Deus, glorificai-o,\nSim, louvai-o.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-022-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Ó descendência de Jacó, louvai,\nSim, reverenciai-o, vós todos,\nSim, todos da linhagem de\\_Israel,\nSeus descendentes.\n<sup>24</sup> Pois não abominou a dor do\\_aflito\nNem desprezou ou ocultou seu rosto,\nMas, quando\\_o\\_aflito lhe clamou socorro,\nDeus o ouviu.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-022-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>25</sup> Eu louvo\\_a ti na grande reunião\nE, na presença dos que te temem,\nEu pagarei meus votos ao Senhor,\nSim, os meus votos.\n<sup>26</sup> Os sofredores comerão bem fartos,\nE louvarão a Deus os que o buscam.\nQue viva\\_o vosso coração pra sempre,\nSim, pra sempre!",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-022-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>27</sup> E os confins da terra lembrarão\nE se converterão ao Senhor Deus;\nE todas as famílias das nações\nHão de prostrar-se.\n<sup>28</sup> Porque é Deus quem as nações governa;\nApenas ao Senhor pertence\\_o reino.\nO Senhor Deus é quem governa\\_os povos,\nRege\\_as nações.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-022-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>29</sup> Todos os homens que\\_opulentos são\nHão de comer e de adorá-lo.\nHá de prostrar-se diante do Senhor\nQuem desce\\_ao pó.\nE até mesmo o que não consegue\nA sua própria vida preservá-la\nHá de prostrar-se diante do Senhor Deus\nE\\_o adorar.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-022-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>30</sup> A sua descendência servirá\nAo Senhor Deus, sim, há de servi-lo.\nÀ geração vindoura falarão\nDo Senhor nosso.\n<sup>31</sup> Hão de anunciar a sua justiça\nAo povo que nem mesmo é nascido\nE contarão a esses descendentes\nO que Deus fez.",
+      "attrs": {},
+      "sortOrder": 13
+    }
+  ]
+}

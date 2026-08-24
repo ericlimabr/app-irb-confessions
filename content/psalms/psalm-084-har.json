@@ -1,0 +1,72 @@
+{
+  "id": "psalm-084-har",
+  "collection": "psalms",
+  "number": 84,
+  "numberLabel": "Salmo 84",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-084",
+  "attrs": {
+    "attribution": "CBS - Llangloffan"
+  },
+  "sortOrder": 138,
+  "units": [
+    {
+      "id": "psalm-084-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Javé, Deus dos Exércitos, oh, quão amáveis são\nAs tuas tendas, <sup>2</sup> pelas quais meu ser suspiros dá.\nE\\_o meu vigor se\\_esvai pelos átrios do Senhor.\nAo Deus vivente clamam minha carne\\_e coração.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-084-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Até\\_o pardal pra si achou a casa pra morar,\nE\\_a andorinha encontrou um ninho para si\nQue\\_acolha\\_os seus filhotes. Achei o teu altar.\nÓ Senhor dos Exércitos, meu Rei, meu Deus tu és.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-084-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>4</sup> Os que habitam o lugar da casa do Senhor,\nContinuamente, louvam Deus e bem felizes são.\n<sup>5</sup> Feliz é o varão cuja força\\_está em ti\nE tem no coração caminho reto, puro e bom,",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-084-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>6</sup> O qual, passando pelo vale\\_estéril, seco\\_e ruim,\nFaz dele manancial; e\\_as chuvas bênçãos vêm trazer.\n<sup>7</sup> De força\\_em força, vão, bem diante do Senhor,\nAparecendo cada um no monte de Sião.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-084-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Senhor, Deus dos Exércitos, escuta\\_a oração.\nÓ Deus de Israel, concede\\_ouvidos para mim,\n<sup>9</sup> E volta\\_o teu olhar, nosso\\_escudo\\_e proteção.\nContempla, ó Senhor, o rosto do ungido teu.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-084-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Um dia nos teus átrios vale muito mais que mil.\nÉ bem melhor na porta\\_estar da casa do meu Deus\nDo que permanecer junto\\_às tendas do\\_homem mau,\n<sup>11</sup> Pois o Senhor Javé é nosso sol e proteção.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-084-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Dá graça\\_e glória o Senhor, pois Ele nenhum bem\nSonega\\_aos homens que estão trilhando\\_a retidão.\n<sup>12</sup> Javé, Senhor das Hostes, feliz é\\_o homem que\nEm ti confia para sempre,\\_ó Deus de Israel!",
+      "attrs": {},
+      "sortOrder": 7
+    }
+  ]
+}

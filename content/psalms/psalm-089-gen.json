@@ -1,0 +1,112 @@
+{
+  "id": "psalm-089-gen",
+  "collection": "psalms",
+  "number": 89,
+  "numberLabel": "Salmo 89",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-089",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 145,
+  "units": [
+    {
+      "id": "psalm-089-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Pra sempre,\\_eu cantarei do teu amor, Senhor.\nMeus lábios contarão, a cada geração,\nQue tu és mui fiel. <sup>2</sup> “Pra sempre\\_és mui bondoso!”,\nAssim eu quis dizer. A tua fieldade\nConfirmarás nos céus, dizendo, declarando:\n<sup>3</sup> “Um pacto com Davi jurei, meu escolhido”.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-089-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> “Pra sempre,\\_eu firmarei as gerações do rei.\nPor cada geração, teu trono\\_eu firmarei”.\n<sup>5</sup> Celebra, pois, o céu as tuas maravilhas.\nSenhor, todo\\_o\\_Israel te louva\\_a fieldade.\n<sup>6</sup> Quem se compara\\_a ti? Nem mesmo qualquer anjo!\n<sup>7</sup> És mui tremendo Deus aos santos que\\_o rodeiam.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-089-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>8</sup> Senhor das Hostes, Deus, quem tem poder assim?\nQuem é igual a ti, Senhor, fiel assim?\n<sup>9</sup> Quando se\\_agita\\_o mar, com ondas turbulentas,\nTu podes amainar, dominas sua fúria!\n<sup>10</sup> Como\\_em ferida\\_atroz, Raabe tu calcaste.\nCom braço de poder, tiraste\\_os inimigos.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-089-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>11</sup> A terra\\_e\\_o céu são teus, o mundo\\_e tudo\\_ali,\nFundados, sim, por ti. <sup>12</sup> Fizeste\\_o Norte\\_e Sul.\nTabor e\\_Hermom também exultam em teu nome.\n<sup>13</sup> Ó braço de poder! Ó destra elevada!\nÉ forte\\_a tua mão. <sup>14</sup> Justiça é\\_o teu trono,\nDireito\\_e graça, sim! Verdade te precede!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-089-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>15</sup> Senhor, é mui feliz o povo\\_a jubilar\nQue anda\\_em tua luz, <sup>16</sup> pra sempre,\\_a se\\_alegrar,\nJustiça\\_a lhe\\_exaltar. <sup>17</sup> Pois és a glória\\_e força\nE\\_em teu favor está a nossa fortaleza.\n<sup>18</sup> Porquanto\\_a Deus Senhor pertence\\_o nosso\\_escudo,\nAo Santo de\\_Israel, que\\_é nosso rei supremo.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-089-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>19</sup> Outrora, em visão, falaste\\_aos santos teus:\nPoder de socorrer quis dar a quem chamei\nPor entre\\_o povo meu. <sup>20</sup> Achei Davi, meu servo;\nCom óleo santo,\\_ungi. <sup>21</sup> Meu braço\\_o fortalece.\n<sup>22</sup> Aflito não será por quem é inimigo:\n<sup>23</sup> Pra ele\\_esmagarei os seus rivais maldosos.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-089-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>24</sup> Bondoso lhe serei; meu nome, bem fiel.\nLhe cresce o poder. <sup>25</sup> O mar lhe ponho\\_à mão.\n<sup>26</sup> Invoca-me, “Ó Pai, da salvação és Rocha!”\n<sup>27</sup> Por isso,\\_hei de\\_o fazer primaz dos reis da terra.\n<sup>28</sup> Pra sempre,\\_hei de manter gracioso\\_e firme pacto.\n<sup>29</sup> Eterna prole\\_eu dei, um trono que perdura.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-089-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>30</sup> Se\\_a minha justa lei algum dos filhos seus\nQuiser, pois, afrontar, <sup>31</sup> preceitos violar\nDeixando de\\_os guardar, <sup>32</sup> decerto,\\_eu dou castigo:\nAçoito\\_a transgressão, <sup>33-34</sup> mas sem tirar bondade!\nO pacto\\_eu manterei: perduro\\_em fieldade!\nJamais o\\_alterarei: juraram-no meus lábios!",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-089-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>35</sup> Jurei, pois santo\\_eu sou, nem falho com Davi:\n<sup>36</sup> “Teu trono durará e\\_a prole, como\\_o sol!\n<sup>37</sup> Sim, como\\_a lua,\\_está firmado para sempre:\nFiel ali no céu”. <sup>38</sup> Porém, repudiaste:\nQuiseste rejeitar, deixar o teu ungido.\n<sup>39</sup> Quebraste\\_o pacto,\\_assim, tirando-lhe\\_a coroa.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-089-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>40</sup> Fizeste, pois, cair; seus muros, arruinar.\n<sup>41</sup> Quem passa quer zombar após o despojar.\n<sup>42</sup> Fizeste exaltar a destra de\\_inimigos;\n<sup>43</sup> A\\_espada,\\_assim, virar. Na luta, abandonaste.\n<sup>44</sup> Fizeste,\\_enfim, cessar seu esplendor, seu trono;\n<sup>45</sup> Também envergonhar: que curta mocidade!",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-089-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>46</sup> Té quando, ó Senhor? Pra sempre\\_esconderás?\nA tua ira,\\_ó Deus, qual fogo, há de\\_arder?\n<sup>47</sup> Lembra que vivo\\_assim: em vida passageira!\n<sup>48</sup> Que homem não verá a morte ou sepulcro?\n<sup>49</sup> Responde-me, Senhor: “Fiel benignidade\nJurada\\_ao rei Davi será pra nós cumprida?”",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-089-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>50</sup> Senhor, vem te lembrar de como\\_aconteceu:\nTeu servo\\_aqui sofreu! Assim, fico\\_a vagar,\nComigo a trazer, no peito, tanta\\_injúria\nDe\\_inúmeras nações. <sup>51</sup> Opróbrio de\\_inimigo,\nProfana\\_o caminhar que faz o teu ungido.\n<sup>52</sup> Bendito é\\_o Senhor! Amém! Pra sempre seja!",
+      "attrs": {},
+      "sortOrder": 12
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "psalm-022-har",
+  "collection": "psalms",
+  "number": 22,
+  "numberLabel": "Salmo 22",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-022",
+  "attrs": {
+    "attribution": "CBS - Passion chorale"
+  },
+  "sortOrder": 42,
+  "units": [
+    {
+      "id": "psalm-022-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Deus meu, Deus meu, por que tu desamparaste\\_a mim?\nPor que se acham longe de minha salvação\nMeu grito, meu bramido? <sup>2</sup> Que dia\\_e noite\\_a ti\nDirijo;\\_e não respondes; sossego não me vem.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-022-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Contudo, tu és santo; entronizado\\_estás\nNo meio dos louvores, louvores de Israel.\n<sup>4</sup> Em ti os pais confiaram; livraste-os, ó Senhor.\n<sup>5</sup> Clamaram e\\_escaparam, não viram confusão.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-022-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Sou verme, não sou homem; opróbrio de\\_homens sou,\nDo povo desprezado; <sup>7</sup> zombado dos que me veem.\nMeneiam a cabeça e\\_os lábios a mover:\n<sup>8</sup> Em Deus confiou! Que\\_o livre, pois nele tem prazer.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-022-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>9</sup> Porém, tu és aquele que\\_a mim fizeste nascer;\nMe preservaste\\_ainda no seio de minha mãe.\n<sup>10</sup> Desde\\_o meu nascimento, a ti me entreguei.\nDesde\\_o ventre materno, Senhor, tu és meu Deus.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-022-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>11</sup> De mim não te afastes, pois aflição já vem,\nNão há quem me acuda, <sup>12</sup> pois touros de Basã,\nMui fortes, me rodeiam <sup>13</sup> qual boca de leão,\nQue, contra mim, rugindo, quer me despedaçar.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-022-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>14</sup> Como\\_água, derramei-me, e\\_os ossos todos meus\nEstão desconjuntados; também meu coração\nQual cera se tornou e em mim se derreteu.\n<sup>15</sup> Secou-se\\_a minha força e\\_um caco se tornou.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-022-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Pegada\\_a minha língua ao céu da boca está;\nE,\\_assim, ao pó da morte fizeste-me deitar.\n<sup>16</sup> Cercado\\_estou de cães; uma súcia de\\_homens maus,\nCercando, me traspassam meus pés e minhas mãos.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-022-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>17</sup> E todos os meus ossos eu posso\\_a eles contar.\nMe\\_encaram todos eles, olhando para mim.\n<sup>18</sup> Repartem minhas vestes; e\\_a túnica, porém,\nSobre\\_ela todos eles a sorte vão lançar.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-022-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>19</sup> Porém, Senhor, de mim tu não venhas te afastar.\nTe\\_apressa em socorrer-me, pois força minha és.\n<sup>20</sup> Salvar-me vem da\\_espada, das presas, sim, do cão;\n<sup>21</sup> Dos búfalos, seus chifres, das fauces do leão.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-022-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>22</sup> A meus irmãos teu nome, então, declararei.\nCantar-te-ei louvores em meio\\_à congregação.\n<sup>23</sup> Vós que temeis a Deus, louvor e glória dai.\nSim, reverenciai-o, vós filhos de\\_Israel.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-022-har-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>24</sup> Não desprezou do\\_aflito e nem abominou\nA sua dor nem dele seu rosto ocultou,\nMas escutou quando\\_ele socorro lhe gritou.\n<sup>25</sup> De ti vem meu louvor, sim, na grande reunião.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-022-har-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "Diante dos que\\_o temem, meus votos cumprirei.\n<sup>26</sup> Os sofredores hão de comer e se fartar.\nSenhor, os que te buscam teu nome louvarão.\nE viva para sempre o vosso coração!",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-022-har-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>27</sup> Da terra\\_os seus limites do Senhor lembrarão;\nE\\_até\\_os confins da terra, pois, se converterão.\nE, juntas, as famílias de todas as nações\nVirão perante Ele e,\\_então, se prostrarão.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-022-har-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>28</sup> Pois do Senhor é\\_o reino, governa sobre\\_as nações.\n<sup>29</sup> Da terra\\_os opulentos hão de comer e\\_adorar;\nE\\_os que ao pó desceram a Deus vão se prostrar;\nE\\_até quem sua vida não pode preservar.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-022-har-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>30</sup> E\\_à geração vindoura falar-se-á do Senhor;\nE\\_a descendência\\_a Ele também o servirá.\n<sup>31</sup> Hão de sua justiça a todos proclamar;\nE\\_às gerações futuras dirão que Deus o fez.",
+      "attrs": {},
+      "sortOrder": 15
+    }
+  ]
+}

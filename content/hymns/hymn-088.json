@@ -1,0 +1,41 @@
+{
+  "id": "hymn-088",
+  "collection": "hymns",
+  "number": 88,
+  "numberLabel": "Hino 88",
+  "title": "CRISTO VEM ME BUSCAR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: RETORNO DE CRISTO",
+    "author": "Rosimery Henriques Gomes"
+  },
+  "sortOrder": 88,
+  "units": [
+    {
+      "id": "hymn-088-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Cristo vem me buscar,\nPara o céu me levará\nO Cordeiro prometido voltará.\nCristo vem me buscar,\nPara o céu me levará\nO Cordeiro prometido voltará.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-088-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Oh! Glória, aleluia!\nMaranata! Vem Jesus!\nSou liberto pelo sangue dessa cruz.\nTenho o Consolador,\nSua glória e esplendor!\nSou liberto pelo poder do Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-088-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Oh! Que gozo vou sentir\nCom os anjos a cantar,\nPois com Cristo para sempre irei morar.\nOh! Que gozo vou sentir\nCom os anjos a cantar,\nPois com Cristo para sempre irei morar.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

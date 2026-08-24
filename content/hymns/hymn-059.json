@@ -1,0 +1,51 @@
+{
+  "id": "hymn-059",
+  "collection": "hymns",
+  "number": 59,
+  "numberLabel": "Hino 59",
+  "title": "ROCHA ETERNA",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Augustus Montague Toplady / Manoel da Silveira Porto Filho"
+  },
+  "sortOrder": 59,
+  "units": [
+    {
+      "id": "hymn-059-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Rocha eterna, meu Jesus,\nQuero em ti me refugiar;\nO teu sangue lá na cruz,\nDerramado em meu lugar,\nTraz as bênçãos do perdão:\nGozo, paz e salvação!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-059-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Não por obras nem penar,\nPlena paz terei aqui.\nSó tu podes consolar,\nHá perdão somente em ti.\nRocha eterna, só na cruz\nEu confio, ó meu Jesus!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-059-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Quando o derradeiro olhar\nA este mundo aqui volver,\nE no trono eu te encontrar,\nTeu chamado a responder;\nRocha eterna, espero ali\nAbrigar-me, salvo, em ti!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-059-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "psalm-135-har",
+  "collection": "psalms",
+  "number": 135,
+  "numberLabel": "Salmo 135",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-135",
+  "attrs": {
+    "attribution": "CBS - Slane"
+  },
+  "sortOrder": 255,
+  "units": [
+    {
+      "id": "psalm-135-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh! Aleluia! Louvai ao Senhor!\nLouvai seu nome, vós servos de Deus,\n<sup>2</sup> Vós que na casa de Deus assistis,\nNos átrios da casa do nosso Senhor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-135-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Louvai a Deus, porque Ele é bom.\nÉ agradável cantar-lhe louvor,\n<sup>4</sup> Pois para si escolheu a Jacó;\nPor sua posse escolheu Israel.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-135-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Sei que, por certo, mui grande\\_é\\_o Senhor\nE sobre\\_os deuses acima está.\n<sup>6</sup> Quanto lhe\\_aprouve\\_o Senhor Deus o fez\nNo céu, na terra, nos abismos, no mar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-135-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Dos fins da terra, faz nuvens subir;\nE para\\_a chuva os raios Deus faz.\nFaz das reservas o vento sair;\nDos seus tesouros faz o vento sair.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-135-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Foi no Egito que Deus, sim, feriu;\nOs primogênitos Ele\\_os matou.\nTanto dos homens seus filhos feriu\nComo também das alimárias matou.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-135-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>9</sup> Fez no Egito prodígios, sinais,\nSim, contra\\_o Faraó e\\_os servos seus.\n<sup>10</sup> Feriu nações e a vida tirou,\nDe reis valentes Deus a vida tirou.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-135-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>11</sup> Matou Seom, rei do povo\\_amorreu;\nFeriu a Ogue, o rei de Basã;\nTambém os povos dentre\\_os cananeus,\n<sup>12</sup> Dando suas terras em herança\\_a\\_Israel.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-135-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>13</sup> Senhor, teu nome pra sempre será,\nSim, o teu nome pra sempre será.\nNas gerações, ó Senhor nosso Deus,\nTua memória transmitida será.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-135-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>14</sup> Pois ao seu povo\\_o Senhor julgará\nE dos seus servos terá compaixão.\n<sup>15</sup> São prata e\\_ouro o deus das nações,\nFeito por homens, obra das suas mãos.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-135-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>16</sup> Tem boca\\_e olhos, não fala nem vê.\n<sup>17</sup> Tendo ouvidos, não pode ouvir.\nNenhum alento de vida\\_ele tem.\nEm sua boca, não há sopro algum.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-135-har-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>18</sup> Quem o fabrica se torna igual,\nAo deus que fez semelhante será.\nE todo\\_aquele que nele confiar,\nSim, semelhante ao seu deus ficará.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-135-har-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>19</sup> Casa de\\_Arão, bendizei ao Senhor!\nÓ Casa de Israel, bendizei!\n<sup>20</sup> Vós que temeis ao Senhor, bendizei!\nE vós, ó casa de Levi, bendizei!",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-135-har-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>21</sup> Seja bendito, pois, desde Sião,\nSeja bendito\\_o Senhor, nosso Deus,\nDeus que habita em Jerusalém!\nSeja bendito, sim, oh, aleluia!",
+      "attrs": {},
+      "sortOrder": 13
+    }
+  ]
+}

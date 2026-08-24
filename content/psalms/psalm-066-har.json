@@ -1,0 +1,96 @@
+{
+  "id": "psalm-066-har",
+  "collection": "psalms",
+  "number": 66,
+  "numberLabel": "Salmo 66",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-066",
+  "attrs": {
+    "attribution": "CBS - Hyfrydol"
+  },
+  "sortOrder": 110,
+  "units": [
+    {
+      "id": "psalm-066-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Aclamai a terra toda,\nJubilosa,\\_a Deus Senhor\n<sup>2</sup> E salmodiai a glória\nQue pertence\\_ao nome seu.\nOh, ao seu louvor dai glória\n<sup>3</sup> E dizei assim a Deus:\nQuão tremendos são teus feitos!\nQuão tremendos, ó Senhor!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-066-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "E submissos se revelam,\nSim, os inimigos teus,\nPois o teu poder é grande.\nSim, és poderoso,\\_ó Deus.\n<sup>4</sup> Toda\\_a terra\\_a ti se prostra,\nSalmodia\\_o nome teu.\nToda\\_a terra\\_a ti se prostra,\nCanta salmos ao Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-066-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Vinde ver os feitos dele,\nSim, as obras do Senhor\nFeitas em favor dos homens.\nQuão tremendo\\_é seu agir!\n<sup>6</sup> Fez o mar em terra seca,\nE passaram, sim, a pé.\nE, ali, nos alegramos\nNo Senhor, o nosso Deus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-066-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Deus governa\\_eternamente\nE domina\\_em seu poder.\nEis que\\_os olhos seus vigiam,\nVendo todas as nações.\nNão se\\_exaltem os rebeldes.\n<sup>8</sup> Povos, bendizei a Deus\nE fazei que seja\\_ouvida,\nSim, a voz do seu louvor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-066-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> Com a vida nossa alma\nDeus preserva, Deus sustém.\nNão permite que resvalem,\nQue tropecem nossos pés,\n<sup>10</sup> Pois, Senhor, a nós provaste\nPara nos purificar.\nComo se\\_acrisola\\_a prata,\nNos acrisolaste,\\_ó Deus.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-066-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11</sup> Na\\_armadilha nós caímos,\nPois tu permitiste,\\_ó Deus.\nOprimiste\\_as nossas costas;\nAfligiste\\_a nós, Senhor.\n<sup>12</sup> Tu fizeste que os homens\nCavalgassem sobre nós.\nPelo fogo\\_e pela água,\nNos fizeste\\_atravessar.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-066-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "Mas, enfim, tu nos trouxeste\nPara\\_um amplo\\_e bom lugar.\n<sup>13</sup> Entrarei na tua casa\nE\\_holocaustos eu trarei.\nPagarei a ti meus votos\n<sup>14</sup> Feitos pelos lábios meus,\nQue, no dia da angústia,\nMinha boca prometeu.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-066-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>15</sup> Holocaustos bem cevados,\nCom aroma,\\_imolarei.\nSim, novilhos com cabritos\nE carneiros te darei.\n<sup>16</sup> Vós que\\_a Deus temeis, oh, vinde,\nPois eu hei de vos contar\nO que fez por minha alma,\nSim, o que Deus fez por mim.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-066-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>17</sup> Eu clamei com minha boca,\nSim, clamei ao meu Senhor\nE, então, com minha língua,\nEu a Ele exaltei.\n<sup>18</sup> Se\\_eu tivesse contemplado\nDentro do meu coração,\nSe\\_a vaidade contemplasse,\nDeus não ouviria\\_a mim.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-066-har-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>19</sup> Mas meu Deus tem escutado\nMinha voz em oração,\nE\\_o Senhor tem me\\_atendido.\n<sup>20</sup> Oh, bendito seja Deus,\nPorque não tem rejeitado\nMinha voz em oração\nNem tampouco\\_a sua graça\nEle\\_apartará de mim.",
+      "attrs": {},
+      "sortOrder": 10
+    }
+  ]
+}

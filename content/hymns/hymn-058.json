@@ -1,0 +1,57 @@
+{
+  "id": "hymn-058",
+  "collection": "hymns",
+  "number": 58,
+  "numberLabel": "Hino 58",
+  "title": "A CERTEZA DO CRENTE",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "EVANGELHO",
+    "author": "Daniel Webster Whittle / Justus Henry Nelson"
+  },
+  "sortOrder": 58,
+  "units": [
+    {
+      "id": "hymn-058-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Não sei por que de Deus o amor\nA mim se revelou,\nPorque Jesus, meu Salvador,\nNa cruz me resgatou.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-058-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Mas eu sei em quem tenho crido\nE estou bem certo que é poderoso!\nGuardará, pois, o meu tesouro\nAté o dia final.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-058-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Não sei o modo como agiu\nO Espírito eternal\nQue, um dia, a Cristo me atraiu\nEm convicção real.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-058-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Não sei o que de mal ou bem\nÉ destinado a mim,\nSe maus ou áureos dias vêm,\nAté da vida o fim.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-058-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Não sei se ainda longe está,\nOu muito perto vem\nA hora em que Jesus virá\nNa glória que Ele tem.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

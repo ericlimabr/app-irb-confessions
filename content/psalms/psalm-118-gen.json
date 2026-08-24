@@ -1,0 +1,104 @@
+{
+  "id": "psalm-118-gen",
+  "collection": "psalms",
+  "number": 118,
+  "numberLabel": "Salmo 118",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-118",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 195,
+  "units": [
+    {
+      "id": "psalm-118-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Louvai a Deus, pois Ele é bom.\nSempre sua graça durará.\n<sup>2</sup> Que Israel, agora, diga:\n“Sempre sua graça durará”.\n<sup>3</sup> Diga, agora,\\_a casa de\\_Arão:\n“Sempre sua graça durará”.\n<sup>4</sup> Quem teme\\_a Deus, agora, diga:\n“Sempre sua graça durará”.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-118-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> A Deus eu invoquei na\\_angústia;\nE o Senhor a mim ouviu,\nEle me\\_ouviu e me deu folga.\n<sup>6</sup> Comigo\\_está Deus, o Senhor.\nQue poderá fazer-me\\_o homem?\nEis que eu não hei de temer!\n<sup>7</sup> Deus, o Senhor, tenho comigo\nEntre\\_os que\\_estão a me\\_ajudar.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-118-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Por isso, hei de ver cumprido,\nSim, meu desejo eu verei.\nSobre aqueles que me\\_odeiam\nO meu desejo eu verei.\n<sup>8</sup> Melhor é confiar no Senhor\nDo que no homem confiar.\n<sup>9</sup> Melhor é confiar no Senhor\nDo que nos príncipes confiar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-118-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>10</sup> As nações todas me cercaram.\nEm nome de Deus, as venci.\n<sup>11</sup> Cercaram-me de todo lado.\nEm nome de Deus, as venci\n<sup>12</sup> Tal como\\_abelhas, me cercaram,\nMas logo se\\_extinguiram, sim,\nTal como\\_o fogo nos espinhos.\nEm nome de Deus, as venci.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-118-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>13</sup> Com violência, me\\_empurraram,\nQuerendo me fazer cair,\nPorém Deus foi o meu amparo.\n<sup>14</sup> Deus foi a minha salvação.\nMinha canção e força\\_é\\_o Senhor.\n<sup>15</sup> Na\\_habitação do justo, há\nVoz jubilante de salvação,\nPois o Senhor proezas faz.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-118-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>16</sup> A destra do Senhor se\\_eleva;\nProezas sua destra faz.\n<sup>17</sup> Não morrerei, mas, sim, viverei\nE\\_as obras de Deus contarei.\n<sup>18</sup> Severamente, Deus, o Senhor\nVeio a castigar a mim,\nPorém não me\\_entregou à morte,\nÀ morte não me entregou.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-118-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>19</sup> Abri-me\\_as portas da justiça.\nPor elas, eu desejo\\_entrar,\nPara\\_ao Senhor render louvores.\n<sup>20</sup> Esta\\_é a porta do Senhor;\nPor ela, entrarão os justos.\n<sup>21</sup> Graças eu hei de te render,\nÓ meu Senhor, pois me livraste,\nFoste a minha salvação.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-118-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>22</sup> A pedra que foi rejeitada\nPor quem estava\\_a\\_edificar\nTornou-se,\\_então, pedra principal,\nTornou-se pedra angular.\n<sup>23</sup> Procede isso do Deus nosso,\nSim, isso vem do nosso Deus\nE é maravilhoso\\_aos olhos,\nMaravilhoso para nós.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-118-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>24</sup> Este\\_é o dia que\\_o Senhor fez,\nSim, este\\_é\\_o dia do Senhor.\nPortanto, nos regozijemos;\nNele, nos alegremos, pois.\n<sup>25</sup> Senhor, nos salva, te pedimos;\nProsperidade dá-nos, pois.\nSenhor, nos salva, te pedimos;\nProsperidade dá-nos, pois.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-118-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>26</sup> Bendito é aquele que vem,\nQue vem no nome do Senhor.\nVós outros da Casa do Senhor,\nNós vos abençoamos, sim.\n<sup>27</sup> O Senhor é Deus, sim, Ele\\_é Deus;\nEle\\_é também a nossa luz.\nCom ramos adornai a festa\nAté as pontas do altar.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-118-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>28</sup> Tu és meu Deus; render-te-ei, pois,\nGraças a ti eu renderei.\nTu és meu Deus; quero\\_exaltar-te,\nSim, ao Senhor quero\\_exaltar.\n<sup>29</sup> Ao Senhor Deus rendei-lhe graças,\nPorque\\_o Senhor é muito bom,\nPois sua misericórdia dura,\nSim, para sempre durará.",
+      "attrs": {},
+      "sortOrder": 11
+    }
+  ]
+}

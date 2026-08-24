@@ -1,0 +1,160 @@
+{
+  "id": "psalm-009-gen",
+  "collection": "psalms",
+  "number": 9,
+  "numberLabel": "Salmo 9",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-009",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 17,
+  "units": [
+    {
+      "id": "psalm-009-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> De todo o meu coração,\nÓ Senhor, louvarei a ti\nE tuas maravilhas todas,\nÓ meu Senhor, hei de contá-las.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-009-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> Senhor, em ti me\\_alegrarei,\nExultando em ti, Deus meu.\nLouvores, sim, eu hei de cantar,\nSenhor Altíssimo,\\_ao teu nome.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-009-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> Pois os opositores meus,\nQuando se voltam para trás,\nTropeçam, saem da tua presença.\n<sup>4</sup> Sustentas meu direito\\_e causa.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-009-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "No trono,\\_ó Deus, sentado\\_estás.\nNele julgas com retidão.\n<sup>5</sup> Repreende\\_os povos, o\\_ímpio destróis,\nPra sempre,\\_apagas o seu nome.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-009-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>6</sup> Porém, aos inimigos meus\nConsumados pra sempre\\_estão.\nSuas ruínas são perpétuas,\nCidades suas arrasaste.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-009-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "Sua memória pereceu,\n<sup>7</sup> Mas pra sempre Deus estará\nNo trono que\\_erigiu pra julgar\n<sup>8</sup> O mundo\\_e\\_os povos com justiça.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-009-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>9</sup> Também refúgio alto\\_é Deus\nPara quem oprimido for.\nSim, um refúgio alto\\_é\\_o Senhor,\nRefúgio\\_em tempos de angústia.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-009-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>10</sup> Em ti, Senhor, confiará\nQuem conhece teu nome,\\_ó Deus,\nPois nunca tu desamparaste\nOs que procuram o teu nome.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-009-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "<sup>11</sup> Cantai louvores ao Senhor,\nAo Deus que\\_habita em Sião,\nE os seus feitos, suas obras\nAnunciai-os entre\\_os povos.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-009-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>12</sup> Pois deles há de se lembrar\nO Senhor, que\\_o sangue requer,\nDeus que também não se esquece\nDo\\_aflito\\_enquanto ele clama.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-009-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "<sup>13</sup> De mim te compadece,\\_ó Deus,\nE contempla o meu sofrer\nCausado pelos que me\\_odeiam.\nMe ergues das portas da morte.",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "psalm-009-gen-v12",
+      "kind": "verse",
+      "label": "12",
+      "body": "<sup>14</sup> Para que,\\_às portas de Sião\nTua filha, proclame,\\_então,\nOs teus louvores, todos eles.\nDa tua salvação me\\_alegre.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "psalm-009-gen-v13",
+      "kind": "verse",
+      "label": "13",
+      "body": "<sup>15</sup> O povo que\\_uma cova fez\nNela mesma irá cair.\nO laço que\\_eles esconderam\nO próprio pé, então, prendeu-lhes.",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "psalm-009-gen-v14",
+      "kind": "verse",
+      "label": "14",
+      "body": "<sup>16</sup> E conhecido o Senhor\nFaz-se pelos juízos seus.\nO ímpio enlaçado está\nNas obras das suas próprias mãos, sim.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "psalm-009-gen-v15",
+      "kind": "verse",
+      "label": "15",
+      "body": "<sup>17</sup> Eis que\\_os perversos hão de ser\nNo inferno lançados, sim,\nCom as nações que se esquecem,\nQue se esquecem do Senhor Deus.",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "psalm-009-gen-v16",
+      "kind": "verse",
+      "label": "16",
+      "body": "<sup>18</sup> Pois esquecido não será\nPara sempre quem pobre\\_está,\nE\\_a esperança dos aflitos\nFrustrada não será pra sempre.",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "psalm-009-gen-v17",
+      "kind": "verse",
+      "label": "17",
+      "body": "<sup>19</sup> Oh! Te levanta, ó Senhor!\nNão prevaleça o mortal.\nE sejam as nações julgadas,\nJulgadas na tua presença.",
+      "attrs": {},
+      "sortOrder": 17
+    },
+    {
+      "id": "psalm-009-gen-v18",
+      "kind": "verse",
+      "label": "18",
+      "body": "<sup>20</sup> Medo infunde-lhes, Senhor,\nSim, infunde-lhes medo,\\_ó Deus.\nQue as nações, assim, o saibam\nQue de mortais elas não passam.",
+      "attrs": {},
+      "sortOrder": 18
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "psalm-007-har",
+  "collection": "psalms",
+  "number": 7,
+  "numberLabel": "Salmo 7",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-007",
+  "attrs": {
+    "attribution": "CBS - Carol"
+  },
+  "sortOrder": 14,
+  "units": [
+    {
+      "id": "psalm-007-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Em ti me refugio,\\_ó Deus! Senhor, vem me salvar!\nDe quantos me perseguem vem livrar a mim, Senhor,\n<sup>2</sup> Pra que ninguém, como leão, me venha\\_arrebatar,\nDespedaçando-me, sem ter ninguém pra me livrar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-007-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Senhor meu Deus, se fiz o que me culpam de fazer,\nSe há nas minhas mãos iniquidade, ó meu Deus,\n<sup>4</sup> Se com o mal paguei a quem comigo\\_estava\\_em paz,\nEu, que poupei quem me\\_oprimia sem qualquer razão,",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-007-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Persiga\\_o inimigo até minha\\_alma alcançar,\nQue pise\\_ao chão minha vida\\_e\\_arraste\\_a minha glória\\_ao pó.\n<sup>6</sup> Levanta-te, Senhor, na tua ira\\_e vem mostrar\nTua grandeza contra\\_a fúria de\\_adversários meus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-007-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Desperta\\_e\\_julga\\_em meu favor tal qual desígnio teu.\n<sup>7</sup> Reúnam-se\\_ao redor de ti os povos, ó Senhor.\nRemonta-te\\_às alturas sobre todas as nações,\nRemonta-te\\_às alturas sobre\\_os povos, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-007-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Os povos Deus os julgará, sim, Deus os julgará.\nSegundo\\_a minha\\_retidão, vem me julgar, Senhor.\n<sup>9</sup> Dos ímpios a malícia cesse,\\_e\\_ao justo vem firmar,\nPois sondas, sim, ó justo Deus, a mente\\_e\\_o coração.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-007-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Pois Deus é\\_o meu escudo, sim, Ele\\_é o Salvador\nDaqueles cujos corações estão em retidão.\n<sup>11</sup> Juiz bem justo\\_é Deus, que, todo dia, tem furor.\nIndignação tem nosso Deus, juiz bem justo é.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-007-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>12</sup> Se\\_o homem não se converter, Deus preparado\\_está.\nSeu arco\\_armado já dispôs, e\\_a\\_espada\\_afiará.\n<sup>13</sup> Pra ele preparado tem suas armas tão mortais,\nAs suas setas inflamadas já lhe preparou.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-007-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>14</sup> As dores da perversidade\\_o ímpio está\\_a sofrer.\nMalícia concebeu e,\\_então, mentira deu à luz.\n<sup>15</sup> Abriu e\\_aprofundou\\_uma cova,\\_e nela própria cai,\n<sup>16</sup> E sobre\\_a sua fronte cai seu mal, seu próprio mal.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-007-har-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "E sobre\\_a própria fronte\\_a sua violência cai,\n<sup>17</sup> Porém eu renderei ações de graças ao Senhor.\nSegundo\\_a sua retidão, louvores cantarei,\nLouvores cantarei ao nome do Supremo Deus.",
+      "attrs": {},
+      "sortOrder": 9
+    }
+  ]
+}

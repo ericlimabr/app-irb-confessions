@@ -1,0 +1,41 @@
+{
+  "id": "hymn-072",
+  "collection": "hymns",
+  "number": 72,
+  "numberLabel": "Hino 72",
+  "title": "NASCE JESUS!",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: NASCIMENTO",
+    "author": "Robert Hawkey Moreton"
+  },
+  "sortOrder": 72,
+  "units": [
+    {
+      "id": "hymn-072-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Nasce Jesus! Fonte de luz!\nDescem os anjos cantando.\nNasce Jesus! É nossa luz\nQue as trevas vem dissipando!\nNasce Jesus! Nasce Jesus!\nEis a mensagem celeste!\nRaia a luz da salvação,\nTriunfante vem!\nSalve, ó Cristo! Firma teu justo império!\nGratos louvores homens e anjos deem!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-072-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Nasce Jesus! Nasce Jesus!\nGlória a Deus nas alturas!\nPaz na terra, graça e amor\nA quem Ele quer bem!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-072-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Deus nos amou! Deus nos mandou\nCristo, seu Filho amado!\nDeus nos amou! Deus se encarnou,\nVede o menino deitado!\nDeus nos amou! Deus nos amou!\nDigam-no todos os povos!\nGozam paz e salvação\nTodos os que creem.\nReino bendito! Reino de amor divino!\nGratos louvores homens e anjos deem!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

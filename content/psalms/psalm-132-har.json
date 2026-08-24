@@ -1,0 +1,80 @@
+{
+  "id": "psalm-132-har",
+  "collection": "psalms",
+  "number": 132,
+  "numberLabel": "Salmo 132",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-132",
+  "attrs": {
+    "attribution": "autor desconhecido - Saltério de Genebra"
+  },
+  "sortOrder": 249,
+  "units": [
+    {
+      "id": "psalm-132-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1-2</sup> Te lembre de Davi, Senhor.\nAo nome\\_excelso deu louvor,\nA força de\\_Israel chamou.\nTe lembre;\\_ao juramento\\_optou.\nEm teu favor se obrigou.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-132-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3-5</sup> Nem paz se\\_o grande rei quis dar\nNem casa para repousar.\nO rei também não descansou\nEnquanto Deus não habitou;\nNa terra,\\_um templo aceitou.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-132-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>6</sup> Em Efrata, se\\_ouviu falar;\nNo campo,\\_achamos, em Jaar.\n<sup>7</sup> Em sua casa,\\_em seu favor\nOs peregrinos dão louvor.\nProstremos diante o Senhor.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-132-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Vamos à casa do Senhor,\nHonremos onde\\_o trono for,\nOremos no\\_escabelo seu.\n<sup>8</sup> Levanta-te, ó nosso Deus\nPra arca do repouso teu.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-132-har-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>9</sup> E viste\\_os sacerdotes teus;\nJustiça dê-lhes, grande Deus.\nAmados seus, regozijai.\n<sup>10</sup> O\\_ungido seu não rejeitai,\nSeu servo; em Davi pensai.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-132-har-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>11-12</sup> Jurou, pois, a Davi\\_o Senhor:\nSe\\_assim seu filho firme for\nEm minha lei e\\_a observar,\nTeu filho, Deus quis revelar:\n\"No trono, eu farei sentar.\"",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-132-har-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13-15</sup> Sião, teu Deus nos prometeu,\nComo morada escolheu,\nLugar da sua\\_habitação.\n<sup>15</sup> \"Dou alimento, farto pão,\nComida\\_aos que famintos são.\"",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-132-har-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>16</sup> Os sacerdotes dotarei,\n<sup>17</sup> A força de Davi farei.\nO meu ungido reinará.\n<sup>18</sup> Hostil vexame\\_os cobrirá.\nCoroa dele florirá.",
+      "attrs": {},
+      "sortOrder": 8
+    }
+  ]
+}

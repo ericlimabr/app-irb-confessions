@@ -1,0 +1,70 @@
+{
+  "id": "heidelberg-ld36",
+  "collection": "heidelberg",
+  "number": 36,
+  "numberLabel": "Domingo 36",
+  "title": null,
+  "subtitle": "Os Dez Mandamentos",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 36,
+  "units": [
+    {
+      "id": "heidelberg-q099-q",
+      "kind": "question",
+      "label": "P. 99",
+      "body": "O que se exige no terceiro mandamento?",
+      "attrs": {
+        "questionNumber": 99
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q099-a",
+      "kind": "answer",
+      "label": "R. 99",
+      "body": "Que não blasfememos nem façamos mau uso do Nome de Deus por maldição, perjúrio ou  votos  desnecessários, e  que  não  participemos, por omissão silenciosa, desses terríveis pecados.\n\nAntes devemos usar o santo nome de Deus somente com temor e reverência, para que possamos confessá-lO corretamente, invocá-lO, e O glorificar com todas as nossas palavras e obras.",
+      "attrs": {
+        "questionNumber": 99,
+        "refs": [
+          "Lv 24.10-17.",
+          "Lv 19.12.",
+          "Mt 5.37; Tg 5.12.",
+          "Lv 5.1; Pv 29.24.",
+          "Sl 99.1-5; Is 45.23; Jr 4.2.",
+          "Mt 10.32, 33; Rm 10.9, 10.",
+          "Sl 50.14, 15; 1Tm 2.8.",
+          "Rm 2.24; Cl 3.17; 1Tm 6.1."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q100-q",
+      "kind": "question",
+      "label": "P. 100",
+      "body": "Será que blasfemar o Nome de Deus por juramentos e maldições é um pecado tão grande que Deus se ira também contra aqueles que não impedem nem proíbem isso o tanto quanto podem?",
+      "attrs": {
+        "questionNumber": 100
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q100-a",
+      "kind": "answer",
+      "label": "R. 100",
+      "body": "Certamente que sim. Porque nenhum pecado é maior nem provoca mais a ira de Deus do que blasfemar o Seu Nome.\n\nÉ por isso que Ele ordenou que esse pecado fosse punido com a morte.",
+      "attrs": {
+        "questionNumber": 100,
+        "refs": [
+          "Lv 5.1.",
+          "Lv 24.16."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

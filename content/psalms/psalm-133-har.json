@@ -1,0 +1,40 @@
+{
+  "id": "psalm-133-har",
+  "collection": "psalms",
+  "number": 133,
+  "numberLabel": "Salmo 133",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-133",
+  "attrs": {
+    "attribution": "CBS - Azmon"
+  },
+  "sortOrder": 251,
+  "units": [
+    {
+      "id": "psalm-133-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Oh! Como\\_é bom e agradável, bem suave, sim,\nQue vivam juntos os irmãos em preciosa comunhão!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-133-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>2</sup> É como\\_o fino óleo que sobre\\_a cabeça\\_está;\nCai sobre\\_a barba\\_e desce\\_à gola das vestes de Arão.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-133-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>3</sup> É qual orvalho do Hermom descendo em Sião.\nAli, a bênção ordenou: vida para sempre!\\_Amém!",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

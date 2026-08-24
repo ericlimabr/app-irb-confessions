@@ -1,0 +1,41 @@
+{
+  "id": "hymn-075",
+  "collection": "hymns",
+  "number": 75,
+  "numberLabel": "Hino 75",
+  "title": "JARDIM DAS OLIVEIRAS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: MORTE",
+    "author": "Antônio de Campos Gonçalves"
+  },
+  "sortOrder": 75,
+  "units": [
+    {
+      "id": "hymn-075-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Jardim das Oliveiras,\nRecanto em que Jesus,\nNas horas derradeiras,\nSofreu, primeiro, a cruz.\nDe ti subiram preces\nDo Santo Redentor.\nJesus, só tu conheces\nO cálix de amargor.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-075-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Jesus, Senhor, espero.\nNas horas de aflição,\nLembrar-me do severo\nJardim da provação.\nSenhor, mesmo inocente,\nSofreste no jardim,\nSofreste duramente,\nSofreste só por mim.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-075-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Passada a grande prova\nTiveste de enfrentar,\nA dor impiedosa\nNa cruz, em meu lugar\nVenceste nessa luta:\nAchei descanso e paz,\nMinha alma já desfruta\nA salvação que dás.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

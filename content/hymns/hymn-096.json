@@ -1,0 +1,41 @@
+{
+  "id": "hymn-096",
+  "collection": "hymns",
+  "number": 96,
+  "numberLabel": "Hino 96",
+  "title": "DESPEDE-NOS, SENHOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ENCERRAMENTO E DESPEDIDA",
+    "author": "Manoel Antônio de Menezes"
+  },
+  "sortOrder": 96,
+  "units": [
+    {
+      "id": "hymn-096-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Despede-nos, Senhor, Jesus,\nNo fim do teu culto aqui;\nConcede-nos, por teu amor,\nVivamos todos sempre em ti.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-096-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "Despede-nos com tua paz,\nDespede-nos em teu amor!\nMais outra vez permitirás,\nNos congreguemos, ó Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-096-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Conduze-nos, Senhor Jesus,\nE não nos largue a tua mão!\nOutorga-nos a tua luz,\nQue nos aponte a direção.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

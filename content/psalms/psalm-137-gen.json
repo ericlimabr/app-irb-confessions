@@ -1,0 +1,56 @@
+{
+  "id": "psalm-137-gen",
+  "collection": "psalms",
+  "number": 137,
+  "numberLabel": "Salmo 137",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-137",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 257,
+  "units": [
+    {
+      "id": "psalm-137-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Às margens lá dos rios da Babilônia,\nNos assentávamos ali chorando,\nLembrando da cidade de Sião.\n<sup>2</sup> E, nos salgueiros que\\_existiam lá,\nNós pendurávamos as nossas harpas,\nSim, pendurávamos as nossas harpas.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-137-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Porque, ali, os nossos opressores\nPediam que cantássemos alegres\nAlguma das canções lá de Sião.\n<sup>4</sup> Mas como poderíamos cantar\nO canto do Senhor em terra\\_estranha,\nO canto do Senhor em terra\\_estranha?",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-137-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Jerusalém, se\\_eu vier a esquecer-te,\nQue se resseque\\_a minha mão direita!\n<sup>6</sup> E\\_a língua\\_apegue-se\\_ao meu paladar\nSe\\_eu não lembrar de ti, Jerusalém,\nSe à maior das minhas alegrias\nA ti, Jerusalém, não preferir-te!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-137-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Oh, contra\\_os filhos de Edom te lembres,\nSenhor, de quando\\_assim eles diziam\nContra\\_a cidade de Jerusalém:\n“Oh, arrasai-a, arrasai-a, sim;\nAté os fundamentos, arrasai-a!”\nLembra, Senhor, de quando\\_assim falavam!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-137-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> Feliz aquele que te der o pago,\nA ti, que filha és da Babilônia,\nDe todo\\_o mal que tu fizeste\\_a nós!\nE destruída tu, então, serás!\n<sup>9</sup> Feliz aquele que pegar teus filhos\nE esmagá-los todos contra\\_a pedra!",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "heidelberg-ld48",
+  "collection": "heidelberg",
+  "number": 48,
+  "numberLabel": "Domingo 48",
+  "title": null,
+  "subtitle": "A Oração",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "A Nossa Gratidão"
+  },
+  "sortOrder": 48,
+  "units": [
+    {
+      "id": "heidelberg-q123-q",
+      "kind": "question",
+      "label": "P. 123",
+      "body": "Qual é a segunda petição?",
+      "attrs": {
+        "questionNumber": 123
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q123-a",
+      "kind": "answer",
+      "label": "R. 123",
+      "body": "_\"Venha o teu reino\"_.\n\nIsto é:\n\nQue  nos  governes  pela  Tua  Palavra  e  Espírito  de  tal  modo  que  nos submetamos a Ti cada vez mais.\n\nQue protejas e faças crescer a Tua igreja.\n\nQue destruas as obras do diabo, todo poder que se levante contra Ti e toda conspiração contra a Tua Palavra.\n\nQue faças todas essas coisas até que venha a plenitude do Teu reino, em que serás tudo em todos.",
+      "attrs": {
+        "questionNumber": 123,
+        "refs": [
+          "Sl 119.5, 105; 143.10; Mt 6.33.",
+          "Sl 51.18; 122.6-9; Mt 16.18; At 2.42-47.",
+          "Rm 16.20; 1Jo 3.8.",
+          "Rm 8.22, 23; 1Co 15.28; Ap 22.17, 20."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

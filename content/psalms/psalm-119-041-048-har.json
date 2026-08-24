@@ -1,0 +1,48 @@
+{
+  "id": "psalm-119-041-048-har",
+  "collection": "psalms",
+  "number": 119,
+  "numberLabel": "Salmo 119.41-48",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-119-041-048",
+  "attrs": {
+    "attribution": "CBS - Slane"
+  },
+  "sortOrder": 204,
+  "units": [
+    {
+      "id": "psalm-119-041-048-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>41</sup> Venham também sobre mim salvação\nE\\_as tuas misericórdias, Senhor.\nPois prometeste\\_<sup>42</sup> e,\\_então, responderei\nA quem me\\_insulta, pois confio em ti.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-119-041-048-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>43</sup> De minha boca não tires jamais\nTua verdade, pois espero\\_em ti,\nNos teus juízos, <sup>44</sup> e hei de\\_observar\nA tua lei, vou de contínuo cumprir.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-119-041-048-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>45</sup> E com largueza, sim, eu andarei,\nPois me empenho nos preceitos teus.\n<sup>46</sup> Das tuas leis eu também falarei\nPerante\\_os reis e não me\\_envergonharei.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-119-041-048-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>47</sup> Nos teus preceitos eu terei prazer,\nOs quais eu amo <sup>48</sup> e,\\_então, erguerei\nAs mãos, pois amo tua lei, ó Senhor,\nNos teus decretos, sim, eu meditarei",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "heidelberg-ld09",
+  "collection": "heidelberg",
+  "number": 9,
+  "numberLabel": "Domingo 9",
+  "title": null,
+  "subtitle": "Deus Pai e a Nossa Criação",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 9,
+  "units": [
+    {
+      "id": "heidelberg-q026-q",
+      "kind": "question",
+      "label": "P. 26",
+      "body": "Em que você crê quando diz: 'Creio em Deus Pai, Todo-poderoso, Criador do céu e da terra'?",
+      "attrs": {
+        "questionNumber": 26
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q026-a",
+      "kind": "answer",
+      "label": "R. 26",
+      "body": "Creio que o eterno Pai do nosso Senhor Jesus Cristo, que criou do nada o céu e a terra e tudo o que neles há, e  também os sustenta e governa por Seu conselho e providência eternos, é  o  meu  Deus  e  o meu Pai, por causa do Seu Filho Cristo.\n\nCreio nEle tão completamente que não tenho nenhuma dúvida de que Ele me suprirá de tudo que é necessário ao corpo e à alma, e que também converterá em bem para mim toda a adversidade que me enviar nessa vida conturbada.\n\nEle assim pode fazer porque é Deus Todo-Poderoso, mas o quer fazer, porque é Pai Fiel.",
+      "attrs": {
+        "questionNumber": 26,
+        "refs": [
+          "Gn 1; 2; Êx 20.11; Jó 38; 39; Sl 33.6; Is 44.24; At 4.24; 14.15.",
+          "Sl 104.27-30; Mt 6.30; 10.29; Ef 1.11.",
+          "Jo 1.12, 13; Rm 8.15, 16; Gl 4.4-7; Ef 1.5.",
+          "Sl 55.22; Mt 6.25, 26; Lc 12.22-31.",
+          "Rm 8.28.",
+          "Gn 18.14; Rm 8.31-39.",
+          "Mt 6.32, 33; 7.9-11."
+        ]
+      },
+      "sortOrder": 2
+    }
+  ]
+}

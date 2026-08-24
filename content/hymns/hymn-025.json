@@ -1,0 +1,25 @@
+{
+  "id": "hymn-025",
+  "collection": "hymns",
+  "number": 25,
+  "numberLabel": "Hino 25",
+  "title": "SANTO, SANTO, SANTO, DEUS DOS EXÉRCITOS",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Sarah Poulton Kalley"
+  },
+  "sortOrder": 25,
+  "units": [
+    {
+      "id": "hymn-025-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Santo, santo, santo,\nDeus dos exércitos,\nA terra e os céus\nProclamam tua glória.\nGlória a ti, glória a ti, ó Deus,\nEternamente. Amém.",
+      "attrs": {},
+      "sortOrder": 1
+    }
+  ]
+}

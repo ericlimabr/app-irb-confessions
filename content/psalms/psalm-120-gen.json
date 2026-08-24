@@ -1,0 +1,32 @@
+{
+  "id": "psalm-120-gen",
+  "collection": "psalms",
+  "number": 120,
+  "numberLabel": "Salmo 120",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-120",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 224,
+  "units": [
+    {
+      "id": "psalm-120-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Ao Senhor clamo\\_em minha\\_angústia,\nE Ele ouve o meu clamor.\n<sup>2</sup> Ó Senhor, livra\\_a minha alma\nDa boca\\_e língua mentirosa.\n<sup>3</sup> O que será acrescentado\nA ti, ó língua\\_enganadora?\n<sup>4</sup> Flechas agudas com poder,\nBrasas de zimbro a viver.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-120-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> Oh, ai de mim, que peregrino,\nSim, eu estou a peregrinar;\nSim, em Meseque, peregrino;\nNas tendas de Quedar, habito\n<sup>6</sup> Há muito tempo que habito\nCom homens que odeiam a paz.\n<sup>7</sup> Sou pela paz, mas, ao falar,\nEles procuram guerrear.",
+      "attrs": {},
+      "sortOrder": 2
+    }
+  ]
+}

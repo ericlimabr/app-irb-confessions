@@ -1,0 +1,74 @@
+{
+  "id": "heidelberg-ld12",
+  "collection": "heidelberg",
+  "number": 12,
+  "numberLabel": "Domingo 12",
+  "title": null,
+  "subtitle": "Deus Filho e a Nossa Redenção",
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "part": "Nossa Salvação"
+  },
+  "sortOrder": 12,
+  "units": [
+    {
+      "id": "heidelberg-q031-q",
+      "kind": "question",
+      "label": "P. 31",
+      "body": "Por que razão é Ele chamado de Cristo, que quer dizer, Ungido?",
+      "attrs": {
+        "questionNumber": 31
+      },
+      "sortOrder": 1
+    },
+    {
+      "id": "heidelberg-q031-a",
+      "kind": "answer",
+      "label": "R. 31",
+      "body": "Porque Ele foi ordenado por Deus o Pai, e ungido com o Espírito Santo, para ser o nosso supremo Profeta e Mestre, que nos revelou completamente o propósito secreto e a vontade de Deus quanto à nossa redenção;\n\nnosso único Sumo Sacerdote o  qual  por  um  único  sacrifício  do  Seu corpo nos remiu, e intercede continuamente por nós diante do Pai;\n\ne nosso Rei eterno, que nos governa pela Sua Palavra e por Seu Espírito, e que nos defende e preserva na redenção que para nós conquistou.",
+      "attrs": {
+        "questionNumber": 31,
+        "refs": [
+          "Sl 45.7 (Hb 1.9); Is 61.1 (Lc 4.18); Lc 3.21, 22.",
+          "Dt 18.15 (At 3.22).",
+          "Jo 1.18; 15.15.",
+          "Sl 110.4 (Hb 7.17).",
+          "Hb 9.12; 10.11-14.",
+          "Rm 8.34; Hb 9.24; 1Jo 2.1.",
+          "Zc 9.9 (Mt 21.5); Lc 1.33.",
+          "Mt 28.18-20; Jo 10.28; Ap 12.10, 11."
+        ]
+      },
+      "sortOrder": 2
+    },
+    {
+      "id": "heidelberg-q032-q",
+      "kind": "question",
+      "label": "P. 32",
+      "body": "Por que é que você é chamado de cristão?",
+      "attrs": {
+        "questionNumber": 32
+      },
+      "sortOrder": 3
+    },
+    {
+      "id": "heidelberg-q032-a",
+      "kind": "answer",
+      "label": "R. 32",
+      "body": "Porque, pela fé, sou membro de Cristo e por isso partilho da Sua unção, para poder como profeta confessar o Seu nome; como sacerdote apresentar a mim mesmo como sacrifício vivo de gratidão a Ele; como rei, de livre e boa consciência, combater o pecado e o diabo nessa vida e no porvir reinar eternamente com Ele sobre todas as criaturas.",
+      "attrs": {
+        "questionNumber": 32,
+        "refs": [
+          "1Co 12.12-27.",
+          "Jl 2.28 (At 2.17); 1Jo 2.27.",
+          "Mt 10.32; Rm 10.9, 10; Hb 13.15.",
+          "Rm 12.1; 1Pe 2.5, 9.",
+          "Gl 5.16, 17; Ef 6.11; 1Tm 1.18, 19.",
+          "Mt 25.34; 2Tm 2.12."
+        ]
+      },
+      "sortOrder": 4
+    }
+  ]
+}

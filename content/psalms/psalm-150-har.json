@@ -1,0 +1,24 @@
+{
+  "id": "psalm-150-har",
+  "collection": "psalms",
+  "number": 150,
+  "numberLabel": "Salmo 150",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-150",
+  "attrs": {
+    "attribution": "CBS - Creation"
+  },
+  "sortOrder": 283,
+  "units": [
+    {
+      "id": "psalm-150-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Aleluia! Louvai no santuário!\nNo firmamento,\\_a Deus louvai por seu poder!\n<sup>2</sup> Louvai-o por seus feitos poderosos,\nLouvai-o pela sua plena\\_imensidão!\n<sup>3</sup> Louvai-o! Ao som da trombeta, louvai!\nLouvai-o! Com saltério e com harpa, louvai!\n<sup>4</sup> Com dança\\_e tambor, com cordas, louvai!\nCom flautas, louvai a Deus, louvai, louvai!\n<sup>5</sup> Louvai, louvai! Louvai, louvai\nCom címbalos sonoros, com címbalos de som!\n<sup>6</sup> Louvai, louvai! A Deus louvai!\nSim, tudo que respira louve!\\_Aleluia!",
+      "attrs": {},
+      "sortOrder": 1
+    }
+  ]
+}

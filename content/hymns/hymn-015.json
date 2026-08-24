@@ -1,0 +1,49 @@
+{
+  "id": "hymn-015",
+  "collection": "hymns",
+  "number": 15,
+  "numberLabel": "Hino 15",
+  "title": "TEU CULTO AGORA, AQUI, SENHOR",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "CHAMADO À ADORAÇÃO",
+    "author": "James Theodore Houston"
+  },
+  "sortOrder": 15,
+  "units": [
+    {
+      "id": "hymn-015-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Teu culto agora, aqui, Senhor,\nNós vimos celebrar,\nCantando, juntos, teu louvor,\nTeu livro a meditar.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-015-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Vem, santo Deus, vem presidir\nA nossa adoração\nE teu amor fazer sentir\nEm cada coração!",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-015-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "No mundo, ó salvador Jesus,\nQueremos todos ter\nPerfeita união e, em plena luz,\nContigo em paz viver.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-015-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Atende nossas petições,\nTu que és eterno Deus!\nConcede aos nossos corações\nAmbiente lá dos céus!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

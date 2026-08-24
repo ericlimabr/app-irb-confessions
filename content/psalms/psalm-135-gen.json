@@ -1,0 +1,104 @@
+{
+  "id": "psalm-135-gen",
+  "collection": "psalms",
+  "number": 135,
+  "numberLabel": "Salmo 135",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-135",
+  "attrs": {
+    "attribution": "Vítor Olivier - Saltério de Genebra"
+  },
+  "sortOrder": 254,
+  "units": [
+    {
+      "id": "psalm-135-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Louvai ao nosso Senhor,\nLouvai ao seu nome, sim!\nLouvai, servos do Senhor,\n<sup>2</sup> Que\\_em sua casa assistis,\nQue nos átrios assistis\nDa casa do nosso Deus!",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-135-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Ao Senhor rendei louvor,\nPois bondoso Ele é.\nEntoai-lhe o louvor,\nPorque agradável é,\n<sup>4</sup> Pois pra si Ele\\_escolheu\nA Jacó e\\_a Israel.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-135-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>5</sup> Sei que grande é\\_o Senhor,\nBem maior que\\_os deuses é.\n<sup>6</sup> O Senhor realizou\nTudo quanto decretou\nNa terra\\_e também no céu,\nNos abismos e no mar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-135-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Deus as nuvens faz subir;\nDos confins da terra,\\_as traz.\nPara\\_a chuva o Senhor\nTambém faz relampejar.\nDas reservas faz sair,\nSim, os ventos faz sair.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-135-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "<sup>8</sup> No Egito, o Senhor\nPrimogênitos feriu,\nTanto homens e\\_animais;\n<sup>9</sup> Em teu meio, fez sinais;\nSim, contra o Faraó\nE seus servos operou.",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "psalm-135-gen-v6",
+      "kind": "verse",
+      "label": "6",
+      "body": "<sup>10</sup> Nações e seus reis feriu:\n<sup>11</sup> Seom, rei dos amorreus\nE Ogue, rei de Basã,\nE os reis de Canaã,\n<sup>12</sup> Cujas terras Ele deu\nAo seu povo, Israel.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "psalm-135-gen-v7",
+      "kind": "verse",
+      "label": "7",
+      "body": "<sup>13</sup> O teu nome, ó Senhor\nSempre há de subsistir;\nTua memória passará\nGeração a geração,\n<sup>14</sup> Pois Deus julga\\_o povo seu;\nDos servos tem compaixão.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "psalm-135-gen-v8",
+      "kind": "verse",
+      "label": "8",
+      "body": "<sup>15</sup> Deuses falsos das nações\nOuro e a prata são,\nObras da mão de\\_homens são;\n<sup>16</sup> Boca têm, mas sem falar,\nOlhos têm sem enxergar,\n<sup>17</sup> Têm ouvidos sem ouvir.",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "psalm-135-gen-v9",
+      "kind": "verse",
+      "label": "9",
+      "body": "Esses ídolos não têm\nDa vida o fôlego.\n<sup>18</sup> E tal como eles são\nTambém há de se tornar\nTodo\\_aquele que os faz\nE neles confiança tem.",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "psalm-135-gen-v10",
+      "kind": "verse",
+      "label": "10",
+      "body": "<sup>19</sup> Vinde,\\_ó casa de\\_Israel,\nBendizer, pois, ao Senhor.\nVinde,\\_ó casa de Arão,\nBendizer, pois, ao Senhor.\n<sup>20</sup> Vinde,\\_ó casa de Levi,\nBendizer, pois, ao Senhor.",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "psalm-135-gen-v11",
+      "kind": "verse",
+      "label": "11",
+      "body": "Vós que ao Senhor temeis,\nVinde bendizer a Deus.\n<sup>21</sup> De Sião o bendizei,\nSim, a Ele,\\_o nosso Deus,\nQue\\_em Jerusalém está.\nDai louvor! Aleluia!",
+      "attrs": {},
+      "sortOrder": 11
+    }
+  ]
+}

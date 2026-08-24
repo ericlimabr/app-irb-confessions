@@ -1,0 +1,59 @@
+{
+  "id": "hymn-080",
+  "collection": "hymns",
+  "number": 80,
+  "numberLabel": "Hino 80",
+  "title": "PENDURADO NO MADEIRO",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "ATOS REDENTIVOS: MORTE",
+    "author": "Antônio José dos Santos Neves"
+  },
+  "sortOrder": 80,
+  "units": [
+    {
+      "id": "hymn-080-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Pendurado no madeiro,\nÓ Jesus, pudeste, assim,\nAbrir o meu cativeiro\nE provar-me amor sem fim.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-080-ref1",
+      "kind": "refrain",
+      "label": null,
+      "body": "O teu sangue foi vertido,\nExpiraste, ó meu Jesus!\nE ficou por ti cumprido\nMeu resgate sobre a cruz.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-080-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Neste sangue que verteste,\nPurificas-me, Senhor!\nFoi por mim que tu morreste:\nSê propício ao pecador!",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-080-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Sê propício aos resgatados\nA lutar na escuridão\nDeste abismo de pecados,\nSob a dor da aflição!",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "hymn-080-amen",
+      "kind": "verse",
+      "label": null,
+      "body": "Amém.",
+      "attrs": {
+        "role": "amen"
+      },
+      "sortOrder": 5
+    }
+  ]
+}

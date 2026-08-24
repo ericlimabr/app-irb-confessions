@@ -1,0 +1,49 @@
+{
+  "id": "hymn-017",
+  "collection": "hymns",
+  "number": 17,
+  "numberLabel": "Hino 17",
+  "title": "AO DEUS DE ABRAÃO LOUVAI",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {
+    "section": "LOUVOR E ADORAÇÃO",
+    "author": "Daniel ben Judah / Thomas Oliver / João Gomes da Rocha"
+  },
+  "sortOrder": 17,
+  "units": [
+    {
+      "id": "hymn-017-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "Ao Deus de Abraão louvai: do vasto céu Senhor,\nEterno e poderoso Pai e Deus de amor!\nAugusto, o Senhor, que terra e céu criou!\nMinha alma o nome exaltará do grande Eu Sou.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "hymn-017-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "Ao Deus de Abraão louvai! Eis por mandado seu,\nMinha alma se alegra e louva o Deus no céu.\nO mundo desprezei, seu lucro e seu louvor,\nE Deus por meu quinhão tomei e protetor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "hymn-017-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Meu guia Deus será! Seu infinito amor\nFeliz em tudo me fará por onde eu for.\nTomou-me pela mão, nas trevas deu-me luz\nE dá-me eterna salvação por meu Jesus.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "hymn-017-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "Meu Deus por si jurou, eu nele confiei\nE para o céu que preparou eu subirei.\nSua face eu hei de ver, confiado em seu amor,\nE para sempre engrandecer meu Redentor.",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}

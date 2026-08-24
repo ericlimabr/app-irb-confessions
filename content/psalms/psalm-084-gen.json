@@ -1,0 +1,56 @@
+{
+  "id": "psalm-084-gen",
+  "collection": "psalms",
+  "number": 84,
+  "numberLabel": "Salmo 84",
+  "title": null,
+  "subtitle": null,
+  "variant": "gen",
+  "groupKey": "psalm-084",
+  "attrs": {
+    "attribution": "Lucas Freire - Saltério de Genebra"
+  },
+  "sortOrder": 137,
+  "units": [
+    {
+      "id": "psalm-084-gen-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Amável, suave\\_é\\_o lugar,\nDeus dos Exércitos, Senhor,\nDo tabernáculo\\_em que\\_habitas.\n<sup>2</sup> Minha\\_alma fica\\_a suspirar\nPor esses átrios do Senhor;\nQuase,\\_até mesmo, desfalece.\nMeu coração e\\_o corpo meu\nExultam pelo vivo Deus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-084-gen-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>3</sup> Seu lar o pardal fez ali;\nE\\_a andorinha,\\_um ninho\\_a si,\nPara\\_acolher seus filhotinhos;\nOs teus altares encontrei,\nSenhor das Hostes e meu Deus!\n<sup>4</sup> Feliz quem no teu lar habita,\nPerpetuamente dá louvor,\n<sup>5</sup> Feliz se\\_em ti tem seu vigor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-084-gen-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "Tal homem bendito será\nSe bem correto\\_é\\_o caminhar\nQue no seu coração se\\_encontra.\n<sup>6</sup> Se caminhar na sequidão,\nFaz deste vale\\_um manancial,\nCobre de bênção uma chuva.\n<sup>7</sup> De força, cada um irá,\nEm Sião, a Deus se\\_apresentar.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-084-gen-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>8</sup> Escuta-me\\_a prece\\_em clamor,\nDeus dos Exércitos, Senhor!\nDeus de Jacó, vem dar-me\\_ouvidos!\n<sup>9</sup> Deus, nosso\\_escudo, vem olhar,\nVem este rosto contemplar\nDo teu Ungido, do teu Cristo!\n<sup>10</sup> Um dia no\\_átrio do teu lar\nÉ mais que mil noutro lugar.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "psalm-084-gen-v5",
+      "kind": "verse",
+      "label": "5",
+      "body": "Melhor ser porteiro de Deus\nQue\\_estar na tenda do pecar,\n<sup>11</sup> Pois Deus Senhor é sol e\\_escudo.\nGraça\\_e\\_esplendor Javé dará,\nOh, nenhum bem sonegará\nAo que caminha como\\_um justo.\n<sup>12</sup> Senhor das hostes, é feliz\nAquele que confia\\_em ti.",
+      "attrs": {},
+      "sortOrder": 5
+    }
+  ]
+}

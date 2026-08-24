@@ -1,0 +1,40 @@
+{
+  "id": "psalm-016-har",
+  "collection": "psalms",
+  "number": 16,
+  "numberLabel": "Salmo 16",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-016",
+  "attrs": {
+    "attribution": "CBS - Faithfulness"
+  },
+  "sortOrder": 32,
+  "units": [
+    {
+      "id": "psalm-016-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Guarda-me,\\_ó Deus, pois em ti eu me abrigo.\n<sup>2</sup> Minha\\_alma diz que tu és meu Senhor.\nAlém de ti outro bem eu não tenho.\n<sup>3</sup> E nos teus santos está meu prazer.\n<sup>4</sup> Há muitas punições, penalidades mil\nPra quem por deuses trocar o Senhor.\nJamais darei sacrifício\\_a tais deuses,\nA quem meus lábios não pronunciarão.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-016-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>5</sup> És minha taça, Senhor, minha\\_herança;\nDa minha sorte\\_o arrimo tu és.\n<sup>6</sup> Tenho\\_as divisas em áreas amenas,\nMinha herança\\_é formosa\\_e sem par.\n<sup>7</sup> Bendigo\\_o meu Senhor, que\\_a mim conselhos traz;\nE,\\_à noite,\\_o coração vem me\\_ensinar.\n<sup>8</sup> Tenho\\_o Senhor sempre\\_à minha presença;\nEle\\_à direita,\\_abalado não sou.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-016-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "<sup>9</sup> Meu coração bem alegre exulta;\nMeu corpo\\_a salvo repouso terá.\n<sup>10</sup> Minha\\_alma não deixarás no abismo,\nNem o teu Santo provar corrupção.\n<sup>11</sup> Tu me farás saber por onde devo\\_andar,\nSim, o caminho da vida\\_enxergar.\nHá pleno gozo na tua presença;\nNa tua destra, delícias sem fim.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "psalm-020-har",
+  "collection": "psalms",
+  "number": 20,
+  "numberLabel": "Salmo 20",
+  "title": null,
+  "subtitle": null,
+  "variant": "har",
+  "groupKey": "psalm-020",
+  "attrs": {
+    "attribution": "CBS - Send me, o Lord, send"
+  },
+  "sortOrder": 38,
+  "units": [
+    {
+      "id": "psalm-020-har-v1",
+      "kind": "verse",
+      "label": "1",
+      "body": "<sup>1</sup> Que\\_a ti resposta dê\\_o Senhor no dia da\\_aflição,\nTe\\_eleve\\_em segurança\\_o nome do Deus de Jacó.\n<sup>2</sup> Do santuário,\\_envie socorro\\_e te sustenha de Sião.\n<sup>3</sup> De tuas ofertas e\\_holocaustos lembre\\_e\\_aceite Deus.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "psalm-020-har-v2",
+      "kind": "verse",
+      "label": "2",
+      "body": "<sup>4</sup> Segundo quer teu coração, conceda-te\\_o Senhor,\nE\\_os teus desígnios todos eles realize Deus.\n<sup>5</sup> Celebraremos tua vitória, jubilosos, todos nós\nE\\_hastearemos nós pendões em nome do Senhor.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "psalm-020-har-v3",
+      "kind": "verse",
+      "label": "3",
+      "body": "E\\_a todos os teus votos satisfaça\\_o nosso Deus.\n<sup>6</sup> E\\_agora sei que\\_o seu ungido\\_o Senhor salvará.\nE\\_a Ele, do seu santo céu, o Senhor lhe responderá.\nCom\\_a destra vitoriosa\\_e forte, lhe responderá.",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "psalm-020-har-v4",
+      "kind": "verse",
+      "label": "4",
+      "body": "<sup>7</sup> Os homens em cavalos, carros, confiança têm,\nMas nós nos gloriaremos, sim, no nome do Senhor.\n<sup>8</sup> Os tais se\\_encurvam, tombam; mas de pé nos manteremos, pois.\n<sup>9</sup> Oh, dá, Senhor, vitória\\_ao rei! Clamamos, ouve,\\_ó Deus!",
+      "attrs": {},
+      "sortOrder": 4
+    }
+  ]
+}
