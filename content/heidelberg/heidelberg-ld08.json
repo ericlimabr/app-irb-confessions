@@ -36,7 +36,7 @@
       "id": "heidelberg-q025-q",
       "kind": "question",
       "label": "P. 25",
-      "body": "Por que é que você fala em três Pessoas: Pai, Filho e Espírito Santo; visto que só existe um único Deus?",
+      "body": "Por que é que você fala em três Pessoas: Pai, Filho e Espírito Santo; visto que só existe um único Deus? <sup>1</sup>",
       "attrs": {
         "questionNumber": 25
       },
@@ -46,7 +46,7 @@
       "id": "heidelberg-q025-a",
       "kind": "answer",
       "label": "R. 25",
-      "body": "Porque o próprio Deus se revelou de tal maneira em Sua Palavra que essas três Pessoas distintas são o único, verdadeiro e eterno Deus.",
+      "body": "Porque o próprio Deus se revelou de tal maneira em Sua Palavra <sup>2</sup> que essas três Pessoas distintas são o único, verdadeiro e eterno Deus.",
       "attrs": {
         "questionNumber": 25,
         "refs": [

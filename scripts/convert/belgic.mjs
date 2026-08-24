@@ -5,12 +5,13 @@
  * - `### Título` → `document.title`.
  * - Cada parágrafo → unidade `article` `-p{n}` (D5-a).
  * - Bloco de referências numerado → `attrs.refs` na ÚLTIMA unidade do artigo (D5-a).
- * - `<sup>N</sup>` de nota achatado do corpo (D1); itálico preservado.
+ * - `<sup>N</sup>` de nota PRESERVADO no corpo (R1, revoga D1): o marcador casa por
+ *   posição com a referência de mesmo índice em `attrs.refs`. Itálico preservado.
  * - Caso especial art. 4: cada `####` (listas VT/NT) → unidade `heading` `-h{n}`;
  *   a lista de livros que a segue → unidade `article` `-l{n}` (marcador `- ` removido).
  */
 
-import { counter, fail, makeDoc, makeUnit, pad, parseNumberedRefs, stripSup, toLines } from './common.mjs';
+import { counter, fail, makeDoc, makeUnit, pad, parseNumberedRefs, toLines } from './common.mjs';
 
 const ART_RE = /^## ARTIGO (\d+)\s*$/;
 
@@ -117,7 +118,7 @@ function buildArticle(number, headLine, block, file, docOrder) {
       para.push(block[idx].text);
       idx += 1;
     }
-    const body = stripSup(para.join(' ')).trim();
+    const body = para.join(' ').trim();
     if (body === '') fail(file, n, `parágrafo vazio no artigo ${number}`);
     units.push(
       makeUnit({ id: `${idBase}-p${(pN += 1)}`, kind: 'article', body, sortOrder: uOrder() }),

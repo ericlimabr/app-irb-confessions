@@ -9,7 +9,8 @@
  *   sob ela). O `# O CATECISMO DE HEIDELBERG` inicial é título de obra → ignorado.
  * - `### P.N. …?` → duas unidades com numeração GLOBAL 1–129:
  *   `heidelberg-q{NNN}-q` (question) e `-a` (answer). `attrs.questionNumber = N`,
- *   `attrs.refs` na resposta (regra §1.6). `<sup>` de nota achatado; itálico e
+ *   `attrs.refs` na resposta (regra §1.6). `<sup>` de nota PRESERVADO no corpo
+ *   (R1, revoga D1): casa por posição com a referência de mesmo índice. Itálico e
  *   indentação (Oração/Mandamentos) preservados.
  */
 
@@ -20,7 +21,6 @@ import {
   makeUnit,
   pad,
   splitTrailingRefs,
-  stripSup,
   toLines,
 } from './common.mjs';
 
@@ -83,7 +83,7 @@ export function parseHeidelberg(source, file) {
     if (q) {
       if (!doc) fail(file, n, `pergunta P.${q[1]} fora de um "## DIA DO SENHOR"`);
       const number = Number(q[1]);
-      const qBody = stripSup(q[2].trim());
+      const qBody = q[2].trim();
       if (qBody === '') fail(file, n, `pergunta P.${number} sem enunciado`);
 
       // Região da resposta: até o próximo cabeçalho.
@@ -98,7 +98,7 @@ export function parseHeidelberg(source, file) {
       if (!/^R\.\s/.test(answer) && !/^R\.$/.test(answer)) {
         fail(file, n, `resposta de P.${number} não começa com "R." (achei ${JSON.stringify(answer.slice(0, 30))})`);
       }
-      answer = stripSup(answer.replace(/^R\.\s*/, '')).trim();
+      answer = answer.replace(/^R\.\s*/, '').trim();
       if (answer === '') fail(file, n, `resposta de P.${number} vazia`);
 
       const idBase = `heidelberg-q${pad(number, 3)}`;
