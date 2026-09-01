@@ -1,0 +1,110 @@
+{
+  "id": "creed-apostles",
+  "collection": "creeds",
+  "number": null,
+  "numberLabel": null,
+  "title": "Credo Apostólico",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 1,
+  "units": [
+    {
+      "id": "creed-apostles-a01",
+      "kind": "verse",
+      "label": "1",
+      "body": "Creio em Deus Pai, Todo-Poderoso, Criador do céu e da terra;",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "creed-apostles-a02",
+      "kind": "verse",
+      "label": "2",
+      "body": "e em Jesus Cristo, seu único Filho, nosso Senhor;",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "creed-apostles-a03",
+      "kind": "verse",
+      "label": "3",
+      "body": "que foi concebido pelo Espírito Santo, nasceu da virgem Maria;",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "creed-apostles-a04",
+      "kind": "verse",
+      "label": "4",
+      "body": "padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado, desceu ao inferno;",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "creed-apostles-a05",
+      "kind": "verse",
+      "label": "5",
+      "body": "no terceiro dia ressurgiu dos mortos;",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "creed-apostles-a06",
+      "kind": "verse",
+      "label": "6",
+      "body": "subiu ao céu e está sentado à direita de Deus Pai Todo Poderoso;",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "creed-apostles-a07",
+      "kind": "verse",
+      "label": "7",
+      "body": "donde há de vir a julgar os vivos e os mortos.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "creed-apostles-a08",
+      "kind": "verse",
+      "label": "8",
+      "body": "Creio no Espírito Santo;",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "creed-apostles-a09",
+      "kind": "verse",
+      "label": "9",
+      "body": "na santa igreja universal de Cristo, na comunhão dos santos;",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "creed-apostles-a10",
+      "kind": "verse",
+      "label": "10",
+      "body": "na remissão dos pecados;",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "creed-apostles-a11",
+      "kind": "verse",
+      "label": "11",
+      "body": "na ressurreição do corpo",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "creed-apostles-a12",
+      "kind": "verse",
+      "label": "12",
+      "body": "e na vida eterna. Amém.",
+      "attrs": {},
+      "sortOrder": 12
+    }
+  ]
+}

@@ -17,6 +17,7 @@ import { fileURLToPath } from 'node:url';
 
 import { ConvertError, makeCollection, readCollectionMeta, toJson } from './convert/common.mjs';
 import { COLLECTIONS } from './convert/config.mjs';
+import { parseCreeds } from './convert/creeds.mjs';
 import { parseBelgic } from './convert/belgic.mjs';
 import { parseHeidelberg } from './convert/heidelberg.mjs';
 import { parseDort } from './convert/dort.mjs';
@@ -24,6 +25,7 @@ import { parsePsalms } from './convert/psalms.mjs';
 import { parseHymns } from './convert/hymns.mjs';
 
 const PARSERS = {
+  creeds: parseCreeds,
   belgic: parseBelgic,
   heidelberg: parseHeidelberg,
   dort: parseDort,
