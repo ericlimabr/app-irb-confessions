@@ -1,0 +1,38 @@
+{
+  "id": "creed-nicene",
+  "collection": "creeds",
+  "number": null,
+  "numberLabel": null,
+  "title": "Credo Niceno",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 2,
+  "units": [
+    {
+      "id": "creed-nicene-a01",
+      "kind": "verse",
+      "label": "1",
+      "body": "Cremos em um só Deus, Pai Todo-poderoso,\nCriador do céu e da terra,\nde todas as coisas visíveis e invisíveis.",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "creed-nicene-a02",
+      "kind": "verse",
+      "label": "2",
+      "body": "Cremos em um só Senhor Jesus Cristo, o único Filho de Deus,\nnascido do Pai antes de todos os séculos,\nDeus de Deus, luz de luz, verdadeiro Deus de verdadeiro Deus;\ngerado, não criado, de igual substância do Pai;\npor Ele todas as coisas foram feitas.\nPor nós, homens, e por nossa salvação, Ele desceu do céu e se fez carne,\npelo Espírito Santo, da virgem Maria, e se tornou homem.\nTambém por nós, foi crucificado sob Pôncio Pilatos, padeceu e foi sepultado.\nRessurgiu no terceiro dia, conforme as Escrituras.\nSubiu ao céu, está sentado à direita do Pai\ne de novo há de vir, com glória, para julgar os vivos e os mortos,\ne seu reino não terá fim.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "creed-nicene-a03",
+      "kind": "verse",
+      "label": "3",
+      "body": "Cremos no Espírito Santo, Senhor e Vivificador, que procede do Pai e do Filho,\ne com o Pai e o Filho é adorado e glorificado; que falou através dos profetas.\nE numa só igreja, santa, universal e apostólica.\nConfessamos um só batismo para remissão dos pecados.\nEsperamos a ressurreição dos mortos e a vida do século vindouro. Amém.",
+      "attrs": {},
+      "sortOrder": 3
+    }
+  ]
+}

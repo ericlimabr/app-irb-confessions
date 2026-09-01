@@ -10,6 +10,15 @@
  */
 
 export const COLLECTIONS = {
+  creeds: {
+    id: 'creeds',
+    srcDir: 'creeds',
+    srcFile: 'Credos ecumênicos.md',
+    kind: 'creed',
+    title: 'Credos',
+    subtitle: 'Credos ecumênicos',
+    sortOrder: 40,
+  },
   psalms: {
     id: 'psalms',
     srcDir: 'salmos',

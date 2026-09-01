@@ -1,0 +1,350 @@
+{
+  "id": "creed-athanasian",
+  "collection": "creeds",
+  "number": null,
+  "numberLabel": null,
+  "title": "Credo Atanasiano",
+  "subtitle": null,
+  "variant": null,
+  "groupKey": null,
+  "attrs": {},
+  "sortOrder": 3,
+  "units": [
+    {
+      "id": "creed-athanasian-a01",
+      "kind": "verse",
+      "label": "1",
+      "body": "Qualquer um que quer ser salvo, antes de tudo, deve seguir a fé universal;",
+      "attrs": {},
+      "sortOrder": 1
+    },
+    {
+      "id": "creed-athanasian-a02",
+      "kind": "verse",
+      "label": "2",
+      "body": "aquele que não a guardar integral e intacta, sem dúvida, perecerá eternamente.",
+      "attrs": {},
+      "sortOrder": 2
+    },
+    {
+      "id": "creed-athanasian-a03",
+      "kind": "verse",
+      "label": "3",
+      "body": "A fé universal é esta: que adoremos o único Deus na Trindade e a Trindade na unidade;",
+      "attrs": {},
+      "sortOrder": 3
+    },
+    {
+      "id": "creed-athanasian-a04",
+      "kind": "verse",
+      "label": "4",
+      "body": "não confundindo as pessoas nem separando o ser.",
+      "attrs": {},
+      "sortOrder": 4
+    },
+    {
+      "id": "creed-athanasian-a05",
+      "kind": "verse",
+      "label": "5",
+      "body": "Pois uma é a pessoa do Pai, outra a do Filho, e outra a do Espírito Santo;",
+      "attrs": {},
+      "sortOrder": 5
+    },
+    {
+      "id": "creed-athanasian-a06",
+      "kind": "verse",
+      "label": "6",
+      "body": "mas o Pai e o Filho e o Espírito Santo possuem uma só divindade, igual glória e igual majestade eterna.",
+      "attrs": {},
+      "sortOrder": 6
+    },
+    {
+      "id": "creed-athanasian-a07",
+      "kind": "verse",
+      "label": "7",
+      "body": "Assim como é o Pai, assim é o Filho, assim é também o Espírito Santo.",
+      "attrs": {},
+      "sortOrder": 7
+    },
+    {
+      "id": "creed-athanasian-a08",
+      "kind": "verse",
+      "label": "8",
+      "body": "Incriado é o Pai, incriado o Filho, incriado o Espírito Santo;",
+      "attrs": {},
+      "sortOrder": 8
+    },
+    {
+      "id": "creed-athanasian-a09",
+      "kind": "verse",
+      "label": "9",
+      "body": "Imenso é o Pai, imenso o Filho, imenso o Espírito Santo;",
+      "attrs": {},
+      "sortOrder": 9
+    },
+    {
+      "id": "creed-athanasian-a10",
+      "kind": "verse",
+      "label": "10",
+      "body": "Eterno é o Pai, eterno o Filho, eterno o Espírito Santo;",
+      "attrs": {},
+      "sortOrder": 10
+    },
+    {
+      "id": "creed-athanasian-a11",
+      "kind": "verse",
+      "label": "11",
+      "body": "contudo, eles não são três eternos, mas um só eterno;",
+      "attrs": {},
+      "sortOrder": 11
+    },
+    {
+      "id": "creed-athanasian-a12",
+      "kind": "verse",
+      "label": "12",
+      "body": "como não são três incriados nem três imensos, mas um só incriado e um só imenso.",
+      "attrs": {},
+      "sortOrder": 12
+    },
+    {
+      "id": "creed-athanasian-a13",
+      "kind": "verse",
+      "label": "13",
+      "body": "Igualmente o Pai é todo-Poderoso, o Filho é todo-poderoso, o Espírito Santo é todo-poderoso;",
+      "attrs": {},
+      "sortOrder": 13
+    },
+    {
+      "id": "creed-athanasian-a14",
+      "kind": "verse",
+      "label": "14",
+      "body": "Contudo, eles não são três todo-poderosos, mas um só todo-poderoso.",
+      "attrs": {},
+      "sortOrder": 14
+    },
+    {
+      "id": "creed-athanasian-a15",
+      "kind": "verse",
+      "label": "15",
+      "body": "Assim, o Pai é Deus, o Filho é Deus, o Espírito Santo é Deus;",
+      "attrs": {},
+      "sortOrder": 15
+    },
+    {
+      "id": "creed-athanasian-a16",
+      "kind": "verse",
+      "label": "16",
+      "body": "contudo, eles não são três deuses, mas um só Deus.",
+      "attrs": {},
+      "sortOrder": 16
+    },
+    {
+      "id": "creed-athanasian-a17",
+      "kind": "verse",
+      "label": "17",
+      "body": "Assim, o Pai é Senhor, o Filho é Senhor, o Espírito Santo é Senhor;",
+      "attrs": {},
+      "sortOrder": 17
+    },
+    {
+      "id": "creed-athanasian-a18",
+      "kind": "verse",
+      "label": "18",
+      "body": "contudo, eles não são três Senhores, mas um só Senhor.",
+      "attrs": {},
+      "sortOrder": 18
+    },
+    {
+      "id": "creed-athanasian-a19",
+      "kind": "verse",
+      "label": "19",
+      "body": "Pois assim como nós somos compelidos, pela verdade cristã, a confessar cada pessoa singular como Deus e Senhor,",
+      "attrs": {},
+      "sortOrder": 19
+    },
+    {
+      "id": "creed-athanasian-a20",
+      "kind": "verse",
+      "label": "20",
+      "body": "assim nos é proibido, pela fé universal, falar de três deuses ou três Senhores.",
+      "attrs": {},
+      "sortOrder": 20
+    },
+    {
+      "id": "creed-athanasian-a21",
+      "kind": "verse",
+      "label": "21",
+      "body": "O Pai não foi feito por ninguém, nem criado, nem gerado.",
+      "attrs": {},
+      "sortOrder": 21
+    },
+    {
+      "id": "creed-athanasian-a22",
+      "kind": "verse",
+      "label": "22",
+      "body": "O Filho não foi feito, nem criado, mas gerado, somente pelo Pai.",
+      "attrs": {},
+      "sortOrder": 22
+    },
+    {
+      "id": "creed-athanasian-a23",
+      "kind": "verse",
+      "label": "23",
+      "body": "O Espírito Santo não foi feito, nem criado, nem gerado pelo Pai e Filho, mas está procedendo deles.",
+      "attrs": {},
+      "sortOrder": 23
+    },
+    {
+      "id": "creed-athanasian-a24",
+      "kind": "verse",
+      "label": "24",
+      "body": "Então, um só Pai, não três Pais; um só Filho, não três Filhos; um só Espírito Santo, não três Espíritos Santos.",
+      "attrs": {},
+      "sortOrder": 24
+    },
+    {
+      "id": "creed-athanasian-a25",
+      "kind": "verse",
+      "label": "25",
+      "body": "E nesta Trindade não há nada anterior ou posterior, nem maior ou menor,",
+      "attrs": {},
+      "sortOrder": 25
+    },
+    {
+      "id": "creed-athanasian-a26",
+      "kind": "verse",
+      "label": "26",
+      "body": "mas todas essas três pessoas têm a mesma eternidade e igualdade.",
+      "attrs": {},
+      "sortOrder": 26
+    },
+    {
+      "id": "creed-athanasian-a27",
+      "kind": "verse",
+      "label": "27",
+      "body": "Por isso, como já foi dito, seja venerada, em tudo, a Unidade na Trindade, assim como a Trindade na Unidade.",
+      "attrs": {},
+      "sortOrder": 27
+    },
+    {
+      "id": "creed-athanasian-a28",
+      "kind": "verse",
+      "label": "28",
+      "body": "Portanto, quem quer ser salvo deve reconhecer, assim, a Trindade.",
+      "attrs": {},
+      "sortOrder": 28
+    },
+    {
+      "id": "creed-athanasian-a29",
+      "kind": "verse",
+      "label": "29",
+      "body": "Mas é necessário, para a salvação eterna, crer também fielmente na encarnação do nosso Senhor Jesus Cristo.",
+      "attrs": {},
+      "sortOrder": 29
+    },
+    {
+      "id": "creed-athanasian-a30",
+      "kind": "verse",
+      "label": "30",
+      "body": "Então, a verdadeira fé é que cremos e confessamos que nosso Senhor Jesus Cristo, Filho de Deus, é igualmente Deus e homem.",
+      "attrs": {},
+      "sortOrder": 30
+    },
+    {
+      "id": "creed-athanasian-a31",
+      "kind": "verse",
+      "label": "31",
+      "body": "Ele é Deus da substância do Pai, gerado antes de todos os tempos, e Ele é homem da substância da mãe, nascido no tempo;",
+      "attrs": {},
+      "sortOrder": 31
+    },
+    {
+      "id": "creed-athanasian-a32",
+      "kind": "verse",
+      "label": "32",
+      "body": "perfeito Deus, perfeito homem, subsistindo de alma racional e carne humana;",
+      "attrs": {},
+      "sortOrder": 32
+    },
+    {
+      "id": "creed-athanasian-a33",
+      "kind": "verse",
+      "label": "33",
+      "body": "Igual ao Pai, visto a natureza divina; menor que o Pai, visto a natureza humana.",
+      "attrs": {},
+      "sortOrder": 33
+    },
+    {
+      "id": "creed-athanasian-a34",
+      "kind": "verse",
+      "label": "34",
+      "body": "Ele, mesmo sendo Deus e homem, não é dois, mas um só Cristo.",
+      "attrs": {},
+      "sortOrder": 34
+    },
+    {
+      "id": "creed-athanasian-a35",
+      "kind": "verse",
+      "label": "35",
+      "body": "Ele é um, não por ser convertida a divindade em carne, mas porque Deus assumiu a natureza humana;",
+      "attrs": {},
+      "sortOrder": 35
+    },
+    {
+      "id": "creed-athanasian-a36",
+      "kind": "verse",
+      "label": "36",
+      "body": "Ele é um, não por confusão da substância, mas pela unidade de uma pessoa.",
+      "attrs": {},
+      "sortOrder": 36
+    },
+    {
+      "id": "creed-athanasian-a37",
+      "kind": "verse",
+      "label": "37",
+      "body": "Pois assim como a alma racional e a carne são uma pessoa, assim Deus e homem são um só Cristo.",
+      "attrs": {},
+      "sortOrder": 37
+    },
+    {
+      "id": "creed-athanasian-a38",
+      "kind": "verse",
+      "label": "38",
+      "body": "Ele padeceu por nossa salvação, desceu ao inferno, ressurgiu dos mortos no terceiro dia,",
+      "attrs": {},
+      "sortOrder": 38
+    },
+    {
+      "id": "creed-athanasian-a39",
+      "kind": "verse",
+      "label": "39",
+      "body": "subiu ao céu, está sentado à direita de Deus Pai, Todo-Poderoso, de onde há de vir a julgar os vivos e os mortos:",
+      "attrs": {},
+      "sortOrder": 39
+    },
+    {
+      "id": "creed-athanasian-a40",
+      "kind": "verse",
+      "label": "40",
+      "body": "com a vinda dele todas as pessoas vão ressurgir com seus corpos e dar contas de seus próprios atos;",
+      "attrs": {},
+      "sortOrder": 40
+    },
+    {
+      "id": "creed-athanasian-a41",
+      "kind": "verse",
+      "label": "41",
+      "body": "os que tiverem feito o bem entrarão na vida eterna; os que tiverem feito o mal, no fogo eterno.",
+      "attrs": {},
+      "sortOrder": 41
+    },
+    {
+      "id": "creed-athanasian-a42",
+      "kind": "verse",
+      "label": "42",
+      "body": "Esta é a fé universal: quem não crer nela fielmente e firmemente não poderá ser salvo.",
+      "attrs": {},
+      "sortOrder": 42
+    }
+  ]
+}
